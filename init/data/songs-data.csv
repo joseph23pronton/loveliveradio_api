@@ -1,0 +1,52 @@
+id,albumId,albumOrder,titleNat,titleRom,artists,length,isInstrumental,isRadioDrama
+20000,12000,1,僕らのLIVE 君とのLIFE,Bokura no LIVE Kimi to no LIFE,11050,323,FALSE,FALSE
+20001,12000,2,友情ノーチェンジ,Yuujou No Change,11050,256,FALSE,FALSE
+20002,12000,3,僕らのLIVE 君とのLIFE,Bokura no LIVE Kimi to no LIFE,11050,323,TRUE,FALSE
+20003,12000,4,友情ノーチェンジ,Yuujou No Change,11050,256,TRUE,FALSE
+20004,12000,5,はじめまして -高坂穂乃果-,Hajimemashite -Kosaka Honoka-,11000,121,FALSE,TRUE
+20005,12000,6,はじめまして -絢瀬絵里-,Hajimemashite -Ayase Eli-,11001,185,FALSE,TRUE
+20006,12000,7,はじめまして -南ことり-,Hajimemashite -Minami Kotori-,11002,169,FALSE,TRUE
+20007,12000,8,はじめまして -園田海未-,Hajimemashite -Sonoda Umi-,11003,192,FALSE,TRUE
+20008,12000,9,はじめまして -星空 凛-,Hajimemashite -Hoshizora Rin-,11004,132,FALSE,TRUE
+20009,12000,10,はじめまして -西木野真姫-,Hajimemashite -Nishikino Maki-,11005,137,FALSE,TRUE
+20010,12000,11,はじめまして -東條 希-,Hajimemashite -Tojo Nozomi-,11006,123,FALSE,TRUE
+20011,12000,12,はじめまして -小泉花陽-,Hajimemashite -Koizumi Hanayo-,11007,183,FALSE,TRUE
+20012,12000,13,はじめまして -矢澤にこ-,Hajimemashite -Yazawa Nico-,11008,129,FALSE,TRUE
+20013,12001,1,Snow halation,,11050,259,FALSE,FALSE
+20014,12001,2,baby maybe 恋のバタン,baby maybe Koi no Button,11050,272,FALSE,FALSE
+20015,12001,3,Snow halation,,11050,259,TRUE,FALSE
+20016,12001,4,baby maybe 恋のバタン,baby maybe Koi no Button,11050,272,TRUE,FALSE
+20017,12001,5,聖夜の女の子たち。…まだ明るいけど,Seiya no Onnanoko tachi. …Mada Akarui kedo,11050,498,FALSE,TRUE
+20018,12001,6,あなたとクリスマス -高坂穂乃果-,Anata to Kurisumasu -Kosaka Honoka-,11000,64,FALSE,TRUE
+20019,12001,7,あなたとクリスマス -絢瀬絵里-,Anata to Kurisumasu -Ayase Eli-,11001,64,FALSE,TRUE
+20020,12001,8,あなたとクリスマス -南ことり-,Anata to Kurisumasu -Minami Kotori-,11002,78,FALSE,TRUE
+20021,12001,9,あなたとクリスマス -園田海未-,Anata to Kurisumasu -Sonoda Umi-,11003,59,FALSE,TRUE
+20022,12001,10,あなたとクリスマス -星空 凛-,Anata to Kurisumasu -Hoshizora Rin-,11004,51,FALSE,TRUE
+20023,12001,11,あなたとクリスマス -西木野真姫-,Anata to Kurisumasu -Nishikino Maki-,11005,62,FALSE,TRUE
+20024,12001,12,あなたとクリスマス -東條 希-,Anata to Kurisumasu -Tojo Nozomi-,11006,57,FALSE,TRUE
+20025,12001,13,あなたとクリスマス -小泉花陽-,Anata to Kurisumasu -Koizumi Hanayo-,11007,80,FALSE,TRUE
+20026,12001,14,あなたとクリスマス -矢澤にこ-,Anata to Kurisumasu -Yazawa Nico-,11008,55,FALSE,TRUE
+20027,12001,15,未来へゴー・ネクスト！,Mirai e gō - Nekusuto!,11050,81,FALSE,TRUE
+20028,12002,1,Love marginal,,11051,274,FALSE,FALSE
+20029,12002,2,sweet&sweet holiday,,11051,257,FALSE,FALSE
+20030,12002,3,Love marginal,,11051,274,TRUE,FALSE
+20031,12002,4,sweet&sweet holiday,,11051,257,TRUE,FALSE
+20032,12002,5,やりたい握手会！,Yaritai Akushukai!,11050,645,FALSE,TRUE
+20033,12003,1,ダイヤモンドプリンセスの憂鬱,Diamond Princess no Yuuutsu,11052,235,FALSE,FALSE
+20034,12003,2,ラブノベルス,Love Novels,11052,221,FALSE,FALSE
+20035,12003,3,ダイヤモンドプリンセスの憂鬱,Diamond Princess no Yuuutsu,11052,235,TRUE,FALSE
+20036,12003,4,ラブノベルス,Love Novels,11052,221,TRUE,FALSE
+20037,12003,5,雨の日の練習は,Ame no Hi no Renshuu wa,11050,627,FALSE,TRUE
+20038,12004,1,知らないLove＊教えてLove,Shiranai Love*Oshiete Love,11053,240,FALSE,FALSE
+20039,12004,2,あ・の・ね・が・ん・ば・れ！,A-NO-NE-GA-N-BA-RE!,11053,257,FALSE,FALSE
+20040,12004,3,知らないLove＊教えてLove,Shiranai Love*Oshiete Love,11053,240,TRUE,FALSE
+20041,12004,4,あ・の・ね・が・ん・ば・れ！,A-NO-NE-GA-N-BA-RE!,11053,257,TRUE,FALSE
+20042,12004,5,みんなで水着を選んだら,Minna de Mizugi o Erandara,11050,631,FALSE,TRUE
+20043,12005,1,"夏色えがおで1,2,Jump!","Natsuiro Egao de 1,2,Jump!",11050,269,FALSE,FALSE
+20044,12005,2,Mermaid festa vol.1,,11050,241,FALSE,FALSE
+20045,12005,3,"夏色えがおで1,2,Jump!","Natsuiro Egao de 1,2,Jump!",11050,269,TRUE,FALSE
+20046,12005,4,Mermaid festa vol.1,,11050,241,TRUE,FALSE
+20047,12005,5,沖縄到着！,Okinawa Touchaku!,11050,407,FALSE,TRUE
+20048,12005,6,やがてPV撮影に。,Yagate PV Satsuei ni.,11050,660,FALSE,TRUE
+20049,12005,7,みんなでBBQ,Minna de BBQ,11050,354,FALSE,TRUE
+20050,12005,8,波打ち際のパラダイス,Nami Uchigiwa no Paradaisu,11050,561,FALSE,TRUE
