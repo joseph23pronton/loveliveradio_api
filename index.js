@@ -9,11 +9,7 @@ import { resolvers } from "./api/resolvers.js";
 import { typeDefs } from "./api/schemas.js";
 import { PORT } from "./config/config.js";
 
-const server = new ApolloServer({ typeDefs, resolvers });
 const app = express();
-
-await server.start()
-await server.applyMiddleware( { app } )
 
 app.use(bodyParser.json({ limit: "30mb", extended: true }));
 app.use(bodyParser.urlencoded({ limit: "30mb", extended: true }));
@@ -22,17 +18,19 @@ app.use(express.json());
 
 const httpServer = http.createServer(app);
 
-const startApolloServer = async(app, httpServer) => {
-    const server = new ApolloServer({
-      typeDefs,
-      resolvers,
-      plugins: [ApolloServerPluginDrainHttpServer({ httpServer })],
-    });
-  
-    await server.start();
-    server.applyMiddleware({ app });
-  }
+const startApolloServer = async (app, httpServer) => {
+  const server = new ApolloServer({
+    typeDefs,
+    resolvers,
+    plugins: [ApolloServerPluginDrainHttpServer({ httpServer })],
+  });
 
-  startApolloServer(app, httpServer);
+  await server.start();
+  server.applyMiddleware({ app });
+};
 
-export default httpServer;
+startApolloServer(app, httpServer);
+
+httpServer.listen({ port: PORT }, () => {
+  console.log(`Server is running at http://localhost:${PORT}${server.graphqlPath}`);
+});
