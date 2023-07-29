@@ -33,5 +33,5 @@ const startApolloServer = async(app, httpServer) => {
   }
 
   startApolloServer(app, httpServer);
-
+console.log("server started");
 export default httpServer;
