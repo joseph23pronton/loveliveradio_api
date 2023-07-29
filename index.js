@@ -22,10 +22,6 @@ app.use(express.json());
 
 const httpServer = http.createServer(app);
 
-app.listen({ port: PORT }, () => {
-    console.log(`Server is running at http://localhost:${PORT}${server.graphqlPath}`)
-})
-
 const startApolloServer = async(app, httpServer) => {
     const server = new ApolloServer({
       typeDefs,
