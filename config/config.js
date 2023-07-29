@@ -5,7 +5,7 @@ const ENV = {
   
   export { ENV };
   // config.js
-const PORT = 3001; // Replace 3000 with your desired port number
+const PORT = 3050; // Replace 3000 with your desired port number
 
 export { PORT };
   
