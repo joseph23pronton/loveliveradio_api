@@ -34,3 +34,5 @@ const startApolloServer = async (app, httpServer) => {
 };
 
 startApolloServer(app, httpServer);
+
+export default httpServer;
