@@ -27,10 +27,10 @@ const startApolloServer = async (app, httpServer) => {
 
   await server.start();
   server.applyMiddleware({ app });
+
+  httpServer.listen({ port: PORT }, () => {
+    console.log(`Server is running at http://localhost:${PORT}${server.graphqlPath}`);
+  });
 };
 
 startApolloServer(app, httpServer);
-
-httpServer.listen({ port: PORT }, () => {
-  console.log(`Server is running at http://localhost:${PORT}${server.graphqlPath}`);
-});
