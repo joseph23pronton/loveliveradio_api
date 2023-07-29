@@ -2,10 +2,10 @@
   "name": "ll-archive-backend",
   "version": "1.0.0",
   "description": "",
-  "main": "vercel.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon api/index.js",
+    "start": "nodemon index.js",
     "init": "node init/init.js"
   },
   "keywords": [],
