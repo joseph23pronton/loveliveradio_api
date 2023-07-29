@@ -5,7 +5,7 @@
   "main": "vercel.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "nodemon api/index.js",
     "init": "node init/init.js"
   },
   "keywords": [],
@@ -21,6 +21,7 @@
     "fast-csv": "^4.3.6",
     "graphql": "^15.7.2",
     "mongoose": "^6.11.4",
-    "nodemon": "^2.0.14"
+    "nodemon": "^2.0.14",
+    "vercel": "^31.2.0"
   }
 }
