@@ -1,0 +1,42 @@
+[
+    {
+      "id": "1",
+      "url": "https://example.com/lonely-together.mp3",
+      "title": "Lonely Together",
+      "artist": "Avicii Ft. Alan Walker",
+      "artwork": "https://i1.sndcdn.com/artworks-frJ4KcRxIROc-0-t500x500.jpg",
+      "duration": 60
+    },
+    {
+      "id": "2",
+      "url": "https://example.com/Cake-By-The-Ocean.mp3",
+      "title": "Cake By The Ocean",
+      "artist": "DNCE",
+      "artwork": "https://upload.wikimedia.org/wikipedia/en/8/8c/DNCE_-_Cake_by_the_Ocean.png",
+      "duration": 66
+    },
+      {
+        "id": "3",
+        "url": "./assets/Burn-Out.mp3",
+        "title": "Burn Out",
+        "artwork": "https://upload.wikimedia.org/wikipedia/en/c/c4/Burn_out_garrix_mylo.jpg",
+        "artist": "Martin Garrix",
+        "duration": 73
+      },
+      {
+        "id": "4",
+        "url": "https://static.wikia.nocookie.net/love-live/images/8/81/Bokura_wa_Ima_no_Naka_de.ogg/revision/latest?cb=20200203180937",
+        "title": "Bokura wa Ima no Naka de",
+        "artwork": "https://static.wikia.nocookie.net/love-live/images/b/ba/Bokura_wa_Ima_no_Naka_de_-_Cover.jpg/revision/latest?cb=20150327184417",
+        "artist": "Muse",
+        "duration": 304
+      },
+      {
+        "id": "5",
+        "url": "https://sample-music.netlify.app/death%20bed.mp3",
+        "title": "Make a cup of coffe",
+        "artwork": "https://i1.sndcdn.com/artworks-frJ4KcRxIROc-0-t500x500.jpg",
+        "artist": "Powfu",
+        "duration": 40
+      }
+  ]
