@@ -1,0 +1,791 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Rptv">
+    <display-name lang="en">Rptv</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Cg Hitsnow">
+    <display-name lang="en">Cg Hitsnow</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Cg Hbohd">
+    <display-name lang="en">Cg Hbohd</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Tvup Prd">
+    <display-name lang="en">Tvup Prd</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Tvmaria Prd">
+    <display-name lang="en">Tvmaria Prd</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Cg Hbofam">
+    <display-name lang="en">Cg Hbofam</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Cg Cinemax">
+    <display-name lang="en">Cg Cinemax</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Lotusmacau Prd">
+    <display-name lang="en">Lotusmacau Prd</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Cg Hbosign">
+    <display-name lang="en">Cg Hbosign</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Cg Hbohits">
+    <display-name lang="en">Cg Hbohits</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Cg Tvnmovie">
+    <display-name lang="en">Cg Tvnmovie</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Cg Dreamworktag">
+    <display-name lang="en">Cg Dreamworktag</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Cg Tvnpre">
+    <display-name lang="en">Cg Tvnpre</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Cg Tagalogmovie">
+    <display-name lang="en">Cg Tagalogmovie</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Radyo5">
+    <display-name lang="en">Radyo5</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Cg Mptv">
+    <display-name lang="en">Cg Mptv</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Cartoon Net Hd">
+    <display-name lang="en">Cartoon Net Hd</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Cnn Hd">
+    <display-name lang="en">Cnn Hd</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="A2z">
+    <display-name lang="en">A2z</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Dreamworks Hd">
+    <display-name lang="en">Dreamworks Hd</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="en">Animal Planet</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Spotv Hd">
+    <display-name lang="en">Spotv Hd</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Nbn4">
+    <display-name lang="en">Nbn4</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Premiersports Hd">
+    <display-name lang="en">Premiersports Hd</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Tap Edge">
+    <display-name lang="en">Tap Edge</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Blueant Extreme">
+    <display-name lang="en">Blueant Extreme</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Tap Sports">
+    <display-name lang="en">Tap Sports</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Bbcearth Hd">
+    <display-name lang="en">Bbcearth Hd</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Onesportsplus Hd">
+    <display-name lang="en">Onesportsplus Hd</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Spotv Hd2">
+    <display-name lang="en">Spotv Hd2</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Rock Entertainment">
+    <display-name lang="en">Rock Entertainment</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Discovery">
+    <display-name lang="en">Discovery</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Cctv4">
+    <display-name lang="en">Cctv4</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Pbarush Hd">
+    <display-name lang="en">Pbarush Hd</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Arirang">
+    <display-name lang="en">Arirang</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Kbs World">
+    <display-name lang="en">Kbs World</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Onenews Hd">
+    <display-name lang="en">Onenews Hd</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Kix Hd">
+    <display-name lang="en">Kix Hd</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Lifetime">
+    <display-name lang="en">Lifetime</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Bbcworld News">
+    <display-name lang="en">Bbcworld News</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Hgtv Hd">
+    <display-name lang="en">Hgtv Hd</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Uaap Varsity">
+    <display-name lang="en">Uaap Varsity</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Travel Channel">
+    <display-name lang="en">Travel Channel</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Premier Tennishd">
+    <display-name lang="en">Premier Tennishd</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Pbo">
+    <display-name lang="en">Pbo</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Hits Hd">
+    <display-name lang="en">Hits Hd</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Aljazeera">
+    <display-name lang="en">Aljazeera</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Oneph">
+    <display-name lang="en">Oneph</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Foodnetwork Hd">
+    <display-name lang="en">Foodnetwork Hd</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Depedchannel">
+    <display-name lang="en">Depedchannel</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Tv5">
+    <display-name lang="en">Tv5</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="History Hd">
+    <display-name lang="en">History Hd</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Fashiontv Hd">
+    <display-name lang="en">Fashiontv Hd</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Viva">
+    <display-name lang="en">Viva</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Bloomberg">
+    <display-name lang="en">Bloomberg</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Nhk Japan">
+    <display-name lang="en">Nhk Japan</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Asianfoodnetwork">
+    <display-name lang="en">Asianfoodnetwork</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Onesports">
+    <display-name lang="en">Onesports</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Nickjr">
+    <display-name lang="en">Nickjr</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Warnertv Hd">
+    <display-name lang="en">Warnertv Hd</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Animax">
+    <display-name lang="en">Animax</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Ibc13">
+    <display-name lang="en">Ibc13</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Cgtn">
+    <display-name lang="en">Cgtn</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Axn">
+    <display-name lang="en">Axn</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Tapmovies Hd">
+    <display-name lang="en">Tapmovies Hd</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Taptv">
+    <display-name lang="en">Taptv</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Moonbug Kids">
+    <display-name lang="en">Moonbug Kids</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Tapactionflix Hd">
+    <display-name lang="en">Tapactionflix Hd</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="France24">
+    <display-name lang="en">France24</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Abc Australia">
+    <display-name lang="en">Abc Australia</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Hits Movies">
+    <display-name lang="en">Hits Movies</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Channelnews Asia">
+    <display-name lang="en">Channelnews Asia</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Thrill">
+    <display-name lang="en">Thrill</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Crime Investigation">
+    <display-name lang="en">Crime Investigation</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Tech Storm">
+    <display-name lang="en">Tech Storm</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Buko">
+    <display-name lang="en">Buko</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Knowledge Channel">
+    <display-name lang="en">Knowledge Channel</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Tv5 Monde">
+    <display-name lang="en">Tv5 Monde</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="en">Nickelodeon</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Sari Sari">
+    <display-name lang="en">Sari Sari</display-name>
+    <url>http://www.cignalplay.com</url>
+  </channel>
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+    <url>http://www.dummy</url>
+  </channel>
+  <programme start="20240608000000 -0300" stop="20240608055700 -0300" channel="Rptv">
+    <title lang="en">Sign Off</title>
+    <desc lang="en">Sign Off.(n)</desc>
+  </programme>
+  <programme start="20240608055700 -0300" stop="20240608060000 -0300" channel="Rptv">
+    <title lang="en">Sign On</title>
+    <desc lang="en">Sign On.(n)</desc>
+  </programme>
+  <programme start="20240608060000 -0300" stop="20240608070000 -0300" channel="Rptv">
+    <title lang="en">Masaganang Buhay</title>
+    <desc lang="en">Masaganang Buhay.(n)</desc>
+  </programme>
+  <programme start="20240608070000 -0300" stop="20240608080000 -0300" channel="Rptv">
+    <title lang="en">Chink Positive</title>
+    <desc lang="en">Chink Positive.(n)</desc>
+  </programme>
+  <programme start="20240608080000 -0300" stop="20240608090000 -0300" channel="Rptv">
+    <title lang="en">Ride Ph</title>
+    <desc lang="en">Ride Ph.(n)</desc>
+  </programme>
+  <programme start="20240608090000 -0300" stop="20240608093000 -0300" channel="Rptv">
+    <title lang="en">Pinoy Explorer</title>
+    <desc lang="en">Pinoy Explorer.(n)</desc>
+  </programme>
+  <programme start="20240608093000 -0300" stop="20240608113000 -0300" channel="Rptv">
+    <title lang="en">Watch A Morning: Ben Hur</title>
+    <desc lang="en">Watch A Morning: Ben Hur.(n)</desc>
+  </programme>
+  <programme start="20240608113000 -0300" stop="20240608143000 -0300" channel="Rptv">
+    <title lang="en">E.A.T. Bulaga (Live)</title>
+    <desc lang="en">E.A.T. Bulaga (Live).(n)</desc>
+  </programme>
+  <programme start="20240608143000 -0300" stop="20240608163000 -0300" channel="Rptv">
+    <title lang="en">2024 AVC Challenge Cup: Men'S: Philippines vs Indonesia (Delayed Telecast - June 05, 9:30Pm Game)</title>
+    <desc lang="en">2024 AVC Challenge Cup: Men'S: Philippines vs Indonesia (Delayed Telecast - June 05, 9:30Pm Game).(n)</desc>
+  </programme>
+  <programme start="20240608163000 -0300" stop="20240608181500 -0300" channel="Rptv">
+    <title lang="en">2024 AVC Challenge Cup: Men'S: Philippines vs Thailand (Delayed Telecast - June 07, 7:00Pm Game)</title>
+    <desc lang="en">2024 AVC Challenge Cup: Men'S: Philippines vs Thailand (Delayed Telecast - June 07, 7:00Pm Game).(n)</desc>
+  </programme>
+  <programme start="20240608181500 -0300" stop="20240608190000 -0300" channel="Rptv">
+    <title lang="en">Frontline Weekend (Live)</title>
+    <desc lang="en">Frontline Weekend (Live).(n)</desc>
+  </programme>
+  <programme start="20240608190000 -0300" stop="20240608210000 -0300" channel="Rptv">
+    <title lang="en">Best Of The PBA: 2023-2024 PBA 48th Season Philippine Cup: Finals Game 2: Meralco Bolts vs San Miguel Beermen (Replay - June 07, 7:30Pm Game)</title>
+    <desc lang="en">Best Of The PBA: 2023-2024 PBA 48th Season Philippine Cup: Finals Game 2: Meralco Bolts vs San Miguel Beermen (Replay - June 07, 7:30Pm Game).(n)</desc>
+  </programme>
+  <programme start="20240608210000 -0300" stop="20240608230000 -0300" channel="Rptv">
+    <title lang="en">Weekend Cineprime: Ride Along</title>
+    <desc lang="en">Weekend Cineprime: Ride Along.(n)</desc>
+  </programme>
+  <programme start="20240608230000 -0300" stop="20240608231500 -0300" channel="Rptv">
+    <title lang="en">Wow Mali Doble Tawa</title>
+    <desc lang="en">Wow Mali Doble Tawa.(n)</desc>
+  </programme>
+  <programme start="20240608231500 -0300" stop="20240609000000 -0300" channel="Rptv">
+    <title lang="en">Frontline Weekend (Delayed Telecast)</title>
+    <desc lang="en">Frontline Weekend (Delayed Telecast).(n)</desc>
+  </programme>
+  <programme start="20240609000000 -0300" stop="20240609055700 -0300" channel="Rptv">
+    <title lang="en">Sign Off</title>
+    <desc lang="en">Sign Off.(n)</desc>
+  </programme>
+  <programme start="20240609055700 -0300" stop="20240609060000 -0300" channel="Rptv">
+    <title lang="en">Sign On</title>
+    <desc lang="en">Sign On.(n)</desc>
+  </programme>
+  <programme start="20240609060000 -0300" stop="20240609070000 -0300" channel="Rptv">
+    <title lang="en">Masaganang Buhay</title>
+    <desc lang="en">Masaganang Buhay.(n)</desc>
+  </programme>
+  <programme start="20240609070000 -0300" stop="20240609090000 -0300" channel="Rptv">
+    <title lang="en">Power And Play With Noli Eala</title>
+    <desc lang="en">Power And Play With Noli Eala.(n)</desc>
+  </programme>
+  <programme start="20240609090000 -0300" stop="20240609093000 -0300" channel="Rptv">
+    <title lang="en">Pinoy Explorer</title>
+    <desc lang="en">Pinoy Explorer.(n)</desc>
+  </programme>
+  <programme start="20240609093000 -0300" stop="20240609113000 -0300" channel="Rptv">
+    <title lang="en">Watch A Morning: Small Soldiers</title>
+    <desc lang="en">Watch A Morning: Small Soldiers.(n)</desc>
+  </programme>
+  <programme start="20240609113000 -0300" stop="20240609130000 -0300" channel="Rptv">
+    <title lang="en">Sunday Combo Panalo: Aliens Ate My Homework</title>
+    <desc lang="en">Sunday Combo Panalo: Aliens Ate My Homework.(n)</desc>
+  </programme>
+  <programme start="20240609130000 -0300" stop="20240609143000 -0300" channel="Rptv">
+    <title lang="en">Sunday Combo Panalo: Aliens Stole My Body</title>
+    <desc lang="en">Sunday Combo Panalo: Aliens Stole My Body.(n)</desc>
+  </programme>
+  <programme start="20240609143000 -0300" stop="20240609170000 -0300" channel="Rptv">
+    <title lang="en">PBA: Angat Ang Laban: CJ Perez</title>
+    <desc lang="en">PBA: Angat Ang Laban: CJ Perez.(n)</desc>
+  </programme>
+  <programme start="20240609170000 -0300" stop="20240609173000 -0300" channel="Rptv">
+    <title lang="en">The Huddle</title>
+    <desc lang="en">The Huddle.(n)</desc>
+  </programme>
+  <programme start="20240609173000 -0300" stop="20240609180000 -0300" channel="Rptv">
+    <title lang="en">Frontline Weekend (Live)</title>
+    <desc lang="en">Frontline Weekend (Live).(n)</desc>
+  </programme>
+  <programme start="20240609180000 -0300" stop="20240609181000 -0300" channel="Rptv">
+    <title lang="en">ArenaPlus (Live)</title>
+    <desc lang="en">ArenaPlus (Live).(n)</desc>
+  </programme>
+  <programme start="20240609181000 -0300" stop="20240609181500 -0300" channel="Rptv">
+    <title lang="en">PBA Pregame Show (Live)</title>
+    <desc lang="en">PBA Pregame Show (Live).(n)</desc>
+  </programme>
+  <programme start="20240609181500 -0300" stop="20240609203000 -0300" channel="Rptv">
+    <title lang="en">2023-2024 PBA 48th Season Philippine Cup: Finals Game 3: San Miguel Beermen vs Meralco Bolts (Live)</title>
+    <desc lang="en">2023-2024 PBA 48th Season Philippine Cup: Finals Game 3: San Miguel Beermen vs Meralco Bolts (Live).(n)</desc>
+  </programme>
+  <programme start="20240609203000 -0300" stop="20240609205000 -0300" channel="Rptv">
+    <title lang="en">ArenaPlus (Live)</title>
+    <desc lang="en">ArenaPlus (Live).(n)</desc>
+  </programme>
+  <programme start="20240609205000 -0300" stop="20240609210000 -0300" channel="Rptv">
+    <title lang="en">PBA Post Game Show (Live)</title>
+    <desc lang="en">PBA Post Game Show (Live).(n)</desc>
+  </programme>
+  <programme start="20240609210000 -0300" stop="20240609230000 -0300" channel="Rptv">
+    <title lang="en">Weekend Cineprime: Ride Along 2</title>
+    <desc lang="en">Weekend Cineprime: Ride Along 2.(n)</desc>
+  </programme>
+  <programme start="20240609230000 -0300" stop="20240609231500 -0300" channel="Rptv">
+    <title lang="en">Wow Mali Doble Tawa</title>
+    <desc lang="en">Wow Mali Doble Tawa.(n)</desc>
+  </programme>
+  <programme start="20240609231500 -0300" stop="20240610000000 -0300" channel="Rptv">
+    <title lang="en">Frontline Weekend (Delayed Telecast)</title>
+    <desc lang="en">Frontline Weekend (Delayed Telecast).(n)</desc>
+  </programme>
+  <programme start="20240610000000 -0300" stop="20240610055700 -0300" channel="Rptv">
+    <title lang="en">Sign Off</title>
+    <desc lang="en">Sign Off.(n)</desc>
+  </programme>
+  <programme start="20240610055700 -0300" stop="20240610060000 -0300" channel="Rptv">
+    <title lang="en">Sign On</title>
+    <desc lang="en">Sign On.(n)</desc>
+  </programme>
+  <programme start="20240610060000 -0300" stop="20240610075000 -0300" channel="Rptv">
+    <title lang="en">Ted Failon And Dj Chacha (Live)</title>
+    <desc lang="en">Ted Failon And Dj Chacha (Live).(n)</desc>
+  </programme>
+  <programme start="20240610075000 -0300" stop="20240610080000 -0300" channel="Rptv">
+    <title lang="en">Arena Plus (Live)</title>
+    <desc lang="en">Arena Plus (Live).(n)</desc>
+  </programme>
+  <programme start="20240610080000 -0300" stop="20240610103000 -0300" channel="Rptv">
+    <title lang="en">2023-2024 NBA: Finals Game 2: Boston vs Dallas (Live)</title>
+    <desc lang="en">2023-2024 NBA: Finals Game 2: Boston vs Dallas (Live).(n)</desc>
+  </programme>
+  <programme start="20240610103000 -0300" stop="20240610120000 -0300" channel="Rptv">
+    <title lang="en">Wanted Sa Radyo (Delayed Telecast)</title>
+    <desc lang="en">Wanted Sa Radyo (Delayed Telecast).(n)</desc>
+  </programme>
+  <programme start="20240610120000 -0300" stop="20240610143000 -0300" channel="Rptv">
+    <title lang="en">E.A.T. Bulaga (Live)</title>
+    <desc lang="en">E.A.T. Bulaga (Live).(n)</desc>
+  </programme>
+  <programme start="20240610143000 -0300" stop="20240610160000 -0300" channel="Rptv">
+    <title lang="en">Blockbuster Bida: Hard Target (Tag)</title>
+    <desc lang="en">Blockbuster Bida: Hard Target (Tag).(n)</desc>
+  </programme>
+  <programme start="20240610160000 -0300" stop="20240610183000 -0300" channel="Rptv">
+    <title lang="en">2023-2024 NBA: Finals Game 2: Boston vs Dallas (Replay - 8:00Am Game)</title>
+    <desc lang="en">2023-2024 NBA: Finals Game 2: Boston vs Dallas (Replay - 8:00Am Game).(n)</desc>
+  </programme>
+  <programme start="20240610183000 -0300" stop="20240610190000 -0300" channel="Rptv">
+    <title lang="en">NBA Best Plays</title>
+    <desc lang="en">NBA Best Plays.(n)</desc>
+  </programme>
+  <programme start="20240610190000 -0300" stop="20240610193000 -0300" channel="Rptv">
+    <title lang="en">Starting Line Up (Live)</title>
+    <desc lang="en">Starting Line Up (Live).(n)</desc>
+  </programme>
+  <programme start="20240610193000 -0300" stop="20240610220000 -0300" channel="Rptv">
+    <title lang="en">Best Of The PBA: 2023-2024 PBA 48th Season Philippine Cup: Finals Game 3: San Miguel Beermen vs Meralco Bolts (Replay - June 09, 6:15Pm Game)</title>
+    <desc lang="en">Best Of The PBA: 2023-2024 PBA 48th Season Philippine Cup: Finals Game 3: San Miguel Beermen vs Meralco Bolts (Replay - June 09, 6:15Pm Game).(n)</desc>
+  </programme>
+  <programme start="20240610220000 -0300" stop="20240610223000 -0300" channel="Rptv">
+    <title lang="en">Batas Et Al</title>
+    <desc lang="en">Batas Et Al.(n)</desc>
+  </programme>
+  <programme start="20240610223000 -0300" stop="20240610230000 -0300" channel="Rptv">
+    <title lang="en">Building Bridges</title>
+    <desc lang="en">Building Bridges.(n)</desc>
+  </programme>
+  <programme start="20240610230000 -0300" stop="20240610231500 -0300" channel="Rptv">
+    <title lang="en">Wow Mali Doble Tawa</title>
+    <desc lang="en">Wow Mali Doble Tawa.(n)</desc>
+  </programme>
+  <programme start="20240610231500 -0300" stop="20240611000000 -0300" channel="Rptv">
+    <title lang="en">Frontline Tonight (Delayed Telecast)</title>
+    <desc lang="en">Frontline Tonight (Delayed Telecast).(n)</desc>
+  </programme>
+  <programme start="20240611000000 -0300" stop="20240611055700 -0300" channel="Rptv">
+    <title lang="en">Sign Off</title>
+    <desc lang="en">Sign Off.(n)</desc>
+  </programme>
+  <programme start="20240611055700 -0300" stop="20240611060000 -0300" channel="Rptv">
+    <title lang="en">Sign On</title>
+    <desc lang="en">Sign On.(n)</desc>
+  </programme>
+  <programme start="20240611060000 -0300" stop="20240611100000 -0300" channel="Rptv">
+    <title lang="en">Ted Failon And Dj Chacha (Live)</title>
+    <desc lang="en">Ted Failon And Dj Chacha (Live).(n)</desc>
+  </programme>
+  <programme start="20240611100000 -0300" stop="20240611120000 -0300" channel="Rptv">
+    <title lang="en">Wanted Sa Radyo (Delayed Telecast)</title>
+    <desc lang="en">Wanted Sa Radyo (Delayed Telecast).(n)</desc>
+  </programme>
+  <programme start="20240611120000 -0300" stop="20240611143000 -0300" channel="Rptv">
+    <title lang="en">E.A.T. Bulaga (Live)</title>
+    <desc lang="en">E.A.T. Bulaga (Live).(n)</desc>
+  </programme>
+  <programme start="20240611143000 -0300" stop="20240611160000 -0300" channel="Rptv">
+    <title lang="en">Blockbuster Bida: Man Of Tai Chi (Tag)</title>
+    <desc lang="en">Blockbuster Bida: Man Of Tai Chi (Tag).(n)</desc>
+  </programme>
+  <programme start="20240611160000 -0300" stop="20240611183000 -0300" channel="Rptv">
+    <title lang="en">PBA: Angat Ang Laban: R. Hollis-Jefferson</title>
+    <desc lang="en">PBA: Angat Ang Laban: R. Hollis-Jefferson.(n)</desc>
+  </programme>
+  <programme start="20240611183000 -0300" stop="20240611190000 -0300" channel="Rptv">
+    <title lang="en">Jumpball</title>
+    <desc lang="en">Jumpball.(n)</desc>
+  </programme>
+  <programme start="20240611190000 -0300" stop="20240611193000 -0300" channel="Rptv">
+    <title lang="en">Starting Line Up (Live)</title>
+    <desc lang="en">Starting Line Up (Live).(n)</desc>
+  </programme>
+  <programme start="20240611193000 -0300" stop="20240611220000 -0300" channel="Rptv">
+    <title lang="en">PBA: Angat Ang Laban: R. Hollis-Jefferson</title>
+    <desc lang="en">PBA: Angat Ang Laban: R. Hollis-Jefferson.(n)</desc>
+  </programme>
+  <programme start="20240611220000 -0300" stop="20240611223000 -0300" channel="Rptv">
+    <title lang="en">Batas Et Al</title>
+    <desc lang="en">Batas Et Al.(n)</desc>
+  </programme>
+  <programme start="20240611223000 -0300" stop="20240611230000 -0300" channel="Rptv">
+    <title lang="en">Building Bridges</title>
+    <desc lang="en">Building Bridges.(n)</desc>
+  </programme>
+  <programme start="20240611230000 -0300" stop="20240611231500 -0300" channel="Rptv">
+    <title lang="en">Wow Mali Doble Tawa</title>
+    <desc lang="en">Wow Mali Doble Tawa.(n)</desc>
+  </programme>
+  <programme start="20240611231500 -0300" stop="20240612000000 -0300" channel="Rptv">
+    <title lang="en">Frontline Tonight (Delayed Telecast)</title>
+    <desc lang="en">Frontline Tonight (Delayed Telecast).(n)</desc>
+  </programme>
+  <programme start="20240612000000 -0300" stop="20240612055700 -0300" channel="Rptv">
+    <title lang="en">Sign Off</title>
+    <desc lang="en">Sign Off.(n)</desc>
+  </programme>
+  <programme start="20240612055700 -0300" stop="20240612060000 -0300" channel="Rptv">
+    <title lang="en">Sign On</title>
+    <desc lang="en">Sign On.(n)</desc>
+  </programme>
+  <programme start="20240612060000 -0300" stop="20240612100000 -0300" channel="Rptv">
+    <title lang="en">Ted Failon And Dj Chacha (Live)</title>
+    <desc lang="en">Ted Failon And Dj Chacha (Live).(n)</desc>
+  </programme>
+  <programme start="20240612100000 -0300" stop="20240612120000 -0300" channel="Rptv">
+    <title lang="en">Wanted Sa Radyo (Delayed Telecast)</title>
+    <desc lang="en">Wanted Sa Radyo (Delayed Telecast).(n)</desc>
+  </programme>
+  <programme start="20240612120000 -0300" stop="20240612143000 -0300" channel="Rptv">
+    <title lang="en">E.A.T. Bulaga (Live)</title>
+    <desc lang="en">E.A.T. Bulaga (Live).(n)</desc>
+  </programme>
+  <programme start="20240612143000 -0300" stop="20240612160000 -0300" channel="Rptv">
+    <title lang="en">Blockbuster Bida: Safe House (Tag)</title>
+    <desc lang="en">Blockbuster Bida: Safe House (Tag).(n)</desc>
+  </programme>
+  <programme start="20240612160000 -0300" stop="20240612183000 -0300" channel="Rptv">
+    <title lang="en">PBA: Angat Ang Laban: B. Boatwright</title>
+    <desc lang="en">PBA: Angat Ang Laban: B. Boatwright.(n)</desc>
+  </programme>
+  <programme start="20240612183000 -0300" stop="20240612190000 -0300" channel="Rptv">
+    <title lang="en">The Huddle</title>
+    <desc lang="en">The Huddle.(n)</desc>
+  </programme>
+  <programme start="20240612190000 -0300" stop="20240612192000 -0300" channel="Rptv">
+    <title lang="en">Starting Line Up (Live)</title>
+    <desc lang="en">Starting Line Up (Live).(n)</desc>
+  </programme>
+  <programme start="20240612192000 -0300" stop="20240612193000 -0300" channel="Rptv">
+    <title lang="en">Arena Plus (Live)</title>
+    <desc lang="en">Arena Plus (Live).(n)</desc>
+  </programme>
+  <programme start="20240612193000 -0300" stop="20240612193500 -0300" channel="Rptv">
+    <title lang="en">Awarding Of The Best Player Of The Conference (Live)</title>
+    <desc lang="en">Awarding Of The Best Player Of The Conference (Live).(n)</desc>
+  </programme>
+  <programme start="20240612193500 -0300" stop="20240612213000 -0300" channel="Rptv">
+    <title lang="en">2023-2024 PBA 48th Season Philippine Cup: Finals Game 4: Meralco Bolts vs San Miguel Beermen (Live)</title>
+    <desc lang="en">2023-2024 PBA 48th Season Philippine Cup: Finals Game 4: Meralco Bolts vs San Miguel Beermen (Live).(n)</desc>
+  </programme>
+  <programme start="20240612213000 -0300" stop="20240612215000 -0300" channel="Rptv">
+    <title lang="en">Arena Plus (Live)</title>
+    <desc lang="en">Arena Plus (Live).(n)</desc>
+  </programme>
+  <programme start="20240612215000 -0300" stop="20240612220000 -0300" channel="Rptv">
+    <title lang="en">PBA Post-Game Show (Live)</title>
+    <desc lang="en">PBA Post-Game Show (Live).(n)</desc>
+  </programme>
+  <programme start="20240612220000 -0300" stop="20240612223000 -0300" channel="Rptv">
+    <title lang="en">Batas Et Al</title>
+    <desc lang="en">Batas Et Al.(n)</desc>
+  </programme>
+  <programme start="20240612223000 -0300" stop="20240612230000 -0300" channel="Rptv">
+    <title lang="en">Building Bridges</title>
+    <desc lang="en">Building Bridges.(n)</desc>
+  </programme>
+  <programme start="20240612230000 -0300" stop="20240612231500 -0300" channel="Rptv">
+    <title lang="en">Wow Mali Doble Tawa</title>
+    <desc lang="en">Wow Mali Doble Tawa.(n)</desc>
+  </programme>
+  <programme start="20240612231500 -0300" stop="20240613000000 -0300" channel="Rptv">
+    <title lang="en">Frontline Tonight (Delayed Telecast)</title>
+    <desc lang="en">Frontline Tonight (Delayed Telecast).(n)</desc>
+  </programme>
+  <programme start="20240613000000 -0300" stop="20240613055700 -0300" channel="Rptv">
+    <title lang="en">Sign Off</title>
+    <desc lang="en">Sign Off.(n)</desc>
+  </programme>
+  <programme start="20240613055700 -0300" stop="20240613060000 -0300" channel="Rptv">
+    <title lang="en">Sign On</title>
+    <desc lang="en">Sign On.(n)</desc>
+  </programme>
+  <programme start="20240613060000 -0300" stop="20240613082000 -0300" channel="Rptv">
+    <title lang="en">Ted Failon And Dj Chacha (Live)</title>
+    <desc lang="en">Ted Failon And Dj Chacha (Live).(n)</desc>
+  </programme>
+  <programme start="20240613082000 -0300" stop="20240613083000 -0300" channel="Rptv">
+    <title lang="en">Arena Plus (Live)</title>
+    <desc lang="en">Arena Plus (Live).(n)</desc>
+  </programme>
+  <programme start="20240613083000 -0300" stop="20240613110000 -0300" channel="Rptv">
+    <title lang="en">2023-2024 NBA: Finals Game 3: Boston Vs. Dallas (Live)</title>
+    <desc lang="en">2023-2024 NBA: Finals Game 3: Boston Vs. Dallas (Live).(n)</desc>
+  </programme>
+  <programme start="20240613110000 -0300" stop="20240613120000 -0300" channel="Rptv">
+    <title lang="en">Wanted Sa Radyo (Delayed Telecast)</title>
+    <desc lang="en">Wanted Sa Radyo (Delayed Telecast).(n)</desc>
+  </programme>
+  <programme start="20240613120000 -0300" stop="20240613143000 -0300" channel="Rptv">
+    <title lang="en">E.A.T. Bulaga (Live)</title>
+    <desc lang="en">E.A.T. Bulaga (Live).(n)</desc>
+  </programme>
+  <programme start="20240613143000 -0300" stop="20240613160000 -0300" channel="Rptv">
+    <title lang="en">Blockbuster Bida: Inside Man: Most Wanted (Tag)</title>
+    <desc lang="en">Blockbuster Bida: Inside Man: Most Wanted (Tag).(n)</desc>
+  </programme>
+  <programme start="20240613160000 -0300" stop="20240613183000 -0300" channel="Rptv">
+    <title lang="en">2023-2024 NBA: Finals Game 3: Boston Vs. Dallas (Replay - 8:30Am Game)</title>
+    <desc lang="en">2023-2024 NBA: Finals Game 3: Boston Vs. Dallas (Replay - 8:30Am Game).(n)</desc>
+  </programme>
+  <programme start="20240613183000 -0300" stop="20240613190000 -0300" channel="Rptv">
+    <title lang="en">NBA Best Plays</title>
+    <desc lang="en">NBA Best Plays.(n)</desc>
+  </programme>
+  <programme start="20240613190000 -0300" stop="20240613193000 -0300" channel="Rptv">
+    <title lang="en">Starting Line Up (Live)</title>
+    <desc lang="en">Starting Line Up (Live).(n)</desc>
+  </programme>
+  <programme start="20240613193000 -0300" stop="20240613220000 -0300" channel="Rptv">
+    <title lang="en">Best Of The PBA: 2023-2024 PBA 48th Season Philippine Cup: Finals Game 4: Meralco Bolts vs San Miguel Beermen (Replay - June 12, 7:30Pm Game)</title>
+    <desc lang="en">Best Of The PBA: 2023-2024 PBA 48th Season Philippine Cup: Finals Game 4: Meralco Bolts vs San Miguel Beermen (Replay - June 12, 7:30Pm Game).(n)</desc>
+  </programme>
+  <programme start="20240613220000 -0300" stop="20240613223000 -0300" channel="Rptv">
+    <title lang="en">Batas Et Al</title>
+    <desc lang="en">Batas Et Al.(n)</desc>
+  </programme>
+  <programme start="20240613223000 -0300" stop="20240613230000 -0300" channel="Rptv">
+    <title lang="en">Building Bridges</title>
+    <desc lang="en">Building Bridges.(n)</desc>
+  </programme>
+  <programme start="20240613230000 -0300" stop="20240613231500 -0300" channel="Rptv">
+    <title lang="en">Wow Mali Doble Tawa</title>
+    <desc lang="en">Wow Mali Doble Tawa.(n)</desc>
+  </programme>
+  <programme start="20240613231500 -0300" stop="20240614000000 -0300" channel="Rptv">
+    <title lang="en">Frontline Tonight (Delayed Telecast)</title>
+    <desc lang="en">Frontline Tonight (Delayed Telecast).(n)</desc>
+  </programme>
+  <programme start="20240614000000 -0300" stop="20240614055700 -0300" channel="Rptv">
+    <title lang="en">Sign Off</title>
+    <desc lang="en">Sign Off.(n)</desc>
+  </programme>
+  <programme start="20240614055700 -0300" stop="20240614060000 -0300" channel="Rptv">
+    <title lang="en">Sign On</title>
+    <desc lang="en">Sign On.(n)</desc>
+  </programme>
+  <programme start="20240614060000 -0300" stop="20240614100000 -0300" channel="Rptv">
+    <title lang="en">Ted Failon And Dj Chacha (Live)</title>
+    <desc lang="en">Ted Failon And Dj Chacha (Live).(n)</desc>
+  </programme>
+  <programme start="20240614100000 -0300" stop="20240614120000 -0300" channel="Rptv">
+    <title lang="en">Wanted Sa Radyo (Delayed Telecast)</title>
+    <desc lang="en">Wanted Sa Radyo (Delayed Telecast).(n)</desc>
+  </programme>
+  <programme start="20240614120000 -0300" stop="20240614143000 -0300" channel="Rptv">
+    <title lang="en">E.A.T. Bulaga (Live)</title>
+    <desc lang="en">E.A.T. Bulaga (Live).(n)</desc>
+  </programme>
+  <programme start="20240614143000 -0300" stop="20240614160000 -0300" channel="Rptv">
+    <title lang="en">Blockbuster Bida: Warcraft (Tag)</title>
+    <desc lang="en">Blockbuster Bida: Warcraft (Tag).(n)</desc>
+  </programme>
+  <programme start="20240614160000 -0300" stop="20240614183000 -0300" channel="Rptv">
+    <title lang="en">PBA: Angat Ang Laban: Justin Brownlee 2</title>
+    <desc lang="en">PBA: Angat Ang Laban: Justin Brownlee 2.(n)</desc>
+  </programme>
+  <programme start="20240614183000 -0300" stop="20240614190000 -0300" channel="Rptv">
+    <title lang="en">Hotseat</title>
+    <desc lang="en">Hotseat.(n)</desc>
+  </programme>
+  <programme start="20240614190000 -0300" stop="20240614192000 -0300" channel="Rptv">
+    <title lang="en">Starting Line Up (Live)</title>
+    <desc lang="en">Starting Line Up (Live).(n)</desc>
+  </programme>
+  <programme start="20240614192000 -0300" stop="20240614193000 -0300" channel="Rptv">
+    <title lang="en">Arena Plus (Live)</title>
+    <desc lang="en">Arena Plus (Live).(n)</desc>
+  </programme>
+  <programme start="20240614193000 -0300" stop="20240614213000 -0300" channel="Rptv">
+    <title lang="en">2023-2024 PBA 48th Season Philippine Cup: Finals Game 5: San Miguel Beermen vs Meralco Bolts (Live) (If Necessary)</title>
+    <desc lang="en">2023-2024 PBA 48th Season Philippine Cup: Finals Game 5: San Miguel Beermen vs Meralco Bolts (Live) (If Necessary).(n)</desc>
+  </programme>
+  <programme start="20240614213000 -0300" stop="20240614215000 -0300" channel="Rptv">
+    <title lang="en">Arena Plus (Live)</title>
+    <desc lang="en">Arena Plus (Live).(n)</desc>
+  </programme>
+  <programme start="20240614215000 -0300" stop="20240614220000 -0300" channel="Rptv">
+    <title lang="en">PBA Post-Game Show (Live)</title>
+    <desc lang="en">PBA Post-Game Show (Live).(n)</desc>
+  </programme>
+  <programme start="20240614220000 -0300" stop="20240614223000 -0300" channel="Rptv">
+    <title lang="en">Batas Et Al</title>
+    <desc lang="en">Batas Et Al.(n)</desc>
+  </programme>
+  <programme start="20240614223000 -0300" stop="20240614230000 -0300" channel="Rptv">
+    <title lang="en">Building Bridges</title>
+    <desc lang="en">Building Bridges.(n)</desc>
+  </programme>
+  <programme start="20240614230000 -0300" stop="20240614231500 -0300" channel="Rptv">
+    <title lang="en">Wow Mali Doble Tawa</title>
+    <desc lang="en">Wow Mali Doble Tawa.(n)</desc>
+  </programme>
+  <programme start="20240614231500 -0300" stop="20240615000000 -0300" channel="Rptv">
+    <title lang="en">Frontline Tonight (Delayed Telecast)</title>
+    <desc lang="en">Frontline Tonight (Delayed Telecast).(n)</desc>
+  </programme>
+  <programme start="20240615000000 -0300" stop="20240615055700 -0300" channel="Rptv">
+    <title lang="en">Sign Off</title>
+    <desc lang="en">Sign Off.(n)</desc>
+  </programme>
+</tv>
