@@ -1,0 +1,163 @@
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/singaporepremium.xml"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/malaysia.xml"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/malaysiapremium2.xml"
+#EXTM3U url-tvg="https://github.com/joseph23pronton/loveliveradio_api/raw/main/guide.xml"
+#EXTM3U url-tvg="https://github.com/joseph23pronton/loveliveradio_api/raw/main/guide2.xml"
+
+
+#EXTINF:-1 tvg-id="tvN Movies.my" ch-number="416" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",tvN Movies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default.mpd
+
+#EXTINF:-1 tvg-id="Cg Hbohd" ch-number="411" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default.mpd
+
+#EXTINF:-1 tvg-id="HITS Movies HD.sg" ch-number="401" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OPv7OlbkD/ksnfisvLqe9g", "kid":"/x/r1wGNDdcRYB55Xg1iEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/manifest.mpd
+
+#EXTINF:-1 tvg-id="Cg Cinemax" ch-number="412" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",Cinemax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
+
+#EXTINF:-1 tvg-id="Cg Hbofam" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",HBO Family
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fjdYjok6uSUuUFvW3aNb6w", "kid":"K5/3zBo9yf70fMV3NHLVEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5053/manifest.mpd
+
+#EXTINF:-1 tvg-id="Cg Hbohits" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
+
+#EXTINF:-1 group-title="Kids" tvg-id="Animax (HD).sg" tvg-chno="472" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",Animax HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
+#EXTINF:-1 tvg-id="Nickelodeon Asia HD.sg" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" ,Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default.mpd
+
+#EXTINF:-1 tvg-id="AXN (HD).sg" group-title="Entertainment" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" ch-number="701",AXN HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" tvg-logo="https://iili.io/1NC5v9.png" tvg-id="ONE HD (Malay).sg",One HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e55a5580c9e111ec9d640242ac120002:ce0b5e1d3383e51fc38f7bf7f683fd5b
+#EXTINF:-1 tvg-id="A2Z.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" group-title="Local Channel",A2Z 
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b264b24c9a6411eeb9d10242ac120002:addb99f4bd36ef46dee77e43925aed46
+#EXTINF:-1 tvg-id="DreamWorks (HD).sg" tvg-logo="https://static.wikia.nocookie.net/dreamworks/images/4/4b/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg_%282016%29.png/revision/latest/thumbnail/width/360/height/360?cb=20171127143327" group-title="Local Channel",Dreamworks Tagalized 
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
+#EXTINF:-1 tvg-id="GEM (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" group-title="Local Channel",GEM 
+https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b264ad929a6411eeb9d10242ac120002:ee1a110e3b62a0e372a07f5a3d47a2d0
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Local Channel",HBO Signature
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1fe92685a75844dc54c9dac124802510:36cb2063bf5338d18d31657371b15817
+#EXTINF:-1 tvg-id="HITS (HD).sg" tvg-logo="https://www.astropackage.com.my/wp-content/uploads/2016/01/Astro-Hits-HD-Ch720.png" group-title="Local Channel",HITS HD
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/606/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
+#EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Kapamilya_Channel_logo.svg/revision/latest?cb=20200819050409" group-title="Local Channel",Kapamilya Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e2d480df017411e94e2b5f3074b52d6:0295fb912ab1ab8ae817fe0672ac89ad
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/d/de/20200728010847%21NBA_TV_Philippines.png" group-title="Local Channel",NBA TV Philippines
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f85589e412b11edb8780242ac120002:69e8f7927207afe25929d149507386c8
+#EXTINF:-1 tvg-id="Onesportsplus Hd" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/99/One_Sports%2B_Logo_2020.png/revision/latest?cb=20230428021525" group-title="Local Channel",One Sports +
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f855ed4412b11edb8780242ac120002:b3a22e869d401b9cf556298c3d5d16c6
+#EXTINF:-1 tvg-id="Onesports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/512px-One_Sports_logo.svg.png?20210103142332" group-title="Local Channel",One Sports HD
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f855a56412b11edb8780242ac120002:64e5a04c1da435a5cbbf392fcd7ed3e8
+#EXTINF:-1 tvg-id="Pbarush Hd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="Local Channel",PBA Rush
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2341c2ecd3cf4865881bb0fa1287de8f:ad45202e64f66ef36b3f60fac93cc47f
+#EXTINF:-1 tvg-id="ROCK Action (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="Local Channel",Rock Action
+https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=037e4c640d1743b8bb7f26856389489b:1ceb5e18450b534f8a9b80d6441caede
+#EXTINF:-1 tvg-id="Rptv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/RPTV_official_logo.png" group-title="Local Channel",RPTV
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f854034412b11edb8780242ac120002:af8ad1c5e3f2e1b751a4f64608f24275
+#EXTINF:-1 tvg-id="Tap Edge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TapEdge-ph.png" group-title="Local Channel",Tap Edge
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_tapedge.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f853c06412b11edb8780242ac120002:fbae08b3924da610b92b11ea95f77627
+#EXTINF:-1 tvg-id="Tap Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="Local Channel",Tap Sports
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f854926412b11edb8780242ac120002:4564d771f0f51676ff3253b15892a101
+#EXTINF:-1 tvg-id="Tv5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/TV5_Logo_%282021%29.png" group-title="Local Channel",TV5
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b264b1349a6411eeb9d10242ac120002:ffc6fd91c76a8da76e8c945eb7903c1b
+#EXTINF:-1 tvg-id="Cg Tvnmovie" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/TvN_Movies_Pinoy_2023_Logo.svg/revision/latest/scale-to-width-down/300?cb=20240618091604" group-title="Local Channel",tvN Movies Pinoy
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b264b35a9a6411eeb9d10242ac120002:145fbb4bb7ddcc8bbd748209bc58515f
+#EXTINF:-1 tvg-id="Cg Tvnpre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/800px-Logo_tvN.svg.png" group-title="Local Channel",tvN Premium HD
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
+
+#EXTINF:-1 tvg-id="Warner TV HD.my" tvg-logo="http://playtv.unifi.com.my:7039/CPS...logo/201907/20190716/20190716071834181bzk.png",Warner TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f85787e412b11edb8780242ac120002:30bc92cf89ecdd1d3db10deb9c57bb60
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QLnyUEVbQ7Oy6mhFq4Gryg", "kid":"kimBTGKbQG+N6Y0vI8looA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="ROCK Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png",Rock Entertainment
+https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd
