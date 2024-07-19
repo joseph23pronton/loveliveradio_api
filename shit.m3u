@@ -158,11 +158,23 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
 #KODIPROP:inputstream.adaptive.license_key=0f85787e412b11edb8780242ac120002:30bc92cf89ecdd1d3db10deb9c57bb60
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
 
+#EXTINF:-1 tvg-id="TagalizedMovieChannel.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/41/Tagalized_Movie_Channel_Logo_2021.png/revision/latest?cb=20220107163437",Tagalized Movie Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b264b47c9a6411eeb9d10242ac120002:8830d84c9f80c1f70a60deeb8dc94c3e
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tagalogmovie.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f853f58412b11edb8780242ac120002:7b05db3859bd416c8f5a056624581d66
+#EXTINF:-1 tvg-id="ROCK Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png",Rock Entertainment SD
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockentertainment.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QLnyUEVbQ7Oy6mhFq4Gryg", "kid":"kimBTGKbQG+N6Y0vI8looA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ROCK Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png",Rock Entertainment
+#EXTINF:-1 tvg-id="ROCK Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png",Rock Entertainment HD
 https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd
 
 #EXTINF:-1 tvg-id="GTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/577px-GTV_Philippines_Logo_Vector.svg.png?20231119035025" group-title="Local Channel",GMA
@@ -200,3 +212,6 @@ http://178.128.21.207:1234/stream/new/vevorb/master.m3u8?u=ganbaruby23&p=f305581
 
 #EXTINF:-1 group-title="Local Channel" tvg-id="KBS World HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png", KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+
+#EXTINF:-1 group-title="Local Channel" tvg-id="NickMusic" tvg-logo="https://en.wikipedia.org/wiki/File:NickMusic.svg", NickMusic
+http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
