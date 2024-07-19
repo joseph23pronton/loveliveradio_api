@@ -1,791 +1,971 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Rptv">
-    <display-name lang="en">Rptv</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Cg Hitsnow">
-    <display-name lang="en">Cg Hitsnow</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Cg Hbohd">
-    <display-name lang="en">Cg Hbohd</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Tvup Prd">
-    <display-name lang="en">Tvup Prd</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Tvmaria Prd">
-    <display-name lang="en">Tvmaria Prd</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Cg Hbofam">
-    <display-name lang="en">Cg Hbofam</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Cg Cinemax">
-    <display-name lang="en">Cg Cinemax</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Lotusmacau Prd">
-    <display-name lang="en">Lotusmacau Prd</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Cg Hbosign">
-    <display-name lang="en">Cg Hbosign</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Cg Hbohits">
-    <display-name lang="en">Cg Hbohits</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Cg Tvnmovie">
-    <display-name lang="en">Cg Tvnmovie</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Cg Dreamworktag">
-    <display-name lang="en">Cg Dreamworktag</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Cg Tvnpre">
-    <display-name lang="en">Cg Tvnpre</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Cg Tagalogmovie">
-    <display-name lang="en">Cg Tagalogmovie</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Radyo5">
-    <display-name lang="en">Radyo5</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Cg Mptv">
-    <display-name lang="en">Cg Mptv</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Cartoon Net Hd">
-    <display-name lang="en">Cartoon Net Hd</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Cnn Hd">
-    <display-name lang="en">Cnn Hd</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="A2z">
-    <display-name lang="en">A2z</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Dreamworks Hd">
-    <display-name lang="en">Dreamworks Hd</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Animal Planet">
-    <display-name lang="en">Animal Planet</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Spotv Hd">
-    <display-name lang="en">Spotv Hd</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Nbn4">
-    <display-name lang="en">Nbn4</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Premiersports Hd">
-    <display-name lang="en">Premiersports Hd</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Tap Edge">
-    <display-name lang="en">Tap Edge</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Blueant Extreme">
-    <display-name lang="en">Blueant Extreme</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Tap Sports">
-    <display-name lang="en">Tap Sports</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Bbcearth Hd">
-    <display-name lang="en">Bbcearth Hd</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Onesportsplus Hd">
-    <display-name lang="en">Onesportsplus Hd</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Spotv Hd2">
-    <display-name lang="en">Spotv Hd2</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Rock Entertainment">
-    <display-name lang="en">Rock Entertainment</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Discovery">
-    <display-name lang="en">Discovery</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Cctv4">
-    <display-name lang="en">Cctv4</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Pbarush Hd">
-    <display-name lang="en">Pbarush Hd</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Arirang">
-    <display-name lang="en">Arirang</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Kbs World">
-    <display-name lang="en">Kbs World</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Onenews Hd">
-    <display-name lang="en">Onenews Hd</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Kix Hd">
-    <display-name lang="en">Kix Hd</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Lifetime">
-    <display-name lang="en">Lifetime</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Bbcworld News">
-    <display-name lang="en">Bbcworld News</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Hgtv Hd">
-    <display-name lang="en">Hgtv Hd</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Uaap Varsity">
-    <display-name lang="en">Uaap Varsity</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Travel Channel">
-    <display-name lang="en">Travel Channel</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Premier Tennishd">
-    <display-name lang="en">Premier Tennishd</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Pbo">
-    <display-name lang="en">Pbo</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Hits Hd">
-    <display-name lang="en">Hits Hd</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Aljazeera">
-    <display-name lang="en">Aljazeera</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Oneph">
-    <display-name lang="en">Oneph</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Foodnetwork Hd">
-    <display-name lang="en">Foodnetwork Hd</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Depedchannel">
-    <display-name lang="en">Depedchannel</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Tv5">
-    <display-name lang="en">Tv5</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="History Hd">
-    <display-name lang="en">History Hd</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Fashiontv Hd">
-    <display-name lang="en">Fashiontv Hd</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Viva">
-    <display-name lang="en">Viva</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Bloomberg">
-    <display-name lang="en">Bloomberg</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Nhk Japan">
-    <display-name lang="en">Nhk Japan</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Asianfoodnetwork">
-    <display-name lang="en">Asianfoodnetwork</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Onesports">
-    <display-name lang="en">Onesports</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Nickjr">
-    <display-name lang="en">Nickjr</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Warnertv Hd">
-    <display-name lang="en">Warnertv Hd</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Animax">
-    <display-name lang="en">Animax</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Ibc13">
-    <display-name lang="en">Ibc13</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Cgtn">
-    <display-name lang="en">Cgtn</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Axn">
-    <display-name lang="en">Axn</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Tapmovies Hd">
-    <display-name lang="en">Tapmovies Hd</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Taptv">
-    <display-name lang="en">Taptv</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Moonbug Kids">
-    <display-name lang="en">Moonbug Kids</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Tapactionflix Hd">
-    <display-name lang="en">Tapactionflix Hd</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="France24">
-    <display-name lang="en">France24</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Abc Australia">
-    <display-name lang="en">Abc Australia</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Hits Movies">
-    <display-name lang="en">Hits Movies</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Channelnews Asia">
-    <display-name lang="en">Channelnews Asia</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Thrill">
-    <display-name lang="en">Thrill</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Crime Investigation">
-    <display-name lang="en">Crime Investigation</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Tech Storm">
-    <display-name lang="en">Tech Storm</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Buko">
-    <display-name lang="en">Buko</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Knowledge Channel">
-    <display-name lang="en">Knowledge Channel</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Tv5 Monde">
-    <display-name lang="en">Tv5 Monde</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Nickelodeon">
-    <display-name lang="en">Nickelodeon</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Sari Sari">
-    <display-name lang="en">Sari Sari</display-name>
-    <url>http://www.cignalplay.com</url>
-  </channel>
-  <channel id="Example">
-    <display-name lang="en">Example</display-name>
-    <url>http://www.dummy</url>
-  </channel>
-  <programme start="20240608000000 -0300" stop="20240608055700 -0300" channel="Rptv">
-    <title lang="en">Sign Off</title>
-    <desc lang="en">Sign Off.(n)</desc>
-  </programme>
-  <programme start="20240608055700 -0300" stop="20240608060000 -0300" channel="Rptv">
-    <title lang="en">Sign On</title>
-    <desc lang="en">Sign On.(n)</desc>
-  </programme>
-  <programme start="20240608060000 -0300" stop="20240608070000 -0300" channel="Rptv">
-    <title lang="en">Masaganang Buhay</title>
-    <desc lang="en">Masaganang Buhay.(n)</desc>
-  </programme>
-  <programme start="20240608070000 -0300" stop="20240608080000 -0300" channel="Rptv">
-    <title lang="en">Chink Positive</title>
-    <desc lang="en">Chink Positive.(n)</desc>
-  </programme>
-  <programme start="20240608080000 -0300" stop="20240608090000 -0300" channel="Rptv">
-    <title lang="en">Ride Ph</title>
-    <desc lang="en">Ride Ph.(n)</desc>
-  </programme>
-  <programme start="20240608090000 -0300" stop="20240608093000 -0300" channel="Rptv">
-    <title lang="en">Pinoy Explorer</title>
-    <desc lang="en">Pinoy Explorer.(n)</desc>
-  </programme>
-  <programme start="20240608093000 -0300" stop="20240608113000 -0300" channel="Rptv">
-    <title lang="en">Watch A Morning: Ben Hur</title>
-    <desc lang="en">Watch A Morning: Ben Hur.(n)</desc>
-  </programme>
-  <programme start="20240608113000 -0300" stop="20240608143000 -0300" channel="Rptv">
-    <title lang="en">E.A.T. Bulaga (Live)</title>
-    <desc lang="en">E.A.T. Bulaga (Live).(n)</desc>
-  </programme>
-  <programme start="20240608143000 -0300" stop="20240608163000 -0300" channel="Rptv">
-    <title lang="en">2024 AVC Challenge Cup: Men'S: Philippines vs Indonesia (Delayed Telecast - June 05, 9:30Pm Game)</title>
-    <desc lang="en">2024 AVC Challenge Cup: Men'S: Philippines vs Indonesia (Delayed Telecast - June 05, 9:30Pm Game).(n)</desc>
-  </programme>
-  <programme start="20240608163000 -0300" stop="20240608181500 -0300" channel="Rptv">
-    <title lang="en">2024 AVC Challenge Cup: Men'S: Philippines vs Thailand (Delayed Telecast - June 07, 7:00Pm Game)</title>
-    <desc lang="en">2024 AVC Challenge Cup: Men'S: Philippines vs Thailand (Delayed Telecast - June 07, 7:00Pm Game).(n)</desc>
-  </programme>
-  <programme start="20240608181500 -0300" stop="20240608190000 -0300" channel="Rptv">
-    <title lang="en">Frontline Weekend (Live)</title>
-    <desc lang="en">Frontline Weekend (Live).(n)</desc>
-  </programme>
-  <programme start="20240608190000 -0300" stop="20240608210000 -0300" channel="Rptv">
-    <title lang="en">Best Of The PBA: 2023-2024 PBA 48th Season Philippine Cup: Finals Game 2: Meralco Bolts vs San Miguel Beermen (Replay - June 07, 7:30Pm Game)</title>
-    <desc lang="en">Best Of The PBA: 2023-2024 PBA 48th Season Philippine Cup: Finals Game 2: Meralco Bolts vs San Miguel Beermen (Replay - June 07, 7:30Pm Game).(n)</desc>
-  </programme>
-  <programme start="20240608210000 -0300" stop="20240608230000 -0300" channel="Rptv">
-    <title lang="en">Weekend Cineprime: Ride Along</title>
-    <desc lang="en">Weekend Cineprime: Ride Along.(n)</desc>
-  </programme>
-  <programme start="20240608230000 -0300" stop="20240608231500 -0300" channel="Rptv">
-    <title lang="en">Wow Mali Doble Tawa</title>
-    <desc lang="en">Wow Mali Doble Tawa.(n)</desc>
-  </programme>
-  <programme start="20240608231500 -0300" stop="20240609000000 -0300" channel="Rptv">
-    <title lang="en">Frontline Weekend (Delayed Telecast)</title>
-    <desc lang="en">Frontline Weekend (Delayed Telecast).(n)</desc>
-  </programme>
-  <programme start="20240609000000 -0300" stop="20240609055700 -0300" channel="Rptv">
-    <title lang="en">Sign Off</title>
-    <desc lang="en">Sign Off.(n)</desc>
-  </programme>
-  <programme start="20240609055700 -0300" stop="20240609060000 -0300" channel="Rptv">
-    <title lang="en">Sign On</title>
-    <desc lang="en">Sign On.(n)</desc>
-  </programme>
-  <programme start="20240609060000 -0300" stop="20240609070000 -0300" channel="Rptv">
-    <title lang="en">Masaganang Buhay</title>
-    <desc lang="en">Masaganang Buhay.(n)</desc>
-  </programme>
-  <programme start="20240609070000 -0300" stop="20240609090000 -0300" channel="Rptv">
-    <title lang="en">Power And Play With Noli Eala</title>
-    <desc lang="en">Power And Play With Noli Eala.(n)</desc>
-  </programme>
-  <programme start="20240609090000 -0300" stop="20240609093000 -0300" channel="Rptv">
-    <title lang="en">Pinoy Explorer</title>
-    <desc lang="en">Pinoy Explorer.(n)</desc>
-  </programme>
-  <programme start="20240609093000 -0300" stop="20240609113000 -0300" channel="Rptv">
-    <title lang="en">Watch A Morning: Small Soldiers</title>
-    <desc lang="en">Watch A Morning: Small Soldiers.(n)</desc>
-  </programme>
-  <programme start="20240609113000 -0300" stop="20240609130000 -0300" channel="Rptv">
-    <title lang="en">Sunday Combo Panalo: Aliens Ate My Homework</title>
-    <desc lang="en">Sunday Combo Panalo: Aliens Ate My Homework.(n)</desc>
-  </programme>
-  <programme start="20240609130000 -0300" stop="20240609143000 -0300" channel="Rptv">
-    <title lang="en">Sunday Combo Panalo: Aliens Stole My Body</title>
-    <desc lang="en">Sunday Combo Panalo: Aliens Stole My Body.(n)</desc>
-  </programme>
-  <programme start="20240609143000 -0300" stop="20240609170000 -0300" channel="Rptv">
-    <title lang="en">PBA: Angat Ang Laban: CJ Perez</title>
-    <desc lang="en">PBA: Angat Ang Laban: CJ Perez.(n)</desc>
-  </programme>
-  <programme start="20240609170000 -0300" stop="20240609173000 -0300" channel="Rptv">
-    <title lang="en">The Huddle</title>
-    <desc lang="en">The Huddle.(n)</desc>
-  </programme>
-  <programme start="20240609173000 -0300" stop="20240609180000 -0300" channel="Rptv">
-    <title lang="en">Frontline Weekend (Live)</title>
-    <desc lang="en">Frontline Weekend (Live).(n)</desc>
-  </programme>
-  <programme start="20240609180000 -0300" stop="20240609181000 -0300" channel="Rptv">
-    <title lang="en">ArenaPlus (Live)</title>
-    <desc lang="en">ArenaPlus (Live).(n)</desc>
-  </programme>
-  <programme start="20240609181000 -0300" stop="20240609181500 -0300" channel="Rptv">
-    <title lang="en">PBA Pregame Show (Live)</title>
-    <desc lang="en">PBA Pregame Show (Live).(n)</desc>
-  </programme>
-  <programme start="20240609181500 -0300" stop="20240609203000 -0300" channel="Rptv">
-    <title lang="en">2023-2024 PBA 48th Season Philippine Cup: Finals Game 3: San Miguel Beermen vs Meralco Bolts (Live)</title>
-    <desc lang="en">2023-2024 PBA 48th Season Philippine Cup: Finals Game 3: San Miguel Beermen vs Meralco Bolts (Live).(n)</desc>
-  </programme>
-  <programme start="20240609203000 -0300" stop="20240609205000 -0300" channel="Rptv">
-    <title lang="en">ArenaPlus (Live)</title>
-    <desc lang="en">ArenaPlus (Live).(n)</desc>
-  </programme>
-  <programme start="20240609205000 -0300" stop="20240609210000 -0300" channel="Rptv">
-    <title lang="en">PBA Post Game Show (Live)</title>
-    <desc lang="en">PBA Post Game Show (Live).(n)</desc>
-  </programme>
-  <programme start="20240609210000 -0300" stop="20240609230000 -0300" channel="Rptv">
-    <title lang="en">Weekend Cineprime: Ride Along 2</title>
-    <desc lang="en">Weekend Cineprime: Ride Along 2.(n)</desc>
-  </programme>
-  <programme start="20240609230000 -0300" stop="20240609231500 -0300" channel="Rptv">
-    <title lang="en">Wow Mali Doble Tawa</title>
-    <desc lang="en">Wow Mali Doble Tawa.(n)</desc>
-  </programme>
-  <programme start="20240609231500 -0300" stop="20240610000000 -0300" channel="Rptv">
-    <title lang="en">Frontline Weekend (Delayed Telecast)</title>
-    <desc lang="en">Frontline Weekend (Delayed Telecast).(n)</desc>
-  </programme>
-  <programme start="20240610000000 -0300" stop="20240610055700 -0300" channel="Rptv">
-    <title lang="en">Sign Off</title>
-    <desc lang="en">Sign Off.(n)</desc>
-  </programme>
-  <programme start="20240610055700 -0300" stop="20240610060000 -0300" channel="Rptv">
-    <title lang="en">Sign On</title>
-    <desc lang="en">Sign On.(n)</desc>
-  </programme>
-  <programme start="20240610060000 -0300" stop="20240610075000 -0300" channel="Rptv">
-    <title lang="en">Ted Failon And Dj Chacha (Live)</title>
-    <desc lang="en">Ted Failon And Dj Chacha (Live).(n)</desc>
-  </programme>
-  <programme start="20240610075000 -0300" stop="20240610080000 -0300" channel="Rptv">
-    <title lang="en">Arena Plus (Live)</title>
-    <desc lang="en">Arena Plus (Live).(n)</desc>
-  </programme>
-  <programme start="20240610080000 -0300" stop="20240610103000 -0300" channel="Rptv">
-    <title lang="en">2023-2024 NBA: Finals Game 2: Boston vs Dallas (Live)</title>
-    <desc lang="en">2023-2024 NBA: Finals Game 2: Boston vs Dallas (Live).(n)</desc>
-  </programme>
-  <programme start="20240610103000 -0300" stop="20240610120000 -0300" channel="Rptv">
-    <title lang="en">Wanted Sa Radyo (Delayed Telecast)</title>
-    <desc lang="en">Wanted Sa Radyo (Delayed Telecast).(n)</desc>
-  </programme>
-  <programme start="20240610120000 -0300" stop="20240610143000 -0300" channel="Rptv">
-    <title lang="en">E.A.T. Bulaga (Live)</title>
-    <desc lang="en">E.A.T. Bulaga (Live).(n)</desc>
-  </programme>
-  <programme start="20240610143000 -0300" stop="20240610160000 -0300" channel="Rptv">
-    <title lang="en">Blockbuster Bida: Hard Target (Tag)</title>
-    <desc lang="en">Blockbuster Bida: Hard Target (Tag).(n)</desc>
-  </programme>
-  <programme start="20240610160000 -0300" stop="20240610183000 -0300" channel="Rptv">
-    <title lang="en">2023-2024 NBA: Finals Game 2: Boston vs Dallas (Replay - 8:00Am Game)</title>
-    <desc lang="en">2023-2024 NBA: Finals Game 2: Boston vs Dallas (Replay - 8:00Am Game).(n)</desc>
-  </programme>
-  <programme start="20240610183000 -0300" stop="20240610190000 -0300" channel="Rptv">
-    <title lang="en">NBA Best Plays</title>
-    <desc lang="en">NBA Best Plays.(n)</desc>
-  </programme>
-  <programme start="20240610190000 -0300" stop="20240610193000 -0300" channel="Rptv">
-    <title lang="en">Starting Line Up (Live)</title>
-    <desc lang="en">Starting Line Up (Live).(n)</desc>
-  </programme>
-  <programme start="20240610193000 -0300" stop="20240610220000 -0300" channel="Rptv">
-    <title lang="en">Best Of The PBA: 2023-2024 PBA 48th Season Philippine Cup: Finals Game 3: San Miguel Beermen vs Meralco Bolts (Replay - June 09, 6:15Pm Game)</title>
-    <desc lang="en">Best Of The PBA: 2023-2024 PBA 48th Season Philippine Cup: Finals Game 3: San Miguel Beermen vs Meralco Bolts (Replay - June 09, 6:15Pm Game).(n)</desc>
-  </programme>
-  <programme start="20240610220000 -0300" stop="20240610223000 -0300" channel="Rptv">
-    <title lang="en">Batas Et Al</title>
-    <desc lang="en">Batas Et Al.(n)</desc>
-  </programme>
-  <programme start="20240610223000 -0300" stop="20240610230000 -0300" channel="Rptv">
-    <title lang="en">Building Bridges</title>
-    <desc lang="en">Building Bridges.(n)</desc>
-  </programme>
-  <programme start="20240610230000 -0300" stop="20240610231500 -0300" channel="Rptv">
-    <title lang="en">Wow Mali Doble Tawa</title>
-    <desc lang="en">Wow Mali Doble Tawa.(n)</desc>
-  </programme>
-  <programme start="20240610231500 -0300" stop="20240611000000 -0300" channel="Rptv">
-    <title lang="en">Frontline Tonight (Delayed Telecast)</title>
-    <desc lang="en">Frontline Tonight (Delayed Telecast).(n)</desc>
-  </programme>
-  <programme start="20240611000000 -0300" stop="20240611055700 -0300" channel="Rptv">
-    <title lang="en">Sign Off</title>
-    <desc lang="en">Sign Off.(n)</desc>
-  </programme>
-  <programme start="20240611055700 -0300" stop="20240611060000 -0300" channel="Rptv">
-    <title lang="en">Sign On</title>
-    <desc lang="en">Sign On.(n)</desc>
-  </programme>
-  <programme start="20240611060000 -0300" stop="20240611100000 -0300" channel="Rptv">
-    <title lang="en">Ted Failon And Dj Chacha (Live)</title>
-    <desc lang="en">Ted Failon And Dj Chacha (Live).(n)</desc>
-  </programme>
-  <programme start="20240611100000 -0300" stop="20240611120000 -0300" channel="Rptv">
-    <title lang="en">Wanted Sa Radyo (Delayed Telecast)</title>
-    <desc lang="en">Wanted Sa Radyo (Delayed Telecast).(n)</desc>
-  </programme>
-  <programme start="20240611120000 -0300" stop="20240611143000 -0300" channel="Rptv">
-    <title lang="en">E.A.T. Bulaga (Live)</title>
-    <desc lang="en">E.A.T. Bulaga (Live).(n)</desc>
-  </programme>
-  <programme start="20240611143000 -0300" stop="20240611160000 -0300" channel="Rptv">
-    <title lang="en">Blockbuster Bida: Man Of Tai Chi (Tag)</title>
-    <desc lang="en">Blockbuster Bida: Man Of Tai Chi (Tag).(n)</desc>
-  </programme>
-  <programme start="20240611160000 -0300" stop="20240611183000 -0300" channel="Rptv">
-    <title lang="en">PBA: Angat Ang Laban: R. Hollis-Jefferson</title>
-    <desc lang="en">PBA: Angat Ang Laban: R. Hollis-Jefferson.(n)</desc>
-  </programme>
-  <programme start="20240611183000 -0300" stop="20240611190000 -0300" channel="Rptv">
-    <title lang="en">Jumpball</title>
-    <desc lang="en">Jumpball.(n)</desc>
-  </programme>
-  <programme start="20240611190000 -0300" stop="20240611193000 -0300" channel="Rptv">
-    <title lang="en">Starting Line Up (Live)</title>
-    <desc lang="en">Starting Line Up (Live).(n)</desc>
-  </programme>
-  <programme start="20240611193000 -0300" stop="20240611220000 -0300" channel="Rptv">
-    <title lang="en">PBA: Angat Ang Laban: R. Hollis-Jefferson</title>
-    <desc lang="en">PBA: Angat Ang Laban: R. Hollis-Jefferson.(n)</desc>
-  </programme>
-  <programme start="20240611220000 -0300" stop="20240611223000 -0300" channel="Rptv">
-    <title lang="en">Batas Et Al</title>
-    <desc lang="en">Batas Et Al.(n)</desc>
-  </programme>
-  <programme start="20240611223000 -0300" stop="20240611230000 -0300" channel="Rptv">
-    <title lang="en">Building Bridges</title>
-    <desc lang="en">Building Bridges.(n)</desc>
-  </programme>
-  <programme start="20240611230000 -0300" stop="20240611231500 -0300" channel="Rptv">
-    <title lang="en">Wow Mali Doble Tawa</title>
-    <desc lang="en">Wow Mali Doble Tawa.(n)</desc>
-  </programme>
-  <programme start="20240611231500 -0300" stop="20240612000000 -0300" channel="Rptv">
-    <title lang="en">Frontline Tonight (Delayed Telecast)</title>
-    <desc lang="en">Frontline Tonight (Delayed Telecast).(n)</desc>
-  </programme>
-  <programme start="20240612000000 -0300" stop="20240612055700 -0300" channel="Rptv">
-    <title lang="en">Sign Off</title>
-    <desc lang="en">Sign Off.(n)</desc>
-  </programme>
-  <programme start="20240612055700 -0300" stop="20240612060000 -0300" channel="Rptv">
-    <title lang="en">Sign On</title>
-    <desc lang="en">Sign On.(n)</desc>
-  </programme>
-  <programme start="20240612060000 -0300" stop="20240612100000 -0300" channel="Rptv">
-    <title lang="en">Ted Failon And Dj Chacha (Live)</title>
-    <desc lang="en">Ted Failon And Dj Chacha (Live).(n)</desc>
-  </programme>
-  <programme start="20240612100000 -0300" stop="20240612120000 -0300" channel="Rptv">
-    <title lang="en">Wanted Sa Radyo (Delayed Telecast)</title>
-    <desc lang="en">Wanted Sa Radyo (Delayed Telecast).(n)</desc>
-  </programme>
-  <programme start="20240612120000 -0300" stop="20240612143000 -0300" channel="Rptv">
-    <title lang="en">E.A.T. Bulaga (Live)</title>
-    <desc lang="en">E.A.T. Bulaga (Live).(n)</desc>
-  </programme>
-  <programme start="20240612143000 -0300" stop="20240612160000 -0300" channel="Rptv">
-    <title lang="en">Blockbuster Bida: Safe House (Tag)</title>
-    <desc lang="en">Blockbuster Bida: Safe House (Tag).(n)</desc>
-  </programme>
-  <programme start="20240612160000 -0300" stop="20240612183000 -0300" channel="Rptv">
-    <title lang="en">PBA: Angat Ang Laban: B. Boatwright</title>
-    <desc lang="en">PBA: Angat Ang Laban: B. Boatwright.(n)</desc>
-  </programme>
-  <programme start="20240612183000 -0300" stop="20240612190000 -0300" channel="Rptv">
-    <title lang="en">The Huddle</title>
-    <desc lang="en">The Huddle.(n)</desc>
-  </programme>
-  <programme start="20240612190000 -0300" stop="20240612192000 -0300" channel="Rptv">
-    <title lang="en">Starting Line Up (Live)</title>
-    <desc lang="en">Starting Line Up (Live).(n)</desc>
-  </programme>
-  <programme start="20240612192000 -0300" stop="20240612193000 -0300" channel="Rptv">
-    <title lang="en">Arena Plus (Live)</title>
-    <desc lang="en">Arena Plus (Live).(n)</desc>
-  </programme>
-  <programme start="20240612193000 -0300" stop="20240612193500 -0300" channel="Rptv">
-    <title lang="en">Awarding Of The Best Player Of The Conference (Live)</title>
-    <desc lang="en">Awarding Of The Best Player Of The Conference (Live).(n)</desc>
-  </programme>
-  <programme start="20240612193500 -0300" stop="20240612213000 -0300" channel="Rptv">
-    <title lang="en">2023-2024 PBA 48th Season Philippine Cup: Finals Game 4: Meralco Bolts vs San Miguel Beermen (Live)</title>
-    <desc lang="en">2023-2024 PBA 48th Season Philippine Cup: Finals Game 4: Meralco Bolts vs San Miguel Beermen (Live).(n)</desc>
-  </programme>
-  <programme start="20240612213000 -0300" stop="20240612215000 -0300" channel="Rptv">
-    <title lang="en">Arena Plus (Live)</title>
-    <desc lang="en">Arena Plus (Live).(n)</desc>
-  </programme>
-  <programme start="20240612215000 -0300" stop="20240612220000 -0300" channel="Rptv">
-    <title lang="en">PBA Post-Game Show (Live)</title>
-    <desc lang="en">PBA Post-Game Show (Live).(n)</desc>
-  </programme>
-  <programme start="20240612220000 -0300" stop="20240612223000 -0300" channel="Rptv">
-    <title lang="en">Batas Et Al</title>
-    <desc lang="en">Batas Et Al.(n)</desc>
-  </programme>
-  <programme start="20240612223000 -0300" stop="20240612230000 -0300" channel="Rptv">
-    <title lang="en">Building Bridges</title>
-    <desc lang="en">Building Bridges.(n)</desc>
-  </programme>
-  <programme start="20240612230000 -0300" stop="20240612231500 -0300" channel="Rptv">
-    <title lang="en">Wow Mali Doble Tawa</title>
-    <desc lang="en">Wow Mali Doble Tawa.(n)</desc>
-  </programme>
-  <programme start="20240612231500 -0300" stop="20240613000000 -0300" channel="Rptv">
-    <title lang="en">Frontline Tonight (Delayed Telecast)</title>
-    <desc lang="en">Frontline Tonight (Delayed Telecast).(n)</desc>
-  </programme>
-  <programme start="20240613000000 -0300" stop="20240613055700 -0300" channel="Rptv">
-    <title lang="en">Sign Off</title>
-    <desc lang="en">Sign Off.(n)</desc>
-  </programme>
-  <programme start="20240613055700 -0300" stop="20240613060000 -0300" channel="Rptv">
-    <title lang="en">Sign On</title>
-    <desc lang="en">Sign On.(n)</desc>
-  </programme>
-  <programme start="20240613060000 -0300" stop="20240613082000 -0300" channel="Rptv">
-    <title lang="en">Ted Failon And Dj Chacha (Live)</title>
-    <desc lang="en">Ted Failon And Dj Chacha (Live).(n)</desc>
-  </programme>
-  <programme start="20240613082000 -0300" stop="20240613083000 -0300" channel="Rptv">
-    <title lang="en">Arena Plus (Live)</title>
-    <desc lang="en">Arena Plus (Live).(n)</desc>
-  </programme>
-  <programme start="20240613083000 -0300" stop="20240613110000 -0300" channel="Rptv">
-    <title lang="en">2023-2024 NBA: Finals Game 3: Boston Vs. Dallas (Live)</title>
-    <desc lang="en">2023-2024 NBA: Finals Game 3: Boston Vs. Dallas (Live).(n)</desc>
-  </programme>
-  <programme start="20240613110000 -0300" stop="20240613120000 -0300" channel="Rptv">
-    <title lang="en">Wanted Sa Radyo (Delayed Telecast)</title>
-    <desc lang="en">Wanted Sa Radyo (Delayed Telecast).(n)</desc>
-  </programme>
-  <programme start="20240613120000 -0300" stop="20240613143000 -0300" channel="Rptv">
-    <title lang="en">E.A.T. Bulaga (Live)</title>
-    <desc lang="en">E.A.T. Bulaga (Live).(n)</desc>
-  </programme>
-  <programme start="20240613143000 -0300" stop="20240613160000 -0300" channel="Rptv">
-    <title lang="en">Blockbuster Bida: Inside Man: Most Wanted (Tag)</title>
-    <desc lang="en">Blockbuster Bida: Inside Man: Most Wanted (Tag).(n)</desc>
-  </programme>
-  <programme start="20240613160000 -0300" stop="20240613183000 -0300" channel="Rptv">
-    <title lang="en">2023-2024 NBA: Finals Game 3: Boston Vs. Dallas (Replay - 8:30Am Game)</title>
-    <desc lang="en">2023-2024 NBA: Finals Game 3: Boston Vs. Dallas (Replay - 8:30Am Game).(n)</desc>
-  </programme>
-  <programme start="20240613183000 -0300" stop="20240613190000 -0300" channel="Rptv">
-    <title lang="en">NBA Best Plays</title>
-    <desc lang="en">NBA Best Plays.(n)</desc>
-  </programme>
-  <programme start="20240613190000 -0300" stop="20240613193000 -0300" channel="Rptv">
-    <title lang="en">Starting Line Up (Live)</title>
-    <desc lang="en">Starting Line Up (Live).(n)</desc>
-  </programme>
-  <programme start="20240613193000 -0300" stop="20240613220000 -0300" channel="Rptv">
-    <title lang="en">Best Of The PBA: 2023-2024 PBA 48th Season Philippine Cup: Finals Game 4: Meralco Bolts vs San Miguel Beermen (Replay - June 12, 7:30Pm Game)</title>
-    <desc lang="en">Best Of The PBA: 2023-2024 PBA 48th Season Philippine Cup: Finals Game 4: Meralco Bolts vs San Miguel Beermen (Replay - June 12, 7:30Pm Game).(n)</desc>
-  </programme>
-  <programme start="20240613220000 -0300" stop="20240613223000 -0300" channel="Rptv">
-    <title lang="en">Batas Et Al</title>
-    <desc lang="en">Batas Et Al.(n)</desc>
-  </programme>
-  <programme start="20240613223000 -0300" stop="20240613230000 -0300" channel="Rptv">
-    <title lang="en">Building Bridges</title>
-    <desc lang="en">Building Bridges.(n)</desc>
-  </programme>
-  <programme start="20240613230000 -0300" stop="20240613231500 -0300" channel="Rptv">
-    <title lang="en">Wow Mali Doble Tawa</title>
-    <desc lang="en">Wow Mali Doble Tawa.(n)</desc>
-  </programme>
-  <programme start="20240613231500 -0300" stop="20240614000000 -0300" channel="Rptv">
-    <title lang="en">Frontline Tonight (Delayed Telecast)</title>
-    <desc lang="en">Frontline Tonight (Delayed Telecast).(n)</desc>
-  </programme>
-  <programme start="20240614000000 -0300" stop="20240614055700 -0300" channel="Rptv">
-    <title lang="en">Sign Off</title>
-    <desc lang="en">Sign Off.(n)</desc>
-  </programme>
-  <programme start="20240614055700 -0300" stop="20240614060000 -0300" channel="Rptv">
-    <title lang="en">Sign On</title>
-    <desc lang="en">Sign On.(n)</desc>
-  </programme>
-  <programme start="20240614060000 -0300" stop="20240614100000 -0300" channel="Rptv">
-    <title lang="en">Ted Failon And Dj Chacha (Live)</title>
-    <desc lang="en">Ted Failon And Dj Chacha (Live).(n)</desc>
-  </programme>
-  <programme start="20240614100000 -0300" stop="20240614120000 -0300" channel="Rptv">
-    <title lang="en">Wanted Sa Radyo (Delayed Telecast)</title>
-    <desc lang="en">Wanted Sa Radyo (Delayed Telecast).(n)</desc>
-  </programme>
-  <programme start="20240614120000 -0300" stop="20240614143000 -0300" channel="Rptv">
-    <title lang="en">E.A.T. Bulaga (Live)</title>
-    <desc lang="en">E.A.T. Bulaga (Live).(n)</desc>
-  </programme>
-  <programme start="20240614143000 -0300" stop="20240614160000 -0300" channel="Rptv">
-    <title lang="en">Blockbuster Bida: Warcraft (Tag)</title>
-    <desc lang="en">Blockbuster Bida: Warcraft (Tag).(n)</desc>
-  </programme>
-  <programme start="20240614160000 -0300" stop="20240614183000 -0300" channel="Rptv">
-    <title lang="en">PBA: Angat Ang Laban: Justin Brownlee 2</title>
-    <desc lang="en">PBA: Angat Ang Laban: Justin Brownlee 2.(n)</desc>
-  </programme>
-  <programme start="20240614183000 -0300" stop="20240614190000 -0300" channel="Rptv">
-    <title lang="en">Hotseat</title>
-    <desc lang="en">Hotseat.(n)</desc>
-  </programme>
-  <programme start="20240614190000 -0300" stop="20240614192000 -0300" channel="Rptv">
-    <title lang="en">Starting Line Up (Live)</title>
-    <desc lang="en">Starting Line Up (Live).(n)</desc>
-  </programme>
-  <programme start="20240614192000 -0300" stop="20240614193000 -0300" channel="Rptv">
-    <title lang="en">Arena Plus (Live)</title>
-    <desc lang="en">Arena Plus (Live).(n)</desc>
-  </programme>
-  <programme start="20240614193000 -0300" stop="20240614213000 -0300" channel="Rptv">
-    <title lang="en">2023-2024 PBA 48th Season Philippine Cup: Finals Game 5: San Miguel Beermen vs Meralco Bolts (Live) (If Necessary)</title>
-    <desc lang="en">2023-2024 PBA 48th Season Philippine Cup: Finals Game 5: San Miguel Beermen vs Meralco Bolts (Live) (If Necessary).(n)</desc>
-  </programme>
-  <programme start="20240614213000 -0300" stop="20240614215000 -0300" channel="Rptv">
-    <title lang="en">Arena Plus (Live)</title>
-    <desc lang="en">Arena Plus (Live).(n)</desc>
-  </programme>
-  <programme start="20240614215000 -0300" stop="20240614220000 -0300" channel="Rptv">
-    <title lang="en">PBA Post-Game Show (Live)</title>
-    <desc lang="en">PBA Post-Game Show (Live).(n)</desc>
-  </programme>
-  <programme start="20240614220000 -0300" stop="20240614223000 -0300" channel="Rptv">
-    <title lang="en">Batas Et Al</title>
-    <desc lang="en">Batas Et Al.(n)</desc>
-  </programme>
-  <programme start="20240614223000 -0300" stop="20240614230000 -0300" channel="Rptv">
-    <title lang="en">Building Bridges</title>
-    <desc lang="en">Building Bridges.(n)</desc>
-  </programme>
-  <programme start="20240614230000 -0300" stop="20240614231500 -0300" channel="Rptv">
-    <title lang="en">Wow Mali Doble Tawa</title>
-    <desc lang="en">Wow Mali Doble Tawa.(n)</desc>
-  </programme>
-  <programme start="20240614231500 -0300" stop="20240615000000 -0300" channel="Rptv">
-    <title lang="en">Frontline Tonight (Delayed Telecast)</title>
-    <desc lang="en">Frontline Tonight (Delayed Telecast).(n)</desc>
-  </programme>
-  <programme start="20240615000000 -0300" stop="20240615055700 -0300" channel="Rptv">
-    <title lang="en">Sign Off</title>
-    <desc lang="en">Sign Off.(n)</desc>
-  </programme>
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20240719">
+<channel id="137"><display-name>Solar Flix</display-name><url>https://clickthecity.com</url></channel>
+<channel id="163"><display-name>Crime Investigation</display-name><url>https://clickthecity.com</url></channel>
+<channel id="A2Z.ph"><display-name>A2Z</display-name><url>https://clickthecity.com</url></channel>
+<channel id="ANC.ph"><display-name>ANC</display-name><url>https://clickthecity.com</url></channel>
+<channel id="Animax.ph"><display-name>Animax</display-name><url>https://clickthecity.com</url></channel>
+<channel id="AXN.ph"><display-name>AXN</display-name><url>https://clickthecity.com</url></channel>
+<channel id="CelestialMoviesPinoy.hk"><display-name>Celestial Movies Pinoy</display-name><url>https://clickthecity.com</url></channel>
+<channel id="CinemaOneGlobal.ph"><display-name>Cinema One Global</display-name><url>https://clickthecity.com</url></channel>
+<channel id="CinemaxAsia.sg"><display-name>Cinemax Asia</display-name><url>https://clickthecity.com</url></channel>
+<channel id="CNNPhilippines.ph"><display-name>CNN Philippines</display-name><url>https://clickthecity.com</url></channel>
+<channel id="GEM.sg"><display-name>GEM</display-name><url>https://clickthecity.com</url></channel>
+<channel id="GMATV.ph"><display-name>GMA TV</display-name><url>https://clickthecity.com</url></channel>
+<channel id="GTV.ph"><display-name>GTV</display-name><url>https://clickthecity.com</url></channel>
+<channel id="History.ph"><display-name>History</display-name><url>https://clickthecity.com</url></channel>
+<channel id="IBC13.ph"><display-name>IBC 13</display-name><url>https://clickthecity.com</url></channel>
+<channel id="JeepneyTV.ph"><display-name>Jeepney TV</display-name><url>https://clickthecity.com</url></channel>
+<channel id="KapamilyaChannel.ph"><display-name>Kapamilya Channel</display-name><url>https://clickthecity.com</url></channel>
+<channel id="KMoviesPinoy.ph"><display-name>K Movies Pinoy</display-name><url>https://clickthecity.com</url></channel>
+<channel id="Liga.ph"><display-name>Liga</display-name><url>https://clickthecity.com</url></channel>
+<channel id="MetroChannel.ph"><display-name>Metro Channel</display-name><url>https://clickthecity.com</url></channel>
+<channel id="MyxPhilippines.ph"><display-name>Myx Philippines</display-name><url>https://clickthecity.com</url></channel>
+<channel id="NationalGeographic.ph"><display-name>National Geographic</display-name><url>https://clickthecity.com</url></channel>
+<channel id="Net25.ph"><display-name>Net 25</display-name><url>https://clickthecity.com</url></channel>
+<channel id="Nickelodeon.ph"><display-name>Nickelodeon</display-name><url>https://clickthecity.com</url></channel>
+<channel id="PBO.ph"><display-name>PBO</display-name><url>https://clickthecity.com</url></channel>
+<channel id="PTV.ph"><display-name>PTV</display-name><url>https://clickthecity.com</url></channel>
+<channel id="ROCKEntertainment.sg"><display-name>ROCK Entertainment</display-name><url>https://clickthecity.com</url></channel>
+<channel id="ROCKExtreme.sg"><display-name>ROCK Extreme</display-name><url>https://clickthecity.com</url></channel>
+<channel id="TagalizedMovieChannel.ph"><display-name>Tagalized Movie Channel</display-name><url>https://clickthecity.com</url></channel>
+<channel id="TeleNovelaChannel.ph"><display-name>TeleNovela Channel</display-name><url>https://clickthecity.com</url></channel>
+<channel id="TV5.ph"><display-name>TV5</display-name><url>https://clickthecity.com</url></channel>
+<channel id="VivaCinema.ph"><display-name>Viva Cinema</display-name><url>https://clickthecity.com</url></channel>
+<programme start="20240718160000 +0000" stop="20240718170000 +0000" channel="137"><title lang="en">My Sweet Lie</title></programme>
+<programme start="20240718160000 +0000" stop="20240718180000 +0000" channel="137"><title lang="en">I, Tonya</title></programme>
+<programme start="20240718170000 +0000" stop="20240718180000 +0000" channel="137"><title lang="en">A Kiss in The Rain</title></programme>
+<programme start="20240718180000 +0000" stop="20240718200000 +0000" channel="137"><title lang="en">Paligayahin Mo Ako</title></programme>
+<programme start="20240718200000 +0000" stop="20240718220000 +0000" channel="137"><title lang="en">Colossal</title></programme>
+<programme start="20240718220000 +0000" stop="20240719000000 +0000" channel="137"><title lang="en">Three Men And A Lola</title></programme>
+<programme start="20240719000000 +0000" stop="20240719020000 +0000" channel="137"><title lang="en">Partida</title></programme>
+<programme start="20240719020000 +0000" stop="20240719030000 +0000" channel="137"><title lang="en">Oras Ng Himala</title></programme>
+<programme start="20240719030000 +0000" stop="20240719040000 +0000" channel="137"><title lang="en">Forbidden Fruit</title></programme>
+<programme start="20240719040000 +0000" stop="20240719050000 +0000" channel="137"><title lang="en">Monkey and Dog Romance</title></programme>
+<programme start="20240719050000 +0000" stop="20240719053000 +0000" channel="137"><title lang="en">Marimar</title></programme>
+<programme start="20240719053000 +0000" stop="20240719060000 +0000" channel="137"><title lang="en">Shop Tv</title></programme>
+<programme start="20240719060000 +0000" stop="20240719080000 +0000" channel="137"><title lang="en">Bakit Manipis Ang Ulap?</title></programme>
+<programme start="20240719080000 +0000" stop="20240719100000 +0000" channel="137"><title lang="en">Colossal</title></programme>
+<programme start="20240719100000 +0000" stop="20240719120000 +0000" channel="137"><title lang="en">Wapakman</title></programme>
+<programme start="20240719120000 +0000" stop="20240719130000 +0000" channel="137"><title lang="en">Forbidden Fruit</title></programme>
+<programme start="20240719130000 +0000" stop="20240719140000 +0000" channel="137"><title lang="en">Monkey and Dog Romance</title></programme>
+<programme start="20240719140000 +0000" stop="20240719160000 +0000" channel="137"><title lang="en">Starlet</title></programme>
+<programme start="20240719160000 +0000" stop="20240719180000 +0000" channel="137"><title lang="en">I, Tonya</title></programme>
+<programme start="20240719160000 +0000" stop="20240719180000 +0000" channel="137"><title lang="en">Three Men And A Lola</title></programme>
+<programme start="20240719180000 +0000" stop="20240719200000 +0000" channel="137"><title lang="en">Dalhin Mo Ako Sa Langit</title></programme>
+<programme start="20240719200000 +0000" stop="20240719220000 +0000" channel="137"><title lang="en">Spotlight</title></programme>
+<programme start="20240719220000 +0000" stop="20240720000000 +0000" channel="137"><title lang="en">Liwanag Sa Kabila Ng Dilim</title></programme>
+<programme start="20240720000000 +0000" stop="20240720010000 +0000" channel="137"><title lang="en">Margaha Filmfest Short 2024 Set A</title></programme>
+<programme start="20240720010000 +0000" stop="20240720020000 +0000" channel="137"><title lang="en">Margaha Filmfest Short 2024 Set B</title></programme>
+<programme start="20240720020000 +0000" stop="20240720030000 +0000" channel="137"><title lang="en">Oras Ng Himala</title></programme>
+<programme start="20240720030000 +0000" stop="20240720050000 +0000" channel="137"><title lang="en">Marimar</title></programme>
+<programme start="20240720050000 +0000" stop="20240720100000 +0000" channel="137"><title lang="en">Forbidden Fruit</title></programme>
+<programme start="20240720100000 +0000" stop="20240720120000 +0000" channel="137"><title lang="en">The War in Space</title></programme>
+<programme start="20240720120000 +0000" stop="20240720140000 +0000" channel="137"><title lang="en">The Night We Met</title></programme>
+<programme start="20240720140000 +0000" stop="20240720160000 +0000" channel="137"><title lang="en">Plastic</title></programme>
+<programme start="20240718162500 +0000" stop="20240718172000 +0000" channel="163"><title lang="en">Accused: Guilty Or Innocent? S3</title></programme>
+<programme start="20240718172000 +0000" stop="20240718181500 +0000" channel="163"><title lang="en">#TextMeWhenYouGetHome S2</title></programme>
+<programme start="20240718181500 +0000" stop="20240718191000 +0000" channel="163"><title lang="en">#TextMeWhenYouGetHome</title></programme>
+<programme start="20240718191000 +0000" stop="20240718200500 +0000" channel="163"><title lang="en">The First 48 Presents: Critical Minutes S2</title></programme>
+<programme start="20240718200500 +0000" stop="20240718210000 +0000" channel="163"><title lang="en">Cruise Ship Killers S2</title></programme>
+<programme start="20240718210000 +0000" stop="20240718220000 +0000" channel="163"><title lang="en">The Torso Killer Confessions</title></programme>
+<programme start="20240718220000 +0000" stop="20240718225000 +0000" channel="163"><title lang="en">Cold Case Files S2</title></programme>
+<programme start="20240718225000 +0000" stop="20240718234500 +0000" channel="163"><title lang="en">Cold Case Files S2</title></programme>
+<programme start="20240718234500 +0000" stop="20240719004000 +0000" channel="163"><title lang="en">Interrogation Raw</title></programme>
+<programme start="20240719004000 +0000" stop="20240719013500 +0000" channel="163"><title lang="en">The First 48 Presents: Critical Minutes S2</title></programme>
+<programme start="20240719013500 +0000" stop="20240719023000 +0000" channel="163"><title lang="en">Cruise Ship Killers S2</title></programme>
+<programme start="20240719023000 +0000" stop="20240719032500 +0000" channel="163"><title lang="en">The Torso Killer Confessions</title></programme>
+<programme start="20240719032500 +0000" stop="20240719042000 +0000" channel="163"><title lang="en">Accused: Guilty Or Innocent? S3</title></programme>
+<programme start="20240719042000 +0000" stop="20240719051500 +0000" channel="163"><title lang="en">#TextMeWhenYouGetHome S2</title></programme>
+<programme start="20240719051500 +0000" stop="20240719061000 +0000" channel="163"><title lang="en">#TextMeWhenYouGetHome</title></programme>
+<programme start="20240719061000 +0000" stop="20240719070500 +0000" channel="163"><title lang="en">Cold Case Files S2</title></programme>
+<programme start="20240719070500 +0000" stop="20240719080000 +0000" channel="163"><title lang="en">Cold Case Files S2</title></programme>
+<programme start="20240719080000 +0000" stop="20240719085500 +0000" channel="163"><title lang="en">Interrogation Raw</title></programme>
+<programme start="20240719085500 +0000" stop="20240719094500 +0000" channel="163"><title lang="en">The First 48 Presents: Critical Minutes S2</title></programme>
+<programme start="20240719094500 +0000" stop="20240719103500 +0000" channel="163"><title lang="en">First Blood S1</title></programme>
+<programme start="20240719103500 +0000" stop="20240719112500 +0000" channel="163"><title lang="en">I Survived A Crime S2</title></programme>
+<programme start="20240719112500 +0000" stop="20240719121500 +0000" channel="163"><title lang="en">City Confidential S7</title></programme>
+<programme start="20240719121500 +0000" stop="20240719130500 +0000" channel="163"><title lang="en">City Confidential S7</title></programme>
+<programme start="20240719130500 +0000" stop="20240719133000 +0000" channel="163"><title lang="en">Court Cam: Top Five Accused Killers</title></programme>
+<programme start="20240719133000 +0000" stop="20240719135500 +0000" channel="163"><title lang="en">Court Cam: Top Five Accused Killers S2</title></programme>
+<programme start="20240719135500 +0000" stop="20240719144500 +0000" channel="163"><title lang="en">Booked: First Day In</title></programme>
+<programme start="20240719144500 +0000" stop="20240719153500 +0000" channel="163"><title lang="en">Surviving Jeffrey Epstein</title></programme>
+<programme start="20240719153500 +0000" stop="20240719162500 +0000" channel="163"><title lang="en">Green Eyed Killers</title></programme>
+<programme start="20240719162500 +0000" stop="20240719165000 +0000" channel="163"><title lang="en">Court Cam: Top Five Accused Killers</title></programme>
+<programme start="20240719165000 +0000" stop="20240719172000 +0000" channel="163"><title lang="en">Court Cam: Top Five Accused Killers S2</title></programme>
+<programme start="20240719172000 +0000" stop="20240719181500 +0000" channel="163"><title lang="en">Booked: First Day In</title></programme>
+<programme start="20240719181500 +0000" stop="20240719191000 +0000" channel="163"><title lang="en">Surviving Jeffrey Epstein</title></programme>
+<programme start="20240719191000 +0000" stop="20240719200500 +0000" channel="163"><title lang="en">The First 48 Presents: Critical Minutes S2</title></programme>
+<programme start="20240719200500 +0000" stop="20240719210000 +0000" channel="163"><title lang="en">First Blood S1</title></programme>
+<programme start="20240719210000 +0000" stop="20240719220000 +0000" channel="163"><title lang="en">I Survived A Crime S2</title></programme>
+<programme start="20240719220000 +0000" stop="20240719225000 +0000" channel="163"><title lang="en">City Confidential S7</title></programme>
+<programme start="20240719225000 +0000" stop="20240719234500 +0000" channel="163"><title lang="en">City Confidential S7</title></programme>
+<programme start="20240719234500 +0000" stop="20240720004000 +0000" channel="163"><title lang="en">Green Eyed Killers</title></programme>
+<programme start="20240720004000 +0000" stop="20240720013500 +0000" channel="163"><title lang="en">The First 48 Presents: Critical Minutes S2</title></programme>
+<programme start="20240720013500 +0000" stop="20240720023000 +0000" channel="163"><title lang="en">First Blood S1</title></programme>
+<programme start="20240720023000 +0000" stop="20240720032500 +0000" channel="163"><title lang="en">I Survived A Crime S2</title></programme>
+<programme start="20240720032500 +0000" stop="20240720035000 +0000" channel="163"><title lang="en">Court Cam: Top Five Accused Killers</title></programme>
+<programme start="20240720035000 +0000" stop="20240720042000 +0000" channel="163"><title lang="en">Court Cam: Top Five Accused Killers S2</title></programme>
+<programme start="20240720042000 +0000" stop="20240720051500 +0000" channel="163"><title lang="en">Booked: First Day In</title></programme>
+<programme start="20240720051500 +0000" stop="20240720061000 +0000" channel="163"><title lang="en">Surviving Jeffrey Epstein</title></programme>
+<programme start="20240720061000 +0000" stop="20240720070500 +0000" channel="163"><title lang="en">City Confidential S7</title></programme>
+<programme start="20240720070500 +0000" stop="20240720080000 +0000" channel="163"><title lang="en">City Confidential S7</title></programme>
+<programme start="20240720080000 +0000" stop="20240720085500 +0000" channel="163"><title lang="en">Green Eyed Killers</title></programme>
+<programme start="20240720085500 +0000" stop="20240720094500 +0000" channel="163"><title lang="en">Evil Up Close S6</title></programme>
+<programme start="20240720094500 +0000" stop="20240720103500 +0000" channel="163"><title lang="en">American Justice</title></programme>
+<programme start="20240720103500 +0000" stop="20240720112500 +0000" channel="163"><title lang="en">Accused: Guilty Or Innocent? S3</title></programme>
+<programme start="20240720112500 +0000" stop="20240720121500 +0000" channel="163"><title lang="en">Court Cam S5</title></programme>
+<programme start="20240720121500 +0000" stop="20240720130500 +0000" channel="163"><title lang="en">Celebrity Ghost Stories</title></programme>
+<programme start="20240720130500 +0000" stop="20240720135500 +0000" channel="163"><title lang="en">Accused: Guilty Or Innocent?</title></programme>
+<programme start="20240720135500 +0000" stop="20240720144500 +0000" channel="163"><title lang="en">The First 48 S24</title></programme>
+<programme start="20240720144500 +0000" stop="20240720153500 +0000" channel="163"><title lang="en">The First 48 S24</title></programme>
+<programme start="20240720153500 +0000" stop="20240720162500 +0000" channel="163"><title lang="en">Witness To Murder: Digital Evidence</title></programme>
+<programme start="20240718210000 +0000" stop="20240718220000 +0000" channel="A2Z.ph"><title lang="en">Shuffle</title></programme>
+<programme start="20240718220000 +0000" stop="20240718230000 +0000" channel="A2Z.ph"><title lang="en">Bro. Eddie Villanueva Classics</title></programme>
+<programme start="20240718230000 +0000" stop="20240719000000 +0000" channel="A2Z.ph"><title lang="en">A2Z School at Home</title></programme>
+<programme start="20240719000000 +0000" stop="20240719003000 +0000" channel="A2Z.ph"><title lang="en">Flying House</title></programme>
+<programme start="20240719003000 +0000" stop="20240719010000 +0000" channel="A2Z.ph"><title lang="en">Superbook Reimagined</title></programme>
+<programme start="20240719010000 +0000" stop="20240719020000 +0000" channel="A2Z.ph"><title lang="en">Magandang Buhay</title></programme>
+<programme start="20240719020000 +0000" stop="20240719040000 +0000" channel="A2Z.ph"><title lang="en">Zinema Sa Umaga</title></programme>
+<programme start="20240719040000 +0000" stop="20240719063000 +0000" channel="A2Z.ph"><title lang="en">It&apos;s Showtime</title></programme>
+<programme start="20240719063000 +0000" stop="20240719071500 +0000" channel="A2Z.ph"><title lang="en">Dirty Linen</title></programme>
+<programme start="20240719071500 +0000" stop="20240719080000 +0000" channel="A2Z.ph"><title lang="en">Mars Ravelo&apos;s Darna: The TV Series</title></programme>
+<programme start="20240719080000 +0000" stop="20240719093000 +0000" channel="A2Z.ph"><title lang="en">Afternoon Zinema</title></programme>
+<programme start="20240719093000 +0000" stop="20240719094500 +0000" channel="A2Z.ph"><title lang="en">TV Patrol Express</title></programme>
+<programme start="20240719094500 +0000" stop="20240719103000 +0000" channel="A2Z.ph"><title lang="en">Goin&apos; Bulilit</title></programme>
+<programme start="20240719103000 +0000" stop="20240719120000 +0000" channel="A2Z.ph"><title lang="en">TV Patrol</title></programme>
+<programme start="20240719120000 +0000" stop="20240719124500 +0000" channel="A2Z.ph"><title lang="en">FPJ&apos;s Batang Quiapo</title></programme>
+<programme start="20240719124500 +0000" stop="20240719133000 +0000" channel="A2Z.ph"><title lang="en">Pamilya Sagrado</title></programme>
+<programme start="20240719133000 +0000" stop="20240719141500 +0000" channel="A2Z.ph"><title lang="en">High Street</title></programme>
+<programme start="20240719141500 +0000" stop="20240719144500 +0000" channel="A2Z.ph"><title lang="en">Starhunt: The Audition Show</title></programme>
+<programme start="20240719144500 +0000" stop="20240719151500 +0000" channel="A2Z.ph"><title lang="en">Balitang A2Z</title></programme>
+<programme start="20240719151500 +0000" stop="20240719160000 +0000" channel="A2Z.ph"><title lang="en">Bro. Eddie Villanueva Classics</title></programme>
+<programme start="20240719220000 +0000" stop="20240719230000 +0000" channel="A2Z.ph"><title lang="en">Shuffle</title></programme>
+<programme start="20240719230000 +0000" stop="20240720000000 +0000" channel="A2Z.ph"><title lang="en">Jesus The Healer</title></programme>
+<programme start="20240720000000 +0000" stop="20240720001500 +0000" channel="A2Z.ph"><title lang="en">Bubu and The Little Owls</title></programme>
+<programme start="20240720001500 +0000" stop="20240720003000 +0000" channel="A2Z.ph"><title lang="en">Dinoman</title></programme>
+<programme start="20240720003000 +0000" stop="20240720010000 +0000" channel="A2Z.ph"><title lang="en">Team Yey</title></programme>
+<programme start="20240720010000 +0000" stop="20240720020000 +0000" channel="A2Z.ph"><title lang="en">Super Inggo</title></programme>
+<programme start="20240720020000 +0000" stop="20240720040000 +0000" channel="A2Z.ph"><title lang="en">Zinema Sa Umaga</title></programme>
+<programme start="20240720040000 +0000" stop="20240720063000 +0000" channel="A2Z.ph"><title lang="en">It&apos;s Showtime</title></programme>
+<programme start="20240720063000 +0000" stop="20240720071500 +0000" channel="A2Z.ph"><title lang="en">Dirty Linen</title></programme>
+<programme start="20240720071500 +0000" stop="20240720083000 +0000" channel="A2Z.ph"><title lang="en">Zine Aksyon</title></programme>
+<programme start="20240720083000 +0000" stop="20240720093000 +0000" channel="A2Z.ph"><title lang="en">Goin&apos; Bulilit</title></programme>
+<programme start="20240720093000 +0000" stop="20240720101500 +0000" channel="A2Z.ph"><title lang="en">TV Patrol Weekend</title></programme>
+<programme start="20240720101500 +0000" stop="20240720111500 +0000" channel="A2Z.ph"><title lang="en">Rated Korina</title></programme>
+<programme start="20240720111500 +0000" stop="20240720123000 +0000" channel="A2Z.ph"><title lang="en">Rainbow Rumble</title></programme>
+<programme start="20240720123000 +0000" stop="20240720133000 +0000" channel="A2Z.ph"><title lang="en">Pinoy Big Brother Gen 11</title></programme>
+<programme start="20240720133000 +0000" stop="20240720141500 +0000" channel="A2Z.ph"><title lang="en">Count Your Lucky Stars</title></programme>
+<programme start="20240720141500 +0000" stop="20240720160000 +0000" channel="A2Z.ph"><title lang="en">Jesus The Healer</title></programme>
+<programme start="20240718160000 +0000" stop="20240718163000 +0000" channel="ANC.ph"><title lang="en">The World Tonight</title></programme>
+<programme start="20240718160000 +0000" stop="20240718163000 +0000" channel="ANC.ph"><title lang="en">The World Tonight</title></programme>
+<programme start="20240718163000 +0000" stop="20240718170000 +0000" channel="ANC.ph"><title lang="en">Women of Style</title></programme>
+<programme start="20240718170000 +0000" stop="20240718180000 +0000" channel="ANC.ph"><title lang="en">Headstart</title></programme>
+<programme start="20240718180000 +0000" stop="20240718183000 +0000" channel="ANC.ph"><title lang="en">#NoFilter</title></programme>
+<programme start="20240718183000 +0000" stop="20240718190000 +0000" channel="ANC.ph"><title lang="en">My Italy with Margarita</title></programme>
+<programme start="20240718190000 +0000" stop="20240718193000 +0000" channel="ANC.ph"><title lang="en">At The Moment</title></programme>
+<programme start="20240718193000 +0000" stop="20240718200000 +0000" channel="ANC.ph"><title lang="en">Casa Daza</title></programme>
+<programme start="20240718200000 +0000" stop="20240718203000 +0000" channel="ANC.ph"><title lang="en">Dwellings</title></programme>
+<programme start="20240718203000 +0000" stop="20240718210000 +0000" channel="ANC.ph"><title lang="en">Arts.21</title></programme>
+<programme start="20240718210000 +0000" stop="20240718213000 +0000" channel="ANC.ph"><title lang="en">EIC on The Move</title></programme>
+<programme start="20240718213000 +0000" stop="20240718220000 +0000" channel="ANC.ph"><title lang="en">Ride: Fei Originals</title></programme>
+<programme start="20240718220000 +0000" stop="20240718230000 +0000" channel="ANC.ph"><title lang="en">Business Roadshow</title></programme>
+<programme start="20240718230000 +0000" stop="20240718233000 +0000" channel="ANC.ph"><title lang="en">ANC Rundown</title></programme>
+<programme start="20240718233000 +0000" stop="20240719000000 +0000" channel="ANC.ph"><title lang="en">Business Outlook</title></programme>
+<programme start="20240719000000 +0000" stop="20240719010000 +0000" channel="ANC.ph"><title lang="en">Headstart</title></programme>
+<programme start="20240719010000 +0000" stop="20240719020000 +0000" channel="ANC.ph"><title lang="en">Market Edge</title></programme>
+<programme start="20240719020000 +0000" stop="20240719023000 +0000" channel="ANC.ph"><title lang="en">Local Legends</title></programme>
+<programme start="20240719023000 +0000" stop="20240719030000 +0000" channel="ANC.ph"><title lang="en">Hot Copy on Headstart</title></programme>
+<programme start="20240719030000 +0000" stop="20240719033000 +0000" channel="ANC.ph"><title lang="en">Global 3000</title></programme>
+<programme start="20240719033000 +0000" stop="20240719040000 +0000" channel="ANC.ph"><title lang="en">Rev</title></programme>
+<programme start="20240719040000 +0000" stop="20240719050000 +0000" channel="ANC.ph"><title lang="en">Dateline Philippines</title></programme>
+<programme start="20240719050000 +0000" stop="20240719060000 +0000" channel="ANC.ph"><title lang="en">24x24</title></programme>
+<programme start="20240719060000 +0000" stop="20240719063000 +0000" channel="ANC.ph"><title lang="en">In Good Shape</title></programme>
+<programme start="20240719063000 +0000" stop="20240719070000 +0000" channel="ANC.ph"><title lang="en">Dayaw</title></programme>
+<programme start="20240719070000 +0000" stop="20240719080000 +0000" channel="ANC.ph"><title lang="en">Business Roadshow</title></programme>
+<programme start="20240719080000 +0000" stop="20240719083000 +0000" channel="ANC.ph"><title lang="en">Insight with April Lee-Tan</title></programme>
+<programme start="20240719083000 +0000" stop="20240719090000 +0000" channel="ANC.ph"><title lang="en">Tomorrow Today</title></programme>
+<programme start="20240719090000 +0000" stop="20240719100000 +0000" channel="ANC.ph"><title lang="en">Top Story</title></programme>
+<programme start="20240719100000 +0000" stop="20240719103000 +0000" channel="ANC.ph"><title lang="en">LSS: The Martin Nievera Show</title></programme>
+<programme start="20240719103000 +0000" stop="20240719120000 +0000" channel="ANC.ph"><title lang="en">TV Patrol</title></programme>
+<programme start="20240719120000 +0000" stop="20240719123000 +0000" channel="ANC.ph"><title lang="en">Business Outlook</title></programme>
+<programme start="20240719123000 +0000" stop="20240719130000 +0000" channel="ANC.ph"><title lang="en">At The Moment</title></programme>
+<programme start="20240719130000 +0000" stop="20240719133000 +0000" channel="ANC.ph"><title lang="en">The World Tonight</title></programme>
+<programme start="20240719133000 +0000" stop="20240719140000 +0000" channel="ANC.ph"><title lang="en">LSS: The Martin Nievera Show</title></programme>
+<programme start="20240719140000 +0000" stop="20240719143000 +0000" channel="ANC.ph"><title lang="en">Check-In</title></programme>
+<programme start="20240719143000 +0000" stop="20240719150000 +0000" channel="ANC.ph"><title lang="en">Rev</title></programme>
+<programme start="20240719150000 +0000" stop="20240719160000 +0000" channel="ANC.ph"><title lang="en">Chasing Flavors</title></programme>
+<programme start="20240719160000 +0000" stop="20240719163000 +0000" channel="ANC.ph"><title lang="en">The World Tonight</title></programme>
+<programme start="20240719160000 +0000" stop="20240719163000 +0000" channel="ANC.ph"><title lang="en">The World Tonight</title></programme>
+<programme start="20240719163000 +0000" stop="20240719170000 +0000" channel="ANC.ph"><title lang="en">Insight with April Lee-Tan</title></programme>
+<programme start="20240719170000 +0000" stop="20240719180000 +0000" channel="ANC.ph"><title lang="en">Headstart</title></programme>
+<programme start="20240719180000 +0000" stop="20240719183000 +0000" channel="ANC.ph"><title lang="en">Local Legends</title></programme>
+<programme start="20240719183000 +0000" stop="20240719190000 +0000" channel="ANC.ph"><title lang="en">Green Living</title></programme>
+<programme start="20240719190000 +0000" stop="20240719193000 +0000" channel="ANC.ph"><title lang="en">EIC on The Move</title></programme>
+<programme start="20240719193000 +0000" stop="20240719200000 +0000" channel="ANC.ph"><title lang="en">At The Moment</title></programme>
+<programme start="20240719200000 +0000" stop="20240719210000 +0000" channel="ANC.ph"><title lang="en">Beached</title></programme>
+<programme start="20240719210000 +0000" stop="20240719213000 +0000" channel="ANC.ph"><title lang="en">Women of Style</title></programme>
+<programme start="20240719213000 +0000" stop="20240719220000 +0000" channel="ANC.ph"><title lang="en">Executive Class</title></programme>
+<programme start="20240719220000 +0000" stop="20240719230000 +0000" channel="ANC.ph"><title lang="en">Business Roadshow</title></programme>
+<programme start="20240719230000 +0000" stop="20240719233000 +0000" channel="ANC.ph"><title lang="en">ANC Rundown</title></programme>
+<programme start="20240719233000 +0000" stop="20240720000000 +0000" channel="ANC.ph"><title lang="en">Business Outlook</title></programme>
+<programme start="20240720000000 +0000" stop="20240720003000 +0000" channel="ANC.ph"><title lang="en">The World Sailing Show</title></programme>
+<programme start="20240720003000 +0000" stop="20240720010000 +0000" channel="ANC.ph"><title lang="en">Michelin Le Man Cup</title></programme>
+<programme start="20240720010000 +0000" stop="20240720013000 +0000" channel="ANC.ph"><title lang="en">ANC Conversations</title></programme>
+<programme start="20240720013000 +0000" stop="20240720020000 +0000" channel="ANC.ph"><title lang="en">Casa Daza</title></programme>
+<programme start="20240720020000 +0000" stop="20240720023000 +0000" channel="ANC.ph"><title lang="en">ANC Rundown</title></programme>
+<programme start="20240720023000 +0000" stop="20240720030000 +0000" channel="ANC.ph"><title lang="en">#NoFilter</title></programme>
+<programme start="20240720030000 +0000" stop="20240720033000 +0000" channel="ANC.ph"><title lang="en">Dayaw</title></programme>
+<programme start="20240720033000 +0000" stop="20240720040000 +0000" channel="ANC.ph"><title lang="en">My Puhunan Kaya Mo!</title></programme>
+<programme start="20240720040000 +0000" stop="20240720050000 +0000" channel="ANC.ph"><title lang="en">Dateline Philippines</title></programme>
+<programme start="20240720050000 +0000" stop="20240720053000 +0000" channel="ANC.ph"><title lang="en">Insight with April Lee-Tan</title></programme>
+<programme start="20240720053000 +0000" stop="20240720060000 +0000" channel="ANC.ph"><title lang="en">Rev</title></programme>
+<programme start="20240720060000 +0000" stop="20240720063000 +0000" channel="ANC.ph"><title lang="en">Asian Air Safari</title></programme>
+<programme start="20240720063000 +0000" stop="20240720070000 +0000" channel="ANC.ph"><title lang="en">Hot Copy on Headstart</title></programme>
+<programme start="20240720070000 +0000" stop="20240720080000 +0000" channel="ANC.ph"><title lang="en">Chasing Flavors</title></programme>
+<programme start="20240720080000 +0000" stop="20240720083000 +0000" channel="ANC.ph"><title lang="en">Tao Po!</title></programme>
+<programme start="20240720083000 +0000" stop="20240720090000 +0000" channel="ANC.ph"><title lang="en">Entrep Lab</title></programme>
+<programme start="20240720090000 +0000" stop="20240720093000 +0000" channel="ANC.ph"><title lang="en">Top Story Weekend</title></programme>
+<programme start="20240720093000 +0000" stop="20240720101500 +0000" channel="ANC.ph"><title lang="en">TV Patrol Weekend</title></programme>
+<programme start="20240720101500 +0000" stop="20240720103000 +0000" channel="ANC.ph"><title lang="en">Gourmet Takeaway</title></programme>
+<programme start="20240720103000 +0000" stop="20240720110000 +0000" channel="ANC.ph"><title lang="en">LSS: The Martin Nievera Show</title></programme>
+<programme start="20240720110000 +0000" stop="20240720113000 +0000" channel="ANC.ph"><title lang="en">At The Moment</title></programme>
+<programme start="20240720113000 +0000" stop="20240720120000 +0000" channel="ANC.ph"><title lang="en">My Italy with Margarita</title></programme>
+<programme start="20240720120000 +0000" stop="20240720123000 +0000" channel="ANC.ph"><title lang="en">Mobil 1 The Grid</title></programme>
+<programme start="20240720123000 +0000" stop="20240720130000 +0000" channel="ANC.ph"><title lang="en">Rev</title></programme>
+<programme start="20240720130000 +0000" stop="20240720133000 +0000" channel="ANC.ph"><title lang="en">The World Tonight</title></programme>
+<programme start="20240720133000 +0000" stop="20240720140000 +0000" channel="ANC.ph"><title lang="en">Executive Class</title></programme>
+<programme start="20240720140000 +0000" stop="20240720150000 +0000" channel="ANC.ph"><title lang="en">Asian Le Mans Series</title></programme>
+<programme start="20240720150000 +0000" stop="20240720160000 +0000" channel="ANC.ph"><title lang="en">Metabeats</title></programme>
+<programme start="20240718160000 +0000" stop="20240718170000 +0000" channel="Animax.ph"><title lang="en">Y School Heroes</title></programme>
+<programme start="20240718160000 +0000" stop="20240718170000 +0000" channel="Animax.ph"><title lang="en">Y School Heroes</title></programme>
+<programme start="20240718170000 +0000" stop="20240718180000 +0000" channel="Animax.ph"><title lang="en">Tokyo Revengers</title></programme>
+<programme start="20240718180000 +0000" stop="20240718183000 +0000" channel="Animax.ph"><title lang="en">Kuroko&apos;s Basketball</title></programme>
+<programme start="20240718183000 +0000" stop="20240718193000 +0000" channel="Animax.ph"><title lang="en">The Detective Is Already Dead</title></programme>
+<programme start="20240718193000 +0000" stop="20240718200000 +0000" channel="Animax.ph"><title lang="en">How A Realist Hero Rebuilt The Kingdom</title></programme>
+<programme start="20240718200000 +0000" stop="20240718203000 +0000" channel="Animax.ph"><title lang="en">Fena: Pirate Princess</title></programme>
+<programme start="20240718203000 +0000" stop="20240718213000 +0000" channel="Animax.ph"><title lang="en">Tokyo Revengers</title></programme>
+<programme start="20240718213000 +0000" stop="20240718220000 +0000" channel="Animax.ph"><title lang="en">Horimiya</title></programme>
+<programme start="20240718220000 +0000" stop="20240718223000 +0000" channel="Animax.ph"><title lang="en">Fena: Pirate Princess</title></programme>
+<programme start="20240718223000 +0000" stop="20240718230000 +0000" channel="Animax.ph"><title lang="en">How A Realist Hero Rebuilt The Kingdom</title></programme>
+<programme start="20240718230000 +0000" stop="20240719000000 +0000" channel="Animax.ph"><title lang="en">Lupin The 3rd Part 6</title></programme>
+<programme start="20240719000000 +0000" stop="20240719010000 +0000" channel="Animax.ph"><title lang="en">The Detective Is Already Dead</title></programme>
+<programme start="20240719010000 +0000" stop="20240719013000 +0000" channel="Animax.ph"><title lang="en">Kuroko&apos;s Basketball</title></programme>
+<programme start="20240719013000 +0000" stop="20240719023000 +0000" channel="Animax.ph"><title lang="en">Y School Heroes</title></programme>
+<programme start="20240719023000 +0000" stop="20240719030000 +0000" channel="Animax.ph"><title lang="en">How A Realist Hero Rebuilt The Kingdom</title></programme>
+<programme start="20240719030000 +0000" stop="20240719040000 +0000" channel="Animax.ph"><title lang="en">Lupin The 3rd Part 6</title></programme>
+<programme start="20240719040000 +0000" stop="20240719050000 +0000" channel="Animax.ph"><title lang="en">The Detective Is Already Dead</title></programme>
+<programme start="20240719050000 +0000" stop="20240719053000 +0000" channel="Animax.ph"><title lang="en">Kuroko&apos;s Basketball</title></programme>
+<programme start="20240719053000 +0000" stop="20240719060000 +0000" channel="Animax.ph"><title lang="en">Horimiya</title></programme>
+<programme start="20240719060000 +0000" stop="20240719063000 +0000" channel="Animax.ph"><title lang="en">Fena: Pirate Princess</title></programme>
+<programme start="20240719063000 +0000" stop="20240719070000 +0000" channel="Animax.ph"><title lang="en">How A Realist Hero Rebuilt The Kingdom</title></programme>
+<programme start="20240719070000 +0000" stop="20240719080000 +0000" channel="Animax.ph"><title lang="en">Lupin The 3rd Part 6</title></programme>
+<programme start="20240719080000 +0000" stop="20240719090000 +0000" channel="Animax.ph"><title lang="en">The Detective Is Already Dead</title></programme>
+<programme start="20240719090000 +0000" stop="20240719100000 +0000" channel="Animax.ph"><title lang="en">Spooky Kitaro 6 #51-97</title></programme>
+<programme start="20240719100000 +0000" stop="20240719103000 +0000" channel="Animax.ph"><title lang="en">Horimiya</title></programme>
+<programme start="20240719103000 +0000" stop="20240719113000 +0000" channel="Animax.ph"><title lang="en">Y School Heroes</title></programme>
+<programme start="20240719113000 +0000" stop="20240719120000 +0000" channel="Animax.ph"><title lang="en">Kuroko&apos;s Basketball</title></programme>
+<programme start="20240719120000 +0000" stop="20240719140000 +0000" channel="Animax.ph"><title lang="en">Gintama S2</title></programme>
+<programme start="20240719140000 +0000" stop="20240719150000 +0000" channel="Animax.ph"><title lang="en">Tokyo Revengers</title></programme>
+<programme start="20240719150000 +0000" stop="20240719160000 +0000" channel="Animax.ph"><title lang="en">Gintama S2</title></programme>
+<programme start="20240719160000 +0000" stop="20240719170000 +0000" channel="Animax.ph"><title lang="en">Y School Heroes</title></programme>
+<programme start="20240719160000 +0000" stop="20240719173000 +0000" channel="Animax.ph"><title lang="en">Tokyo Revengers</title></programme>
+<programme start="20240719170000 +0000" stop="20240719180000 +0000" channel="Animax.ph"><title lang="en">Tokyo Revengers</title></programme>
+<programme start="20240719180000 +0000" stop="20240719183000 +0000" channel="Animax.ph"><title lang="en">Kuroko&apos;s Basketball</title></programme>
+<programme start="20240719183000 +0000" stop="20240719203000 +0000" channel="Animax.ph"><title lang="en">Gintama S2</title></programme>
+<programme start="20240719203000 +0000" stop="20240719213000 +0000" channel="Animax.ph"><title lang="en">Tokyo Revengers</title></programme>
+<programme start="20240719213000 +0000" stop="20240719220000 +0000" channel="Animax.ph"><title lang="en">Horimiya</title></programme>
+<programme start="20240719220000 +0000" stop="20240719223000 +0000" channel="Animax.ph"><title lang="en">Best Of Animax</title></programme>
+<programme start="20240719223000 +0000" stop="20240719233000 +0000" channel="Animax.ph"><title lang="en">Kubo Won&apos;t Let Me Be Invisible</title></programme>
+<programme start="20240719233000 +0000" stop="20240720003000 +0000" channel="Animax.ph"><title lang="en">How A Realist Hero Rebuilt The Kingdom</title></programme>
+<programme start="20240720003000 +0000" stop="20240720013000 +0000" channel="Animax.ph"><title lang="en">Legend Of The Galactic Heroes: Die Neue These – Collision</title></programme>
+<programme start="20240720013000 +0000" stop="20240720040000 +0000" channel="Animax.ph"><title lang="en">Kuroko&apos;s Basketball</title></programme>
+<programme start="20240720040000 +0000" stop="20240720060000 +0000" channel="Animax.ph"><title lang="en">Gintama S2</title></programme>
+<programme start="20240720060000 +0000" stop="20240720070000 +0000" channel="Animax.ph"><title lang="en">Kubo Won&apos;t Let Me Be Invisible</title></programme>
+<programme start="20240720070000 +0000" stop="20240720080000 +0000" channel="Animax.ph"><title lang="en">How A Realist Hero Rebuilt The Kingdom</title></programme>
+<programme start="20240720080000 +0000" stop="20240720103000 +0000" channel="Animax.ph"><title lang="en">Horimiya</title></programme>
+<programme start="20240720103000 +0000" stop="20240720123000 +0000" channel="Animax.ph"><title lang="en">Gintama S2</title></programme>
+<programme start="20240720123000 +0000" stop="20240720143000 +0000" channel="Animax.ph"><title lang="en">Blue Lock</title></programme>
+<programme start="20240720143000 +0000" stop="20240720160000 +0000" channel="Animax.ph"><title lang="en">Tokyo Revengers</title></programme>
+<programme start="20240718163000 +0000" stop="20240718172500 +0000" channel="AXN.ph"><title lang="en">CSI: Miami (Season 9)</title></programme>
+<programme start="20240718172500 +0000" stop="20240718182000 +0000" channel="AXN.ph"><title lang="en">S.W.A.T. (Season 1)</title></programme>
+<programme start="20240718182000 +0000" stop="20240718191500 +0000" channel="AXN.ph"><title lang="en">NCIS: Hawai&apos;i (Season 2)</title></programme>
+<programme start="20240718191500 +0000" stop="20240718201000 +0000" channel="AXN.ph"><title lang="en">Hudson &amp; Rex 6</title></programme>
+<programme start="20240718201000 +0000" stop="20240718210500 +0000" channel="AXN.ph"><title lang="en">Unforgettable (Season 4)</title></programme>
+<programme start="20240718210500 +0000" stop="20240718220000 +0000" channel="AXN.ph"><title lang="en">CSI: Miami (Season 9)</title></programme>
+<programme start="20240718220000 +0000" stop="20240718224500 +0000" channel="AXN.ph"><title lang="en">NCIS: Hawai&apos;i (Season 2)</title></programme>
+<programme start="20240718224500 +0000" stop="20240718233000 +0000" channel="AXN.ph"><title lang="en">Unforgettable (Season 4)</title></programme>
+<programme start="20240718233000 +0000" stop="20240719002000 +0000" channel="AXN.ph"><title lang="en">Hudson &amp; Rex 6</title></programme>
+<programme start="20240719002000 +0000" stop="20240719011000 +0000" channel="AXN.ph"><title lang="en">Rookie Blue (Season 1)</title></programme>
+<programme start="20240719011000 +0000" stop="20240719020500 +0000" channel="AXN.ph"><title lang="en">S.W.A.T. (Season 1)</title></programme>
+<programme start="20240719020500 +0000" stop="20240719030000 +0000" channel="AXN.ph"><title lang="en">Unforgettable (Season 4)</title></programme>
+<programme start="20240719030000 +0000" stop="20240719035500 +0000" channel="AXN.ph"><title lang="en">The Rookie (Season 5)</title></programme>
+<programme start="20240719035500 +0000" stop="20240719045000 +0000" channel="AXN.ph"><title lang="en">Hudson &amp; Rex 6</title></programme>
+<programme start="20240719045000 +0000" stop="20240719054000 +0000" channel="AXN.ph"><title lang="en">S.W.A.T. (Season 1)</title></programme>
+<programme start="20240719054000 +0000" stop="20240719063000 +0000" channel="AXN.ph"><title lang="en">Rookie Blue (Season 1)</title></programme>
+<programme start="20240719063000 +0000" stop="20240719072500 +0000" channel="AXN.ph"><title lang="en">The Rookie (Season 5)</title></programme>
+<programme start="20240719072500 +0000" stop="20240719082000 +0000" channel="AXN.ph"><title lang="en">Hudson &amp; Rex 6</title></programme>
+<programme start="20240719082000 +0000" stop="20240719091000 +0000" channel="AXN.ph"><title lang="en">Unforgettable (Season 4)</title></programme>
+<programme start="20240719091000 +0000" stop="20240719100500 +0000" channel="AXN.ph"><title lang="en">S.W.A.T. (Season 1)</title></programme>
+<programme start="20240719100500 +0000" stop="20240719110000 +0000" channel="AXN.ph"><title lang="en">The Amazing Race (Season 35)</title></programme>
+<programme start="20240719110000 +0000" stop="20240719115500 +0000" channel="AXN.ph"><title lang="en">NCIS: Hawai&apos;i (Season 2)</title></programme>
+<programme start="20240719115500 +0000" stop="20240719125000 +0000" channel="AXN.ph"><title lang="en">The Rookie (Season 5)</title></programme>
+<programme start="20240719125000 +0000" stop="20240719134500 +0000" channel="AXN.ph"><title lang="en">Hudson &amp; Rex 6</title></programme>
+<programme start="20240719134500 +0000" stop="20240719144000 +0000" channel="AXN.ph"><title lang="en">NCIS: Los Angeles (Season 14)</title></programme>
+<programme start="20240719144000 +0000" stop="20240719164500 +0000" channel="AXN.ph"><title lang="en">Baby Driver</title></programme>
+<programme start="20240719164500 +0000" stop="20240719173500 +0000" channel="AXN.ph"><title lang="en">NCIS: Los Angeles (Season 14)</title></programme>
+<programme start="20240719173500 +0000" stop="20240719182500 +0000" channel="AXN.ph"><title lang="en">Rookie Blue (Season 1)</title></programme>
+<programme start="20240719182500 +0000" stop="20240719191500 +0000" channel="AXN.ph"><title lang="en">S.W.A.T. (Season 1)</title></programme>
+<programme start="20240719191500 +0000" stop="20240719201000 +0000" channel="AXN.ph"><title lang="en">NCIS: Hawai&apos;i (Season 2)</title></programme>
+<programme start="20240719201000 +0000" stop="20240719210500 +0000" channel="AXN.ph"><title lang="en">Hudson &amp; Rex 6</title></programme>
+<programme start="20240719210500 +0000" stop="20240719220000 +0000" channel="AXN.ph"><title lang="en">Rookie Blue (Season 1)</title></programme>
+<programme start="20240719220000 +0000" stop="20240719225000 +0000" channel="AXN.ph"><title lang="en">Wipeout (Season 9)</title></programme>
+<programme start="20240719225000 +0000" stop="20240719233500 +0000" channel="AXN.ph"><title lang="en">Wipeout (Season 9)</title></programme>
+<programme start="20240719233500 +0000" stop="20240720002500 +0000" channel="AXN.ph"><title lang="en">The Rookie (Season 5)</title></programme>
+<programme start="20240720002500 +0000" stop="20240720012000 +0000" channel="AXN.ph"><title lang="en">The Rookie (Season 5)</title></programme>
+<programme start="20240720012000 +0000" stop="20240720021000 +0000" channel="AXN.ph"><title lang="en">FBI (Season 6)</title></programme>
+<programme start="20240720021000 +0000" stop="20240720030500 +0000" channel="AXN.ph"><title lang="en">Nurses (Season 2)</title></programme>
+<programme start="20240720030500 +0000" stop="20240720040000 +0000" channel="AXN.ph"><title lang="en">Nurses (Season 2)</title></programme>
+<programme start="20240720040000 +0000" stop="20240720045000 +0000" channel="AXN.ph"><title lang="en">FBI: International 3</title></programme>
+<programme start="20240720045000 +0000" stop="20240720054500 +0000" channel="AXN.ph"><title lang="en">The Rookie: Feds (Season 1)</title></programme>
+<programme start="20240720054500 +0000" stop="20240720064000 +0000" channel="AXN.ph"><title lang="en">The Rookie: Feds (Season 1)</title></programme>
+<programme start="20240720064000 +0000" stop="20240720073000 +0000" channel="AXN.ph"><title lang="en">FBI: Most Wanted (Season 5)</title></programme>
+<programme start="20240720073000 +0000" stop="20240720082500 +0000" channel="AXN.ph"><title lang="en">The Amazing Race (Season 35)</title></programme>
+<programme start="20240720082500 +0000" stop="20240720102500 +0000" channel="AXN.ph"><title lang="en">Elysium</title></programme>
+<programme start="20240720102500 +0000" stop="20240720111500 +0000" channel="AXN.ph"><title lang="en">FBI (Season 6)</title></programme>
+<programme start="20240720111500 +0000" stop="20240720121000 +0000" channel="AXN.ph"><title lang="en">NCIS: Los Angeles (Season 14)</title></programme>
+<programme start="20240720121000 +0000" stop="20240720130500 +0000" channel="AXN.ph"><title lang="en">The Amazing Race (Season 35)</title></programme>
+<programme start="20240720130500 +0000" stop="20240720140000 +0000" channel="AXN.ph"><title lang="en">FBI: Most Wanted (Season 5)</title></programme>
+<programme start="20240720140000 +0000" stop="20240720145000 +0000" channel="AXN.ph"><title lang="en">FBI (Season 6)</title></programme>
+<programme start="20240720145000 +0000" stop="20240720154000 +0000" channel="AXN.ph"><title lang="en">FBI: International 3</title></programme>
+<programme start="20240720154000 +0000" stop="20240720182500 +0000" channel="AXN.ph"><title lang="en">Blade Runner 2049</title></programme>
+<programme start="20240718172500 +0000" stop="20240718185000 +0000" channel="CelestialMoviesPinoy.hk"><title lang="en">Bangkok Storm</title></programme>
+<programme start="20240718185000 +0000" stop="20240718201500 +0000" channel="CelestialMoviesPinoy.hk"><title lang="en">The Kid with the Golden Arm</title></programme>
+<programme start="20240718201500 +0000" stop="20240718221000 +0000" channel="CelestialMoviesPinoy.hk"><title lang="en">Still Human</title></programme>
+<programme start="20240718221000 +0000" stop="20240718234500 +0000" channel="CelestialMoviesPinoy.hk"><title lang="en">The Fatal Raid</title></programme>
+<programme start="20240718234500 +0000" stop="20240719013500 +0000" channel="CelestialMoviesPinoy.hk"><title lang="en">The Magnificent Trio</title></programme>
+<programme start="20240719013500 +0000" stop="20240719031000 +0000" channel="CelestialMoviesPinoy.hk"><title lang="en">The Lady is the Boss</title></programme>
+<programme start="20240719031000 +0000" stop="20240719044500 +0000" channel="CelestialMoviesPinoy.hk"><title lang="en">Long Road to Gallantry</title></programme>
+<programme start="20240719044500 +0000" stop="20240719061000 +0000" channel="CelestialMoviesPinoy.hk"><title lang="en">Heroes Of Sung</title></programme>
+<programme start="20240719061000 +0000" stop="20240719074000 +0000" channel="CelestialMoviesPinoy.hk"><title lang="en">The Lady Assassin</title></programme>
+<programme start="20240719074000 +0000" stop="20240719092000 +0000" channel="CelestialMoviesPinoy.hk"><title lang="en">The New Shaolin Boxers</title></programme>
+<programme start="20240719092000 +0000" stop="20240719110000 +0000" channel="CelestialMoviesPinoy.hk"><title lang="en">Two Tigers</title></programme>
+<programme start="20240719110000 +0000" stop="20240719125500 +0000" channel="CelestialMoviesPinoy.hk"><title lang="en">Everything Under Control</title></programme>
+<programme start="20240719125500 +0000" stop="20240719143000 +0000" channel="CelestialMoviesPinoy.hk"><title lang="en">In Cycle</title></programme>
+<programme start="20240719143000 +0000" stop="20240719160500 +0000" channel="CelestialMoviesPinoy.hk"><title lang="en">Iron Kung Fu Fist</title></programme>
+<programme start="20240719160500 +0000" stop="20240719174000 +0000" channel="CelestialMoviesPinoy.hk"><title lang="en">Nightmare of Darkness</title></programme>
+<programme start="20240719174000 +0000" stop="20240719192000 +0000" channel="CelestialMoviesPinoy.hk"><title lang="en">Wits Of The Brats</title></programme>
+<programme start="20240719192000 +0000" stop="20240719210000 +0000" channel="CelestialMoviesPinoy.hk"><title lang="en">Far Far Away</title></programme>
+<programme start="20240719210000 +0000" stop="20240719225000 +0000" channel="CelestialMoviesPinoy.hk"><title lang="en">Disciples Of Shaolin</title></programme>
+<programme start="20240719225000 +0000" stop="20240720003500 +0000" channel="CelestialMoviesPinoy.hk"><title lang="en">All Men are Brothers</title></programme>
+<programme start="20240720003500 +0000" stop="20240720020000 +0000" channel="CelestialMoviesPinoy.hk"><title lang="en">Godfather of Canton</title></programme>
+<programme start="20240720020000 +0000" stop="20240720035500 +0000" channel="CelestialMoviesPinoy.hk"><title lang="en">The Flag of Iron</title></programme>
+<programme start="20240720035500 +0000" stop="20240720054500 +0000" channel="CelestialMoviesPinoy.hk"><title lang="en">Nezha</title></programme>
+<programme start="20240720054500 +0000" stop="20240720074500 +0000" channel="CelestialMoviesPinoy.hk"><title lang="en">The Viral Factor</title></programme>
+<programme start="20240720074500 +0000" stop="20240720091500 +0000" channel="CelestialMoviesPinoy.hk"><title lang="en">Fierce Cop</title></programme>
+<programme start="20240720091500 +0000" stop="20240720110000 +0000" channel="CelestialMoviesPinoy.hk"><title lang="en">Pursuit of a Killer</title></programme>
+<programme start="20240720110000 +0000" stop="20240720125000 +0000" channel="CelestialMoviesPinoy.hk"><title lang="en">Lifeline</title></programme>
+<programme start="20240720125000 +0000" stop="20240720145000 +0000" channel="CelestialMoviesPinoy.hk"><title lang="en">Look Up</title></programme>
+<programme start="20240720145000 +0000" stop="20240720162500 +0000" channel="CelestialMoviesPinoy.hk"><title lang="en">A Deadly Secret</title></programme>
+<programme start="20240718170000 +0000" stop="20240718190000 +0000" channel="CinemaOneGlobal.ph"><title lang="en">Hubad Sa Ilalim Ng Buwan</title></programme>
+<programme start="20240718190000 +0000" stop="20240718210000 +0000" channel="CinemaOneGlobal.ph"><title lang="en">Tol</title></programme>
+<programme start="20240718210000 +0000" stop="20240718230000 +0000" channel="CinemaOneGlobal.ph"><title lang="en">Pepe En Pilar</title></programme>
+<programme start="20240718230000 +0000" stop="20240719010000 +0000" channel="CinemaOneGlobal.ph"><title lang="en">My Candidate</title></programme>
+<programme start="20240719010000 +0000" stop="20240719030000 +0000" channel="CinemaOneGlobal.ph"><title lang="en">Utol</title></programme>
+<programme start="20240719030000 +0000" stop="20240719050000 +0000" channel="CinemaOneGlobal.ph"><title lang="en">My Funny Valentine</title></programme>
+<programme start="20240719050000 +0000" stop="20240719070000 +0000" channel="CinemaOneGlobal.ph"><title lang="en">Patayin Sa Sindak Si Barbara</title></programme>
+<programme start="20240719070000 +0000" stop="20240719090000 +0000" channel="CinemaOneGlobal.ph"><title lang="en">Gagamboy</title></programme>
+<programme start="20240719090000 +0000" stop="20240719110000 +0000" channel="CinemaOneGlobal.ph"><title lang="en">Siargao</title></programme>
+<programme start="20240719110000 +0000" stop="20240719130000 +0000" channel="CinemaOneGlobal.ph"><title lang="en">Sukob</title></programme>
+<programme start="20240719130000 +0000" stop="20240719150000 +0000" channel="CinemaOneGlobal.ph"><title lang="en">Relaks Ka Lang, Sagot Kita</title></programme>
+<programme start="20240719150000 +0000" stop="20240719170000 +0000" channel="CinemaOneGlobal.ph"><title lang="en">Mano Po 5: Gua Ai Di ( I Love You)</title></programme>
+<programme start="20240719170000 +0000" stop="20240719190000 +0000" channel="CinemaOneGlobal.ph"><title lang="en">Sagad Sa Init</title></programme>
+<programme start="20240719190000 +0000" stop="20240719210000 +0000" channel="CinemaOneGlobal.ph"><title lang="en">The Comeback</title></programme>
+<programme start="20240719210000 +0000" stop="20240719230000 +0000" channel="CinemaOneGlobal.ph"><title lang="en">Isang Platitong Mani</title></programme>
+<programme start="20240719230000 +0000" stop="20240720010000 +0000" channel="CinemaOneGlobal.ph"><title lang="en">Sambahin Ang Ngalan Mo</title></programme>
+<programme start="20240720010000 +0000" stop="20240720030000 +0000" channel="CinemaOneGlobal.ph"><title lang="en">Inday, Inday Sa Balitaw</title></programme>
+<programme start="20240720030000 +0000" stop="20240720050000 +0000" channel="CinemaOneGlobal.ph"><title lang="en">Og Must Be Crazy</title></programme>
+<programme start="20240720050000 +0000" stop="20240720070000 +0000" channel="CinemaOneGlobal.ph"><title lang="en">AJin: Demi-Human</title></programme>
+<programme start="20240720070000 +0000" stop="20240720090000 +0000" channel="CinemaOneGlobal.ph"><title lang="en">I Love You, Hater</title></programme>
+<programme start="20240720090000 +0000" stop="20240720110000 +0000" channel="CinemaOneGlobal.ph"><title lang="en">Girl, Boy, Bakla, Tomboy</title></programme>
+<programme start="20240720110000 +0000" stop="20240720130000 +0000" channel="CinemaOneGlobal.ph"><title lang="en">Hihintayin Kita Sa Langit</title></programme>
+<programme start="20240720130000 +0000" stop="20240720150000 +0000" channel="CinemaOneGlobal.ph"><title lang="en">Da Best In Da West 2</title></programme>
+<programme start="20240720150000 +0000" stop="20240720170000 +0000" channel="CinemaOneGlobal.ph"><title lang="en">Lover&apos;s Delight</title></programme>
+<programme start="20240718161000 +0000" stop="20240718170500 +0000" channel="GEM.sg"><title lang="en">Code Japan: The Price Of Wishes</title></programme>
+<programme start="20240718170500 +0000" stop="20240718180500 +0000" channel="GEM.sg"><title lang="en">I&apos;m Old Enough Special 2023</title></programme>
+<programme start="20240718180500 +0000" stop="20240718190000 +0000" channel="GEM.sg"><title lang="en">Oh!! Everyone&apos;s Zoo</title></programme>
+<programme start="20240718190000 +0000" stop="20240718193000 +0000" channel="GEM.sg"><title lang="en">The World&apos;s Finest Assassin Gets Reincarnated in Another World As An Aristocrat</title></programme>
+<programme start="20240718193000 +0000" stop="20240718203000 +0000" channel="GEM.sg"><title lang="en">Code Japan: The Price Of Wishes</title></programme>
+<programme start="20240718203000 +0000" stop="20240718213000 +0000" channel="GEM.sg"><title lang="en">Next Stop, Discovery</title></programme>
+<programme start="20240718213000 +0000" stop="20240718220000 +0000" channel="GEM.sg"><title lang="en">The World&apos;s Finest Assassin Gets Reincarnated in Another World As An Aristocrat</title></programme>
+<programme start="20240718220000 +0000" stop="20240718230000 +0000" channel="GEM.sg"><title lang="en">Oh!! Everyone&apos;s Zoo</title></programme>
+<programme start="20240718230000 +0000" stop="20240718235500 +0000" channel="GEM.sg"><title lang="en">I&apos;m Old Enough Special 2023</title></programme>
+<programme start="20240718235500 +0000" stop="20240719005500 +0000" channel="GEM.sg"><title lang="en">Oh!! Everyone&apos;s Zoo</title></programme>
+<programme start="20240719005500 +0000" stop="20240719015500 +0000" channel="GEM.sg"><title lang="en">Code Japan: The Price Of Wishes</title></programme>
+<programme start="20240719015500 +0000" stop="20240719030000 +0000" channel="GEM.sg"><title lang="en">Oh!! Everyone&apos;s Zoo</title></programme>
+<programme start="20240719030000 +0000" stop="20240719035500 +0000" channel="GEM.sg"><title lang="en">I&apos;m Old Enough Special 2023</title></programme>
+<programme start="20240719035500 +0000" stop="20240719045000 +0000" channel="GEM.sg"><title lang="en">Oh!! Everyone&apos;s Zoo</title></programme>
+<programme start="20240719045000 +0000" stop="20240719055500 +0000" channel="GEM.sg"><title lang="en">Code Japan: The Price Of Wishes</title></programme>
+<programme start="20240719055500 +0000" stop="20240719065500 +0000" channel="GEM.sg"><title lang="en">Oh!! Everyone&apos;s Zoo</title></programme>
+<programme start="20240719065500 +0000" stop="20240719075500 +0000" channel="GEM.sg"><title lang="en">I&apos;m Old Enough Special 2023</title></programme>
+<programme start="20240719075500 +0000" stop="20240719085500 +0000" channel="GEM.sg"><title lang="en">Oh!! Everyone&apos;s Zoo</title></programme>
+<programme start="20240719085500 +0000" stop="20240719095000 +0000" channel="GEM.sg"><title lang="en">Code Japan: The Price Of Wishes</title></programme>
+<programme start="20240719095000 +0000" stop="20240719104500 +0000" channel="GEM.sg"><title lang="en">Oh!! Everyone&apos;s Zoo</title></programme>
+<programme start="20240719104500 +0000" stop="20240719115000 +0000" channel="GEM.sg"><title lang="en">I&apos;m Old Enough Special 2023</title></programme>
+<programme start="20240719115000 +0000" stop="20240719124500 +0000" channel="GEM.sg"><title lang="en">Hungry Hoppers S2</title></programme>
+<programme start="20240719124500 +0000" stop="20240719134500 +0000" channel="GEM.sg"><title lang="en">Code Japan: The Price Of Wishes</title></programme>
+<programme start="20240719134500 +0000" stop="20240719150000 +0000" channel="GEM.sg"><title lang="en">I&apos;m Old Enough Special 2023</title></programme>
+<programme start="20240719150000 +0000" stop="20240719154000 +0000" channel="GEM.sg"><title lang="en">Hungry Hoppers S2</title></programme>
+<programme start="20240719154000 +0000" stop="20240719161000 +0000" channel="GEM.sg"><title lang="en">Shadows House</title></programme>
+<programme start="20240719161000 +0000" stop="20240719170500 +0000" channel="GEM.sg"><title lang="en">Code Japan: The Price Of Wishes</title></programme>
+<programme start="20240719170500 +0000" stop="20240719181000 +0000" channel="GEM.sg"><title lang="en">I&apos;m Old Enough Special 2023</title></programme>
+<programme start="20240719181000 +0000" stop="20240719190000 +0000" channel="GEM.sg"><title lang="en">Hungry Hoppers S2</title></programme>
+<programme start="20240719190000 +0000" stop="20240719193000 +0000" channel="GEM.sg"><title lang="en">Shadows House</title></programme>
+<programme start="20240719193000 +0000" stop="20240719202500 +0000" channel="GEM.sg"><title lang="en">Code Japan: The Price Of Wishes</title></programme>
+<programme start="20240719202500 +0000" stop="20240719213000 +0000" channel="GEM.sg"><title lang="en">I&apos;m Old Enough Special 2023</title></programme>
+<programme start="20240719213000 +0000" stop="20240719220000 +0000" channel="GEM.sg"><title lang="en">Shadows House</title></programme>
+<programme start="20240719220000 +0000" stop="20240719230000 +0000" channel="GEM.sg"><title lang="en">Next Stop, Discovery</title></programme>
+<programme start="20240719230000 +0000" stop="20240720000000 +0000" channel="GEM.sg"><title lang="en">Next Stop, Discovery</title></programme>
+<programme start="20240720000000 +0000" stop="20240720010000 +0000" channel="GEM.sg"><title lang="en">Hungry Hoppers S2</title></programme>
+<programme start="20240720010000 +0000" stop="20240720020000 +0000" channel="GEM.sg"><title lang="en">Oh!! Everyone&apos;s Zoo</title></programme>
+<programme start="20240720020000 +0000" stop="20240720030000 +0000" channel="GEM.sg"><title lang="en">Oh!! Everyone&apos;s Zoo</title></programme>
+<programme start="20240720030000 +0000" stop="20240720040000 +0000" channel="GEM.sg"><title lang="en">Next Stop, Discovery</title></programme>
+<programme start="20240720040000 +0000" stop="20240720043000 +0000" channel="GEM.sg"><title lang="en">Hungry Hoppers S2</title></programme>
+<programme start="20240720043000 +0000" stop="20240720053000 +0000" channel="GEM.sg"><title lang="en">Oh!! Everyone&apos;s Zoo</title></programme>
+<programme start="20240720053000 +0000" stop="20240720063000 +0000" channel="GEM.sg"><title lang="en">GTO (2012)</title></programme>
+<programme start="20240720063000 +0000" stop="20240720072500 +0000" channel="GEM.sg"><title lang="en">GTO (2012)</title></programme>
+<programme start="20240720072500 +0000" stop="20240720075500 +0000" channel="GEM.sg"><title lang="en">Hungry Hoppers S2</title></programme>
+<programme start="20240720075500 +0000" stop="20240720085000 +0000" channel="GEM.sg"><title lang="en">The Men Of The Wada Family</title></programme>
+<programme start="20240720085000 +0000" stop="20240720094500 +0000" channel="GEM.sg"><title lang="en">The Men Of The Wada Family</title></programme>
+<programme start="20240720094500 +0000" stop="20240720104000 +0000" channel="GEM.sg"><title lang="en">Oh!! Everyone&apos;s Zoo</title></programme>
+<programme start="20240720104000 +0000" stop="20240720114000 +0000" channel="GEM.sg"><title lang="en">Next Stop, Discovery</title></programme>
+<programme start="20240720114000 +0000" stop="20240720123500 +0000" channel="GEM.sg"><title lang="en">GTO (2012)</title></programme>
+<programme start="20240720123500 +0000" stop="20240720134000 +0000" channel="GEM.sg"><title lang="en">GTO (2012)</title></programme>
+<programme start="20240720134000 +0000" stop="20240720141000 +0000" channel="GEM.sg"><title lang="en">Moco&apos;s Travel Kitchen</title></programme>
+<programme start="20240720141000 +0000" stop="20240720150500 +0000" channel="GEM.sg"><title lang="en">Who Needs True Love?</title></programme>
+<programme start="20240720150500 +0000" stop="20240720160500 +0000" channel="GEM.sg"><title lang="en">Next Stop, Discovery</title></programme>
+<programme start="20240718213000 +0000" stop="20240719000000 +0000" channel="GMATV.ph"><title lang="en">Unang Hirit</title></programme>
+<programme start="20240719000000 +0000" stop="20240719003000 +0000" channel="GMATV.ph"><title lang="en">Spy X Family</title></programme>
+<programme start="20240719003000 +0000" stop="20240719010000 +0000" channel="GMATV.ph"><title lang="en">Superhero Academy</title></programme>
+<programme start="20240719010000 +0000" stop="20240719013000 +0000" channel="GMATV.ph"><title lang="en">To The Moon and Back</title></programme>
+<programme start="20240719013000 +0000" stop="20240719030000 +0000" channel="GMATV.ph"><title lang="en">Kapuso Movie Festival</title></programme>
+<programme start="20240719030000 +0000" stop="20240719040000 +0000" channel="GMATV.ph"><title lang="en">Tiktoclock</title></programme>
+<programme start="20240719040000 +0000" stop="20240719063000 +0000" channel="GMATV.ph"><title lang="en">It&apos;s Showtime</title></programme>
+<programme start="20240719063000 +0000" stop="20240719072000 +0000" channel="GMATV.ph"><title lang="en">Abot Kamay Na Pangarap</title></programme>
+<programme start="20240719072000 +0000" stop="20240719080500 +0000" channel="GMATV.ph"><title lang="en">Lilet Matias (Attorney-at-Law)</title></programme>
+<programme start="20240719080500 +0000" stop="20240719083000 +0000" channel="GMATV.ph"><title lang="en">Fast Talk with Boy Abunda</title></programme>
+<programme start="20240719083000 +0000" stop="20240719091000 +0000" channel="GMATV.ph"><title lang="en">Voltes V Legacy</title></programme>
+<programme start="20240719091000 +0000" stop="20240719094000 +0000" channel="GMATV.ph"><title lang="en">Eclipse oF The Heart</title></programme>
+<programme start="20240719094000 +0000" stop="20240719103000 +0000" channel="GMATV.ph"><title lang="en">Family Feud</title></programme>
+<programme start="20240719103000 +0000" stop="20240719120000 +0000" channel="GMATV.ph"><title lang="en">24 Oras</title></programme>
+<programme start="20240719120000 +0000" stop="20240719125000 +0000" channel="GMATV.ph"><title lang="en">Black Rider</title></programme>
+<programme start="20240719125000 +0000" stop="20240719133500 +0000" channel="GMATV.ph"><title lang="en">Widow&apos;s War</title></programme>
+<programme start="20240719133500 +0000" stop="20240719142000 +0000" channel="GMATV.ph"><title lang="en">Amazing Earth</title></programme>
+<programme start="20240719142000 +0000" stop="20240719150000 +0000" channel="GMATV.ph"><title lang="en">Saksi</title></programme>
+<programme start="20240719150000 +0000" stop="20240719153000 +0000" channel="GMATV.ph"><title lang="en">Shooting Stars</title></programme>
+<programme start="20240719153000 +0000" stop="20240719160000 +0000" channel="GMATV.ph"><title lang="en">Dr. Tang</title></programme>
+<programme start="20240719210000 +0000" stop="20240719213000 +0000" channel="GMATV.ph"><title lang="en">Kapwa Ko Mahal ko</title></programme>
+<programme start="20240719213000 +0000" stop="20240719220000 +0000" channel="GMATV.ph"><title lang="en">Agripreneur</title></programme>
+<programme start="20240719220000 +0000" stop="20240719230000 +0000" channel="GMATV.ph"><title lang="en">Pinoy M.D</title></programme>
+<programme start="20240719230000 +0000" stop="20240719233000 +0000" channel="GMATV.ph"><title lang="en">Turbo Zone</title></programme>
+<programme start="20240719233000 +0000" stop="20240720000000 +0000" channel="GMATV.ph"><title lang="en">Healing Galing Sa TV</title></programme>
+<programme start="20240720000000 +0000" stop="20240720003000 +0000" channel="GMATV.ph"><title lang="en">Piggy Tales</title></programme>
+<programme start="20240720003000 +0000" stop="20240720010000 +0000" channel="GMATV.ph"><title lang="en">Trollstopia</title></programme>
+<programme start="20240720010000 +0000" stop="20240720013000 +0000" channel="GMATV.ph"><title lang="en">Yashahime: Princess Half-Demon</title></programme>
+<programme start="20240720013000 +0000" stop="20240720020000 +0000" channel="GMATV.ph"><title lang="en">Kung Fu Panda: The Paws Of Destiny</title></programme>
+<programme start="20240720020000 +0000" stop="20240720023000 +0000" channel="GMATV.ph"><title lang="en">Dragons Rescue Riders: Heroes Of The Sky</title></programme>
+<programme start="20240720023000 +0000" stop="20240720031500 +0000" channel="GMATV.ph"><title lang="en">Sarap &apos;di ba?</title></programme>
+<programme start="20240720031500 +0000" stop="20240720040000 +0000" channel="GMATV.ph"><title lang="en">Pera-Paraan</title></programme>
+<programme start="20240720040000 +0000" stop="20240720063000 +0000" channel="GMATV.ph"><title lang="en">It&apos;s Showtime</title></programme>
+<programme start="20240720063000 +0000" stop="20240720071500 +0000" channel="GMATV.ph"><title lang="en">Abot Kamay Na Pangarap</title></programme>
+<programme start="20240720071500 +0000" stop="20240720080000 +0000" channel="GMATV.ph"><title lang="en">Tadhana</title></programme>
+<programme start="20240720080000 +0000" stop="20240720084500 +0000" channel="GMATV.ph"><title lang="en">Wish Ko Lang</title></programme>
+<programme start="20240720084500 +0000" stop="20240720093000 +0000" channel="GMATV.ph"><title lang="en">Pinoy Crime Stories</title></programme>
+<programme start="20240720093000 +0000" stop="20240720101500 +0000" channel="GMATV.ph"><title lang="en">24 Oras Weekend</title></programme>
+<programme start="20240720101500 +0000" stop="20240720111500 +0000" channel="GMATV.ph"><title lang="en">Pepito Manaloto: Tuloy Ang Kuwento</title></programme>
+<programme start="20240720111500 +0000" stop="20240720121500 +0000" channel="GMATV.ph"><title lang="en">Running Man Philippines S2</title></programme>
+<programme start="20240720121500 +0000" stop="20240720133000 +0000" channel="GMATV.ph"><title lang="en">Magpakailanman</title></programme>
+<programme start="20240720133000 +0000" stop="20240720141500 +0000" channel="GMATV.ph"><title lang="en">Daig Kayo Ng Lola Ko</title></programme>
+<programme start="20240720141500 +0000" stop="20240720150000 +0000" channel="GMATV.ph"><title lang="en">I-Witness</title></programme>
+<programme start="20240720150000 +0000" stop="20240720153000 +0000" channel="GMATV.ph"><title lang="en">Reporter&apos;s Notebook</title></programme>
+<programme start="20240720153000 +0000" stop="20240720160000 +0000" channel="GMATV.ph"><title lang="en">Dear SV</title></programme>
+<programme start="20240718213000 +0000" stop="20240718230000 +0000" channel="GTV.ph"><title lang="en">Melo Del Prado Sa Super Radyo</title></programme>
+<programme start="20240718230000 +0000" stop="20240719000000 +0000" channel="GTV.ph"><title lang="en">Super Balita Sa Umaga Nationwide</title></programme>
+<programme start="20240719000000 +0000" stop="20240719010000 +0000" channel="GTV.ph"><title lang="en">Saksi Sa Dobol B</title></programme>
+<programme start="20240719010000 +0000" stop="20240719013000 +0000" channel="GTV.ph"><title lang="en">Flame Of Recca</title></programme>
+<programme start="20240719013000 +0000" stop="20240719020000 +0000" channel="GTV.ph"><title lang="en">Detective Conan</title></programme>
+<programme start="20240719020000 +0000" stop="20240719030000 +0000" channel="GTV.ph"><title lang="en">Balitanghali</title></programme>
+<programme start="20240719030000 +0000" stop="20240719040000 +0000" channel="GTV.ph"><title lang="en">Tiktoclock</title></programme>
+<programme start="20240719040000 +0000" stop="20240719063000 +0000" channel="GTV.ph"><title lang="en">It&apos;s Showtime</title></programme>
+<programme start="20240719063000 +0000" stop="20240719071500 +0000" channel="GTV.ph"><title lang="en">The Penthouse</title></programme>
+<programme start="20240719071500 +0000" stop="20240719093000 +0000" channel="GTV.ph"><title lang="en">Afternoon Movie Break</title></programme>
+<programme start="20240719093000 +0000" stop="20240719103000 +0000" channel="GTV.ph"><title lang="en">Dapat Alam Mo!</title></programme>
+<programme start="20240719103000 +0000" stop="20240719120000 +0000" channel="GTV.ph"><title lang="en">24 Oras</title></programme>
+<programme start="20240719120000 +0000" stop="20240719134000 +0000" channel="GTV.ph"><title lang="en">G! Flicks</title></programme>
+<programme start="20240719134000 +0000" stop="20240719143000 +0000" channel="GTV.ph"><title lang="en">Black Rider</title></programme>
+<programme start="20240719143000 +0000" stop="20240719150500 +0000" channel="GTV.ph"><title lang="en">Widow&apos;s War</title></programme>
+<programme start="20240719150500 +0000" stop="20240719152500 +0000" channel="GTV.ph"><title lang="en">State Of The Nation</title></programme>
+<programme start="20240719152500 +0000" stop="20240719160000 +0000" channel="GTV.ph"><title lang="en">Doors</title></programme>
+<programme start="20240719213000 +0000" stop="20240719230000 +0000" channel="GTV.ph"><title lang="en">Dobol Weng Sa Dobol B</title></programme>
+<programme start="20240719230000 +0000" stop="20240720000000 +0000" channel="GTV.ph"><title lang="en">Super Balita Sa Umaga</title></programme>
+<programme start="20240720000000 +0000" stop="20240720010000 +0000" channel="GTV.ph"><title lang="en">Pinoy M.D</title></programme>
+<programme start="20240720010000 +0000" stop="20240720013000 +0000" channel="GTV.ph"><title lang="en">Konsyumer ATBP</title></programme>
+<programme start="20240720013000 +0000" stop="20240720040000 +0000" channel="GTV.ph"><title lang="en">Saturday Cinema Hits</title></programme>
+<programme start="20240720040000 +0000" stop="20240720063000 +0000" channel="GTV.ph"><title lang="en">It&apos;s Showtime</title></programme>
+<programme start="20240720063000 +0000" stop="20240720093000 +0000" channel="GTV.ph"><title lang="en">Afternoon Movie Break</title></programme>
+<programme start="20240720093000 +0000" stop="20240720101500 +0000" channel="GTV.ph"><title lang="en">24 Oras Weekend</title></programme>
+<programme start="20240720101500 +0000" stop="20240720121500 +0000" channel="GTV.ph"><title lang="en">G! Flicks</title></programme>
+<programme start="20240720121500 +0000" stop="20240720130000 +0000" channel="GTV.ph"><title lang="en">Pinas Sarap</title></programme>
+<programme start="20240720130000 +0000" stop="20240720134500 +0000" channel="GTV.ph"><title lang="en">Good News</title></programme>
+<programme start="20240720134500 +0000" stop="20240720144500 +0000" channel="GTV.ph"><title lang="en">Running Man Philippines S2</title></programme>
+<programme start="20240720144500 +0000" stop="20240720154500 +0000" channel="GTV.ph"><title lang="en">Cayetano in Action with Boy Abunda</title></programme>
+<programme start="20240720154500 +0000" stop="20240720161500 +0000" channel="GTV.ph"><title lang="en">In Touch with Dr. Charles Stanley</title></programme>
+<programme start="20240718163500 +0000" stop="20240718173500 +0000" channel="History.ph"><title lang="en">Pawn Stars Do America</title></programme>
+<programme start="20240718173500 +0000" stop="20240718183000 +0000" channel="History.ph"><title lang="en">Alone S9</title></programme>
+<programme start="20240718183000 +0000" stop="20240718192500 +0000" channel="History.ph"><title lang="en">Forged In Fire S8</title></programme>
+<programme start="20240718192500 +0000" stop="20240718202000 +0000" channel="History.ph"><title lang="en">Beyond Skinwalker Ranch</title></programme>
+<programme start="20240718202000 +0000" stop="20240718211500 +0000" channel="History.ph"><title lang="en">Pawn Stars S23</title></programme>
+<programme start="20240718211500 +0000" stop="20240718221000 +0000" channel="History.ph"><title lang="en">Forged In Fire S9</title></programme>
+<programme start="20240718221000 +0000" stop="20240718230000 +0000" channel="History.ph"><title lang="en">The UnBelievable With Dan Aykroyd</title></programme>
+<programme start="20240718230000 +0000" stop="20240719000000 +0000" channel="History.ph"><title lang="en">Beyond Skinwalker Ranch</title></programme>
+<programme start="20240719000000 +0000" stop="20240719005500 +0000" channel="History.ph"><title lang="en">Pawn Stars S23</title></programme>
+<programme start="20240719005500 +0000" stop="20240719015500 +0000" channel="History.ph"><title lang="en">Pawn Stars Do America</title></programme>
+<programme start="20240719015500 +0000" stop="20240719025000 +0000" channel="History.ph"><title lang="en">Forged In Fire S9</title></programme>
+<programme start="20240719025000 +0000" stop="20240719034500 +0000" channel="History.ph"><title lang="en">Alone S10</title></programme>
+<programme start="20240719034500 +0000" stop="20240719044000 +0000" channel="History.ph"><title lang="en">Forged In Fire S8</title></programme>
+<programme start="20240719044000 +0000" stop="20240719053500 +0000" channel="History.ph"><title lang="en">The UnBelievable With Dan Aykroyd</title></programme>
+<programme start="20240719053500 +0000" stop="20240719063000 +0000" channel="History.ph"><title lang="en">Beyond Skinwalker Ranch</title></programme>
+<programme start="20240719063000 +0000" stop="20240719072500 +0000" channel="History.ph"><title lang="en">Forged In Fire S9</title></programme>
+<programme start="20240719072500 +0000" stop="20240719082000 +0000" channel="History.ph"><title lang="en">Forged In Fire S8</title></programme>
+<programme start="20240719082000 +0000" stop="20240719091000 +0000" channel="History.ph"><title lang="en">Pawn Stars S23</title></programme>
+<programme start="20240719091000 +0000" stop="20240719101000 +0000" channel="History.ph"><title lang="en">Pawn Stars Do America</title></programme>
+<programme start="20240719101000 +0000" stop="20240719111000 +0000" channel="History.ph"><title lang="en">Ancient Aliens S15</title></programme>
+<programme start="20240719111000 +0000" stop="20240719120000 +0000" channel="History.ph"><title lang="en">The Curse Of Oak Island S9</title></programme>
+<programme start="20240719120000 +0000" stop="20240719130000 +0000" channel="History.ph"><title lang="en">Swamp People S14</title></programme>
+<programme start="20240719130000 +0000" stop="20240719135500 +0000" channel="History.ph"><title lang="en">Mountain Men S11</title></programme>
+<programme start="20240719135500 +0000" stop="20240719145000 +0000" channel="History.ph"><title lang="en">Lost Gold Of The Aztecs</title></programme>
+<programme start="20240719145000 +0000" stop="20240719152000 +0000" channel="History.ph"><title lang="en">Ride n&apos; Seek With Jaime Dempsey S6</title></programme>
+<programme start="20240719152000 +0000" stop="20240719155000 +0000" channel="History.ph"><title lang="en">Ride N&apos; Seek: Behind The Ride</title></programme>
+<programme start="20240719155000 +0000" stop="20240719164000 +0000" channel="History.ph"><title lang="en">The Pickers S18</title></programme>
+<programme start="20240719164000 +0000" stop="20240719174000 +0000" channel="History.ph"><title lang="en">Swamp People S14</title></programme>
+<programme start="20240719174000 +0000" stop="20240719183000 +0000" channel="History.ph"><title lang="en">Lost Gold Of The Aztecs</title></programme>
+<programme start="20240719183000 +0000" stop="20240719190000 +0000" channel="History.ph"><title lang="en">Ride n&apos; Seek With Jaime Dempsey S6</title></programme>
+<programme start="20240719190000 +0000" stop="20240719193000 +0000" channel="History.ph"><title lang="en">Ride N&apos; Seek: Behind The Ride</title></programme>
+<programme start="20240719193000 +0000" stop="20240719202500 +0000" channel="History.ph"><title lang="en">Ancient Aliens S15</title></programme>
+<programme start="20240719202500 +0000" stop="20240719211500 +0000" channel="History.ph"><title lang="en">The Curse Of Oak Island S9</title></programme>
+<programme start="20240719211500 +0000" stop="20240719221000 +0000" channel="History.ph"><title lang="en">Mountain Men S11</title></programme>
+<programme start="20240719221000 +0000" stop="20240719230500 +0000" channel="History.ph"><title lang="en">The Pickers S18</title></programme>
+<programme start="20240719230500 +0000" stop="20240720000500 +0000" channel="History.ph"><title lang="en">Ancient Aliens S15</title></programme>
+<programme start="20240720000500 +0000" stop="20240720005500 +0000" channel="History.ph"><title lang="en">The Curse Of Oak Island S9</title></programme>
+<programme start="20240720005500 +0000" stop="20240720015500 +0000" channel="History.ph"><title lang="en">Swamp People S14</title></programme>
+<programme start="20240720015500 +0000" stop="20240720025000 +0000" channel="History.ph"><title lang="en">Mountain Men S11</title></programme>
+<programme start="20240720025000 +0000" stop="20240720034500 +0000" channel="History.ph"><title lang="en">Lost Gold Of The Aztecs</title></programme>
+<programme start="20240720034500 +0000" stop="20240720041500 +0000" channel="History.ph"><title lang="en">Ride n&apos; Seek With Jaime Dempsey S6</title></programme>
+<programme start="20240720041500 +0000" stop="20240720044500 +0000" channel="History.ph"><title lang="en">Ride N&apos; Seek: Behind The Ride</title></programme>
+<programme start="20240720044500 +0000" stop="20240720053500 +0000" channel="History.ph"><title lang="en">The Pickers S18</title></programme>
+<programme start="20240720053500 +0000" stop="20240720062500 +0000" channel="History.ph"><title lang="en">Ancient Aliens S15</title></programme>
+<programme start="20240720062500 +0000" stop="20240720071500 +0000" channel="History.ph"><title lang="en">Mountain Men S11</title></programme>
+<programme start="20240720071500 +0000" stop="20240720074500 +0000" channel="History.ph"><title lang="en">Ride n&apos; Seek With Jaime Dempsey S6</title></programme>
+<programme start="20240720074500 +0000" stop="20240720081500 +0000" channel="History.ph"><title lang="en">Ride N&apos; Seek: Behind The Ride</title></programme>
+<programme start="20240720081500 +0000" stop="20240720090500 +0000" channel="History.ph"><title lang="en">The Curse Of Oak Island S9</title></programme>
+<programme start="20240720090500 +0000" stop="20240720100500 +0000" channel="History.ph"><title lang="en">Swamp People S14</title></programme>
+<programme start="20240720100500 +0000" stop="20240720110500 +0000" channel="History.ph"><title lang="en">The Food That Built The World S3</title></programme>
+<programme start="20240720110500 +0000" stop="20240720120000 +0000" channel="History.ph"><title lang="en">The Fast History Of</title></programme>
+<programme start="20240720120000 +0000" stop="20240720130000 +0000" channel="History.ph"><title lang="en">The Bermuda Triangle: Into Cursed Waters</title></programme>
+<programme start="20240720130000 +0000" stop="20240720135500 +0000" channel="History.ph"><title lang="en">Swamp People S14</title></programme>
+<programme start="20240720135500 +0000" stop="20240720145500 +0000" channel="History.ph"><title lang="en">Swamp People: Serpent Invasion S3</title></programme>
+<programme start="20240720145500 +0000" stop="20240720154500 +0000" channel="History.ph"><title lang="en">Alone S9</title></programme>
+<programme start="20240720154500 +0000" stop="20240720163500 +0000" channel="History.ph"><title lang="en">Kings Of Pain S2</title></programme>
+<programme start="20240718213000 +0000" stop="20240718220000 +0000" channel="IBC13.ph"><title lang="en">PBBM Bloc</title></programme>
+<programme start="20240718220000 +0000" stop="20240719000000 +0000" channel="IBC13.ph"><title lang="en">Rise and Shine Pilipinas</title></programme>
+<programme start="20240719000000 +0000" stop="20240719010000 +0000" channel="IBC13.ph"><title lang="en">Presidential Coverage</title></programme>
+<programme start="20240719010000 +0000" stop="20240719020000 +0000" channel="IBC13.ph"><title lang="en">Ito Ang Kongreso</title></programme>
+<programme start="20240719020000 +0000" stop="20240719034500 +0000" channel="IBC13.ph"><title lang="en">#IPABITAGMO - Sumbungan Ng Sambayanan</title></programme>
+<programme start="20240719034500 +0000" stop="20240719041000 +0000" channel="IBC13.ph"><title lang="en">IBC Express Balita</title></programme>
+<programme start="20240719041000 +0000" stop="20240719050000 +0000" channel="IBC13.ph"><title lang="en">Bagong Pilipinas Ngayon</title></programme>
+<programme start="20240719050000 +0000" stop="20240719055500 +0000" channel="IBC13.ph"><title lang="en">Sentro Balita</title></programme>
+<programme start="20240719055500 +0000" stop="20240719061000 +0000" channel="IBC13.ph"><title lang="en">IBC Express Balita</title></programme>
+<programme start="20240719061000 +0000" stop="20240719063000 +0000" channel="IBC13.ph"><title lang="en">Bagong Pilipinas Lingkod Ng Bayan</title></programme>
+<programme start="20240719063000 +0000" stop="20240719070000 +0000" channel="IBC13.ph"><title lang="en">PBBM - RTVM</title></programme>
+<programme start="20240719070000 +0000" stop="20240719075500 +0000" channel="IBC13.ph"><title lang="en">Bagong Pilipinas</title></programme>
+<programme start="20240719075500 +0000" stop="20240719081000 +0000" channel="IBC13.ph"><title lang="en">IBC Express Balita</title></programme>
+<programme start="20240719081000 +0000" stop="20240719090000 +0000" channel="IBC13.ph"><title lang="en">PBBM - RTVM</title></programme>
+<programme start="20240719090000 +0000" stop="20240719100000 +0000" channel="IBC13.ph"><title lang="en">IBC Tutok 13</title></programme>
+<programme start="20240719100000 +0000" stop="20240719103000 +0000" channel="IBC13.ph"><title lang="en">Cabinet @ Work</title></programme>
+<programme start="20240719103000 +0000" stop="20240719110000 +0000" channel="IBC13.ph"><title lang="en">PBBM - RTVM</title></programme>
+<programme start="20240719110000 +0000" stop="20240719120000 +0000" channel="IBC13.ph"><title lang="en">Unity League: Esports Amateur Tournament</title></programme>
+<programme start="20240719120000 +0000" stop="20240719130000 +0000" channel="IBC13.ph"><title lang="en">PBBM - RTVM</title></programme>
+<programme start="20240719130000 +0000" stop="20240719140000 +0000" channel="IBC13.ph"><title lang="en">Bagong Pilipinas</title></programme>
+<programme start="20240719140000 +0000" stop="20240719150000 +0000" channel="IBC13.ph"><title lang="en">PBBM - RTVM</title></programme>
+<programme start="20240719230000 +0000" stop="20240720000000 +0000" channel="IBC13.ph"><title lang="en">PBBM - RTVM</title></programme>
+<programme start="20240720000000 +0000" stop="20240720010000 +0000" channel="IBC13.ph"><title lang="en">Dok True Ba?</title></programme>
+<programme start="20240720010000 +0000" stop="20240720013000 +0000" channel="IBC13.ph"><title lang="en">Ate Rose: Real Life Stories (Philantropist)</title></programme>
+<programme start="20240720013000 +0000" stop="20240720020000 +0000" channel="IBC13.ph"><title lang="en">PBBM - RTVM</title></programme>
+<programme start="20240720020000 +0000" stop="20240720023000 +0000" channel="IBC13.ph"><title lang="en">Cabinet @ Work</title></programme>
+<programme start="20240720023000 +0000" stop="20240720033000 +0000" channel="IBC13.ph"><title lang="en">Bagong Pilipinas Ngayon</title></programme>
+<programme start="20240720033000 +0000" stop="20240720040000 +0000" channel="IBC13.ph"><title lang="en">Bagong Pilipinas</title></programme>
+<programme start="20240720040000 +0000" stop="20240720050000 +0000" channel="IBC13.ph"><title lang="en">PBBM - RTVM</title></programme>
+<programme start="20240720050000 +0000" stop="20240720060000 +0000" channel="IBC13.ph"><title lang="en">Presidential Coverage</title></programme>
+<programme start="20240720060000 +0000" stop="20240720070000 +0000" channel="IBC13.ph"><title lang="en">PBBM - RTVM</title></programme>
+<programme start="20240720070000 +0000" stop="20240720080000 +0000" channel="IBC13.ph"><title lang="en">Bagong Pilipinas Ngayon</title></programme>
+<programme start="20240720080000 +0000" stop="20240720083000 +0000" channel="IBC13.ph"><title lang="en">Handa Sakuna</title></programme>
+<programme start="20240720083000 +0000" stop="20240720090000 +0000" channel="IBC13.ph"><title lang="en">Talents Academy</title></programme>
+<programme start="20240720090000 +0000" stop="20240720100000 +0000" channel="IBC13.ph"><title lang="en">Bagong Pilipinas</title></programme>
+<programme start="20240720100000 +0000" stop="20240720110000 +0000" channel="IBC13.ph"><title lang="en">Ulat Bayan Weekend</title></programme>
+<programme start="20240720110000 +0000" stop="20240720120000 +0000" channel="IBC13.ph"><title lang="en">PBBM - RTVM</title></programme>
+<programme start="20240720120000 +0000" stop="20240720130000 +0000" channel="IBC13.ph"><title lang="en">Unity League: Esports Amateur Tournament</title></programme>
+<programme start="20240720130000 +0000" stop="20240720140000 +0000" channel="IBC13.ph"><title lang="en">Bagong Pilipinas</title></programme>
+<programme start="20240718160000 +0000" stop="20240718164500 +0000" channel="JeepneyTV.ph"><title lang="en">PHR Presents: Impostor</title></programme>
+<programme start="20240718160000 +0000" stop="20240718164500 +0000" channel="JeepneyTV.ph"><title lang="en">PHR Presents: Impostor</title></programme>
+<programme start="20240718164500 +0000" stop="20240718172000 +0000" channel="JeepneyTV.ph"><title lang="en">Agua Bendita</title></programme>
+<programme start="20240718172000 +0000" stop="20240718180000 +0000" channel="JeepneyTV.ph"><title lang="en">Tubig at Langis</title></programme>
+<programme start="20240718180000 +0000" stop="20240718184500 +0000" channel="JeepneyTV.ph"><title lang="en">Forevermore</title></programme>
+<programme start="20240718184500 +0000" stop="20240718193000 +0000" channel="JeepneyTV.ph"><title lang="en">On The Wings Of Love</title></programme>
+<programme start="20240718193000 +0000" stop="20240718204500 +0000" channel="JeepneyTV.ph"><title lang="en">Budoy</title></programme>
+<programme start="20240718204500 +0000" stop="20240718212500 +0000" channel="JeepneyTV.ph"><title lang="en">PHR Presents: Impostor</title></programme>
+<programme start="20240718212500 +0000" stop="20240718224500 +0000" channel="JeepneyTV.ph"><title lang="en">Huwag Ka Lang Mawawala</title></programme>
+<programme start="20240718224500 +0000" stop="20240718233000 +0000" channel="JeepneyTV.ph"><title lang="en">Pangako Sa &apos;Yo</title></programme>
+<programme start="20240718233000 +0000" stop="20240719000000 +0000" channel="JeepneyTV.ph"><title lang="en">Kapamilya Daily Mass</title></programme>
+<programme start="20240719000000 +0000" stop="20240719010000 +0000" channel="JeepneyTV.ph"><title lang="en">Krystala</title></programme>
+<programme start="20240719010000 +0000" stop="20240719020000 +0000" channel="JeepneyTV.ph"><title lang="en">Magandang Buhay</title></programme>
+<programme start="20240719020000 +0000" stop="20240719030000 +0000" channel="JeepneyTV.ph"><title lang="en">Langit At Lupa</title></programme>
+<programme start="20240719030000 +0000" stop="20240719040000 +0000" channel="JeepneyTV.ph"><title lang="en">May Bukas Pa</title></programme>
+<programme start="20240719040000 +0000" stop="20240719050000 +0000" channel="JeepneyTV.ph"><title lang="en">Komiks: Pedro Penduko At Ang Mga Engkantao</title></programme>
+<programme start="20240719050000 +0000" stop="20240719060000 +0000" channel="JeepneyTV.ph"><title lang="en">Ning Ning</title></programme>
+<programme start="20240719060000 +0000" stop="20240719063000 +0000" channel="JeepneyTV.ph"><title lang="en">Honesto</title></programme>
+<programme start="20240719063000 +0000" stop="20240719070000 +0000" channel="JeepneyTV.ph"><title lang="en">Kadenang Ginto</title></programme>
+<programme start="20240719070000 +0000" stop="20240719074500 +0000" channel="JeepneyTV.ph"><title lang="en">Tubig at Langis</title></programme>
+<programme start="20240719074500 +0000" stop="20240719085000 +0000" channel="JeepneyTV.ph"><title lang="en">Budoy</title></programme>
+<programme start="20240719085000 +0000" stop="20240719093000 +0000" channel="JeepneyTV.ph"><title lang="en">Agua Bendita</title></programme>
+<programme start="20240719093000 +0000" stop="20240719094500 +0000" channel="JeepneyTV.ph"><title lang="en">TV Patrol Express</title></programme>
+<programme start="20240719094500 +0000" stop="20240719103000 +0000" channel="JeepneyTV.ph"><title lang="en">Pasion de Amor</title></programme>
+<programme start="20240719103000 +0000" stop="20240719113000 +0000" channel="JeepneyTV.ph"><title lang="en">Huwag Ka Lang Mawawala</title></programme>
+<programme start="20240719113000 +0000" stop="20240719120000 +0000" channel="JeepneyTV.ph"><title lang="en">PHR Presents: Impostor</title></programme>
+<programme start="20240719120000 +0000" stop="20240719124500 +0000" channel="JeepneyTV.ph"><title lang="en">Pangako Sa&apos;yo</title></programme>
+<programme start="20240719124500 +0000" stop="20240719133000 +0000" channel="JeepneyTV.ph"><title lang="en">Forevermore</title></programme>
+<programme start="20240719133000 +0000" stop="20240719141500 +0000" channel="JeepneyTV.ph"><title lang="en">On The Wings Of Love</title></programme>
+<programme start="20240719141500 +0000" stop="20240719150500 +0000" channel="JeepneyTV.ph"><title lang="en">Pamilya Sagrado</title></programme>
+<programme start="20240719150500 +0000" stop="20240719160000 +0000" channel="JeepneyTV.ph"><title lang="en">High Street</title></programme>
+<programme start="20240719160000 +0000" stop="20240719164500 +0000" channel="JeepneyTV.ph"><title lang="en">PHR Presents: Impostor</title></programme>
+<programme start="20240719160000 +0000" stop="20240719173000 +0000" channel="JeepneyTV.ph"><title lang="en">ASAP Remix</title></programme>
+<programme start="20240719164500 +0000" stop="20240719183000 +0000" channel="JeepneyTV.ph"><title lang="en">Kung Ako&apos;y Iiwan Mo</title></programme>
+<programme start="20240719183000 +0000" stop="20240719233000 +0000" channel="JeepneyTV.ph"><title lang="en">Huwag Ka Lang Mawawala</title></programme>
+<programme start="20240719233000 +0000" stop="20240720000000 +0000" channel="JeepneyTV.ph"><title lang="en">Kapamilya Daily Mass</title></programme>
+<programme start="20240720000000 +0000" stop="20240720020000 +0000" channel="JeepneyTV.ph"><title lang="en">Mutya</title></programme>
+<programme start="20240720015500 +0000" stop="20240720020000 +0000" channel="JeepneyTV.ph"><title lang="en">Yey Famtime</title></programme>
+<programme start="20240720020000 +0000" stop="20240720040000 +0000" channel="JeepneyTV.ph"><title lang="en">Dyesebel</title></programme>
+<programme start="20240720040000 +0000" stop="20240720050000 +0000" channel="JeepneyTV.ph"><title lang="en">Stars On Stars</title></programme>
+<programme start="20240720050000 +0000" stop="20240720063000 +0000" channel="JeepneyTV.ph"><title lang="en">Flordeliza</title></programme>
+<programme start="20240720063000 +0000" stop="20240720070000 +0000" channel="JeepneyTV.ph"><title lang="en">Kadenang Ginto</title></programme>
+<programme start="20240720070000 +0000" stop="20240720083000 +0000" channel="JeepneyTV.ph"><title lang="en">MMK</title></programme>
+<programme start="20240720083000 +0000" stop="20240720093000 +0000" channel="JeepneyTV.ph"><title lang="en">Paano Kita Mapapasalamatan</title></programme>
+<programme start="20240720093000 +0000" stop="20240720101500 +0000" channel="JeepneyTV.ph"><title lang="en">Dahil Sa Pag-Ibig</title></programme>
+<programme start="20240720101500 +0000" stop="20240720140000 +0000" channel="JeepneyTV.ph"><title lang="en">Love In 40 Days</title></programme>
+<programme start="20240720140000 +0000" stop="20240720151000 +0000" channel="JeepneyTV.ph"><title lang="en">Wansapanataym</title></programme>
+<programme start="20240720151000 +0000" stop="20240720160000 +0000" channel="JeepneyTV.ph"><title lang="en">Hanggang Saan</title></programme>
+<programme start="20240718180000 +0000" stop="20240718194500 +0000" channel="KapamilyaChannel.ph"><title lang="en">Movie Central Presents</title></programme>
+<programme start="20240718194500 +0000" stop="20240718213000 +0000" channel="KapamilyaChannel.ph"><title lang="en">Movie Central Presents</title></programme>
+<programme start="20240718213000 +0000" stop="20240718220000 +0000" channel="KapamilyaChannel.ph"><title lang="en">Kapamilya Daily Mass</title></programme>
+<programme start="20240718220000 +0000" stop="20240718230000 +0000" channel="KapamilyaChannel.ph"><title lang="en">School Anywhere sa Kapamilya Channel</title></programme>
+<programme start="20240718230000 +0000" stop="20240719000000 +0000" channel="KapamilyaChannel.ph"><title lang="en">Komiks: Pedro Penduko At Ang Mga Engkantao</title></programme>
+<programme start="20240719000000 +0000" stop="20240719003000 +0000" channel="KapamilyaChannel.ph"><title lang="en">Flying House</title></programme>
+<programme start="20240719003000 +0000" stop="20240719010000 +0000" channel="KapamilyaChannel.ph"><title lang="en">Superbook Reimagined</title></programme>
+<programme start="20240719010000 +0000" stop="20240719020000 +0000" channel="KapamilyaChannel.ph"><title lang="en">Magandang Buhay</title></programme>
+<programme start="20240719020000 +0000" stop="20240719040000 +0000" channel="KapamilyaChannel.ph"><title lang="en">Kapamilya Blockbusters</title></programme>
+<programme start="20240719040000 +0000" stop="20240719063000 +0000" channel="KapamilyaChannel.ph"><title lang="en">It&apos;s Showtime</title></programme>
+<programme start="20240719063000 +0000" stop="20240719071500 +0000" channel="KapamilyaChannel.ph"><title lang="en">Dirty Linen</title></programme>
+<programme start="20240719071500 +0000" stop="20240719080000 +0000" channel="KapamilyaChannel.ph"><title lang="en">Mars Ravelo&apos;s Darna: The TV Series</title></programme>
+<programme start="20240719080000 +0000" stop="20240719093000 +0000" channel="KapamilyaChannel.ph"><title lang="en">Kapamilya Gold Hits</title></programme>
+<programme start="20240719093000 +0000" stop="20240719094500 +0000" channel="KapamilyaChannel.ph"><title lang="en">TV Patrol Express</title></programme>
+<programme start="20240719094500 +0000" stop="20240719103000 +0000" channel="KapamilyaChannel.ph"><title lang="en">Goin&apos; Bulilit</title></programme>
+<programme start="20240719103000 +0000" stop="20240719120000 +0000" channel="KapamilyaChannel.ph"><title lang="en">TV Patrol</title></programme>
+<programme start="20240719120000 +0000" stop="20240719124500 +0000" channel="KapamilyaChannel.ph"><title lang="en">FPJ&apos;s Batang Quiapo</title></programme>
+<programme start="20240719124500 +0000" stop="20240719133000 +0000" channel="KapamilyaChannel.ph"><title lang="en">Pamilya Sagrado</title></programme>
+<programme start="20240719133000 +0000" stop="20240719141500 +0000" channel="KapamilyaChannel.ph"><title lang="en">High Street</title></programme>
+<programme start="20240719141500 +0000" stop="20240719144500 +0000" channel="KapamilyaChannel.ph"><title lang="en">Starhunt: The Audition Show</title></programme>
+<programme start="20240719144500 +0000" stop="20240719151500 +0000" channel="KapamilyaChannel.ph"><title lang="en">The World Tonight</title></programme>
+<programme start="20240719151500 +0000" stop="20240719180000 +0000" channel="KapamilyaChannel.ph"><title lang="en">Movie Central Presents</title></programme>
+<programme start="20240719180000 +0000" stop="20240719194500 +0000" channel="KapamilyaChannel.ph"><title lang="en">Movie Central Presents</title></programme>
+<programme start="20240719194500 +0000" stop="20240719213000 +0000" channel="KapamilyaChannel.ph"><title lang="en">Movie Central Presents</title></programme>
+<programme start="20240719213000 +0000" stop="20240719220000 +0000" channel="KapamilyaChannel.ph"><title lang="en">Kapamilya Daily Mass</title></programme>
+<programme start="20240719220000 +0000" stop="20240719221500 +0000" channel="KapamilyaChannel.ph"><title lang="en">Bubu and The Little Owls</title></programme>
+<programme start="20240719221500 +0000" stop="20240719223000 +0000" channel="KapamilyaChannel.ph"><title lang="en">Dinoman</title></programme>
+<programme start="20240719223000 +0000" stop="20240719230000 +0000" channel="KapamilyaChannel.ph"><title lang="en">Team Yey</title></programme>
+<programme start="20240719230000 +0000" stop="20240720000000 +0000" channel="KapamilyaChannel.ph"><title lang="en">Super Inggo</title></programme>
+<programme start="20240720000000 +0000" stop="20240720003000 +0000" channel="KapamilyaChannel.ph"><title lang="en">Team Fitfil</title></programme>
+<programme start="20240720003000 +0000" stop="20240720010000 +0000" channel="KapamilyaChannel.ph"><title lang="en">Dok Rickypedia</title></programme>
+<programme start="20240720010000 +0000" stop="20240720040000 +0000" channel="KapamilyaChannel.ph"><title lang="en">KB Family Weekend</title></programme>
+<programme start="20240720040000 +0000" stop="20240720063000 +0000" channel="KapamilyaChannel.ph"><title lang="en">It&apos;s Showtime</title></programme>
+<programme start="20240720063000 +0000" stop="20240720071500 +0000" channel="KapamilyaChannel.ph"><title lang="en">Dirty Linen</title></programme>
+<programme start="20240720071500 +0000" stop="20240720083000 +0000" channel="KapamilyaChannel.ph"><title lang="en">Kapamilya Action Sabado</title></programme>
+<programme start="20240720083000 +0000" stop="20240720093000 +0000" channel="KapamilyaChannel.ph"><title lang="en">Goin&apos; Bulilit</title></programme>
+<programme start="20240720093000 +0000" stop="20240720101500 +0000" channel="KapamilyaChannel.ph"><title lang="en">TV Patrol Weekend</title></programme>
+<programme start="20240720101500 +0000" stop="20240720111500 +0000" channel="KapamilyaChannel.ph"><title lang="en">Rated Korina</title></programme>
+<programme start="20240720111500 +0000" stop="20240720123000 +0000" channel="KapamilyaChannel.ph"><title lang="en">Rainbow Rumble</title></programme>
+<programme start="20240720123000 +0000" stop="20240720133000 +0000" channel="KapamilyaChannel.ph"><title lang="en">Pinoy Big Brother Gen 11</title></programme>
+<programme start="20240720133000 +0000" stop="20240720141500 +0000" channel="KapamilyaChannel.ph"><title lang="en">Count Your Lucky Stars</title></programme>
+<programme start="20240720141500 +0000" stop="20240720163000 +0000" channel="KapamilyaChannel.ph"><title lang="en">Super Kapamilya Blockbuster Movie</title></programme>
+<programme start="20240718160000 +0000" stop="20240718163000 +0000" channel="Net25.ph"><title lang="en">Ang Iglesia Ni Cristo</title></programme>
+<programme start="20240718160000 +0000" stop="20240718163000 +0000" channel="Net25.ph"><title lang="en">INC and The Bible</title></programme>
+<programme start="20240718163000 +0000" stop="20240718170000 +0000" channel="Net25.ph"><title lang="en">Blueprint</title></programme>
+<programme start="20240718170000 +0000" stop="20240718180000 +0000" channel="Net25.ph"><title lang="en">Your Light Forever</title></programme>
+<programme start="20240718180000 +0000" stop="20240718183000 +0000" channel="Net25.ph"><title lang="en">Daan Ng Buhay</title></programme>
+<programme start="20240718183000 +0000" stop="20240718190000 +0000" channel="Net25.ph"><title lang="en">Executive News Feature</title></programme>
+<programme start="20240718190000 +0000" stop="20240718200000 +0000" channel="Net25.ph"><title lang="en">INCinema</title></programme>
+<programme start="20240718200000 +0000" stop="20240718203000 +0000" channel="Net25.ph"><title lang="en">Turning Point</title></programme>
+<programme start="20240718203000 +0000" stop="20240718210000 +0000" channel="Net25.ph"><title lang="en">Negosyuniversity</title></programme>
+<programme start="20240718210000 +0000" stop="20240718230000 +0000" channel="Net25.ph"><title lang="en">Siento Por Siento</title></programme>
+<programme start="20240718230000 +0000" stop="20240719000000 +0000" channel="Net25.ph"><title lang="en">Love, Tonipet and Everythaaaang!</title></programme>
+<programme start="20240719000000 +0000" stop="20240719020000 +0000" channel="Net25.ph"><title lang="en">A.S.P.N. Ano Sa Palagay Nyo?</title></programme>
+<programme start="20240719020000 +0000" stop="20240719040000 +0000" channel="Net25.ph"><title lang="en">Kada Umaga</title></programme>
+<programme start="20240719040000 +0000" stop="20240719043000 +0000" channel="Net25.ph"><title lang="en">Mata Ng Agila Sa Tanghali</title></programme>
+<programme start="20240719043000 +0000" stop="20240719050000 +0000" channel="Net25.ph"><title lang="en">Unwanted Family</title></programme>
+<programme start="20240719050000 +0000" stop="20240719053000 +0000" channel="Net25.ph"><title lang="en">Fatal Promise</title></programme>
+<programme start="20240719053000 +0000" stop="20240719060000 +0000" channel="Net25.ph"><title lang="en">Gracious Revenge</title></programme>
+<programme start="20240719060000 +0000" stop="20240719063000 +0000" channel="Net25.ph"><title lang="en">A Place In The Sun</title></programme>
+<programme start="20240719063000 +0000" stop="20240719070000 +0000" channel="Net25.ph"><title lang="en">Kizim</title></programme>
+<programme start="20240719063000 +0000" stop="20240719070000 +0000" channel="Net25.ph"><title lang="en">ASEAN in Focus</title></programme>
+<programme start="20240719070000 +0000" stop="20240719080000 +0000" channel="Net25.ph"><title lang="en">Korina Interviews</title></programme>
+<programme start="20240719080000 +0000" stop="20240719093000 +0000" channel="Net25.ph"><title lang="en">Sa Ganang Mamamayan</title></programme>
+<programme start="20240719093000 +0000" stop="20240719100000 +0000" channel="Net25.ph"><title lang="en">Road to Starkada</title></programme>
+<programme start="20240719100000 +0000" stop="20240719113000 +0000" channel="Net25.ph"><title lang="en">Mata Ng Agila</title></programme>
+<programme start="20240719113000 +0000" stop="20240719120000 +0000" channel="Net25.ph"><title lang="en">Hello My Shining Love</title></programme>
+<programme start="20240719120000 +0000" stop="20240719123000 +0000" channel="Net25.ph"><title lang="en">Gracious Revenge</title></programme>
+<programme start="20240719123000 +0000" stop="20240719130000 +0000" channel="Net25.ph"><title lang="en">House Of Bluebird</title></programme>
+<programme start="20240719130000 +0000" stop="20240719133000 +0000" channel="Net25.ph"><title lang="en">One Litre of Tears</title></programme>
+<programme start="20240719133000 +0000" stop="20240719143000 +0000" channel="Net25.ph"><title lang="en">Mata Ng Agila International</title></programme>
+<programme start="20240719143000 +0000" stop="20240719150000 +0000" channel="Net25.ph"><title lang="en">Net25 World News with Alma Angeles</title></programme>
+<programme start="20240719150000 +0000" stop="20240719160000 +0000" channel="Net25.ph"><title lang="en">Mobile Legends: Bang Bang Professional League</title></programme>
+<programme start="20240719160000 +0000" stop="20240719163000 +0000" channel="Net25.ph"><title lang="en">INC and The Bible</title></programme>
+<programme start="20240719160000 +0000" stop="20240719163000 +0000" channel="Net25.ph"><title lang="en">INC and The Bible</title></programme>
+<programme start="20240719163000 +0000" stop="20240719170000 +0000" channel="Net25.ph"><title lang="en">Pundasyon</title></programme>
+<programme start="20240719170000 +0000" stop="20240719173000 +0000" channel="Net25.ph"><title lang="en">INC international Edition</title></programme>
+<programme start="20240719173000 +0000" stop="20240719180000 +0000" channel="Net25.ph"><title lang="en">Pasugo</title></programme>
+<programme start="20240719180000 +0000" stop="20240719183000 +0000" channel="Net25.ph"><title lang="en">Biblia Ang Sasagot</title></programme>
+<programme start="20240719183000 +0000" stop="20240719190000 +0000" channel="Net25.ph"><title lang="en">Executive News Feature</title></programme>
+<programme start="20240719190000 +0000" stop="20240719200000 +0000" channel="Net25.ph"><title lang="en">Landas Ng Buhay</title></programme>
+<programme start="20240719200000 +0000" stop="20240719203000 +0000" channel="Net25.ph"><title lang="en">Turning Point</title></programme>
+<programme start="20240719203000 +0000" stop="20240719210000 +0000" channel="Net25.ph"><title lang="en">AveNEU</title></programme>
+<programme start="20240719210000 +0000" stop="20240719213000 +0000" channel="Net25.ph"><title lang="en">Gabay Sa Mabuting Asal</title></programme>
+<programme start="20240719213000 +0000" stop="20240719220000 +0000" channel="Net25.ph"><title lang="en">Biblia Ang Sasagot</title></programme>
+<programme start="20240719220000 +0000" stop="20240719223000 +0000" channel="Net25.ph"><title lang="en">Ang Iglesia Ni Cristo</title></programme>
+<programme start="20240719223000 +0000" stop="20240719230000 +0000" channel="Net25.ph"><title lang="en">Paninindigan</title></programme>
+<programme start="20240719230000 +0000" stop="20240719233000 +0000" channel="Net25.ph"><title lang="en">Executive News Feature</title></programme>
+<programme start="20240719233000 +0000" stop="20240720000000 +0000" channel="Net25.ph"><title lang="en">Trabaho Ko To</title></programme>
+<programme start="20240720000000 +0000" stop="20240720010000 +0000" channel="Net25.ph"><title lang="en">Ito Ang Tahanan</title></programme>
+<programme start="20240720010000 +0000" stop="20240720013000 +0000" channel="Net25.ph"><title lang="en">Benrat</title></programme>
+<programme start="20240720013000 +0000" stop="20240720020000 +0000" channel="Net25.ph"><title lang="en">Speed Racer: The Next Generation</title></programme>
+<programme start="20240720020000 +0000" stop="20240720023000 +0000" channel="Net25.ph"><title lang="en">Simba Junior to the World Cup</title></programme>
+<programme start="20240720023000 +0000" stop="20240720030000 +0000" channel="Net25.ph"><title lang="en">Art Academy</title></programme>
+<programme start="20240720030000 +0000" stop="20240720040000 +0000" channel="Net25.ph"><title lang="en">Lutong Daza</title></programme>
+<programme start="20240720040000 +0000" stop="20240720050000 +0000" channel="Net25.ph"><title lang="en">Spotlight</title></programme>
+<programme start="20240720050000 +0000" stop="20240720060000 +0000" channel="Net25.ph"><title lang="en">Letters and Music</title></programme>
+<programme start="20240720060000 +0000" stop="20240720070000 +0000" channel="Net25.ph"><title lang="en">Moments</title></programme>
+<programme start="20240720070000 +0000" stop="20240720080000 +0000" channel="Net25.ph"><title lang="en">Magandang ARAw</title></programme>
+<programme start="20240720080000 +0000" stop="20240720083000 +0000" channel="Net25.ph"><title lang="en">Little Juan&apos;s Playlist</title></programme>
+<programme start="20240720083000 +0000" stop="20240720090000 +0000" channel="Net25.ph"><title lang="en">UNLAD Kaagapay sa Hanapbuhay</title></programme>
+<programme start="20240720090000 +0000" stop="20240720093000 +0000" channel="Net25.ph"><title lang="en">Lingap Stories</title></programme>
+<programme start="20240720093000 +0000" stop="20240720100000 +0000" channel="Net25.ph"><title lang="en">Mata Ng Agila Weekend</title></programme>
+<programme start="20240720100000 +0000" stop="20240720110000 +0000" channel="Net25.ph"><title lang="en">Responde: Mata Ng Mamamayan</title></programme>
+<programme start="20240720110000 +0000" stop="20240720120000 +0000" channel="Net25.ph"><title lang="en">May For Ever</title></programme>
+<programme start="20240720120000 +0000" stop="20240720130000 +0000" channel="Net25.ph"><title lang="en">Oh No, Its B.O.!</title></programme>
+<programme start="20240720130000 +0000" stop="20240720140000 +0000" channel="Net25.ph"><title lang="en">Reality Check</title></programme>
+<programme start="20240720140000 +0000" stop="20240720160000 +0000" channel="Net25.ph"><title lang="en">Mobile Legends: Bang Bang Professional League</title></programme>
+<programme start="20240718173000 +0000" stop="20240718190000 +0000" channel="PBO.ph"><title lang="en">First Time</title></programme>
+<programme start="20240718190000 +0000" stop="20240718203000 +0000" channel="PBO.ph"><title lang="en">Night Job</title></programme>
+<programme start="20240718203000 +0000" stop="20240718221500 +0000" channel="PBO.ph"><title lang="en">Leona Calderon</title></programme>
+<programme start="20240718221500 +0000" stop="20240719010000 +0000" channel="PBO.ph"><title lang="en">Top &amp; Jinky Reunited Part 1</title></programme>
+<programme start="20240719010000 +0000" stop="20240719031500 +0000" channel="PBO.ph"><title lang="en">Lastikman: Unang Banat</title></programme>
+<programme start="20240719031500 +0000" stop="20240719051500 +0000" channel="PBO.ph"><title lang="en">Mang Jose</title></programme>
+<programme start="20240719051500 +0000" stop="20240719071500 +0000" channel="PBO.ph"><title lang="en">Who&apos;s That Girl?</title></programme>
+<programme start="20240719071500 +0000" stop="20240719093000 +0000" channel="PBO.ph"><title lang="en">Basta Ikaw Nanginginig Pa</title></programme>
+<programme start="20240719093000 +0000" stop="20240719113000 +0000" channel="PBO.ph"><title lang="en">S.O.N.S. (Sons of Nanay Sabel)</title></programme>
+<programme start="20240719113000 +0000" stop="20240719133000 +0000" channel="PBO.ph"><title lang="en">Status: Single</title></programme>
+<programme start="20240719133000 +0000" stop="20240719153000 +0000" channel="PBO.ph"><title lang="en">Pagdating Ng Panahon</title></programme>
+<programme start="20240719153000 +0000" stop="20240719173000 +0000" channel="PBO.ph"><title lang="en">The Barker</title></programme>
+<programme start="20240719173000 +0000" stop="20240719190000 +0000" channel="PBO.ph"><title lang="en">Paraiso</title></programme>
+<programme start="20240719190000 +0000" stop="20240719210000 +0000" channel="PBO.ph"><title lang="en">Nag-aapoy Na Langit</title></programme>
+<programme start="20240719210000 +0000" stop="20240719230000 +0000" channel="PBO.ph"><title lang="en">Bakit Lahat ng Gwapo May Boyfriend?</title></programme>
+<programme start="20240719230000 +0000" stop="20240720010000 +0000" channel="PBO.ph"><title lang="en">Ratratan</title></programme>
+<programme start="20240720010000 +0000" stop="20240720030000 +0000" channel="PBO.ph"><title lang="en">Kahit Ayaw Mo Na</title></programme>
+<programme start="20240720030000 +0000" stop="20240720050000 +0000" channel="PBO.ph"><title lang="en">Cry No Fear</title></programme>
+<programme start="20240720050000 +0000" stop="20240720070000 +0000" channel="PBO.ph"><title lang="en">Pedro Penduko Episode 2</title></programme>
+<programme start="20240720070000 +0000" stop="20240720090000 +0000" channel="PBO.ph"><title lang="en">Pangarap Ko Ang Ibigin Ka</title></programme>
+<programme start="20240720090000 +0000" stop="20240720110000 +0000" channel="PBO.ph"><title lang="en">Won&apos;t Last A Day Without You</title></programme>
+<programme start="20240720110000 +0000" stop="20240720113000 +0000" channel="PBO.ph"><title lang="en">Anong Ganap?</title></programme>
+<programme start="20240720113000 +0000" stop="20240720133000 +0000" channel="PBO.ph"><title lang="en">Hitman: Oscar Ramos</title></programme>
+<programme start="20240720133000 +0000" stop="20240720154500 +0000" channel="PBO.ph"><title lang="en">Petrang Kabayo 2010</title></programme>
+<programme start="20240720154500 +0000" stop="20240720173000 +0000" channel="PBO.ph"><title lang="en">The Wife</title></programme>
+<programme start="20240718213000 +0000" stop="20240718220000 +0000" channel="PTV.ph"><title lang="en">PBBM Bloc</title></programme>
+<programme start="20240718220000 +0000" stop="20240719000000 +0000" channel="PTV.ph"><title lang="en">Rise and Shine Pilipinas</title></programme>
+<programme start="20240719000000 +0000" stop="20240719003000 +0000" channel="PTV.ph"><title lang="en">Presidential Coverage</title></programme>
+<programme start="20240719003000 +0000" stop="20240719010000 +0000" channel="PTV.ph"><title lang="en">ASEAN Documentary</title></programme>
+<programme start="20240719010000 +0000" stop="20240719020000 +0000" channel="PTV.ph"><title lang="en">Mike Abe Live</title></programme>
+<programme start="20240719020000 +0000" stop="20240719030000 +0000" channel="PTV.ph"><title lang="en">Punto Asintado Reload</title></programme>
+<programme start="20240719030000 +0000" stop="20240719040000 +0000" channel="PTV.ph"><title lang="en">Larry Gadon Live</title></programme>
+<programme start="20240719040000 +0000" stop="20240719050000 +0000" channel="PTV.ph"><title lang="en">PTV Pre-SONA Special with RJ Nieto</title></programme>
+<programme start="20240719050000 +0000" stop="20240719060000 +0000" channel="PTV.ph"><title lang="en">Sentro Balita</title></programme>
+<programme start="20240719060000 +0000" stop="20240719061500 +0000" channel="PTV.ph"><title lang="en">PCSO Lottery Draw</title></programme>
+<programme start="20240719061500 +0000" stop="20240719070000 +0000" channel="PTV.ph"><title lang="en">Stories From The Grid (The VOA and AFP Diaries)</title></programme>
+<programme start="20240719070000 +0000" stop="20240719080000 +0000" channel="PTV.ph"><title lang="en">PTV Pre-SONA Special with RJ Nieto</title></programme>
+<programme start="20240719080000 +0000" stop="20240719090000 +0000" channel="PTV.ph"><title lang="en">Oras Ng Himala</title></programme>
+<programme start="20240719090000 +0000" stop="20240719091500 +0000" channel="PTV.ph"><title lang="en">PCSO Lottery Draw</title></programme>
+<programme start="20240719091500 +0000" stop="20240719094500 +0000" channel="PTV.ph"><title lang="en">Pinoy Pawnstars Anything Has A Value</title></programme>
+<programme start="20240719094500 +0000" stop="20240719100000 +0000" channel="PTV.ph"><title lang="en">ASEAN Documentary</title></programme>
+<programme start="20240719100000 +0000" stop="20240719110000 +0000" channel="PTV.ph"><title lang="en">Ulat Bayan</title></programme>
+<programme start="20240719110000 +0000" stop="20240719120000 +0000" channel="PTV.ph"><title lang="en">Unity League: Esports Amateur Tournament</title></programme>
+<programme start="20240719120000 +0000" stop="20240719130000 +0000" channel="PTV.ph"><title lang="en">In Person</title></programme>
+<programme start="20240719130000 +0000" stop="20240719133000 +0000" channel="PTV.ph"><title lang="en">PCSO Lottery Draw</title></programme>
+<programme start="20240719133000 +0000" stop="20240719143000 +0000" channel="PTV.ph"><title lang="en">PTV News Tonight</title></programme>
+<programme start="20240719143000 +0000" stop="20240719150000 +0000" channel="PTV.ph"><title lang="en">Stories From The Grid (The VOA and AFP Diaries)</title></programme>
+<programme start="20240719150000 +0000" stop="20240719160000 +0000" channel="PTV.ph"><title lang="en">PTV Pre-SONA Special with RJ Nieto</title></programme>
+<programme start="20240719230000 +0000" stop="20240720000000 +0000" channel="PTV.ph"><title lang="en">Health @ Home</title></programme>
+<programme start="20240720000000 +0000" stop="20240720003000 +0000" channel="PTV.ph"><title lang="en">Yan Ang Marino</title></programme>
+<programme start="20240720003000 +0000" stop="20240720010000 +0000" channel="PTV.ph"><title lang="en">Presidential Coverage</title></programme>
+<programme start="20240720010000 +0000" stop="20240720013000 +0000" channel="PTV.ph"><title lang="en">Asenso Pinoy</title></programme>
+<programme start="20240720013000 +0000" stop="20240720023000 +0000" channel="PTV.ph"><title lang="en">Mag-Agri Tayo</title></programme>
+<programme start="20240720023000 +0000" stop="20240720030000 +0000" channel="PTV.ph"><title lang="en">Artsy Craftsy</title></programme>
+<programme start="20240720030000 +0000" stop="20240720040000 +0000" channel="PTV.ph"><title lang="en">Iskoolmates</title></programme>
+<programme start="20240720040000 +0000" stop="20240720050000 +0000" channel="PTV.ph"><title lang="en">PTV Pre-SONA Special with RJ Nieto</title></programme>
+<programme start="20240720050000 +0000" stop="20240720053000 +0000" channel="PTV.ph"><title lang="en">Sentro Balita Weekend</title></programme>
+<programme start="20240720053000 +0000" stop="20240720060000 +0000" channel="PTV.ph"><title lang="en">PBBM Bloc</title></programme>
+<programme start="20240720060000 +0000" stop="20240720061500 +0000" channel="PTV.ph"><title lang="en">PCSO Lottery Draw</title></programme>
+<programme start="20240720061500 +0000" stop="20240720063000 +0000" channel="PTV.ph"><title lang="en">ASEAN Documentary</title></programme>
+<programme start="20240720063000 +0000" stop="20240720070000 +0000" channel="PTV.ph"><title lang="en">Auto Review</title></programme>
+<programme start="20240720070000 +0000" stop="20240720080000 +0000" channel="PTV.ph"><title lang="en">Public Eye</title></programme>
+<programme start="20240720080000 +0000" stop="20240720083000 +0000" channel="PTV.ph"><title lang="en">ASEAN Documentary</title></programme>
+<programme start="20240720083000 +0000" stop="20240720090000 +0000" channel="PTV.ph"><title lang="en">PTV Sports Weekend</title></programme>
+<programme start="20240720090000 +0000" stop="20240720091500 +0000" channel="PTV.ph"><title lang="en">PCSO Lottery Draw</title></programme>
+<programme start="20240720091500 +0000" stop="20240720100000 +0000" channel="PTV.ph"><title lang="en">Presidential Coverage</title></programme>
+<programme start="20240720100000 +0000" stop="20240720110000 +0000" channel="PTV.ph"><title lang="en">Ulat Bayan Weekend</title></programme>
+<programme start="20240720110000 +0000" stop="20240720120000 +0000" channel="PTV.ph"><title lang="en">Oras Ng Himala</title></programme>
+<programme start="20240720120000 +0000" stop="20240720130000 +0000" channel="PTV.ph"><title lang="en">Unity League: Esports Amateur Tournament</title></programme>
+<programme start="20240720130000 +0000" stop="20240720133000 +0000" channel="PTV.ph"><title lang="en">PCSO Lottery Draw</title></programme>
+<programme start="20240720133000 +0000" stop="20240720143000 +0000" channel="PTV.ph"><title lang="en">Ulat Bayan Weekend</title></programme>
+<programme start="20240720143000 +0000" stop="20240720160000 +0000" channel="PTV.ph"><title lang="en">Jesus Miracle Crusade</title></programme>
+<programme start="20240718160000 +0000" stop="20240718174000 +0000" channel="ROCKEntertainment.sg"><title lang="en">Nim&apos;s Island</title></programme>
+<programme start="20240718174000 +0000" stop="20240718191000 +0000" channel="ROCKEntertainment.sg"><title lang="en">Next Level Chef S2</title></programme>
+<programme start="20240718191000 +0000" stop="20240718204000 +0000" channel="ROCKEntertainment.sg"><title lang="en">Framed By My Sister</title></programme>
+<programme start="20240718204000 +0000" stop="20240718213000 +0000" channel="ROCKEntertainment.sg"><title lang="en">MasterChef Australia Junior</title></programme>
+<programme start="20240718213000 +0000" stop="20240718220000 +0000" channel="ROCKEntertainment.sg"><title lang="en">30 Rock</title></programme>
+<programme start="20240718220000 +0000" stop="20240718224500 +0000" channel="ROCKEntertainment.sg"><title lang="en">Late Night With Seth Meyers S11</title></programme>
+<programme start="20240718224500 +0000" stop="20240718233000 +0000" channel="ROCKEntertainment.sg"><title lang="en">The Tonight Show Starring Jimmy Fallon S11</title></programme>
+<programme start="20240718233000 +0000" stop="20240719022500 +0000" channel="ROCKEntertainment.sg"><title lang="en">Accused</title></programme>
+<programme start="20240719022500 +0000" stop="20240719041500 +0000" channel="ROCKEntertainment.sg"><title lang="en">What to Expect When You&apos;re Expecting</title></programme>
+<programme start="20240719041500 +0000" stop="20240719054500 +0000" channel="ROCKEntertainment.sg"><title lang="en">Next Level Chef S2</title></programme>
+<programme start="20240719054500 +0000" stop="20240719063000 +0000" channel="ROCKEntertainment.sg"><title lang="en">Late Night With Seth Meyers S11</title></programme>
+<programme start="20240719063000 +0000" stop="20240719071500 +0000" channel="ROCKEntertainment.sg"><title lang="en">The Tonight Show Starring Jimmy Fallon S11</title></programme>
+<programme start="20240719071500 +0000" stop="20240719084500 +0000" channel="ROCKEntertainment.sg"><title lang="en">Framed By My Sister</title></programme>
+<programme start="20240719084500 +0000" stop="20240719110000 +0000" channel="ROCKEntertainment.sg"><title lang="en">Next Level Chef S2</title></programme>
+<programme start="20240719110000 +0000" stop="20240719122500 +0000" channel="ROCKEntertainment.sg"><title lang="en">Jack Taylor: The Guards</title></programme>
+<programme start="20240719122500 +0000" stop="20240719140000 +0000" channel="ROCKEntertainment.sg"><title lang="en">Jack Taylor: The Pikemen</title></programme>
+<programme start="20240719140000 +0000" stop="20240719153000 +0000" channel="ROCKEntertainment.sg"><title lang="en">Jack Taylor: The Magdalen Martyrs</title></programme>
+<programme start="20240719153000 +0000" stop="20240719170000 +0000" channel="ROCKEntertainment.sg"><title lang="en">Jack Taylor: The Dramatist</title></programme>
+<programme start="20240719171000 +0000" stop="20240719182500 +0000" channel="ROCKEntertainment.sg"><title lang="en">Jack Taylor: The Guards</title></programme>
+<programme start="20240719182500 +0000" stop="20240719200000 +0000" channel="ROCKEntertainment.sg"><title lang="en">Jack Taylor: The Pikemen</title></programme>
+<programme start="20240719200000 +0000" stop="20240719213000 +0000" channel="ROCKEntertainment.sg"><title lang="en">Jack Taylor: The Magdalen Martyrs</title></programme>
+<programme start="20240719213000 +0000" stop="20240719230000 +0000" channel="ROCKEntertainment.sg"><title lang="en">Jack Taylor: The Dramatist</title></programme>
+<programme start="20240719230000 +0000" stop="20240720003500 +0000" channel="ROCKEntertainment.sg"><title lang="en">Jack Taylor: The Pikemen</title></programme>
+<programme start="20240720003500 +0000" stop="20240720020500 +0000" channel="ROCKEntertainment.sg"><title lang="en">Jack Taylor: The Magdalen Martyrs</title></programme>
+<programme start="20240720020500 +0000" stop="20240720033500 +0000" channel="ROCKEntertainment.sg"><title lang="en">Jack Taylor: The Dramatist</title></programme>
+<programme start="20240720033500 +0000" stop="20240720050000 +0000" channel="ROCKEntertainment.sg"><title lang="en">Jack Taylor: The Guards</title></programme>
+<programme start="20240720050000 +0000" stop="20240720063500 +0000" channel="ROCKEntertainment.sg"><title lang="en">Jack Taylor: The Pikemen</title></programme>
+<programme start="20240720063500 +0000" stop="20240720080500 +0000" channel="ROCKEntertainment.sg"><title lang="en">Jack Taylor: The Magdalen Martyrs</title></programme>
+<programme start="20240720080500 +0000" stop="20240720093500 +0000" channel="ROCKEntertainment.sg"><title lang="en">Jack Taylor: The Dramatist</title></programme>
+<programme start="20240720093500 +0000" stop="20240720110000 +0000" channel="ROCKEntertainment.sg"><title lang="en">Jack Taylor: The Guards</title></programme>
+<programme start="20240720110000 +0000" stop="20240720123500 +0000" channel="ROCKEntertainment.sg"><title lang="en">Jack Taylor: The Pikemen</title></programme>
+<programme start="20240720123500 +0000" stop="20240720140500 +0000" channel="ROCKEntertainment.sg"><title lang="en">Jack Taylor: The Magdalen Martyrs</title></programme>
+<programme start="20240720140500 +0000" stop="20240720153500 +0000" channel="ROCKEntertainment.sg"><title lang="en">Jack Taylor: The Dramatist</title></programme>
+<programme start="20240720153500 +0000" stop="20240720170000 +0000" channel="ROCKEntertainment.sg"><title lang="en">Jack Taylor: The Guards</title></programme>
+<programme start="20240718160000 +0000" stop="20240718180000 +0000" channel="TagalizedMovieChannel.ph"><title lang="en">Kill Chain</title></programme>
+<programme start="20240718160000 +0000" stop="20240718180000 +0000" channel="TagalizedMovieChannel.ph"><title lang="en">Hellboy: Rise Of The Blood Queen</title></programme>
+<programme start="20240718180000 +0000" stop="20240718200000 +0000" channel="TagalizedMovieChannel.ph"><title lang="en">The Girl in The Photographs</title></programme>
+<programme start="20240718200000 +0000" stop="20240718220000 +0000" channel="TagalizedMovieChannel.ph"><title lang="en">One Day</title></programme>
+<programme start="20240718220000 +0000" stop="20240719000000 +0000" channel="TagalizedMovieChannel.ph"><title lang="en">Lion</title></programme>
+<programme start="20240719000000 +0000" stop="20240719020000 +0000" channel="TagalizedMovieChannel.ph"><title lang="en">Parasite</title></programme>
+<programme start="20240719020000 +0000" stop="20240719040000 +0000" channel="TagalizedMovieChannel.ph"><title lang="en">Game Of Death</title></programme>
+<programme start="20240719040000 +0000" stop="20240719060000 +0000" channel="TagalizedMovieChannel.ph"><title lang="en">Mission Possible</title></programme>
+<programme start="20240719060000 +0000" stop="20240719080000 +0000" channel="TagalizedMovieChannel.ph"><title lang="en">Gonjiam: Haunted Asylum</title></programme>
+<programme start="20240719080000 +0000" stop="20240719100000 +0000" channel="TagalizedMovieChannel.ph"><title lang="en">The First Vampire</title></programme>
+<programme start="20240719100000 +0000" stop="20240719120000 +0000" channel="TagalizedMovieChannel.ph"><title lang="en">The Master</title></programme>
+<programme start="20240719120000 +0000" stop="20240719140000 +0000" channel="TagalizedMovieChannel.ph"><title lang="en">Security</title></programme>
+<programme start="20240719140000 +0000" stop="20240719160000 +0000" channel="TagalizedMovieChannel.ph"><title lang="en">The Bad Guys: Reign Of Chaos</title></programme>
+<programme start="20240719160000 +0000" stop="20240719180000 +0000" channel="TagalizedMovieChannel.ph"><title lang="en">Hellboy: Rise Of The Blood Queen</title></programme>
+<programme start="20240719160000 +0000" stop="20240719180000 +0000" channel="TagalizedMovieChannel.ph"><title lang="en">Once Upon A Time In China And America</title></programme>
+<programme start="20240719180000 +0000" stop="20240719200000 +0000" channel="TagalizedMovieChannel.ph"><title lang="en">Guimoon: The Lightless Door</title></programme>
+<programme start="20240719200000 +0000" stop="20240719220000 +0000" channel="TagalizedMovieChannel.ph"><title lang="en">All The Money In The World</title></programme>
+<programme start="20240719220000 +0000" stop="20240720000000 +0000" channel="TagalizedMovieChannel.ph"><title lang="en">Dumb And Dumber To</title></programme>
+<programme start="20240720000000 +0000" stop="20240720020000 +0000" channel="TagalizedMovieChannel.ph"><title lang="en">Fatal Intuition</title></programme>
+<programme start="20240720020000 +0000" stop="20240720040000 +0000" channel="TagalizedMovieChannel.ph"><title lang="en">By Quantum Physics: A Nightlife Venture</title></programme>
+<programme start="20240720040000 +0000" stop="20240720060000 +0000" channel="TagalizedMovieChannel.ph"><title lang="en">London Has Fallen</title></programme>
+<programme start="20240720060000 +0000" stop="20240720080000 +0000" channel="TagalizedMovieChannel.ph"><title lang="en">Tiger Cage 2</title></programme>
+<programme start="20240720080000 +0000" stop="20240720100000 +0000" channel="TagalizedMovieChannel.ph"><title lang="en">Duel: Final Round</title></programme>
+<programme start="20240720100000 +0000" stop="20240720120000 +0000" channel="TagalizedMovieChannel.ph"><title lang="en">Police Story</title></programme>
+<programme start="20240720120000 +0000" stop="20240720140000 +0000" channel="TagalizedMovieChannel.ph"><title lang="en">Police Story 2</title></programme>
+<programme start="20240720140000 +0000" stop="20240720160000 +0000" channel="TagalizedMovieChannel.ph"><title lang="en">Police Story 3</title></programme>
+<programme start="20240718160000 +0000" stop="20240718170000 +0000" channel="TV5.ph"><title lang="en">Oras Ng Himala</title></programme>
+<programme start="20240718210000 +0000" stop="20240718220000 +0000" channel="TV5.ph"><title lang="en">Word Of God</title></programme>
+<programme start="20240718220000 +0000" stop="20240718223000 +0000" channel="TV5.ph"><title lang="en">Gabby&apos;s Dollhouse</title></programme>
+<programme start="20240718223000 +0000" stop="20240718233000 +0000" channel="TV5.ph"><title lang="en">Cocomelon/Moonbug</title></programme>
+<programme start="20240718233000 +0000" stop="20240719003000 +0000" channel="TV5.ph"><title lang="en">Bluey</title></programme>
+<programme start="20240719003000 +0000" stop="20240719014500 +0000" channel="TV5.ph"><title lang="en">Gud Morning Kapatid</title></programme>
+<programme start="20240719014500 +0000" stop="20240719021500 +0000" channel="TV5.ph"><title lang="en">Frontline Sa Umaga</title></programme>
+<programme start="20240719021500 +0000" stop="20240719031500 +0000" channel="TV5.ph"><title lang="en">Face 2 Face</title></programme>
+<programme start="20240719031500 +0000" stop="20240719040000 +0000" channel="TV5.ph"><title lang="en">Padyak Princess</title></programme>
+<programme start="20240719040000 +0000" stop="20240719063000 +0000" channel="TV5.ph"><title lang="en">Eat Bulaga</title></programme>
+<programme start="20240719063000 +0000" stop="20240719064500 +0000" channel="TV5.ph"><title lang="en">Frontline Pilipinas Express</title></programme>
+<programme start="20240719064500 +0000" stop="20240719081500 +0000" channel="TV5.ph"><title lang="en">Cine Cinco</title></programme>
+<programme start="20240719081500 +0000" stop="20240719090000 +0000" channel="TV5.ph"><title lang="en">Catch the Ghost</title></programme>
+<programme start="20240719090000 +0000" stop="20240719103000 +0000" channel="TV5.ph"><title lang="en">Wil To Win</title></programme>
+<programme start="20240719103000 +0000" stop="20240719113000 +0000" channel="TV5.ph"><title lang="en">Frontline Pilipinas</title></programme>
+<programme start="20240719113000 +0000" stop="20240719120000 +0000" channel="TV5.ph"><title lang="en">Lumuhod Ka Sa Lupa</title></programme>
+<programme start="20240719120000 +0000" stop="20240719124500 +0000" channel="TV5.ph"><title lang="en">FPJ&apos;s Batang Quiapo</title></programme>
+<programme start="20240719124500 +0000" stop="20240719133000 +0000" channel="TV5.ph"><title lang="en">Pamilya Sagrado</title></programme>
+<programme start="20240719133000 +0000" stop="20240719141500 +0000" channel="TV5.ph"><title lang="en">High Street</title></programme>
+<programme start="20240719141500 +0000" stop="20240719144500 +0000" channel="TV5.ph"><title lang="en">Starhunt: The Audition Show</title></programme>
+<programme start="20240719144500 +0000" stop="20240719153000 +0000" channel="TV5.ph"><title lang="en">Frontline Tonight</title></programme>
+<programme start="20240719153000 +0000" stop="20240719160000 +0000" channel="TV5.ph"><title lang="en">Parientes A La Fuerza</title></programme>
+<programme start="20240719160000 +0000" stop="20240719170000 +0000" channel="TV5.ph"><title lang="en">Oras Ng Himala</title></programme>
+<programme start="20240719220000 +0000" stop="20240719230000 +0000" channel="TV5.ph"><title lang="en">Word Of God</title></programme>
+<programme start="20240719230000 +0000" stop="20240719233000 +0000" channel="TV5.ph"><title lang="en">Gabby&apos;s Dollhouse</title></programme>
+<programme start="20240719233000 +0000" stop="20240720000000 +0000" channel="TV5.ph"><title lang="en">Cocomelon/Moonbug</title></programme>
+<programme start="20240720000000 +0000" stop="20240720003000 +0000" channel="TV5.ph"><title lang="en">Bluey</title></programme>
+<programme start="20240720003000 +0000" stop="20240720013000 +0000" channel="TV5.ph"><title lang="en">Fast and Furious: Spyracers</title></programme>
+<programme start="20240720013000 +0000" stop="20240720033000 +0000" channel="TV5.ph"><title lang="en">Cine Cinco</title></programme>
+<programme start="20240720033000 +0000" stop="20240720063000 +0000" channel="TV5.ph"><title lang="en">Eat Bulaga</title></programme>
+<programme start="20240720063000 +0000" stop="20240720083000 +0000" channel="TV5.ph"><title lang="en">Cine Cinco</title></programme>
+<programme start="20240720083000 +0000" stop="20240720090000 +0000" channel="TV5.ph"><title lang="en">Kaya</title></programme>
+<programme start="20240720090000 +0000" stop="20240720093000 +0000" channel="TV5.ph"><title lang="en">Forensics With Gus</title></programme>
+<programme start="20240720093000 +0000" stop="20240720101500 +0000" channel="TV5.ph"><title lang="en">Frontline Pilipinas Weekend</title></programme>
+<programme start="20240720101500 +0000" stop="20240720110000 +0000" channel="TV5.ph"><title lang="en">Top 5 Mga Kwentong Marc Logan</title></programme>
+<programme start="20240720110000 +0000" stop="20240720123000 +0000" channel="TV5.ph"><title lang="en">Rainbow Rumble</title></programme>
+<programme start="20240720123000 +0000" stop="20240720133000 +0000" channel="TV5.ph"><title lang="en">Pinoy Big Brother Gen 11</title></programme>
+<programme start="20240720133000 +0000" stop="20240720143000 +0000" channel="TV5.ph"><title lang="en">Wow Mali: Doble Tama</title></programme>
+<programme start="20240720143000 +0000" stop="20240720153000 +0000" channel="TV5.ph"><title lang="en">Rated Korina</title></programme>
+<programme start="20240720153000 +0000" stop="20240720163000 +0000" channel="TV5.ph"><title lang="en">Budol Alert</title></programme>
+<programme start="20240718160000 +0000" stop="20240718181500 +0000" channel="VivaCinema.ph"><title lang="en">Soul to Soul</title></programme>
+<programme start="20240718160000 +0000" stop="20240718180000 +0000" channel="VivaCinema.ph"><title lang="en">Magkapalad</title></programme>
+<programme start="20240718181500 +0000" stop="20240718201500 +0000" channel="VivaCinema.ph"><title lang="en">Hotshots</title></programme>
+<programme start="20240718201500 +0000" stop="20240718221500 +0000" channel="VivaCinema.ph"><title lang="en">Reputasyon</title></programme>
+<programme start="20240718221500 +0000" stop="20240719000000 +0000" channel="VivaCinema.ph"><title lang="en">Oplan: Kidnap Gang</title></programme>
+<programme start="20240719000000 +0000" stop="20240719021500 +0000" channel="VivaCinema.ph"><title lang="en">Lipa Arandia Massacre</title></programme>
+<programme start="20240719021500 +0000" stop="20240719040000 +0000" channel="VivaCinema.ph"><title lang="en">Talahib At Rosas</title></programme>
+<programme start="20240719040000 +0000" stop="20240719060000 +0000" channel="VivaCinema.ph"><title lang="en">Bahala Na Vs. Sputnik</title></programme>
+<programme start="20240719060000 +0000" stop="20240719080000 +0000" channel="VivaCinema.ph"><title lang="en">Takot Ako Sa Darling Ko</title></programme>
+<programme start="20240719080000 +0000" stop="20240719101500 +0000" channel="VivaCinema.ph"><title lang="en">Kahit Wala Ka Na</title></programme>
+<programme start="20240719101500 +0000" stop="20240719121500 +0000" channel="VivaCinema.ph"><title lang="en">Bondying</title></programme>
+<programme start="20240719121500 +0000" stop="20240719140000 +0000" channel="VivaCinema.ph"><title lang="en">Sa Diyos Lang Ako Susuko</title></programme>
+<programme start="20240719140000 +0000" stop="20240719160000 +0000" channel="VivaCinema.ph"><title lang="en">Laruan</title></programme>
+<programme start="20240719160000 +0000" stop="20240719180000 +0000" channel="VivaCinema.ph"><title lang="en">Magkapalad</title></programme>
+<programme start="20240719160000 +0000" stop="20240719181500 +0000" channel="VivaCinema.ph"><title lang="en">Alfredo Lim: Batas ng Maynila</title></programme>
+<programme start="20240719180000 +0000" stop="20240719193000 +0000" channel="VivaCinema.ph"><title lang="en">Magkapalad</title></programme>
+<programme start="20240719193000 +0000" stop="20240719213000 +0000" channel="VivaCinema.ph"><title lang="en">Maruja</title></programme>
+<programme start="20240719213000 +0000" stop="20240719233000 +0000" channel="VivaCinema.ph"><title lang="en">Utol</title></programme>
+<programme start="20240719233000 +0000" stop="20240720013000 +0000" channel="VivaCinema.ph"><title lang="en">Madaling Mamatay, Mahirap Mabuhay</title></programme>
+<programme start="20240720013000 +0000" stop="20240720033000 +0000" channel="VivaCinema.ph"><title lang="en">Noel Juico 16</title></programme>
+<programme start="20240720033000 +0000" stop="20240720051500 +0000" channel="VivaCinema.ph"><title lang="en">Anak Ng Lupa</title></programme>
+<programme start="20240720051500 +0000" stop="20240720073000 +0000" channel="VivaCinema.ph"><title lang="en">Hinukay Ko Na Ang Libingan Mo</title></programme>
+<programme start="20240720073000 +0000" stop="20240720100000 +0000" channel="VivaCinema.ph"><title lang="en">Pangako Ng Kahapon</title></programme>
+<programme start="20240720100000 +0000" stop="20240720120000 +0000" channel="VivaCinema.ph"><title lang="en">Dunkin Donato</title></programme>
+<programme start="20240720120000 +0000" stop="20240720140000 +0000" channel="VivaCinema.ph"><title lang="en">Anak ni Baby Ama</title></programme>
+<programme start="20240720140000 +0000" stop="20240720160000 +0000" channel="VivaCinema.ph"><title lang="en">Simaron</title></programme>
 </tv>
