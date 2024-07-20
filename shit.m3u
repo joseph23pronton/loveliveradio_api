@@ -6,19 +6,49 @@
 #EXTM3U url-tvg="https://i.mjh.nz/Plex/us.xml"
 #EXTM3U url-tvg="https://i.mjh.nz/SamsungTVPlus/us.xml"
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e55a5580c9e111ec9d640242ac120002:ce0b5e1d3383e51fc38f7bf7f683fd5b
+#EXTINF:-1 tvg-id="A2Z.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" group-title="Local Channel",A2Z 
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
+#EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Kapamilya-Channel.png/revision/latest/scale-to-width-down/1000?cb=20201012162240" group-title="Local Channel",Kapamilya Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-id="tvN Movies.my" ch-number="416" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",tvN Movies HD
+#EXTINF:-1 tvg-id="Nickelodeon Asia HD.sg" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" ,Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default.mpd
+
+#EXTINF:-1 group-title="Kids" tvg-id="Animax (HD).sg" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",Animax HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f854926412b11edb8780242ac120002:4564d771f0f51676ff3253b15892a101
+#EXTINF:-1 tvg-id="Tv5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/TV5_Logo_%282021%29.png" group-title="Local Channel",TV5
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b264b24c9a6411eeb9d10242ac120002:addb99f4bd36ef46dee77e43925aed46
+#EXTINF:-1 tvg-id="DreamWorks (HD).sg" tvg-logo="https://static.wikia.nocookie.net/dreamworks/images/4/4b/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg_%282016%29.png/revision/latest/thumbnail/width/360/height/360?cb=20171127143327" group-title="Local Channel",Dreamworks Tagalized 
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
+
+#EXTINF:-1 tvg-id="tvN Movies.my" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",tvN Movies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default.mpd
 
-#EXTINF:-1 tvg-id="Cg Hbohd" ch-number="411" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO
+#EXTINF:-1 tvg-id="Cg Hbohd" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default.mpd
 
-#EXTINF:-1 tvg-id="HITS Movies HD.sg" ch-number="401" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS Movies
+#EXTINF:-1 tvg-id="HITS Movies HD.sg" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -26,7 +56,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/manifest.mpd
 
-#EXTINF:-1 tvg-id="Cg Cinemax" ch-number="412" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",Cinemax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=037e4c640d1743b8bb7f26856389489b:1ceb5e18450b534f8a9b80d6441caede
+#EXTINF:-1 tvg-id="Rptv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/RPTV_official_logo.png" group-title="Local Channel",RPTV
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
+
+#EXTINF:-1 tvg-id="Cg Cinemax" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",Cinemax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
@@ -44,19 +79,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5053/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
 
-#EXTINF:-1 group-title="Kids" tvg-id="Animax (HD).sg" tvg-chno="472" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",Animax HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
-https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
-
-#EXTINF:-1 tvg-id="Nickelodeon Asia HD.sg" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" ,Nickelodeon
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default.mpd
-
-#EXTINF:-1 tvg-id="AXN (HD).sg" group-title="Entertainment" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" ch-number="701",AXN HD
+#EXTINF:-1 tvg-id="AXN (HD).sg" group-title="Entertainment" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png",AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
@@ -67,16 +90,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
 #EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" tvg-logo="https://iili.io/1NC5v9.png" tvg-id="ONE HD (Malay).sg",One HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e55a5580c9e111ec9d640242ac120002:ce0b5e1d3383e51fc38f7bf7f683fd5b
-#EXTINF:-1 tvg-id="A2Z.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" group-title="Local Channel",A2Z 
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b264b24c9a6411eeb9d10242ac120002:addb99f4bd36ef46dee77e43925aed46
-#EXTINF:-1 tvg-id="DreamWorks (HD).sg" tvg-logo="https://static.wikia.nocookie.net/dreamworks/images/4/4b/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg_%282016%29.png/revision/latest/thumbnail/width/360/height/360?cb=20171127143327" group-title="Local Channel",Dreamworks Tagalized 
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
@@ -92,11 +105,6 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 #KODIPROP:inputstream.adaptive.license_key=1fe92685a75844dc54c9dac124802510:36cb2063bf5338d18d31657371b15817
 #EXTINF:-1 tvg-id="HITS (HD).sg" tvg-logo="https://www.astropackage.com.my/wp-content/uploads/2016/01/Astro-Hits-HD-Ch720.png" group-title="Local Channel",HITS HD
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/606/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
-#EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Kapamilya-Channel.png/revision/latest/scale-to-width-down/1000?cb=20201012162240" group-title="Local Channel",Kapamilya Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6e2d480df017411e94e2b5f3074b52d6:0295fb912ab1ab8ae817fe0672ac89ad
@@ -123,10 +131,6 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
 #EXTINF:-1 tvg-id="ROCK Action (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="Local Channel",Rock Action
 https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=037e4c640d1743b8bb7f26856389489b:1ceb5e18450b534f8a9b80d6441caede
-#EXTINF:-1 tvg-id="Rptv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/RPTV_official_logo.png" group-title="Local Channel",RPTV
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f854034412b11edb8780242ac120002:af8ad1c5e3f2e1b751a4f64608f24275
@@ -137,11 +141,6 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_tapedge.mpd
 #KODIPROP:inputstream.adaptive.license_key=0f853c06412b11edb8780242ac120002:fbae08b3924da610b92b11ea95f77627
 #EXTINF:-1 tvg-id="Tap Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="Local Channel",Tap Sports
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f854926412b11edb8780242ac120002:4564d771f0f51676ff3253b15892a101
-#EXTINF:-1 tvg-id="Tv5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/TV5_Logo_%282021%29.png" group-title="Local Channel",TV5
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b264b1349a6411eeb9d10242ac120002:ffc6fd91c76a8da76e8c945eb7903c1b
@@ -177,7 +176,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockentertainment.mpd
 #EXTINF:-1 tvg-id="ROCK Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png",Rock Entertainment HD
 https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd
 
-#EXTINF:-1 tvg-id="GTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/577px-GTV_Philippines_Logo_Vector.svg.png?20231119035025" group-title="Local Channel",GMA
+#EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/577px-GTV_Philippines_Logo_Vector.svg.png?20231119035025" group-title="Local Channel",GMA
 http://58.69.192.180:1122/live/CD024FE73F3ACC3DBCA63DA0F4878382/5.m3u8
 
 #EXTINF:-1 tvg-id="GTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/577px-GTV_Philippines_Logo_Vector.svg.png?20231119035025" group-title="Local Channel",GTV
@@ -193,7 +192,7 @@ http://58.69.192.180:1122/live/CD024FE73F3ACC3DBCA63DA0F4878382/152.m3u8
 https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 group-title="Local Channel" tvg-id="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" tvg-name="ANIME x HIDIVE" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/666de197b5e5c34842b3a94ae5a12634.png", ANIME x HIDIVE
-http://178.128.21.207:1234/stream/new/animexhidive/master.m3u8?u=ganbaruby23&p=f305581549d3f2e6ab3047fcf55c45ea73b1425d9d2b3f250a206730264b318a
+https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Local Channel" tvg-id="USBD120002431" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20240520T212902SQUARE.png", Vevo 2010s
 http://178.128.21.207:1234/stream/new/vevo2010s/master.m3u8?u=ganbaruby23&p=f305581549d3f2e6ab3047fcf55c45ea73b1425d9d2b3f250a206730264b318a
