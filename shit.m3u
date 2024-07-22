@@ -16,6 +16,11 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
 #EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Kapamilya-Channel.png/revision/latest/scale-to-width-down/1000?cb=20201012162240" group-title="Local Channel",Kapamilya Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
+#EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Kapamilya-Channel.png/revision/latest/scale-to-width-down/1000?cb=20201012162240" group-title="Local Channel",Kapamilya Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
+
 #EXTINF:-1 tvg-id="Nickelodeon Asia HD.sg" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" ,Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
@@ -127,6 +132,11 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2578d06a29ef11eebe560242ac120002:82338a4d28f3a243b8b41037a9eca1bf
+#EXTINF:-1 tvg-id="Pbarush Hd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Maharlika_Pilipinas_Basketball_League_2022.png" group-title="Local Channel",MPBL
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/pl_sdi8.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2341c2ecd3cf4865881bb0fa1287de8f:ad45202e64f66ef36b3f60fac93cc47f
 #EXTINF:-1 tvg-id="ROCK Action (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="Local Channel",Rock Action
 https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
@@ -195,8 +205,12 @@ http://58.69.192.180:1120/live/CD024FE73F3ACC3DBCA63DA0F4878382/151.m3u8
 #EXTINF:-1 tvg-id="IHeartMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/I_Heart_Movies_2021.png" group-title="Local Channel",I Heart Movies
 http://58.69.192.180:1120/live/CD024FE73F3ACC3DBCA63DA0F4878382/152.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33
 #EXTINF:-1 tvg-id="TeleRadyoSerbisyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png" group-title="Local Channel",Teleradyo Serbisyo
-https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
 #EXTINF:-1 group-title="Local Channel" tvg-id="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" tvg-name="ANIME x HIDIVE" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/666de197b5e5c34842b3a94ae5a12634.png", ANIME x HIDIVE
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
@@ -226,10 +240,3 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
 
 #EXTINF:-1 group-title="Local Channel" tvg-id="NickMusic" tvg-logo="https://en.wikipedia.org/wiki/File:NickMusic.svg", NickMusic
 http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d9mO1x23Ukwnh1oJqXX55g", "kid":"fvfpE86FoRMbJwNgaRaaEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="iQIYI" tvg-name="iQIYI HD" group-title="CHINESE" group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_Iqiyi.png",300 IQIYI
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
