@@ -49,6 +49,11 @@ https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=l
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231383437343631323030313134:614762653768324e676a6b3577434733
+#EXTINF:-1 tvg-id="PTV 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOCU5RfFBChLXzBJBzMJ4lfEg0MYnlPWqyxQ&s" group-title="Local Channel",PTV 4
+http://136.239.159.18:6610/001/2/ch00000090990000001086/manifest.mpd?AuthInfo=DvftfiQOMAT%2Fl3VKz%2F6TxorYbnegGQcVSa4v7mOKzoj4i%2FAd9vG3G%2B0BmXzk2StGHBlb%2Bj%2FVXWLb3OAgoY8PcQ%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001175&contentid=ch00000000000000001175&videoid=ch00000090990000001086&recommendtype=0&userid=0020230859495&boid=001&stbid=02:00:00:00:00:00&terminalflag=1&profilecode=&usersessionid=520065588&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=Widevine&IASHttpSessionId=RR6758720240723141222772827&ispcode=55
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f855308412b11edb8780242ac120002:28ba6aafc1f43129297a17cc1562b60c
 #EXTINF:-1 tvg-id="DreamWorks (HD).sg" tvg-logo="https://static.wikia.nocookie.net/dreamworks/images/4/4b/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg_%282016%29.png/revision/latest/thumbnail/width/360/height/360?cb=20171127143327" group-title="Local Channel",Dreamworks HD
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
@@ -80,6 +85,11 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=037e4c640d1743b8bb7f26856389489b:1ceb5e18450b534f8a9b80d6441caede
 #EXTINF:-1 tvg-id="Rptv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/RPTV_official_logo.png" group-title="Local Channel",RPTV
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
+
+#EXTINF:-1 tvg-id="CelestialMoviesPinoy.hk" group-title="Movies" tvg-logo="https://cmpinoy.com.ph/storage/images/c4ca4238a0b923820dcc509a6f75849b/c/logo-og_image.png",Celestial Movies Pinoy
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://136.239.159.18:6610/001/2/ch00000090990000001077/manifest.mpd?AuthInfo=DvftfiQOMAT%2Fl3VKz%2F6TxorYbnegGQcVSa4v7mOKzohTBhkMdrjSxI%2B9vvaGrMUUrXulzeZKU80ZYi67vh4o1w%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001136&contentid=ch00000000000000001136&videoid=ch00000090990000001077&recommendtype=0&userid=0020230859495&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=526199508&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=Widevine&RateLow=1280000&RateHigh=25600000&IASHttpSessionId=OTT000020240723225435202504&wv=aHR0cDovLzE0My40NC4xMzYuNzQ6OTQ0My93aWRldmluZS8%2FZGV2aWNlSWQ9MDI6MDA6MDA6MDA6MDA6MDA%3D&manifest_type=mpd&ispcode=55
 
 #EXTINF:-1 tvg-id="Cg Cinemax" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",Cinemax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
