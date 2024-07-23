@@ -23,8 +23,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnon
 
 #EXTINF:-1 tvg-id="Nickelodeon Asia HD.sg" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" ,Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=9a7368c59b59460d2fbc5acb45502ae8:05a6bdc93b6916d27d2cc3892143e76f
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227942/3221227942.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcay%2F1zj4jFtrb3s3lIXPw%2BrtEUx9PCv2UZ0TgLgBPcMCM0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206091228%3AUTC%2C1003663983%2C115.164.187.20%2C20230206091228%2Curn:Huawei:liveTV:XTV56750178%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6001&from=5&hms_devid=1795&mag_hms=1795,1797,1787,1790&mount=1000002&targetdev=1795&it=H4sIAAAAAAAAA0XMzQoCIRRA4bdxKf6NzcZVEbSRYKptXPUqgo2k00BvHxNB-_OdpYHH08EMLGgYZZRMaSUUjA6UcoOKO5RCS0Y6Pm01kngoJc_J1rCx27S_c0YZFYJTLshl2x0LJCO-pX09HLY_m7Ct2aMJPdIVOoWUGiZYcp3pucD72sov-QBMKzm5mQAAAA
 
 #EXTINF:-1 tvg-id="Cartoon Network (HD).sg" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" ,Cartoon Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -49,14 +49,19 @@ https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=l
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f855308412b11edb8780242ac120002:28ba6aafc1f43129297a17cc1562b60c
+#EXTINF:-1 tvg-id="DreamWorks (HD).sg" tvg-logo="https://static.wikia.nocookie.net/dreamworks/images/4/4b/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg_%282016%29.png/revision/latest/thumbnail/width/360/height/360?cb=20171127143327" group-title="Local Channel",Dreamworks HD
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b264b24c9a6411eeb9d10242ac120002:addb99f4bd36ef46dee77e43925aed46
 #EXTINF:-1 tvg-id="DreamWorks (HD).sg" tvg-logo="https://static.wikia.nocookie.net/dreamworks/images/4/4b/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg_%282016%29.png/revision/latest/thumbnail/width/360/height/360?cb=20171127143327" group-title="Local Channel",Dreamworks Tagalized 
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
 
 #EXTINF:-1 tvg-id="tvN Movies.my" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",tvN Movies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f11772807a84ec3eccd1d258063eb91:8addedaa044de162459d68e333d3148b
-https://pop28clustera00de08172376d246317c.hypp.tv/PLTV/88888888/224/3221227553/3221227553.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=H8USOZqD4I2bxHIyzKB+nKTDq+IToAJxs6VtIhBb/NFw13x1HN1VtGsGy8wPB00MKrS9eklsKbM5+GUUXK9YHp80VkBqjDwau2wIP2KqdiFb36ThO1ayqBSBMPmUhBSTl1Gu6dfQIjZRtiMM1k+5qA==:20230705141802:UTC,1004320542,14.1.246.132,20230705141802,urn:Huawei:liveTV:XTV100000381,1004320542,-1,0,1,,,2,,,,2,3692854,0,2611154,21dd4af0-2953-367a-cbe6-1cb936543fca,,,2,1,END&GuardEncType=2&tenantId=6003&from=28&ocs=2_1.9.15.99_80&hms_devid=1885&online=1716016153&mag_hms=1885,1601,1602&it=H4sIAAAAAAAAAzXMvQrCMBRA4bfJGPJzW9IhkyK4BKHqKjfJNRRig0kt-PZS0f18Z6kY6Li3Q-yliD0qIwmMNwhBe_AApkPAbmCNnq5YYAFznubkStzYddzdpOCCKyW5BnbedoeMyapv6V4PT9XqPxuprlMgG9udr9g4plQp4TKVmZ8yvi81_5IPWw4t75kAAAA
+#KODIPROP:inputstream.adaptive.license_key=4b1a27ced8814e65a761183ed6e4fce6:b8e91a9d0aa59c7c55986c2ae6ab6f64
+https://linear08-playback.sooka.my/CH4/masterCH4.mpd
 
 #EXTINF:-1 tvg-id="Cg Hbohd" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -96,15 +101,15 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 
 #EXTINF:-1 tvg-id="AXN (HD).sg" group-title="Entertainment" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png",AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=ca405251d455a6bed5bec5255b419956:df1c2bae3f7b16a8e7f27889c97e1af1
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227829/3221227829.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixOdqyhNG6XnnSSB2s%2F7IFsw0fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv84xG01Xrjw7HwPLVHRrvE6eOvL9YVFD9qpq6TlsVF3Gl%2Bl1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230706074502%3AUTC%2C1004320541%2C14.1.254.193%2C20230706074502%2Curn:Huawei:liveTV:XTV51882833%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.167_80&mount=1000002&targetdev=1798&hms_devid=1798,1785&mag_hms=1785,1792,1788,1789&it=H4sIAAAAAAAAAzXMQQvCIBiA4X_jUdS5tu_gqRh0kWDVNT71SwTbSNegfx-Lur_PuxT0dDwYKcDrIHqkoHXreoDOO4AGQydb0JJVetrZaOYx5zRFO4eNXcf9TQouuFKSyx07b7shYzTqW9rXw1ExzZ-NVNbkyYR65ytWjjEWirikeeKnjO9Lyb_kAwth6vyZAAAA
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
+#KODIPROP:inputstream.adaptive.license_key=1691c518b8932b4abae51edbdc235d30:d69e2927a1f8496088f6be95f8383734
 #EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" tvg-logo="https://iili.io/1NC5v9.png" tvg-id="ONE HD (Malay).sg",One HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227972/3221227972.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixBFq%2BGtaBJD1dAU6Ok%2F3ev00fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv84zpMgIVynvcwUXYxcKtg7njdb%2FGf%2B6TgdS6yrFJUEHE9l1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230706074719%3AUTC%2C1004320541%2C14.1.254.192%2C20230706074719%2Curn:Huawei:liveTV:XTV59953839%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.187_80&mount=1000002&targetdev=1785&hms_devid=1789,1785&mag_hms=1785&it=H4sIAAAAAAAAAzXMsQrCMBCA4bfpeOTSS7VDJqXgEoSqq5zJGQqxxaQWfHup6P5__5zZy2FvGzQbxG0bkDVR41uFppHARJq8qX1V5OkmS5XnlIYxuims7NLvrqhAgdYISNVp3XWJo9Xf0r0eN8m2_rNe8jJ4saHcYeECHGOWyPMwjXBM_D7n9Es-ksTUR5kAAAA
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
@@ -147,9 +152,9 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/pl_sdi8.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2341c2ecd3cf4865881bb0fa1287de8f:ad45202e64f66ef36b3f60fac93cc47f
+#KODIPROP:inputstream.adaptive.license_key=563f06a0228732ea84cd6ca771a3f8af:f80ce6a812e530f76aa3bfea895a5161
 #EXTINF:-1 tvg-id="ROCK Action (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="Local Channel",Rock Action
-https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227656/3221227656.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixOdqyhNG6XnnSSB2s%2F7IFsw0fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv84284064pk7ICuDiXpODG9z27SwoqJohWZiT1BzMAfjTRl1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230710152119%3AUTC%2C1004320541%2C14.1.254.193%2C20230710152119%2Curn:Huawei:liveTV:SP000002372888%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.154_80&mount=1000002&targetdev=1796&hms_devid=1765,1796&mag_hms=1796,1794&it=H4sIAAAAAAAAAzXMuwrCMBSA4bfJeMi1NEMmRXAJQtVVjrkRiA0mteDbS0X3__uXhi4c94YLGbXTSgjNJRtGreLIohMKB09jpKSHp61GEoel5DnZ6jd2nXY3RoEC5wykJudtdyiYDP-W9vW4h2bEn02hrdkF43uEFTtgSi0kXHKd4VTwfWnll3wAdVEimpkAAAA
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
