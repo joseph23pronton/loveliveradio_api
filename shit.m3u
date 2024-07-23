@@ -55,8 +55,8 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
 
 #EXTINF:-1 tvg-id="tvN Movies.my" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",tvN Movies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=0f11772807a84ec3eccd1d258063eb91:8addedaa044de162459d68e333d3148b
+https://pop28clustera00de08172376d246317c.hypp.tv/PLTV/88888888/224/3221227553/3221227553.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=H8USOZqD4I2bxHIyzKB+nKTDq+IToAJxs6VtIhBb/NFw13x1HN1VtGsGy8wPB00MKrS9eklsKbM5+GUUXK9YHp80VkBqjDwau2wIP2KqdiFb36ThO1ayqBSBMPmUhBSTl1Gu6dfQIjZRtiMM1k+5qA==:20230705141802:UTC,1004320542,14.1.246.132,20230705141802,urn:Huawei:liveTV:XTV100000381,1004320542,-1,0,1,,,2,,,,2,3692854,0,2611154,21dd4af0-2953-367a-cbe6-1cb936543fca,,,2,1,END&GuardEncType=2&tenantId=6003&from=28&ocs=2_1.9.15.99_80&hms_devid=1885&online=1716016153&mag_hms=1885,1601,1602&it=H4sIAAAAAAAAAzXMvQrCMBRA4bfJGPJzW9IhkyK4BKHqKjfJNRRig0kt-PZS0f18Z6kY6Li3Q-yliD0qIwmMNwhBe_AApkPAbmCNnq5YYAFznubkStzYddzdpOCCKyW5BnbedoeMyapv6V4PT9XqPxuprlMgG9udr9g4plQp4TKVmZ8yvi81_5IPWw4t75kAAAA
 
 #EXTINF:-1 tvg-id="Cg Hbohd" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -244,9 +244,9 @@ http://178.128.21.207:1234/stream/new/vevorb/master.m3u8?u=ganbaruby23&p=f305581
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
+#KODIPROP:inputstream.adaptive.license_key=7cb8402bcc2746639815898571032734:f9364c039a007decf595c98a58c32309
 #EXTINF:-1 tvg-id="K-Plus HD.my" tvg-logo="http://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png",K-Plus HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
+https://linear08-playback.sooka.my/CH5/masterCH5.mpd
 
 #EXTINF:-1 group-title="Local Channel" tvg-id="NickMusic" tvg-logo="https://en.wikipedia.org/wiki/File:NickMusic.svg", NickMusic
 http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
