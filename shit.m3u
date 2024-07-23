@@ -223,11 +223,35 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockentertainment.mpd
 #EXTINF:-1 tvg-id="ROCK Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png",Rock Entertainment HD
 https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd
 
-#EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/GMA_Network_Logo_Vector.svg" group-title="Local Channel",GMA
-http://58.69.192.180:1120/live/CD024FE73F3ACC3DBCA63DA0F4878382/5.m3u8
+#EXTINF:-1 tvg-id="GMA.ph" group-title="Movies" tvg-logo="https://www.gmanetwork.com/res/portal_revamp/img/logo.png",GMA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://136.239.159.18:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=DvftfiQOMAT%2Fl3VKz%2F6TxorYbnegGQcVSa4v7mOKzohambXqOC%2B4gS%2BJYpKJlMUaBl0kLG1MjLMhEVrkZmBvUA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=0020230859495&boid=001&stbid=02:00:00:00:00:00&terminalflag=1&profilecode=&usersessionid=526239209&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=Widevine&RateLow=1280000&RateHigh=25600000&IASHttpSessionId=OTT000020240723232505840539&ispcode=55
 
 #EXTINF:-1 tvg-id="GTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/577px-GTV_Philippines_Logo_Vector.svg.png?20231119035025" group-title="Local Channel",GTV
-http://58.69.192.180:1120/live/CD024FE73F3ACC3DBCA63DA0F4878382/138.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=DvftfiQOMAT%2Fl3VKz%2F6TxorYbnegGQcVSa4v7mOKzoid2ke3iJoS0gbRFyA8buDNBl0kLG1MjLMhEVrkZmBvUA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=0020230859495&boid=001&stbid=02:00:00:00:00:00&terminalflag=1&profilecode=&usersessionid=526239213&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=Widevine&RateLow=1280000&RateHigh=25600000&IASHttpSessionId=OTT000020240723232635097223&ispcode=55
+
+#EXTINF:-1 tvg-id="JeepneyTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Jeepney_TV_Logo_2015.svg/1200px-Jeepney_TV_Logo_2015.svg.png" group-title="Local Channel",Jeepney TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://136.239.159.18:6610/001/2/ch00000090990000001250/manifest.mpd?AuthInfo=DvftfiQOMAT%2Fl3VKz%2F6TxorYbnegGQcVSa4v7mOKzohTI1%2BirGp5BGvXYsm7Bua6Bl0kLG1MjLMhEVrkZmBvUA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001546&contentid=ch00000000000000001546&videoid=ch00000090990000001250&recommendtype=0&userid=0020230859495&boid=001&stbid=02:00:00:00:00:00&terminalflag=1&profilecode=&usersessionid=526239215&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=Widevine&RateLow=1280000&RateHigh=25600000&IASHttpSessionId=OTT000020240723232824267735&ispcode=55
+
+#EXTINF:-1 tvg-id="Myx.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/46/Myx_Logo_2021.png/revision/latest?cb=20240626074707" group-title="Local Channel",Myx
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://136.239.159.18:6610/001/2/ch00000090990000001252/manifest.mpd?AuthInfo=DvftfiQOMAT%2Fl3VKz%2F6TxorYbnegGQcVSa4v7mOKzogw1pUY7E7i3o9RGbH51StaBl0kLG1MjLMhEVrkZmBvUA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001673&contentid=ch00000000000000001673&videoid=ch00000090990000001252&recommendtype=0&userid=0020230859495&boid=001&stbid=02:00:00:00:00:00&terminalflag=1&profilecode=&usersessionid=526239225&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=Widevine&RateLow=1280000&RateHigh=25600000&IASHttpSessionId=OTT000020240723232913462975&ispcode=55
+
+#EXTINF:-1 tvg-id="VivaCinema.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Viva_Cinema_2021.png/revision/latest?cb=20210804093235" group-title="Local Channel",Viva Cinema
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://136.239.159.18:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=DvftfiQOMAT%2Fl3VKz%2F6TxorYbnegGQcVSa4v7mOKzoiISIFPZZnNxJPAxgWab6U8Bl0kLG1MjLMhEVrkZmBvUA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001138&contentid=ch00000000000000001138&videoid=ch00000090990000001079&recommendtype=0&userid=0020230859495&boid=001&stbid=02:00:00:00:00:00&terminalflag=1&profilecode=&usersessionid=526239236&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=Widevine&RateLow=1280000&RateHigh=25600000&IASHttpSessionId=OTT000020240723232959719365&ispcode=55
+
+#EXTINF:-1 tvg-id="AllTV.ph" tvg-logo="https://www.bworldonline.com/wp-content/uploads/2022/09/alltv-logo.jpg" group-title="Local Channel",All TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://136.239.159.18:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=DvftfiQOMAT%2Fl3VKz%2F6TxorYbnegGQcVSa4v7mOKzojA5L43DLuqa4gGxA71OWYhBl0kLG1MjLMhEVrkZmBvUA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=0020230859495&boid=001&stbid=02:00:00:00:00:00&terminalflag=1&profilecode=&usersessionid=526239246&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=Widevine&RateLow=1280000&RateHigh=25600000&IASHttpSessionId=OTT000020240723233153072050&ispcode=55
 
 #EXTINF:-1 tvg-id="HeartOfAsia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Heart_of_Asia_logo.svg/2048px-Heart_of_Asia_logo.svg.png" group-title="Local Channel",Heart Of Asia
 http://58.69.192.180:1120/live/CD024FE73F3ACC3DBCA63DA0F4878382/151.m3u8
