@@ -214,10 +214,25 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
 #EXTINF:-1 tvg-id="Pbarush Hd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="Local Channel",PBA Rush
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=2578d06a29ef11eebe560242ac120002:82338a4d28f3a243b8b41037a9eca1bf
 #EXTINF:-1 tvg-id="MPBL.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Maharlika_Pilipinas_Basketball_League_2022.png" group-title="Local Channel",MPBL
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/pl_sdi8.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=0f873dc6412b11edb8780242ac120002:7511efa4f5f1f82fe61776ba3b49fc10
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/42FC3DAA-48DC-4A5E-A8FC-F75FB4175C08/0-16x9.jpg?width=199" group-title="Local Channel",Paris 2024 Ch 1
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_popupppvhd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=0f873e98412b11edb8780242ac120002:b84163b3e28660fe2faae7b7bb4b74d9
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/17CF2E95-931C-42A7-B447-A6E0F297BFAA/0-16x9.jpg?width=199" group-title="Local Channel",Paris 2024 Ch 2
+https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/cg_ppv_main_hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=8ad18258a9814d60a67efc6ec9fb3cbd:7ce6edd4bcf1510583c7739ac8f08e79
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/FFE8ED0D-80A0-4E75-A454-D6539F098D91/0-16x9.jpg?width=199" group-title="Local Channel",Paris 2024 News Channel
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/ppvsd197.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
@@ -236,7 +251,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_premiersports_hd1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=0f8573a6412b11edb8780242ac120002:f100b9eb3232d6e89164f4737b87c31a
-#EXTINF:-1 tvg-id="Premier Sports.sg" tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1641949301_premier-sports-2.png" group-title="Local Channel",Premier Sports 2
+#EXTINF:-1 tvg-id="Premier Sports2.sg" tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1641949301_premier-sports-2.png" group-title="Local Channel",Premier Sports 2
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
