@@ -49,8 +49,8 @@ http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=Dv
 
 #EXTINF:-1 tvg-id="Nickelodeon Asia HD.sg" tvg-chno=72 group-title="Kids" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADD5C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" ,Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a7368c59b59460d2fbc5acb45502ae8:05a6bdc93b6916d27d2cc3892143e76f
-https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227942/3221227942.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcay%2F1zj4jFtrb3s3lIXPw%2BrtEUx9PCv2UZ0TgLgBPcMCM0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206091228%3AUTC%2C1003663983%2C115.164.187.20%2C20230206091228%2Curn:Huawei:liveTV:XTV56750178%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6001&from=5&hms_devid=1795&mag_hms=1795,1797,1787,1790&mount=1000002&targetdev=1795&it=H4sIAAAAAAAAA0XMzQoCIRRA4bdxKf6NzcZVEbSRYKptXPUqgo2k00BvHxNB-_OdpYHH08EMLGgYZZRMaSUUjA6UcoOKO5RCS0Y6Pm01kngoJc_J1rCx27S_c0YZFYJTLshl2x0LJCO-pX09HLY_m7Ct2aMJPdIVOoWUGiZYcp3pucD72sov-QBMKzm5mQAAAA
+#KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2511/default.mpd
 
 #EXTINF:-1 tvg-id="CARTOON.NETWORK.HD.ph" tvg-chno=74 group-title="Kids" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A51FC-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" ,Cartoon Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -105,7 +105,7 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=037e4c640d1743b8bb7f26856389489b:1ceb5e18450b534f8a9b80d6441caede
-#EXTINF:-1 tvg-id="Rptv.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AB750-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" group-title="Local Channel",RPTV
+#EXTINF:-1 tvg-id="Rptv.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/44B03994-C303-4ACE-997C-91CAC493D0FC/0-16x9.jpg?width=500" group-title="Local Channel",RPTV
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 
 #EXTINF:-1 tvg-id="CINEMO!.ph" group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/1500364185_cinemo-web.jpg/revision/latest?cb=20171125051830",Cinemo!
@@ -204,13 +204,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default.mpd
 #EXTINF:-1 tvg-id="Hits.Hd.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A8BB8-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" group-title="Local Channel",HITS HD
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/606/default.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1691c518b8932b4abae51edbdc235d30:d69e2927a1f8496088f6be95f8383734
-#EXTINF:-1 group-logo="https://onetvasia.com/sites/onetvasia.com/files/ct_custom_page_f_primary_image/one-default-thumb-20200318.jpg" tvg-logo="https://iili.io/1NC5v9.png" tvg-id="ONE.HD.my",One HD
-https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227972/3221227972.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixBFq%2BGtaBJD1dAU6Ok%2F3ev00fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv84zpMgIVynvcwUXYxcKtg7njdb%2FGf%2B6TgdS6yrFJUEHE9l1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230706074719%3AUTC%2C1004320541%2C14.1.254.192%2C20230706074719%2Curn:Huawei:liveTV:XTV59953839%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.187_80&mount=1000002&targetdev=1785&hms_devid=1789,1785&mag_hms=1785&it=H4sIAAAAAAAAAzXMsQrCMBCA4bfpeOTSS7VDJqXgEoSqq5zJGQqxxaQWfHup6P5__5zZy2FvGzQbxG0bkDVR41uFppHARJq8qX1V5OkmS5XnlIYxuims7NLvrqhAgdYISNVp3XWJo9Xf0r0eN8m2_rNe8jJ4saHcYeECHGOWyPMwjXBM_D7n9Es-ksTUR5kAAAA
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6e2d480df017411e94e2b5f3074b52d6:0295fb912ab1ab8ae817fe0672ac89ad
 #EXTINF:-1 tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/BF1CB6FE-A025-4C5D-8B8F-257F38C5EBE3/0-16x9.jpg?width=500" group-title="Local Channel",NBA TV Philippines
@@ -291,6 +284,20 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 #EXTINF:-1 tvg-id="Tech.Storm.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AD848-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" group-title="Local Channel",TechStorm
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tech_storm.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1691c518b8932b4abae51edbdc235d30:d69e2927a1f8496088f6be95f8383734
+#EXTINF:-1 group-logo="https://onetvasia.com/sites/onetvasia.com/files/ct_custom_page_f_primary_image/one-default-thumb-20200318.jpg" tvg-logo="https://iili.io/1NC5v9.png" tvg-id="ONE.HD.my",One HD
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227972/3221227972.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixBFq%2BGtaBJD1dAU6Ok%2F3ev00fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv84zpMgIVynvcwUXYxcKtg7njdb%2FGf%2B6TgdS6yrFJUEHE9l1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230706074719%3AUTC%2C1004320541%2C14.1.254.192%2C20230706074719%2Curn:Huawei:liveTV:XTV59953839%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.187_80&mount=1000002&targetdev=1785&hms_devid=1789,1785&mag_hms=1785&it=H4sIAAAAAAAAAzXMsQrCMBCA4bfpeOTSS7VDJqXgEoSqq5zJGQqxxaQWfHup6P5__5zZy2FvGzQbxG0bkDVR41uFppHARJq8qX1V5OkmS5XnlIYxuims7NLvrqhAgdYISNVp3XWJo9Xf0r0eN8m2_rNe8jJ4saHcYeECHGOWyPMwjXBM_D7n9Es-ksTUR5kAAAA
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f855c0e412b11edb8780242ac120002:3c202b74baf3cf3f5ddf7829df52c2d9 
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7EE8-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" tvg-id="Kix.Hd.ph",Kix HD
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b264b1349a6411eeb9d10242ac120002:ffc6fd91c76a8da76e8c945eb7903c1b
 #EXTINF:-1 tvg-id="Cg.Tvnmovie.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/C5298B63-6A6F-4CEC-8AC7-07B482EFA587/0-16x9.jpg?width=500" group-title="Local Channel",tvN Movies Pinoy
@@ -320,13 +327,28 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/9983/default.mpd
 
 #EXTINF:-1 tvg-id="Axn.ph" group-title="Entertainment" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC36C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500",AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ca405251d455a6bed5bec5255b419956:df1c2bae3f7b16a8e7f27889c97e1af1
-https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227829/3221227829.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixOdqyhNG6XnnSSB2s%2F7IFsw0fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv84xG01Xrjw7HwPLVHRrvE6eOvL9YVFD9qpq6TlsVF3Gl%2Bl1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230706074502%3AUTC%2C1004320541%2C14.1.254.193%2C20230706074502%2Curn:Huawei:liveTV:XTV51882833%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.167_80&mount=1000002&targetdev=1798&hms_devid=1798,1785&mag_hms=1785,1792,1788,1789&it=H4sIAAAAAAAAAzXMQQvCIBiA4X_jUdS5tu_gqRh0kWDVNT71SwTbSNegfx-Lur_PuxT0dDwYKcDrIHqkoHXreoDOO4AGQydb0JJVetrZaOYx5zRFO4eNXcf9TQouuFKSyx07b7shYzTqW9rXw1ExzZ-NVNbkyYR65ytWjjEWirikeeKnjO9Lyb_kAwth6vyZAAAA
+#KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/2303/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f854034412b11edb8780242ac120002:af8ad1c5e3f2e1b751a4f64608f24275
 #EXTINF:-1 tvg-id="Tap.Edge.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A641C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" group-title="Local Channel",Tap Edge
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_tapedge.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
+#EXTINF:-1 tvg-id="Asianfoodnetwork.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AB020-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" group-title="Local Channel",Asian Food Network
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/500/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
+#EXTINF:-1 tvg-id="TLC.ph" tvg-logo="https://tlc.sndimg.com/content/dam/images/tlc/tlcme/fullset/2021/november/tlc-logo-chip.png.rend.hgtvcom.616.347.suffix/1637336502807.png" group-title="Local Channel",TLC HD
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2709/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8de11e005db5bd0db8228814863cd310:183b3eafa4c82e68f74c4244d54906b0
+#EXTINF:-1 tvg-id="Lifetime.ph" tvg-logo="https://cms.cignal.tv/Upload/Images/Lifetime-Logo.jpg" group-title="Local Channel",Lifetime HD
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/5052/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f8562ee412b11edb8780242ac120002:1fc003a9a919a4729982c3409fcb4105
@@ -368,6 +390,11 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbn
 #KODIPROP:inputstream.adaptive.license_key=0f855b32412b11edb8780242ac120002:75e18b5994fa6b5b26e1946b3487ad75
 #EXTINF:-1 tvg-id="Onenews.Hd.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7DDA-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" group-title="Local Channel",One News HD
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
+#EXTINF:-1 tvg-id="MTVLIVE.ph" tvg-logo="https://images.tv.osn.com/colossus/images/program/396812183/landscapewithtitle/396812183_LTT.jpg?im=Resize=(1248)" group-title="Local Channel",MTV Live HD
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5014/default.mpd https://linearjitp02-playback.astro.com.my/dash-wv/linear/5014/default.mpd 
 
 #EXTINF:-1 group-title="Local Channel" tvg-id="USBD120002431" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20240520T212902WIDE.png", Vevo 2010s
 http://178.128.21.207:1234/stream/new/vevo2010s/master.m3u8?u=ganbaruby23&p=f305581549d3f2e6ab3047fcf55c45ea73b1425d9d2b3f250a206730264b318a
