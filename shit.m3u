@@ -1,10 +1,12 @@
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/singaporepremium.xml"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/malaysia.xml"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/malaysiapremium2.xml"
 #EXTM3U url-tvg="https://i.mjh.nz/Plex/us.xml"
 #EXTM3U url-tvg="https://i.mjh.nz/SamsungTVPlus/us.xml"
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz"
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml.gz"
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e55a5580c9e111ec9d640242ac120002:ce0b5e1d3383e51fc38f7bf7f683fd5b
@@ -23,7 +25,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
-#EXTINF:-1 tvg-id="The Filipino Channel.sg" tvg-chno=3 tvg-logo="https://img.mytfc.com/cmsroot/abscms/media/mytfctv/mytfc21.jpg" group-title="Local Channel",The Filipino Channel (TFC)
+#EXTINF:-1 tvg-id="The.Filipino.Channel.sg" tvg-chno=3 tvg-logo="https://img.mytfc.com/cmsroot/abscms/media/mytfctv/mytfc21.jpg" group-title="Local Channel",The Filipino Channel (TFC)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
 
 #EXTINF:-1 tvg-id="Jeepney.TV.ph" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Jeepney-TV-March-2022-Highlight-Video-Thumbnail.jpg" group-title="Local Channel",Jeepney TV
@@ -58,13 +60,13 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
 
 #EXTINF:-1 group-title="Kids" tvg-id="Animax (HD).sg" tvg-chno=73 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ABB06-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500",Animax HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ad8c7f1007705e7deba988b8dcd84b5:f4d0b2f107624a9ec478304cd1990def
-https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227925/3221227925.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHO13ekK2bj%2FEqhmZsgCb487VK201C73xHPJjGvTHv3JiPHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124082916%3AUTC%2C1001767137%2C115.164.56.153%2C20221124082916%2Curn:Huawei:liveTV:XTV57622558%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6001&from=5&ocs=2_1.9.62.183_80&hms_devid=1791&mag_hms=1791,1794&mount=1000002&targetdev=1791&it=H4sIAAAAAAAAA0XMQQvCIBiA4X_jUfRzzV08FUEXCVZd41O_iWCTdA3697EIur_Pu1T0dDoYVBLVMOxABdX1wqHuQDjSOEktUPes0dMWo5jHnNMcbQkbu437uxRccADJJbDLtjtmjAa-pX09HNU_G6muyZMJbeIrNo4xVoq4pDLzc8b3teZf8gFofYCWmQAAAA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
-#EXTINF:-1 tvg-id="GEM.ph" tvg-chno=76 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A5580-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" group-title="Local Channel",GEM 
+#EXTINF:-1 tvg-id="GEM.ph" tvg-chno=76 tvg-logo="https://cms.cignal.tv/Upload/Images/Gem.jpg" group-title="Local Channel",GEM 
 https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
 #EXTINF:-1 group-title="Local Channel" tvg-chno=75 tvg-id="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" tvg-name="ANIME x HIDIVE" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F934f0bac-7f0a-4612-8269-c3a8ef0daca9%2FHXA_AboutImage_1920x1080_Opt2_Bill_Watts.jpg", ANIME x HIDIVE
@@ -131,18 +133,18 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tagalogmovie.mpd
 #KODIPROP:inputstream.adaptive.license_key=0f854ade412b11edb8780242ac120002:5a841ad1562f271ddbb16537600a3a6b
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 
-#EXTINF:-1 tvg-id="Cg Hbohd" group-title="Movies" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/B741DD7A-A7F8-4F8A-A549-9EF411020F9D/0-16x9.jpg?width=500",HBO
+#EXTINF:-1 tvg-id="Cg.Hbohd.ph" group-title="Movies" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/B741DD7A-A7F8-4F8A-A549-9EF411020F9D/0-16x9.jpg?width=500",HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b264a6c69a6411eeb9d10242ac120002:3947b5a7fd876bbccb8fcdb9ab0fe8fa
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 
 
-#EXTINF:-1 tvg-id="Cg Cinemax" group-title="Movies" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/BC3C51E7-F1A5-46DE-979D-65DC483AE59C/0-16x9.jpg?width=500",Cinemax
+#EXTINF:-1 tvg-id="Cg.Cinemax.ph" group-title="Movies" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/BC3C51E7-F1A5-46DE-979D-65DC483AE59C/0-16x9.jpg?width=500",Cinemax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b264ac529a6411eeb9d10242ac120002:5ddcee56fd80e2b3fbe3db4310b9741e
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 
-#EXTINF:-1 tvg-id="Cg Hbofam" group-title="Movies" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/62F1A4ED-EB56-49DF-912D-0A2388131772/0-16x9.jpg?width=500",HBO Family
+#EXTINF:-1 tvg-id="Cg.Hbofam.ph" group-title="Movies" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/62F1A4ED-EB56-49DF-912D-0A2388131772/0-16x9.jpg?width=500",HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -150,14 +152,14 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 
-#EXTINF:-1 tvg-id="Cg Hbohits" group-title="Movies" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/CEE83EE5-D870-4B3C-9339-ACA7FF4020D0/0-16x9.jpg?width=500",HBO Hits
+#EXTINF:-1 tvg-id="Cg.Hbohits.ph" group-title="Movies" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/CEE83EE5-D870-4B3C-9339-ACA7FF4020D0/0-16x9.jpg?width=500",HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b264b0129a6411eeb9d10242ac120002:80253e5f79ab4884b45449b79c8c535f
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b264ad929a6411eeb9d10242ac120002:ee1a110e3b62a0e372a07f5a3d47a2d0
-#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/D5127959-34E4-41B2-AA80-CE74DDC2C3C4/0-16x9.jpg?width=500" group-title="Local Channel",HBO Signature
+#EXTINF:-1 tvg-id="Cg.Hbosign.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/D5127959-34E4-41B2-AA80-CE74DDC2C3C4/0-16x9.jpg?width=500" group-title="Local Channel",HBO Signature
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -182,7 +184,7 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227656/32
 #EXTINF:-1 tvg-id="ROCK.EXTREME.HD.ph" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",ROCK Action (Singapore Feed) 
 https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
 
-#EXTINF:-1 tvg-id="Hits.Movies.ph" group-title="Movies" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ACF06-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500",HITS Movies
+#EXTINF:-1 tvg-id="HITS.Movies.HD.my" group-title="Movies" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ACF06-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500",HITS Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -190,7 +192,7 @@ https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/manifest.mpd
 
-#EXTINF:-1 tvg-id="HITS Now HD.sg" group-title="Movies" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/68C2D95A-A2A4-4C2B-93BE-41893C61210C/0-16x9.jpg?width=500",HITS Now
+#EXTINF:-1 tvg-id="Cg.Hitsnow.ph" group-title="Movies" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/68C2D95A-A2A4-4C2B-93BE-41893C61210C/0-16x9.jpg?width=500",HITS Now
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -206,7 +208,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/606/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1691c518b8932b4abae51edbdc235d30:d69e2927a1f8496088f6be95f8383734
-#EXTINF:-1 group-logo="https://onetvasia.com/sites/onetvasia.com/files/ct_custom_page_f_primary_image/one-default-thumb-20200318.jpg" tvg-logo="https://iili.io/1NC5v9.png" tvg-id="ONE HD (Malay).sg",One HD
+#EXTINF:-1 group-logo="https://onetvasia.com/sites/onetvasia.com/files/ct_custom_page_f_primary_image/one-default-thumb-20200318.jpg" tvg-logo="https://iili.io/1NC5v9.png" tvg-id="ONE.HD.my",One HD
 https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227972/3221227972.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixBFq%2BGtaBJD1dAU6Ok%2F3ev00fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv84zpMgIVynvcwUXYxcKtg7njdb%2FGf%2B6TgdS6yrFJUEHE9l1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230706074719%3AUTC%2C1004320541%2C14.1.254.192%2C20230706074719%2Curn:Huawei:liveTV:XTV59953839%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.187_80&mount=1000002&targetdev=1785&hms_devid=1789,1785&mag_hms=1785&it=H4sIAAAAAAAAAzXMsQrCMBCA4bfpeOTSS7VDJqXgEoSqq5zJGQqxxaQWfHup6P5__5zZy2FvGzQbxG0bkDVR41uFppHARJq8qX1V5OkmS5XnlIYxuims7NLvrqhAgdYISNVp3XWJo9Xf0r0eN8m2_rNe8jJ4saHcYeECHGOWyPMwjXBM_D7n9Es-ksTUR5kAAAA
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -276,7 +278,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=""
-#EXTINF:-1 tvg-id="Premier Sports.sg" tvg-logo="https://advanced-television.com/wp-content/uploads/2024/05/Fight-Sports-new.jpg" group-title="Local Channel",Fight Sports
+#EXTINF:-1 tvg-id="Fight Sports - [Channel 304].id" tvg-logo="https://advanced-television.com/wp-content/uploads/2024/05/Fight-Sports-new.jpg" group-title="Local Channel",Fight Sports
 https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -299,7 +301,7 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
 #EXTINF:-1 tvg-id="Cg.Tvnpre.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/66B5278C-75EA-4D93-AD2B-A5822A0F1056/0-16x9.jpg?width=500" group-title="Local Channel",tvN Premium HD
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
 
-#EXTINF:-1 tvg-id="tvN Movies.my" group-title="Movies" tvg-logo="https://tva.onscreenasia.com/wp-content/uploads/2023/11/tvN-Movies.png",tvN Movies HD
+#EXTINF:-1 tvg-id="tvN.Movies.HD.my" group-title="Movies" tvg-logo="https://tva.onscreenasia.com/wp-content/uploads/2023/11/tvN-Movies.png",tvN Movies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0SzOuvu6KlNdiKMIf4hCUg", "kid":"jiaciqMq1364MGgxI0PWEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -316,7 +318,7 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9983/default.mpd
 
-#EXTINF:-1 tvg-id="AXN (HD).sg" group-title="Entertainment" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC36C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500",AXN HD
+#EXTINF:-1 tvg-id="Axn.ph" group-title="Entertainment" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC36C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500",AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca405251d455a6bed5bec5255b419956:df1c2bae3f7b16a8e7f27889c97e1af1
 https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227829/3221227829.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixOdqyhNG6XnnSSB2s%2F7IFsw0fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv84xG01Xrjw7HwPLVHRrvE6eOvL9YVFD9qpq6TlsVF3Gl%2Bl1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230706074502%3AUTC%2C1004320541%2C14.1.254.193%2C20230706074502%2Curn:Huawei:liveTV:XTV51882833%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.167_80&mount=1000002&targetdev=1798&hms_devid=1798,1785&mag_hms=1785,1792,1788,1789&it=H4sIAAAAAAAAAzXMQQvCIBiA4X_jUdS5tu_gqRh0kWDVNT71SwTbSNegfx-Lur_PuxT0dDwYKcDrIHqkoHXreoDOO4AGQydb0JJVetrZaOYx5zRFO4eNXcf9TQouuFKSyx07b7shYzTqW9rXw1ExzZ-NVNbkyYR65ytWjjEWirikeeKnjO9Lyb_kAwth6vyZAAAA
@@ -331,7 +333,7 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_tapedge.mpd
 #EXTINF:-1 tvg-id="Taptv.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC592-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" group-title="Local Channel",Tap TV SD
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
 
-#EXTINF:-1 tvg-id="Warner TV HD.my" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ABA02-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500",Warner TV HD
+#EXTINF:-1 tvg-id="Warnertv.Hd.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ABA02-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500",Warner TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f85787e412b11edb8780242ac120002:30bc92cf89ecdd1d3db10deb9c57bb60
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
