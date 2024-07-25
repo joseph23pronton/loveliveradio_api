@@ -394,7 +394,7 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
 #EXTINF:-1 tvg-id="MTVLIVE.ph" tvg-logo="https://images.tv.osn.com/colossus/images/program/396812183/landscapewithtitle/396812183_LTT.jpg?im=Resize=(1248)" group-title="Local Channel",MTV Live HD
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5014/default.mpd https://linearjitp02-playback.astro.com.my/dash-wv/linear/5014/default.mpd 
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5014/default.mpd
 
 #EXTINF:-1 group-title="Local Channel" tvg-id="USBD120002431" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20240520T212902WIDE.png", Vevo 2010s
 http://178.128.21.207:1234/stream/new/vevo2010s/master.m3u8?u=ganbaruby23&p=f305581549d3f2e6ab3047fcf55c45ea73b1425d9d2b3f250a206730264b318a
