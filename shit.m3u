@@ -335,16 +335,22 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2303/default.mpd
 #EXTINF:-1 tvg-id="Tap.Edge.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A641C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" group-title="Local Channel",Tap Edge
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_tapedge.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
 #EXTINF:-1 tvg-id="Asianfoodnetwork.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AB020-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" group-title="Local Channel",Asian Food Network
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/500/default.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
 #EXTINF:-1 tvg-id="TLC.ph" tvg-logo="https://tlc.sndimg.com/content/dam/images/tlc/tlcme/fullset/2021/november/tlc-logo-chip.png.rend.hgtvcom.616.347.suffix/1637336502807.png" group-title="Local Channel",TLC HD
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2709/default.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8de11e005db5bd0db8228814863cd310:183b3eafa4c82e68f74c4244d54906b0
 #EXTINF:-1 tvg-id="Lifetime.ph" tvg-logo="https://cms.cignal.tv/Upload/Images/Lifetime-Logo.jpg" group-title="Local Channel",Lifetime HD
