@@ -58,8 +58,9 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227942/32
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
 
 #EXTINF:-1 group-title="Kids" tvg-id="Animax.(HD).sg" tvg-chno=73 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ABB06-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500",Animax HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
@@ -383,9 +384,13 @@ http://178.128.21.207:1234/stream/new/vevohiphop/master.m3u8?u=ganbaruby23&p=f30
 #EXTINF:-1 group-title="Local Channel" tvg-id="USBC3900009K5" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/music/vevorb.jpg", Vevo R&B
 http://178.128.21.207:1234/stream/new/vevorb/master.m3u8?u=ganbaruby23&p=f305581549d3f2e6ab3047fcf55c45ea73b1425d9d2b3f250a206730264b318a
 
-
-
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2x7iuJlLkarGUEnvPkk3hw", "kid":"Ivxbr0euO2MivCRCBruyEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="Crime.&amp;.Investigation.HD.my" tvg-name="Crime & Investigation HD" group-title="DOCUMENTARY" tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545266578_crime-hd-1.jpg",Crime & Investigation HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
 
 #EXTINF:-1 group-title="Local Channel" tvg-id="NickMusic" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx9wBdFIWqZT5vb9K64ADlin0HItFsgF5kJqVYokHXAer8CDKuaUcjznbR4krXVa1XfdJ4CFZCdqHntGCa6DzwxjXHlEKMizZyEeo-hT9vOlT6r0UmK2iwE6kmeKV5EDgJO5Fpff7Kp6s/s1600/nickmusic+tvlaint.jpg", NickMusic
 http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
