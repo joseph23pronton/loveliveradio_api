@@ -15,7 +15,7 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="KAPAMILYA.CHANNEL.HD.ph" tvg-chno=3 tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/8V-nPSxwNa-w1ze8ebsQaA.jpg" group-title="Local Channel",Kapamilya Channel SD
-http://136.239.159.18:6610/001/2/ch00000090990000001248/manifest.mpd?AuthInfo=DvftfiQOMAT%2Fl3VKz%2F6TxorYbnegGQcVSa4v7mOKzoi5z5tJpFIRIrth%2B0sV7aOB8nC6yNvXT7vb0%2FfzBjVplw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001545&contentid=ch00000000000000001545&videoid=ch00000090990000001248&recommendtype=0&userid=0020230859495&boid=001&stbid=02:00:00:00:00:00&terminalflag=1&profilecode=&usersessionid=528842053&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=Widevine&RateLow=1280000&RateHigh=25600000&IASHttpSessionId=OTT000020240725023454130530&ispcode=55
+http://143.44.136.110:6910/001/2/ch00000090990000001248/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
@@ -30,22 +30,22 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnon
 #EXTINF:-1 tvg-id="Jeepney.TV.ph" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Jeepney-TV-March-2022-Highlight-Video-Thumbnail.jpg" group-title="Local Channel",Jeepney TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://136.239.159.18:6610/001/2/ch00000090990000001250/manifest.mpd?AuthInfo=DvftfiQOMAT%2Fl3VKz%2F6TxorYbnegGQcVSa4v7mOKzohTI1%2BirGp5BGvXYsm7Bua6Bl0kLG1MjLMhEVrkZmBvUA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001546&contentid=ch00000000000000001546&videoid=ch00000090990000001250&recommendtype=0&userid=0020230859495&boid=001&stbid=02:00:00:00:00:00&terminalflag=1&profilecode=&usersessionid=526239215&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=Widevine&RateLow=1280000&RateHigh=25600000&IASHttpSessionId=OTT000020240723232824267735&ispcode=55
+http://143.44.136.110:6910/001/2/ch00000090990000001250/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="MYX.ph" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/kL9Ft6ebWPgiWNEyLx-37w.jpg" group-title="Local Channel",Myx
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://136.239.159.18:6610/001/2/ch00000090990000001252/manifest.mpd?AuthInfo=DvftfiQOMAT%2Fl3VKz%2F6TxorYbnegGQcVSa4v7mOKzogw1pUY7E7i3o9RGbH51StaBl0kLG1MjLMhEVrkZmBvUA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001673&contentid=ch00000000000000001673&videoid=ch00000090990000001252&recommendtype=0&userid=0020230859495&boid=001&stbid=02:00:00:00:00:00&terminalflag=1&profilecode=&usersessionid=526239225&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=Widevine&RateLow=1280000&RateHigh=25600000&IASHttpSessionId=OTT000020240723232913462975&ispcode=55
+http://143.44.136.110:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="GMA.ph" tvg-chno=7 group-title="Movies" tvg-logo="https://aphrodite.gmanetwork.com/page_layout/og_image/1603689552_1527587552_Entertainment_OG.png",GMA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://136.239.159.18:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=DvftfiQOMAT%2Fl3VKz%2F6TxorYbnegGQcVSa4v7mOKzohambXqOC%2B4gS%2BJYpKJlMUaBl0kLG1MjLMhEVrkZmBvUA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=0020230859495&boid=001&stbid=02:00:00:00:00:00&terminalflag=1&profilecode=&usersessionid=526239209&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=Widevine&RateLow=1280000&RateHigh=25600000&IASHttpSessionId=OTT000020240723232505840539&ispcode=55
+http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="GTV.ph" tvg-chno=11 tvg-logo="https://aphrodite.gmanetwork.com/gtv_assets/img/gtv-default-logo.png" group-title="Local Channel",GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=DvftfiQOMAT%2Fl3VKz%2F6TxorYbnegGQcVSa4v7mOKzoid2ke3iJoS0gbRFyA8buDNBl0kLG1MjLMhEVrkZmBvUA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=0020230859495&boid=001&stbid=02:00:00:00:00:00&terminalflag=1&profilecode=&usersessionid=526239213&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=Widevine&RateLow=1280000&RateHigh=25600000&IASHttpSessionId=OTT000020240723232635097223&ispcode=55
+http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="Nickelodeon Asia HD.sg" tvg-chno=72 group-title="Kids" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADD5C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" ,Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -75,8 +75,7 @@ https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231383437343631323030313134:614762653768324e676a6b3577434733
 #EXTINF:-1 tvg-id="PTV.ph" tvg-chno=4 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A5F08-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" group-title="Local Channel",PTV 4
-http://136.239.159.18:6610/001/2/ch00000090990000001086/manifest.mpd?AuthInfo=DvftfiQOMAT%2Fl3VKz%2F6TxorYbnegGQcVSa4v7mOKzoj4i%2FAd9vG3G%2B0BmXzk2StGHBlb%2Bj%2FVXWLb3OAgoY8PcQ%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001175&contentid=ch00000000000000001175&videoid=ch00000090990000001086&recommendtype=0&userid=0020230859495&boid=001&stbid=02:00:00:00:00:00&terminalflag=1&profilecode=&usersessionid=520065588&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=Widevine&IASHttpSessionId=RR6758720240723141222772827&ispcode=55
-
+http://143.44.136.110:6910/001/2/ch00000090990000001086/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f854854412b11edb8780242ac120002:032e9860137e8bfef471f53f2106ff2a
@@ -116,7 +115,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001254/manifest.mpd?virtualDoma
 #EXTINF:-1 tvg-id="Celestial.Movies.Pinoy.ph" group-title="Movies" tvg-logo="https://cms.cignal.tv/Upload/Images/Celestial-Logo-2022.jpg",Celestial Movies Pinoy
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://136.239.159.18:6610/001/2/ch00000090990000001077/manifest.mpd?AuthInfo=DvftfiQOMAT%2Fl3VKz%2F6TxorYbnegGQcVSa4v7mOKzohTBhkMdrjSxI%2B9vvaGrMUUrXulzeZKU80ZYi67vh4o1w%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001136&contentid=ch00000000000000001136&videoid=ch00000090990000001077&recommendtype=0&userid=0020230859495&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=526199508&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=Widevine&RateLow=1280000&RateHigh=25600000&IASHttpSessionId=OTT000020240723225435202504&wv=aHR0cDovLzE0My40NC4xMzYuNzQ6OTQ0My93aWRldmluZS8%2FZGV2aWNlSWQ9MDI6MDA6MDA6MDA6MDA6MDA%3D&manifest_type=mpd&ispcode=55
+http://143.44.136.110:6910/001/2/ch00000090990000001077/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="PBO.ph" group-title="Movies" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A8AAA-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500",Pinoy Box Office (PBO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -215,7 +214,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="BLASTSPORTS.ph" tvg-logo="https://i.ytimg.com/vi/Bztm0v4LGRQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH0CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCYhGDUcDS_XCVE2FTymDu6rCs2Sg" group-title="Local Channel",Blast Sports
-http://103.140.3.18:13680/blast/266217/master.m3u8
+https://iptv.ganbaruby23.xyz/blastsport.php
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f855ed4412b11edb8780242ac120002:b3a22e869d401b9cf556298c3d5d16c6
@@ -285,7 +284,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="Tap.Sports.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6624-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" group-title="Local Channel",Tap Sports HD
-http://103.140.3.18:13680/blast/220939/master.m3u8
+https://iptv.ganbaruby23.xyz/tapsports.php
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f856cbc412b11edb8780242ac120002:369f262fc4eaae23db6ecc619993d88a
