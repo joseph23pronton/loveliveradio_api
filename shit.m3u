@@ -212,6 +212,7 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
 #EXTINF:-1 tvg-id="Onesportsplus.Hd.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A696C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" group-title="Local Channel",One Sports +
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.hls
 #EXTINF:-1 tvg-id="BLASTSPORTS.ph" tvg-logo="https://i.ytimg.com/vi/Bztm0v4LGRQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH0CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCYhGDUcDS_XCVE2FTymDu6rCs2Sg" group-title="Local Channel",Blast Sports
 http://103.140.3.18:13680/blast/266217/master.m3u8
 
@@ -280,6 +281,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
 #EXTINF:-1 tvg-id="Tap.Sports.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6624-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" group-title="Local Channel",Tap Sports
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.hls
 #EXTINF:-1 tvg-id="Tap.Sports.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6624-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" group-title="Local Channel",Tap Sports HD
 http://103.140.3.18:13680/blast/220939/master.m3u8
 
