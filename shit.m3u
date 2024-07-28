@@ -444,7 +444,7 @@ http://178.128.21.207:1234/stream/new/vevorb/master.m3u8?u=ganbaruby23&p=f305581
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
 
-#EXTINF:-1 group-title="Local Channel" tvg-id="USBC3900009K5" tvg-logo="https://github.com/joseph23pronton/loveliveradio_api/blob/main/pacquiao%20PPV.png?raw=true", PPV Channel
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://github.com/joseph23pronton/loveliveradio_api/blob/main/pacquiao%20PPV.png?raw=true",PPV Channel
 http://178.128.21.207:1234/stream/new/ppvpacquiaovsanposunday1pm/master.m3u8?u=ganbaruby23&p=f305581549d3f2e6ab3047fcf55c45ea73b1425d9d2b3f250a206730264b318a
 
 #EXTINF:-1 group-title="Local Channel" tvg-id="NickMusic" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx9wBdFIWqZT5vb9K64ADlin0HItFsgF5kJqVYokHXAer8CDKuaUcjznbR4krXVa1XfdJ4CFZCdqHntGCa6DzwxjXHlEKMizZyEeo-hT9vOlT6r0UmK2iwE6kmeKV5EDgJO5Fpff7Kp6s/s1600/nickmusic+tvlaint.jpg", NickMusic
