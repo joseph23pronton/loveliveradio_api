@@ -5,6 +5,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz"
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz"
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz"
+#EXTM3U refresh="600"
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -46,6 +47,11 @@ http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="HeartOfAsia.ph" tvg-chno=11 tvg-logo="https://files.tempo.com.ph/wp-content/uploads/2020/09/hoa-pic.jpg" group-title="Local Channel",Heart Of Asia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232353335323435353337353331:35416a68643065697575493337566135
+http://163210.gvideo.io/cmaf/163210_648312/index.mpd
 
 #EXTINF:-1 tvg-id="Nickelodeon Asia HD.sg" tvg-chno=72 group-title="Kids" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADD5C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" ,Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -185,6 +191,26 @@ https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
 #EXTINF:-1 tvg-id="ROCK.EXTREME.HD.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6520-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500",ROCK Action SD
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="BLASTACTION.ph" tvg-logo="https://img.dge-prod.dicelaboratory.com/thumbnails/252439/700x394/latest.jpg",Blast Action
+https://iptv.ganbaruby23.xyz/blastaction.php
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="BLASTCINEMA.ph" tvg-logo="https://img.dge-prod.dicelaboratory.com/thumbnails/252437/700x394/latest.jpg?ts=1722361102334",Blast Cinema
+https://iptv.ganbaruby23.xyz/blastcinema.php
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="BLASTCINEMA.ph" tvg-logo="https://img.dge-prod.dicelaboratory.com/thumbnails/252438/700x394/latest.jpg",Family Cinema
+https://iptv.ganbaruby23.xyz/familycinema.php
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="BLASTCINEMA.ph" tvg-logo="https://img.dge-prod.dicelaboratory.com/thumbnails/252436/700x394/latest.jpg",Studio Universal
+https://iptv.ganbaruby23.xyz/studiouniversal.php
 
 #EXTINF:-1 tvg-id="HITS.Movies.HD.my" group-title="Movies" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ACF06-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500",HITS Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
