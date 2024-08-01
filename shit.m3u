@@ -64,8 +64,6 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2511/default.mpd
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 
 #EXTINF:-1 group-title="Kids" tvg-id="ANIPLUS.HD.sg" tvg-chno=72 tvg-logo="https://animeinasia.wordpress.com/wp-content/uploads/2017/04/aniplus.png?w=640",Aniplus HD
-#KODIPROP:inputstream.adaptive.manifest_type=hlsv2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
 http://54.179.118.28:7070/stream/test/aniplushd/master.m3u8?u=admin&p=8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918
 
 #EXTINF:-1 group-title="Kids" tvg-id="Animax.(HD).sg" tvg-chno=73 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ABB06-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500",Animax HD
