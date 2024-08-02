@@ -78,7 +78,7 @@ http://54.254.210.250:8080/memfs/3294b771-9b59-4a8d-b2c6-d20647ddd57e.m3u8
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
 #EXTINF:-1 group-title="Local Channel" tvg-chno=75 tvg-id="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" tvg-name="ANIME x HIDIVE" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F934f0bac-7f0a-4612-8269-c3a8ef0daca9%2FHXA_AboutImage_1920x1080_Opt2_Bill_Watts.jpg", ANIME x HIDIVE
-https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
+http://admin.ganbaruby23.xyz/stream/new/animexhidive/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231383437343631323030313134:614762653768324e676a6b3577434733
@@ -469,19 +469,19 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5014/default.mpd
 
 #EXTINF:-1 group-title="Local Channel" tvg-id="USBD120002431" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20240520T212902WIDE.png", Vevo 2010s
-http://178.128.21.207:1234/stream/new/vevo2010s/master.m3u8?u=ganbaruby23&p=f305581549d3f2e6ab3047fcf55c45ea73b1425d9d2b3f250a206730264b318a
+http://admin.ganbaruby23.xyz/stream/new/vevo2010s/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
 
 #EXTINF:-1 group-title="Local Channel" tvg-id="USBB4400015F5" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412", Vevo 2K
-http://178.128.21.207:1234/stream/new/vevo2k/master.m3u8?u=ganbaruby23&p=f305581549d3f2e6ab3047fcf55c45ea73b1425d9d2b3f250a206730264b318a
+http://admin.ganbaruby23.xyz/stream/new/vevo2k/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
 
 #EXTINF:-1 group-title="Local Channel" tvg-id="USBD1200008GL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20240520T212914SQUARE.png", Vevo Features
-http://178.128.21.207:1234/stream/new/vevofeatures/master.m3u8?u=ganbaruby23&p=f305581549d3f2e6ab3047fcf55c45ea73b1425d9d2b3f250a206730264b318a
+http://admin.ganbaruby23.xyz/stream/new/vevofeatures/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
 
 #EXTINF:-1 group-title="Local Channel" tvg-id="USBC3600002EK" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/music/vevohiphop.jpg", Vevo Hip-Hop
-http://178.128.21.207:1234/stream/new/vevohiphop/master.m3u8?u=ganbaruby23&p=f305581549d3f2e6ab3047fcf55c45ea73b1425d9d2b3f250a206730264b318a
+http://admin.ganbaruby23.xyz/stream/new/vevohiphop/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
 
 #EXTINF:-1 group-title="Local Channel" tvg-id="USBC3900009K5" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/music/vevorb.jpg", Vevo R&B
-http://178.128.21.207:1234/stream/new/vevorb/master.m3u8?u=ganbaruby23&p=f305581549d3f2e6ab3047fcf55c45ea73b1425d9d2b3f250a206730264b318a
+http://admin.ganbaruby23.xyz/stream/new/vevorb/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
