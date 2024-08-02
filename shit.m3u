@@ -60,12 +60,12 @@ http://163210.gvideo.io/cmaf/163210_648312/index.mpd
 #EXTINF:-1 tvg-id="Nickelodeon Asia HD.sg" tvg-chno=72 group-title="Kids" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADD5C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" ,Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2511/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default.mpd
 
 #EXTINF:-1 tvg-id="CARTOON.NETWORK.HD.ph" tvg-chno=74 group-title="Kids" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A51FC-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" ,Cartoon Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"icX/n45lx/6WavvS+RKOXw", "kid":"GgW+v3BkCEMaOQw/n0D0EA" } ], "type":"temporary" }
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 
 #EXTINF:-1 group-title="Local Channel" tvg-chno=72 tvg-id="ANIPLUS.HD.sg" tvg-name=Aniplus HD" tvg-logo="https://animeinasia.wordpress.com/wp-content/uploads/2017/04/aniplus.png?w=640", Aniplus HD
 http://54.254.210.250:8080/memfs/3294b771-9b59-4a8d-b2c6-d20647ddd57e.m3u8
@@ -225,7 +225,7 @@ http://45.77.169.125/stream/new/studiouniversal/master.m3u8?u=ganbaruby23&p=f305
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OPv7OlbkD/ksnfisvLqe9g", "kid":"/x/r1wGNDdcRYB55Xg1iEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/manifest.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/manifest.mpd
 
 #EXTINF:-1 tvg-id="Cg.Hitsnow.ph" group-title="Movies" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/68C2D95A-A2A4-4C2B-93BE-41893C61210C/0-16x9.jpg?width=500",HITS Now
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -237,7 +237,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1fe92685a75844dc54c9dac124802510:36cb2063bf5338d18d31657371b15817
 #EXTINF:-1 tvg-id="Hits.Hd.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A8BB8-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" group-title="Local Channel",HITS HD
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/606/default.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6e2d480df017411e94e2b5f3074b52d6:0295fb912ab1ab8ae817fe0672ac89ad
@@ -357,7 +357,7 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0SzOuvu6KlNdiKMIf4hCUg", "kid":"jiaciqMq1364MGgxI0PWEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
 #EXTINF:-1 group-title="Local Channel" tvg-id="KBS World HD.my" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7CE0-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500", KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
@@ -368,12 +368,12 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"taOoAISBIMhDrg+mjAnCYQ", "kid":"qkiyi9cj+RIUiH327Z+tEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="K-Plus HD.my" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/K-Plus-Video-Thumbnail.jpg",K-Plus HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/9983/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default.mpd
 
 #EXTINF:-1 tvg-id="Axn.ph" group-title="Entertainment" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC36C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500",AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2303/default.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f854034412b11edb8780242ac120002:af8ad1c5e3f2e1b751a4f64608f24275
@@ -385,42 +385,42 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_tapedge.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
 #EXTINF:-1 tvg-id="Asianfoodnetwork.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AB020-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" group-title="Local Channel",Asian Food Network
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/500/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3feecc36930732cbb69306dc687c6f10:3458265f7530bf1fef204ca8cb4689db
 #EXTINF:-1 tvg-id="History.Hd.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9C02-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" group-title="Local Channel",History HD
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/604/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5199f1513a0286e038dae8f7d820010:4d4d4d9dc41be43f528a4940cf66f14c
 #EXTINF:-1 tvg-id="Animal.Planet.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A57B0-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" group-title="Local Channel",Animal Planet HD
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2710/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
 #EXTINF:-1 tvg-id="Discovery.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A734E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" group-title="Local Channel",Discovery Channel HD
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/501/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
 #EXTINF:-1 tvg-id="TLC.ph" tvg-logo="https://tlc.sndimg.com/content/dam/images/tlc/tlcme/fullset/2021/november/tlc-logo-chip.png.rend.hgtvcom.616.347.suffix/1637336502807.png" group-title="Local Channel",TLC HD
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2709/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8de11e005db5bd0db8228814863cd310:183b3eafa4c82e68f74c4244d54906b0
 #EXTINF:-1 tvg-id="Lifetime.ph" tvg-logo="https://cms.cignal.tv/Upload/Images/Lifetime-Logo.jpg" group-title="Local Channel",Lifetime HD
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/5052/default.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f8562ee412b11edb8780242ac120002:1fc003a9a919a4729982c3409fcb4105
@@ -466,7 +466,7 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
 #EXTINF:-1 tvg-id="MTV.LIVE.HD.ph" tvg-logo="https://images.tv.osn.com/colossus/images/program/396812183/landscapewithtitle/396812183_LTT.jpg?im=Resize=(1248)" group-title="Local Channel",MTV Live HD
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5014/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default.mpd
 
 #EXTINF:-1 group-title="Local Channel" tvg-id="USBD120002431" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20240520T212902WIDE.png", Vevo 2010s
 http://admin.ganbaruby23.xyz/stream/new/vevo2010s/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
@@ -489,7 +489,7 @@ http://admin.ganbaruby23.xyz/stream/new/vevorb/master.m3u8?u=phcorner&p=61038d2f
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2x7iuJlLkarGUEnvPkk3hw", "kid":"Ivxbr0euO2MivCRCBruyEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="Crime.&amp;.Investigation.HD.my" tvg-name="Crime & Investigation HD" group-title="DOCUMENTARY" tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545266578_crime-hd-1.jpg",Crime & Investigation HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
