@@ -71,11 +71,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 http://54.254.210.250:8080/memfs/3294b771-9b59-4a8d-b2c6-d20647ddd57e.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-id="Animax.(HD).sg" tvg-chno=73 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ABB06-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500",Animax HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
-https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+http://54.254.210.250:8080/memfs/113ea2ff-3a05-4dd1-8ade-c6204d61580c.m3u8
 
 #EXTINF:-1 group-title="Local Channel" tvg-chno=75 tvg-id="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" tvg-name="ANIME x HIDIVE" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F934f0bac-7f0a-4612-8269-c3a8ef0daca9%2FHXA_AboutImage_1920x1080_Opt2_Bill_Watts.jpg", ANIME x HIDIVE
 http://54.254.210.250:8080/memfs/9dd7e069-be8c-42a6-8f6d-75883e2a3b16.m3u8
@@ -189,10 +185,8 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 #EXTINF:-1 tvg-id="ROCK.EXTREME.HD.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6520-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" group-title="Local Channel",Rock Action
 https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227656/3221227656.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixOdqyhNG6XnnSSB2s%2F7IFsw0fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv84284064pk7ICuDiXpODG9z27SwoqJohWZiT1BzMAfjTRl1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230710152119%3AUTC%2C1004320541%2C14.1.254.193%2C20230710152119%2Curn:Huawei:liveTV:SP000002372888%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.154_80&mount=1000002&targetdev=1796&hms_devid=1765,1796&mag_hms=1796,1794&it=H4sIAAAAAAAAAzXMuwrCMBSA4bfJeMi1NEMmRXAJQtVVjrkRiA0mteDbS0X3__uXhi4c94YLGbXTSgjNJRtGreLIohMKB09jpKSHp61GEoel5DnZ6jd2nXY3RoEC5wykJudtdyiYDP-W9vW4h2bEn02hrdkF43uEFTtgSi0kXHKd4VTwfWnll3wAdVEimpkAAAA
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2341c2ecd3cf4865881bb0fa1287de8f:ad45202e64f66ef36b3f60fac93cc47f
 #EXTINF:-1 tvg-id="ROCK.EXTREME.HD.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6520-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500",ROCK Action HD
-https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
+http://54.254.210.250:8080/memfs/f09bb5fb-37e0-4658-9e08-fa75d8781de8.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
