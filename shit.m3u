@@ -8,7 +8,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz"
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz"
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz"
-#EXTM3U url-tvg="https://kaotv.ganbaruby23.xyz/guide.xml"
+#EXTM3U url-tvg="https://localchannels.ganbaruby23.xyz/guide.xml"
 
 #EXTM3U refresh="600"
 
@@ -45,26 +45,24 @@ http://143.44.136.110:6910/001/2/ch00000090990000001250/manifest.mpd?virtualDoma
 http://143.44.136.110:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="8001B317.0000000000074F18.0060" tvg-chno=7 group-title="Movies" tvg-logo="https://aphrodite.gmanetwork.com/page_layout/og_image/1603689552_1527587552_Entertainment_OG.png",GMA
-https://gma.ganbaruby23.xyz/memfs/39f0e1cb-1748-40c4-a62a-0aeba1b4a4a1.m3u8
+https://localchannels.ganbaruby23.xyz/id/8001B317.0000000000074F18.0060.m3u
 
-#EXTINF:-1 tvg-id="GTV.ph" tvg-chno=11 tvg-logo="https://aphrodite.gmanetwork.com/gtv_assets/img/gtv-default-logo.png" group-title="Local Channel",GTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="8001B317.0000000000074F18.0061" tvg-chno=11 tvg-logo="https://aphrodite.gmanetwork.com/gtv_assets/img/gtv-default-logo.png" group-title="Local Channel",GTV
+https://localchannels.ganbaruby23.xyz/id/8001B317.0000000000074F18.0061.m3u
 
 #EXTINF:-1 group-title="Local Channel" tvg-id="8001B317.0000000000074F18.0066" tvg-logo="https://i.ytimg.com/vi/sT85NLU9J7c/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGEcgVihlMA8=&rs=AOn4CLBU1-xuTizl2Y9FGU5IG_TcHhcqsA", I Heart Movies
-https://gma.ganbaruby23.xyz/memfs/7d0ef0de-93ad-4ae0-a915-da0e862df6c5.m3u8
+https://localchannels.ganbaruby23.xyz/id/8001B317.0000000000074F18.0066.m3u
 
 #EXTINF:-1 group-title="Local Channel" tvg-id="8001B317.0000000000074F18.0065" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/GMA_Hallypop_logo.png", HallyPop
-https://gma.ganbaruby23.xyz/memfs/b088cfed-6dad-4c66-ae1b-a2a92ba56751.m3u8
+https://localchannels.ganbaruby23.xyz/id/8001B317.0000000000074F18.0065.m3u
 
 #EXTINF:-1 group-title="Local Channel" tvg-id="8001B317.0000000000074F18.0067" tvg-logo="https://aphrodite.gmanetwork.com/entertainment/shows/images/original/PinoyHits-Thumbnail_-20230104191323.jpg", Pinoy Hits
-https://gma.ganbaruby23.xyz/memfs/f54684e2-7b32-4954-b30a-69255d0391b1.m3u8
+https://localchannels.ganbaruby23.xyz/id/8001B317.0000000000074F18.0067.m3u
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-id="8001B317.0000000000074F18.0062" tvg-logo="https://files.tempo.com.ph/wp-content/uploads/2020/09/hoa-pic.jpg" group-title="Local Channel",Heart Of Asia
-https://gma.ganbaruby23.xyz/memfs/438940ef-ff58-4464-9bec-361f0ac34514.m3u8
+https://localchannels.ganbaruby23.xyz/id/8001B317.0000000000074F18.0062.m3u
 
 #EXTINF:-1 tvg-id="Nickelodeon Asia HD.sg" tvg-chno=72 group-title="Kids" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADD5C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" ,Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
