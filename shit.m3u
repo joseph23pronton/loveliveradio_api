@@ -45,24 +45,24 @@ http://143.44.136.110:6910/001/2/ch00000090990000001250/manifest.mpd?virtualDoma
 http://143.44.136.110:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="8001B317.0000000000074F18.0060" tvg-chno=7 group-title="Movies" tvg-logo="https://aphrodite.gmanetwork.com/page_layout/og_image/1603689552_1527587552_Entertainment_OG.png",GMA
-https://localchannels.ganbaruby23.xyz/id/8001B317.0000000000074F18.0060
+https://localchannels.ganbaruby23.xyz/id/8001B317.0000000000074F18.0060.ts
 
 #EXTINF:-1 tvg-id="8001B317.0000000000074F18.0061" tvg-chno=11 tvg-logo="https://aphrodite.gmanetwork.com/gtv_assets/img/gtv-default-logo.png" group-title="Local Channel",GTV
-https://localchannels.ganbaruby23.xyz/id/8001B317.0000000000074F18.0061
+https://localchannels.ganbaruby23.xyz/id/8001B317.0000000000074F18.0061.ts
 
 #EXTINF:-1 group-title="Local Channel" tvg-id="8001B317.0000000000074F18.0066" tvg-logo="https://i.ytimg.com/vi/sT85NLU9J7c/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGEcgVihlMA8=&rs=AOn4CLBU1-xuTizl2Y9FGU5IG_TcHhcqsA", I Heart Movies
-https://localchannels.ganbaruby23.xyz/id/8001B317.0000000000074F18.0066
+https://localchannels.ganbaruby23.xyz/id/8001B317.0000000000074F18.0066.ts
 
 #EXTINF:-1 group-title="Local Channel" tvg-id="8001B317.0000000000074F18.0065" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/GMA_Hallypop_logo.png", HallyPop
-https://localchannels.ganbaruby23.xyz/id/8001B317.0000000000074F18.0065
+https://localchannels.ganbaruby23.xyz/id/8001B317.0000000000074F18.0065.ts
 
 #EXTINF:-1 group-title="Local Channel" tvg-id="8001B317.0000000000074F18.0067" tvg-logo="https://aphrodite.gmanetwork.com/entertainment/shows/images/original/PinoyHits-Thumbnail_-20230104191323.jpg", Pinoy Hits
-https://localchannels.ganbaruby23.xyz/id/8001B317.0000000000074F18.0067
+https://localchannels.ganbaruby23.xyz/id/8001B317.0000000000074F18.0067.ts
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-id="8001B317.0000000000074F18.0062" tvg-logo="https://files.tempo.com.ph/wp-content/uploads/2020/09/hoa-pic.jpg" group-title="Local Channel",Heart Of Asia
-https://localchannels.ganbaruby23.xyz/id/8001B317.0000000000074F18.0062
+https://localchannels.ganbaruby23.xyz/id/8001B317.0000000000074F18.0062.ts
 
 #EXTINF:-1 tvg-id="Nickelodeon Asia HD.sg" tvg-chno=72 group-title="Kids" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADD5C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" ,Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
