@@ -44,23 +44,23 @@ http://143.44.136.110:6910/001/2/ch00000090990000001250/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:7 tvg-id="8001B317.0000000000074F18.0060" tvg-chno=7 group-title="Movies" tvg-logo="https://aphrodite.gmanetwork.com/page_layout/og_image/1603689552_1527587552_Entertainment_OG.png",GMA
-https://localchannels.ganbaruby23.xyz/id/8001B317.0000000000074F18.0060.ts
+#EXTINF:7 tvg-id="8001B317.0000000000074F18.0060" tvg-chno=7 tvg-shift="-2" group-title="Movies" tvg-logo="https://aphrodite.gmanetwork.com/page_layout/og_image/1603689552_1527587552_Entertainment_OG.png",GMA
+http://54.254.210.250:8080/memfs/d42febc5-d380-4971-ba00-288ad0ff1631.m3u8
 
-#EXTINF:8 tvg-id="8001B317.0000000000074F18.0061" tvg-chno=11 tvg-logo="https://aphrodite.gmanetwork.com/gtv_assets/img/gtv-default-logo.png" group-title="Local Channel",GTV
-https://localchannels.ganbaruby23.xyz/id/8001B317.0000000000074F18.0061.ts
+#EXTINF:8 tvg-id="8001B317.0000000000074F18.0061" tvg-chno=11 tvg-shift="-2" tvg-logo="https://aphrodite.gmanetwork.com/gtv_assets/img/gtv-default-logo.png" group-title="Local Channel",GTV
+http://54.254.210.250:8080/memfs/30174e90-737e-44f5-87f6-30040d1b865c.m3u8
 
-#EXTINF:9 group-title="Local Channel" tvg-id="8001B317.0000000000074F18.0066" tvg-logo="https://i.ytimg.com/vi/sT85NLU9J7c/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGEcgVihlMA8=&rs=AOn4CLBU1-xuTizl2Y9FGU5IG_TcHhcqsA", I Heart Movies
-https://localchannels.ganbaruby23.xyz/id/8001B317.0000000000074F18.0066.ts
+#EXTINF:9 group-title="Local Channel" tvg-id="8001B317.0000000000074F18.0066" tvg-shift="-2" tvg-logo="https://i.ytimg.com/vi/sT85NLU9J7c/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGEcgVihlMA8=&rs=AOn4CLBU1-xuTizl2Y9FGU5IG_TcHhcqsA", I Heart Movies
+http://54.254.210.250:8080/memfs/29c8b583-a2ba-4afa-aba5-a11458d35f43.m3u8
 
-#EXTINF:10 group-title="Local Channel" tvg-id="8001B317.0000000000074F18.0065" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/GMA_Hallypop_logo.png", HallyPop
-https://localchannels.ganbaruby23.xyz/id/8001B317.0000000000074F18.0065.ts
+#EXTINF:10 group-title="Local Channel" tvg-id="8001B317.0000000000074F18.0065" tvg-shift="-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/GMA_Hallypop_logo.png", HallyPop
+http://54.254.210.250:8080/memfs/12e4353a-c395-4192-959e-598c41d48a94.m3u8
 
-#EXTINF:11 group-title="Local Channel" tvg-id="8001B317.0000000000074F18.0067" tvg-logo="https://aphrodite.gmanetwork.com/entertainment/shows/images/original/PinoyHits-Thumbnail_-20230104191323.jpg", Pinoy Hits
-https://localchannels.ganbaruby23.xyz/id/8001B317.0000000000074F18.0067.ts
+#EXTINF:11 group-title="Local Channel" tvg-id="8001B317.0000000000074F18.0067" tvg-shift="-2" tvg-logo="https://aphrodite.gmanetwork.com/entertainment/shows/images/original/PinoyHits-Thumbnail_-20230104191323.jpg", Pinoy Hits
+http://54.254.210.250:8080/memfs/0434bd17-a662-43b5-998c-6690bd2fc1ae.m3u8
 
-#EXTINF:12 tvg-id="8001B317.0000000000074F18.0062" tvg-logo="https://files.tempo.com.ph/wp-content/uploads/2020/09/hoa-pic.jpg" group-title="Local Channel",Heart Of Asia
-https://localchannels.ganbaruby23.xyz/id/8001B317.0000000000074F18.0062.ts
+#EXTINF:12 tvg-id="8001B317.0000000000074F18.0062" tvg-shift="-2" tvg-logo="https://files.tempo.com.ph/wp-content/uploads/2020/09/hoa-pic.jpg" group-title="Local Channel",Heart Of Asia
+http://54.254.210.250:8080/memfs/0bc3c9bd-f79b-4491-839e-24875379f6c9.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon Asia HD.sg" tvg-chno=72 group-title="Kids" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADD5C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" ,Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
