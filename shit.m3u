@@ -486,6 +486,10 @@ http://54.254.210.250:8080/memfs/0691eee3-cab3-4a8f-9e19-616c005b20e3.m3u8
 #EXTINF:-1 group-title="Local Channel" tvg-id="USBC3900009K5" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/music/vevorb.jpg", Vevo R&B
 http://54.254.210.250:8080/memfs/50fe7d1f-51a4-47b5-ace8-5a9543773f86.m3u8
 
+
+#EXTINF:-1 group-title="Local Channel" tvg-id="USAJ3000013FJ" tvg-logo="https://pbs.twimg.com/profile_images/1574980809127141376/sTw4-M6__400x400.jpg", New KPOP
+http://54.254.210.250:8080/memfs/37b90678-2af3-4058-99d8-029a3a5c88f7.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
