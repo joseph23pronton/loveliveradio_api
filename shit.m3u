@@ -45,22 +45,22 @@ http://143.44.136.110:6910/001/2/ch00000090990000001250/manifest.mpd?virtualDoma
 http://143.44.136.110:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:7 tvg-id="8001B317.0000000000074F18.0060" tvg-chno=7 tvg-shift="2" group-title="Movies" tvg-logo="https://aphrodite.gmanetwork.com/page_layout/og_image/1603689552_1527587552_Entertainment_OG.png",GMA
-http://54.254.210.250:8080/memfs/d42febc5-d380-4971-ba00-288ad0ff1631.m3u8
+http://143.198.87.122:8080/memfs/f396cfd3-bc13-4f64-8d4b-851905482cc9.m3u8
 
 #EXTINF:8 tvg-id="8001B317.0000000000074F18.0061" tvg-chno=11 tvg-shift="2" tvg-logo="https://aphrodite.gmanetwork.com/gtv_assets/img/gtv-default-logo.png" group-title="Local Channel",GTV
-http://54.254.210.250:8080/memfs/30174e90-737e-44f5-87f6-30040d1b865c.m3u8
+http://143.198.87.122:8080/memfs/1a5206b6-acb2-4b7a-81e2-e67a8f866cd0.m3u8
 
 #EXTINF:9 group-title="Local Channel" tvg-id="8001B317.0000000000074F18.0066" tvg-shift="2" tvg-logo="https://i.ytimg.com/vi/sT85NLU9J7c/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGEcgVihlMA8=&rs=AOn4CLBU1-xuTizl2Y9FGU5IG_TcHhcqsA", I Heart Movies
-http://54.254.210.250:8080/memfs/29c8b583-a2ba-4afa-aba5-a11458d35f43.m3u8
+http://143.198.87.122:8080/memfs/0ec27b54-2faa-4edc-985e-a0ef619c2859.m3u8
 
 #EXTINF:10 group-title="Local Channel" tvg-id="8001B317.0000000000074F18.0065" tvg-shift="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/GMA_Hallypop_logo.png", HallyPop
-http://54.254.210.250:8080/memfs/12e4353a-c395-4192-959e-598c41d48a94.m3u8
+http://143.198.87.122:8080/memfs/bf96feb6-95c5-4084-b141-3194252c6a04.m3u8
 
 #EXTINF:11 group-title="Local Channel" tvg-id="8001B317.0000000000074F18.0067" tvg-shift="2" tvg-logo="https://aphrodite.gmanetwork.com/entertainment/shows/images/original/PinoyHits-Thumbnail_-20230104191323.jpg", Pinoy Hits
 http://54.254.210.250:8080/memfs/0434bd17-a662-43b5-998c-6690bd2fc1ae.m3u8
 
 #EXTINF:12 tvg-id="8001B317.0000000000074F18.0062" tvg-shift="2" tvg-logo="https://files.tempo.com.ph/wp-content/uploads/2020/09/hoa-pic.jpg" group-title="Local Channel",Heart Of Asia
-http://54.254.210.250:8080/memfs/0bc3c9bd-f79b-4491-839e-24875379f6c9.m3u8
+http://143.198.87.122:8080/memfs/b708839a-dabe-442e-b9bf-1fd2bf7ae5fa.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon Asia HD.sg" tvg-chno=72 group-title="Kids" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADD5C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" ,Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -73,13 +73,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 
 #EXTINF:-1 group-title="Local Channel" tvg-chno=72 tvg-id="ANIPLUS.HD.sg" tvg-logo="https://animeinasia.wordpress.com/wp-content/uploads/2017/04/aniplus.png?w=640", Aniplus HD
-http://54.254.210.250:8080/memfs/3294b771-9b59-4a8d-b2c6-d20647ddd57e.m3u8
+http://143.198.87.122:8080/memfs/2a3ad73e-af1e-4038-a99e-2b452e0a1e0d.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-id="Animax.(HD).sg" tvg-chno=73 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ABB06-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500",Animax HD
-http://54.254.210.250:8080/memfs/113ea2ff-3a05-4dd1-8ade-c6204d61580c.m3u8
+http://143.198.87.122:1234/stream/new/animax/master.m3u8?u=Restreamer&p=f305581549d3f2e6ab3047fcf55c45ea73b1425d9d2b3f250a206730264b318a
 
 #EXTINF:-1 group-title="Local Channel" tvg-chno=75 tvg-id="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" tvg-name="ANIME x HIDIVE" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F934f0bac-7f0a-4612-8269-c3a8ef0daca9%2FHXA_AboutImage_1920x1080_Opt2_Bill_Watts.jpg", ANIME x HIDIVE
-http://54.254.210.250:8080/memfs/9dd7e069-be8c-42a6-8f6d-75883e2a3b16.m3u8
+http://143.198.87.122:8080/memfs/eb328ac3-d993-41a8-9154-52ccad75c4f3.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231383437343631323030313134:614762653768324e676a6b3577434733
@@ -191,7 +191,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227656/3221227656.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixOdqyhNG6XnnSSB2s%2F7IFsw0fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv84284064pk7ICuDiXpODG9z27SwoqJohWZiT1BzMAfjTRl1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230710152119%3AUTC%2C1004320541%2C14.1.254.193%2C20230710152119%2Curn:Huawei:liveTV:SP000002372888%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.154_80&mount=1000002&targetdev=1796&hms_devid=1765,1796&mag_hms=1796,1794&it=H4sIAAAAAAAAAzXMuwrCMBSA4bfJeMi1NEMmRXAJQtVVjrkRiA0mteDbS0X3__uXhi4c94YLGbXTSgjNJRtGreLIohMKB09jpKSHp61GEoel5DnZ6jd2nXY3RoEC5wykJudtdyiYDP-W9vW4h2bEn02hrdkF43uEFTtgSi0kXHKd4VTwfWnll3wAdVEimpkAAAA
 
 #EXTINF:-1 tvg-id="ROCK.EXTREME.HD.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6520-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500",ROCK Action HD
-http://54.254.210.250:8080/memfs/f09bb5fb-37e0-4658-9e08-fa75d8781de8.m3u8
+http://143.198.87.122:1234/stream/new/rockaction-1/master.m3u8?u=Restreamer&p=f305581549d3f2e6ab3047fcf55c45ea73b1425d9d2b3f250a206730264b318a
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
@@ -201,22 +201,22 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.dge-prod.dicelaboratory.com/thumbnails/252439/700x394/latest.jpg" audio-track="2",Blast Action
-http://54.254.210.250:8080/memfs/3312b019-6197-42bf-a4bd-bfe184eb97f8.m3u8
+http://143.198.87.122:1234/stream/testingplayground/blastaction/master.m3u8?u=Restreamer&p=f305581549d3f2e6ab3047fcf55c45ea73b1425d9d2b3f250a206730264b318a
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.dge-prod.dicelaboratory.com/thumbnails/252437/700x394/latest.jpg?ts=1722361102334" audio-track="2",Blast Cinema
-http://54.254.210.250:8080/memfs/3312b019-6197-42bf-a4bd-bfe184eb97f8.m3u8
+http://143.198.87.122:1234/stream/testingplayground/blastcinema/master.m3u8?u=Restreamer&p=f305581549d3f2e6ab3047fcf55c45ea73b1425d9d2b3f250a206730264b318a
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.dge-prod.dicelaboratory.com/thumbnails/252438/700x394/latest.jpg" audio-track="2",Family Cinema
-http://54.254.210.250:8080/memfs/3312b019-6197-42bf-a4bd-bfe184eb97f8.m3u8
+http://143.198.87.122:1234/stream/testingplayground/familycinema/master.m3u8?u=Restreamer&p=f305581549d3f2e6ab3047fcf55c45ea73b1425d9d2b3f250a206730264b318a
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.dge-prod.dicelaboratory.com/thumbnails/252436/700x394/latest.jpg" audio-track="2",Studio Universal
-http://54.254.210.250:8080/memfs/3312b019-6197-42bf-a4bd-bfe184eb97f8.m3u8
+http://143.198.87.122:1234/stream/testingplayground/studiouniversal/master.m3u8?u=Restreamer&p=f305581549d3f2e6ab3047fcf55c45ea73b1425d9d2b3f250a206730264b318a
 
 #EXTINF:-1 tvg-id="HITS.Movies.HD.my" group-title="Movies" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ACF06-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500",HITS Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -251,7 +251,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="BLASTSPORTS.ph" tvg-logo="https://i.ytimg.com/vi/Bztm0v4LGRQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH0CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCYhGDUcDS_XCVE2FTymDu6rCs2Sg" group-title="Local Channel",Blast Sports
-http://54.254.210.250:8080/memfs/a1c08673-14bc-477c-9813-59ae588ede60.m3u8
+http://143.198.87.122:8080/memfs/8e5aa251-6998-40f1-bf95-81b5db38b48e.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f855ed4412b11edb8780242ac120002:b3a22e869d401b9cf556298c3d5d16c6
@@ -321,7 +321,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="Tap.Sports.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6624-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=500" group-title="Local Channel",Tap Sports HD
-http://54.254.210.250:8080/memfs/f5b3acb9-9bb1-4329-867e-b8b03d061c97.m3u8
+http://143.198.87.122:8080/memfs/e3539fbd-a280-46c9-b3e6-2ab058629d3e.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f856cbc412b11edb8780242ac120002:369f262fc4eaae23db6ecc619993d88a
@@ -468,23 +468,22 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default.mpd
 
 #EXTINF:-1 group-title="Local Channel" tvg-id="USBD120002431" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20240520T212902WIDE.png", Vevo 2010s
-http://54.254.210.250:8080/memfs/d1445df4-8749-467a-b4d4-24388f2575e3.m3u8
+http://143.198.87.122:8080/memfs/cba9d20e-c4b9-417f-af3e-f1776a94a146.m3u8
 
 #EXTINF:-1 group-title="Local Channel" tvg-id="USBB4400015F5" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412", Vevo 2K
-http://54.254.210.250:8080/memfs/95f40062-1fdf-4a19-acaf-efbbd5056271.m3u8
+http://143.198.87.122:8080/memfs/8b6ed79f-9cc1-419c-950b-f62cad2e8436.m3u8
 
 #EXTINF:-1 group-title="Local Channel" tvg-id="USBD1200008GL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20240520T212914SQUARE.png", Vevo Features
-http://54.254.210.250:8080/memfs/27cc35fc-9e57-4d61-8e1f-4b27df0d7aac.m3u8
+http://143.198.87.122:8080/memfs/ec140777-c2cb-408b-898a-b88270849280.m3u8
 
 #EXTINF:-1 group-title="Local Channel" tvg-id="USBC3600002EK" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/music/vevohiphop.jpg", Vevo Hip-Hop
-http://54.254.210.250:8080/memfs/0691eee3-cab3-4a8f-9e19-616c005b20e3.m3u8
+http://143.198.87.122:8080/memfs/f25c6eb4-c851-4d65-9f7a-d74b122d8612.m3u8
 
 #EXTINF:-1 group-title="Local Channel" tvg-id="USBC3900009K5" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/music/vevorb.jpg", Vevo R&B
-http://54.254.210.250:8080/memfs/50fe7d1f-51a4-47b5-ace8-5a9543773f86.m3u8
-
+http://143.198.87.122:8080/memfs/2455af30-cf6a-44b9-be01-c1d2c18203a8.m3u8
 
 #EXTINF:-1 group-title="Local Channel" tvg-id="USAJ3000013FJ" tvg-logo="https://pbs.twimg.com/profile_images/1574980809127141376/sTw4-M6__400x400.jpg", New KPOP
-http://54.254.210.250:8080/memfs/37b90678-2af3-4058-99d8-029a3a5c88f7.m3u8
+http://143.198.87.122:8080/memfs/44a684af-5696-47c8-822f-a94601a3cc95.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -500,4 +499,4 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
 http://103.140.3.18:13680/blast/269663/master.m3u8
 
 #EXTINF:-1 group-title="Local Channel" tvg-id="NickMusic" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx9wBdFIWqZT5vb9K64ADlin0HItFsgF5kJqVYokHXAer8CDKuaUcjznbR4krXVa1XfdJ4CFZCdqHntGCa6DzwxjXHlEKMizZyEeo-hT9vOlT6r0UmK2iwE6kmeKV5EDgJO5Fpff7Kp6s/s1600/nickmusic+tvlaint.jpg", NickMusic
-http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
+http://143.198.87.122:8080/memfs/d2194320-d970-4301-9c21-759b3699e30b.m3u8
