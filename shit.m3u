@@ -27,7 +27,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001248/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="KAPAMILYA.CHANNEL.HD.ph" tvg-chno=2 tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/8V-nPSxwNa-w1ze8ebsQaA.jpg" group-title="Local Channel",Kapamilya Channel HD
-http://143.44.136.113:6910/001/2/ch00000090990000001064/manifest.mpd?virtualDomain=001.live_hls.zte.com
+http://143.44.136.113:6910/001/2/ch00000090990000001173/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
