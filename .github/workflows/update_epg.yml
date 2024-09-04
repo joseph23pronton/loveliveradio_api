@@ -23,7 +23,7 @@ jobs:
         pip install requests
 
     - name: Run the update script
-      run: python update_epg.py
+      run: python scripts/update_epg.py
 
     - name: Commit changes
       run: |
