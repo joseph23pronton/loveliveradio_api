@@ -23,21 +23,6 @@
 	<channel id="HEART OF ASIA">
 		<display-name>HEART OF ASIA</display-name>
 	</channel>
-	<programme channel="HALLYPOP" start="20240904220000 +0000" stop="20240904230000 +0000">
-		<title>StarGazeMuzik</title>
-		<desc>StarGazeMuzik: StarGazeMuzik features high quality music videos produced out of Asia, in particular South Korea, Japan, Taiwan and Hong Kong.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HALLYPOP" start="20240904230000 +0000" stop="20240904233000 +0000">
-		<title>Mr. Hashtag</title>
-		<desc>Mr. Hashtag: A wacky sitcom about the hashtag moments of Tae-gu, a fish out of water who struggles to re-adapt to college life. His semester is a continuous cycle of baffling mishaps.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HALLYPOP" start="20240904233000 +0000" stop="20240905000000 +0000">
-		<title>The Innerview</title>
-		<desc>The Innerview: How much do you know about the real face of Korea? A mockumentary that shows the various aspects of Korean society from the perspective of a Korean-Canadian expat.</desc>
-		<language>CHI</language>
-	</programme>
 	<programme channel="HALLYPOP" start="20240905000000 +0000" stop="20240905020000 +0000">
 		<title>Hallystage</title>
 		<desc>Hallystage: Catch the world's best concert performances from the biggest names in the global music scene.</desc>
@@ -263,11 +248,6 @@
 		<desc>Hallystage: Catch the world's best concert performances from the biggest names in the global music scene.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20240904220000 +0000" stop="20240905000000 +0000">
-		<title>Takilya Throwback</title>
-		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
-		<language>CHI</language>
-	</programme>
 	<programme channel="I HEART MOVIES" start="20240905000000 +0000" stop="20240905020000 +0000">
 		<title>Block Screening</title>
 		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
@@ -396,11 +376,6 @@
 	<programme channel="I HEART MOVIES" start="20240907140000 +0000" stop="20240907160000 +0000">
 		<title>Takilya Throwback</title>
 		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="PINOY HITS" start="20240904213000 +0000" stop="20240905000000 +0000">
-		<title>Unang Hirit</title>
-		<desc>Unang Hirit: An early morning show that provides latest news and good vibes with celebrity performances, food trips, and other festivities.</desc>
 		<language>CHI</language>
 	</programme>
 	<programme channel="PINOY HITS" start="20240905000000 +0000" stop="20240905010000 +0000">
@@ -742,21 +717,6 @@ Running Man Philippines: RUNNING MAN is a South Korean reality-game show where a
 	<programme channel="PINOY HITS" start="20240907153000 +0000" stop="20240907160000 +0000">
 		<title>Karelasyon</title>
 		<desc>Karelasyon: Hosted by Carla Abellana, Karelasyon is a drama anthology that touches on the various issues that Filipinos deal with regularly.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20240904160000 +0000" stop="20240904213000 +0000">
-		<title>The 700 Club Asia</title>
-		<desc>The 700 Club Asia: A flagship program of CBN Asia, the show brings miracles into your home through encouraging stories and testimonies.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20240904213000 +0000" stop="20240905000000 +0000">
-		<title>Unang Hirit</title>
-		<desc>Unang Hirit: An early morning show that provides latest news and good vibes with celebrity performances, food trips, and other festivities.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20240905000000 +0000" stop="20240905002500 +0000">
-		<title>Tokyo Revengers</title>
-		<desc>Tokyo Revengers: Tokyo Revengers follows the story of Takemichi Hanagaki, who has the ability to travel back and forth in time. He uses this ability to save his friends from the Tokyo Manji Gang.</desc>
 		<language>CHI</language>
 	</programme>
 	<programme channel="GMA" start="20240905002500 +0000" stop="20240905010000 +0000">
@@ -1317,23 +1277,6 @@ Cayetano In Action with Boy Abunda: Hosted by Senators Alan and Pia Cayetano, an
 	<programme channel="GTV" start="20240907153000 +0000" stop="20240907160000 +0000">
 		<title>In Touch With Dr. Charles Stanley</title>
 		<desc>In Touch With Dr. Charles Stanley: Committed to advancing the gospel from person to person and place to place as quickly, clearly, and irresistibly as possible.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20240904220000 +0000" stop="20240904224500 +0000">
-		<title>The World of Fantasy</title>
-		<desc>The World of Fantasy: A young man with amnesia and his childhood sweetheart grow up in the spirit domain to search for the meaning of life and pursue a higher power.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20240904224500 +0000" stop="20240904233000 +0000">
-		<title>Ghost Doctor</title>
-		<desc>: ody of CJ (Kim Bum), a resident doctor who has exceptional medical expertise but is hindered by his fear of blood. As Henry's spirit enters the body of CJ, he will become the talk of the town because of his extraordinary medical skills.
-Ghost Doctor: Ghost Doctor revolves around the story of two doctors from extreme backgrounds and skills merging into one person. Henry (Rain), a genius but extremely arrogant and selfish doctor who will be involved in an accident will possess the b</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20240904233000 +0000" stop="20240905001500 +0000">
-		<title>Bride of the Water God</title>
-		<desc>: g descendant from a middle-class family fated to serve him for generations.
-Bride of the Water God: When the Water God, Ha-baek (Nam Joo-hyuk) visits earth to retrieve the sacred stones needed for him to claim the throne of the Divine Realm, he seeks out the help of neuropsychiatrist Lara (Shin Se-kyung), the only remainin</desc>
 		<language>CHI</language>
 	</programme>
 	<programme channel="HEART OF ASIA" start="20240905001500 +0000" stop="20240905010000 +0000">
