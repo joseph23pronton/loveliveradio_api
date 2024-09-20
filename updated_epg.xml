@@ -2,18 +2,6 @@
 	<channel id="I HEART MOVIES">
 		<display-name>I HEART MOVIES</display-name>
 	</channel>
-	<channel id="Service 102">
-		<display-name>Service 102</display-name>
-	</channel>
-	<channel id="Service 103">
-		<display-name>Service 103</display-name>
-	</channel>
-	<channel id="Service 104">
-		<display-name>Service 104</display-name>
-	</channel>
-	<channel id="GMA 1-Seg">
-		<display-name>GMA 1-Seg</display-name>
-	</channel>
 	<channel id="GMA">
 		<display-name>GMA</display-name>
 	</channel>
@@ -23,201 +11,144 @@
 	<channel id="HEART OF ASIA">
 		<display-name>HEART OF ASIA</display-name>
 	</channel>
-	<channel id="TV5">
-		<display-name>TV5</display-name>
-	</channel>
-	<channel id="RPTV">
-		<display-name>RPTV</display-name>
-	</channel>
-	<channel id="One Sports">
-		<display-name>One Sports</display-name>
-	</channel>
-	<channel id="One Seg S1">
-		<display-name>One Seg S1</display-name>
-	</channel>
-	<channel id="ssu OTA">
-		<display-name>ssu OTA</display-name>
-	</channel>
-	<channel id="A2Z">
-		<display-name>A2Z</display-name>
-	</channel>
-	<channel id="Light TV">
-		<display-name>Light TV</display-name>
-	</channel>
-	<channel id="A2Z Oneseg">
-		<display-name>A2Z Oneseg</display-name>
-	</channel>
-	<programme channel="Service 102" start="20240920000000 +0000" stop="20240920020000 +0000">
-		<title>Block Screening</title>
-		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="Service 102" start="20240920020000 +0000" stop="20240920040000 +0000">
-		<title>Pinoy Movie Date</title>
-		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="Service 102" start="20240920040000 +0000" stop="20240920060000 +0000">
+	<programme channel="I HEART MOVIES" start="20240920220000 +0000" stop="20240921000000 +0000">
 		<title>Takilya Throwback</title>
 		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="Service 102" start="20240920060000 +0000" stop="20240920080000 +0000">
+	<programme channel="I HEART MOVIES" start="20240921000000 +0000" stop="20240921020000 +0000">
 		<title>Block Screening</title>
 		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="Service 102" start="20240920080000 +0000" stop="20240920100000 +0000">
+	<programme channel="I HEART MOVIES" start="20240921020000 +0000" stop="20240921040000 +0000">
 		<title>Pinoy Movie Date</title>
 		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="Service 102" start="20240920100000 +0000" stop="20240920120000 +0000">
-		<title>Block Screening</title>
-		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="Service 102" start="20240920120000 +0000" stop="20240920140000 +0000">
-		<title>Pinoy Movie Date</title>
-		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="Service 102" start="20240920140000 +0000" stop="20240920160000 +0000">
+	<programme channel="I HEART MOVIES" start="20240921040000 +0000" stop="20240921060000 +0000">
 		<title>Takilya Throwback</title>
 		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="Service 102" start="20240920220000 +0000" stop="20240921000000 +0000">
-		<title>Takilya Throwback</title>
-		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="Service 102" start="20240921000000 +0000" stop="20240921020000 +0000">
+	<programme channel="I HEART MOVIES" start="20240921060000 +0000" stop="20240921080000 +0000">
 		<title>Block Screening</title>
 		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="Service 102" start="20240921020000 +0000" stop="20240921040000 +0000">
+	<programme channel="I HEART MOVIES" start="20240921080000 +0000" stop="20240921100000 +0000">
 		<title>Pinoy Movie Date</title>
 		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="Service 102" start="20240921040000 +0000" stop="20240921060000 +0000">
-		<title>Takilya Throwback</title>
-		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="Service 102" start="20240921060000 +0000" stop="20240921080000 +0000">
+	<programme channel="I HEART MOVIES" start="20240921100000 +0000" stop="20240921120000 +0000">
 		<title>Block Screening</title>
 		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="Service 102" start="20240921080000 +0000" stop="20240921100000 +0000">
+	<programme channel="I HEART MOVIES" start="20240921120000 +0000" stop="20240921140000 +0000">
 		<title>Pinoy Movie Date</title>
 		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="Service 102" start="20240921100000 +0000" stop="20240921120000 +0000">
-		<title>Block Screening</title>
-		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="Service 102" start="20240921120000 +0000" stop="20240921140000 +0000">
-		<title>Pinoy Movie Date</title>
-		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="Service 102" start="20240921140000 +0000" stop="20240921160000 +0000">
+	<programme channel="I HEART MOVIES" start="20240921140000 +0000" stop="20240921160000 +0000">
 		<title>Takilya Throwback</title>
 		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240920010000 +0000" stop="20240920013000 +0000">
-		<title>Doctor Detective</title>
-		<desc>: d.
-Doctor Detective: When a deadly infectious disease resembling the Ebola virus ravages a small village, a team of epidemiologists led by Dr. Kenneth (Nadech Kugimiya) races against time to investigate the source of the outbreak and contain the sprea</desc>
+	<programme channel="I HEART MOVIES" start="20240921220000 +0000" stop="20240922000000 +0000">
+		<title>Takilya Throwback</title>
+		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240920013000 +0000" stop="20240920030000 +0000">
-		<title>Kapuso Movie Festival</title>
-		<desc>Kapuso Movie Festival: Your favorite Hollywood movies dubbed in Filipino.</desc>
+	<programme channel="I HEART MOVIES" start="20240922000000 +0000" stop="20240922020000 +0000">
+		<title>Block Screening</title>
+		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240920030000 +0000" stop="20240920040000 +0000">
-		<title>TiktoClock</title>
-		<desc>TiktoClock: TiktoClock is a one-of-a-kind countdown variety show hosted by Pokwang, Kuya Kim Atienza and Rabiya Mateo.</desc>
+	<programme channel="I HEART MOVIES" start="20240922020000 +0000" stop="20240922040000 +0000">
+		<title>Pinoy Movie Date</title>
+		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240920040000 +0000" stop="20240920063000 +0000">
-		<title>It's Showtime</title>
-		<desc>It's Showtime: 'It's Showtime' is ABS-CBN's longest-running noontime variety show that airs from Monday to Saturday on GMA and GTV.</desc>
+	<programme channel="I HEART MOVIES" start="20240922040000 +0000" stop="20240922060000 +0000">
+		<title>Takilya Throwback</title>
+		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240920063000 +0000" stop="20240920072000 +0000">
-		<title>Abot Kamay Na Pangarap</title>
-		<desc>: wo actresses, the new Kapuso serye also stars Richard Yap who will play the role of Robert Tanyag, a passionate doctor. What is the true connection of Robert to Lyneth and Analyn?
-Abot Kamay Na Pangarap: 'Abot Kamay Na Pangarap' tells the life story of an illiterate mother named Lyneth (Carmina Villarroel) and her intelligent daughter and youngest neuro surgeon in the Philippines named Analyn (Jillian Ward). Aside from the t</desc>
+	<programme channel="I HEART MOVIES" start="20240922060000 +0000" stop="20240922080000 +0000">
+		<title>Block Screening</title>
+		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240920072000 +0000" stop="20240920080500 +0000">
-		<title>Lilet Matias, Attorney-At-Law</title>
-		<desc>Lilet Matias, Attorney-At-Law: Lilet Matias, Attorney-at-Law tells the story of a little person who has big dreams of fighting for people like her in a world full of injustices, discrimination, sexism, abuse, and poverty.</desc>
+	<programme channel="I HEART MOVIES" start="20240922080000 +0000" stop="20240922100000 +0000">
+		<title>Pinoy Movie Date</title>
+		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240920080500 +0000" stop="20240920084500 +0000">
-		<title>Shining Inheritance</title>
-		<desc>Shining Inheritance</desc>
+	<programme channel="I HEART MOVIES" start="20240922100000 +0000" stop="20240922120000 +0000">
+		<title>Block Screening</title>
+		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240920084500 +0000" stop="20240920091000 +0000">
-		<title>Fast Talk with Boy Abunda</title>
-		<desc>: th guest celebrities.
-Fast Talk with Boy Abunda: 'Fast Talk with Boy Abunda' is a multi-platform showbiz news and talk show. Hosted by the King of Talk Boy Abunda, the show features a rundown and analysis of the latest showbiz-related news or stories and an interview wi</desc>
+	<programme channel="I HEART MOVIES" start="20240922120000 +0000" stop="20240922140000 +0000">
+		<title>Pinoy Movie Date</title>
+		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240920091000 +0000" stop="20240920094000 +0000">
-		<title>The Betrayal</title>
-		<desc>The Betrayal</desc>
+	<programme channel="I HEART MOVIES" start="20240922140000 +0000" stop="20240922160000 +0000">
+		<title>Takilya Throwback</title>
+		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240920094000 +0000" stop="20240920103000 +0000">
-		<title>Family Feud</title>
-		<desc>Family Feud: The game show that every family loves to play is back!</desc>
+	<programme channel="I HEART MOVIES" start="20240922220000 +0000" stop="20240923000000 +0000">
+		<title>Takilya Throwback</title>
+		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240920103000 +0000" stop="20240920120000 +0000">
-		<title>24 Oras</title>
-		<desc>24 Oras: The flagship nightly newscast of GMA News and Public Affairs</desc>
+	<programme channel="I HEART MOVIES" start="20240923000000 +0000" stop="20240923020000 +0000">
+		<title>Block Screening</title>
+		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240920120000 +0000" stop="20240920125000 +0000">
-		<title>Pulang Araw</title>
-		<desc>Pulang Araw: Pulang ArawÃÂ is a family drama that tells stories of courage, sacrifice, and hardships that every Filipino family has. These stories were inspired by the tales of the unsung heroes who defied the odds of World War II and the Japanese o</desc>
+	<programme channel="I HEART MOVIES" start="20240923020000 +0000" stop="20240923040000 +0000">
+		<title>Pinoy Movie Date</title>
+		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240920125000 +0000" stop="20240920133500 +0000">
-		<title>Widows' War</title>
-		<desc>Widows' War: Ã¢â¬ËWidowsÃ¢â¬â¢ WarÃ¢â¬â¢ is the newest murder mystery drama series on GMA Network, top-billed by A-list Kapuso actresses Bea Alonzo and Carla Abellana.Ã</desc>
+	<programme channel="I HEART MOVIES" start="20240923040000 +0000" stop="20240923060000 +0000">
+		<title>Takilya Throwback</title>
+		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240920133500 +0000" stop="20240920142000 +0000">
-		<title>Amazing Earth</title>
-		<desc>Amazing Earth: Dingdong Dantes showcases raw beauty of the Earth in this weekly infotainment program.</desc>
+	<programme channel="I HEART MOVIES" start="20240923060000 +0000" stop="20240923080000 +0000">
+		<title>Block Screening</title>
+		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240920142000 +0000" stop="20240920150000 +0000">
-		<title>Saksi</title>
-		<desc>Saksi: Cap off your night with the latest news from Arnold Clavio and Pia Arcangel.</desc>
+	<programme channel="I HEART MOVIES" start="20240923080000 +0000" stop="20240923100000 +0000">
+		<title>Pinoy Movie Date</title>
+		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240920150000 +0000" stop="20240920153000 +0000">
-		<title>The Heavenly Idol</title>
-		<desc>The Heavenly Idol: A fantasy-romance drama about an unpopular idol, Nico, whose body was possessed by Rembrary, a high priest of an otherworldly realm.</desc>
+	<programme channel="I HEART MOVIES" start="20240923100000 +0000" stop="20240923120000 +0000">
+		<title>Block Screening</title>
+		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240920153000 +0000" stop="20240920160000 +0000">
-		<title>The Girl Who Sees Smells</title>
-		<desc>The Girl Who Sees Smells: 'The Girl Who Sees Smells'ÃÂ is a romantic fantasy Chinese drama that follows the unconventional love story of Frannie and Michael, which starts with a kiss that is the "antidote" for the strange disease of the latter. Dete</desc>
+	<programme channel="I HEART MOVIES" start="20240923120000 +0000" stop="20240923140000 +0000">
+		<title>Pinoy Movie Date</title>
+		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="I HEART MOVIES" start="20240923140000 +0000" stop="20240923160000 +0000">
+		<title>Takilya Throwback</title>
+		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="I HEART MOVIES" start="20240923220000 +0000" stop="20240924000000 +0000">
+		<title>Takilya Throwback</title>
+		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
 		<language>CHI</language>
 	</programme>
 	<programme channel="GMA" start="20240920160000 +0000" stop="20240920210000 +0000">
@@ -353,65 +284,226 @@ Pepito Manaloto: Tuloy Ang Kuwento: "PEPITO MANALOTO, TULOY ANG KUWENTO" is the 
 		<desc>Dear SV: Hosted by Sam "SV"ÃÂ Versoza, 'Dear SV' features inspiring stories of ordinary Filipinos who never lose hope and remain resilient despite the struggles and challenges they face every day.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20240920010000 +0000" stop="20240920030000 +0000">
-		<title>Cinema G!</title>
-		<desc>Cinema G!: Cinema G! features feel-good local films, ranging from romance and family to comedy, that will surely uplift every viewer's morning.</desc>
+	<programme channel="GMA" start="20240921213000 +0000" stop="20240921220000 +0000">
+		<title>The Key of David</title>
+		<desc>: he European Union. From the studios of the Philadelphia Church of God, "The Key of David" attempts to stand out among today's modern devotional programming. Its viewers have referred to the program as frank, bold, and rational without an overt em, otional sentimentality.
+The Key of David: Vision Television host Gerald Flurry presents a weekly analysis of world events. Through the perspective of biblical prophecy, Flurry delivers messages of warning, often about issues concerning the growing power and influence of t</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20240920030000 +0000" stop="20240920040000 +0000">
-		<title>Balitanghali</title>
-		<desc>Balitanghali: GTV's award-winning lunchtime newscast and source of breaking news, anchored by GMA's finest journalists.</desc>
+	<programme channel="GMA" start="20240921220000 +0000" stop="20240921223000 +0000">
+		<title>Game Keepers</title>
+		<desc>Game Keepers: After two friends went their separate ways, one of them, the Game Master, vows to get her revenge by taking over the world through her game called Game Quest. To prevent this,ÃÂ some of the best players were assigned the role of Game K</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20240920040000 +0000" stop="20240920063000 +0000">
+	<programme channel="GMA" start="20240921223000 +0000" stop="20240921230000 +0000">
+		<title>Sunny Bunnies</title>
+		<desc>Sunny Bunnies: Sunny Bunnies is a childrenÃ¢â¬â¢s show about five playful balls of light who bring fun and happiness wherever they go. They turn dull situations into exciting games and any place into a playground.Ã</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240921230000 +0000" stop="20240921232500 +0000">
+		<title>The Amazing Spiez</title>
+		<desc>The Amazing Spiez: 'The Amazing Spiez'ÃÂ follows four siblings Lee, Marc, Megan and Tony Clarke who have been chosen by the W.O.O.H.P (World Organization Of Human Protection) to become international spies. Together, the spies learn to juggle everyda</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240921232500 +0000" stop="20240921235000 +0000">
+		<title>TrollsTopia</title>
+		<desc>TrollsTopia: Based on the events of the film Trolls World Tour, the series focuses on Poppy building TrollsTopia, a community where all the Troll tribes can live together in harmony and learn about each other.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240921235000 +0000" stop="20240922001500 +0000">
+		<title>Kung Fu Panda</title>
+		<desc>Kung Fu Panda: 'Kung Fu Panda' follows the adventures of Po, a giant panda who is unexpectedly chosen as the prophesied Dragon Warrior. HeÃÂ becomes a master of Kung Fu who will try to save the Valley of Peace from Tai Lung's wrath.Ã</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240922001500 +0000" stop="20240922010000 +0000">
+		<title>Aha!</title>
+		<desc>Aha!: Learn interesting facts and trivia in this weekly educational program hosted by Drew Arellano.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240922010000 +0000" stop="20240922013500 +0000">
+		<title>Born to Be Wild</title>
+		<desc>Born to Be Wild: Doc Ferds Recio and Doc Neilsen Donato travel around the Philippines to raise awareness about the environment and wildlife.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240922013500 +0000" stop="20240922020500 +0000">
+		<title>iBilib: Wonders of Horus</title>
+		<desc>iBilib: Wonders of Horus: Scientific facts and theory presented through fun and exciting scientific experiments hosted by Chris Tiu and Moymoy Palaboy.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240922020500 +0000" stop="20240922040000 +0000">
+		<title>Kapuso Movie Festival</title>
+		<desc>Kapuso Movie Festival: Your favorite Hollywood movies dubbed in Filipino.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240922040000 +0000" stop="20240922060000 +0000">
+		<title>All Out Sundays</title>
+		<desc>All Out Sundays: Leading Kapuso stars bring fun musical experience in this weekly variety show.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240922060000 +0000" stop="20240922064500 +0000">
+		<title>OK AKO</title>
+		<desc>OK AKO: 'OK AKO' is a three-episode miniseries featuring heartwarming stories that address the experiences of young people dealing with loss, anger, anxiety, and depression.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240922064500 +0000" stop="20240922081500 +0000">
+		<title>GMA Blockbusters</title>
+		<desc>GMA Blockbusters: Hollywood or local movies of different genre aired on Sunday afternoons.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240922081500 +0000" stop="20240922090000 +0000">
+		<title>Regal Studio Presents</title>
+		<desc>Regal Studio Presents: 'Regal Studio Presents' is a collection of weekly specials which feature timely, feel-good stories. The Regal brand of storytelling is now on free television through GMA!</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240922090000 +0000" stop="20240922093000 +0000">
+		<title>Resibo</title>
+		<desc>Resibo: 'Resibo: Walang Lusot Ang May Atraso' is a multi-platform public service program of GMA Public Affairs, hosted by seasoned journalist and "Mr. Exclusive" Emil Sumangil.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240922093000 +0000" stop="20240922101000 +0000">
+		<title>24 Oras Weekend</title>
+		<desc>24 Oras Weekend: The award-winning news broadcasting program brings the latest on what's happening in the Philippines and around the world.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240922101000 +0000" stop="20240922110500 +0000">
+		<title>Bubble Gang</title>
+		<desc>Bubble Gang: The laughter never stops here in the funniest and longest running gag show in the country!</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240922110500 +0000" stop="20240922122000 +0000">
+		<title>The Voice Kids</title>
+		<desc>The Voice Kids: 'The Voice Kids' introduces young stars to be mentored by the brightest Filipino artists and to showcase their talent in the worldÃ¢â¬â¢s biggest singing competition.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240922122000 +0000" stop="20240922141000 +0000">
+		<title>Kapuso Mo, Jessica Soho</title>
+		<desc>Kapuso Mo, Jessica Soho: Jessica Soho features stories on food, urban legends, trends, and pop culture in this magazine show.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240922141000 +0000" stop="20240922150500 +0000">
+		<title>The Boobay and Tekla Show</title>
+		<desc>The Boobay and Tekla Show: Boobay and Tekla feature a variety of funny skits, pranks, and other hilarious segments in this comedy program.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240922150500 +0000" stop="20240922160000 +0000">
+		<title>Cayetano In Action with Boy Abunda</title>
+		<desc>:  advice and guidance, as well as making the public understand the law in layman's terms.
+Cayetano In Action with Boy Abunda: Hosted by Senators Alan and Pia Cayetano, and moderated by "King of Talk" Boy Abunda, 'Cayetano in Action with Boy Abunda' aims to continue the biggest legacy of the late Senator Rene Cayetano - giving free legal</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240922213000 +0000" stop="20240923000000 +0000">
+		<title>Unang Hirit</title>
+		<desc>Unang Hirit: An early morning show that provides latest news and good vibes with celebrity performances, food trips, and other festivities.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240923000000 +0000" stop="20240923002500 +0000">
+		<title>Tokyo Revengers</title>
+		<desc>Tokyo Revengers: Tokyo Revengers follows the story of Takemichi Hanagaki, who has the ability to travel back and forth in time. He uses this ability to save his friends from the Tokyo Manji Gang.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240923002500 +0000" stop="20240923010000 +0000">
+		<title>Snow Eagle Lord</title>
+		<desc>: e is challenging. Xue Ying embarks on a quest to assemble a team of powerful warriors, learning the importance of teamwork and the values of courage, sacrifice, kindness, and love along the way.
+Snow Eagle Lord: 'Snow Eagle Lord' follows the heroic journey of Dong Bo Xue Ying, the Snow Eagle Lord, who is determined to confront evil creatures to protect the world from its doom and rescue his mother. However, facing such formidable foes alon</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240923010000 +0000" stop="20240923013000 +0000">
+		<title>Doctor Detective</title>
+		<desc>: d.
+Doctor Detective: When a deadly infectious disease resembling the Ebola virus ravages a small village, a team of epidemiologists led by Dr. Kenneth (Nadech Kugimiya) races against time to investigate the source of the outbreak and contain the sprea</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240923013000 +0000" stop="20240923030000 +0000">
+		<title>Kapuso Movie Festival</title>
+		<desc>Kapuso Movie Festival: Your favorite Hollywood movies dubbed in Filipino.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240923030000 +0000" stop="20240923040000 +0000">
+		<title>TiktoClock</title>
+		<desc>TiktoClock: TiktoClock is a one-of-a-kind countdown variety show hosted by Pokwang, Kuya Kim Atienza and Rabiya Mateo.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240923040000 +0000" stop="20240923063000 +0000">
 		<title>It's Showtime</title>
 		<desc>It's Showtime: 'It's Showtime' is ABS-CBN's longest-running noontime variety show that airs from Monday to Saturday on GMA and GTV.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20240920063000 +0000" stop="20240920071500 +0000">
-		<title>The Penthouse 2</title>
-		<desc>: focuses on Simone's secrets and the aftermath of her death, Cindy's revenge, Scarlet's downfall, and the Hera Palace kids who want to be the best and win the grand award at the Cheong-ah Arts Festival.
-The Penthouse 2: The Penthouse tells the story of wealthy families living in Hera Palace and their children at Cheong-ah Arts School. All of them have grand ambitions and desires for their children and would do anything for them. The 'Penthouse 2' </desc>
+	<programme channel="GMA" start="20240923063000 +0000" stop="20240923072000 +0000">
+		<title>Abot Kamay Na Pangarap</title>
+		<desc>: wo actresses, the new Kapuso serye also stars Richard Yap who will play the role of Robert Tanyag, a passionate doctor. What is the true connection of Robert to Lyneth and Analyn?
+Abot Kamay Na Pangarap: 'Abot Kamay Na Pangarap' tells the life story of an illiterate mother named Lyneth (Carmina Villarroel) and her intelligent daughter and youngest neuro surgeon in the Philippines named Analyn (Jillian Ward). Aside from the t</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20240920071500 +0000" stop="20240920093000 +0000">
-		<title>Siesta Fiesta Movies</title>
-		<desc>Siesta Fiesta Movies: The best of western and action movies, dubbed in Filipino</desc>
+	<programme channel="GMA" start="20240923072000 +0000" stop="20240923080500 +0000">
+		<title>Lilet Matias, Attorney-At-Law</title>
+		<desc>Lilet Matias, Attorney-At-Law: Lilet Matias, Attorney-at-Law tells the story of a little person who has big dreams of fighting for people like her in a world full of injustices, discrimination, sexism, abuse, and poverty.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20240920093000 +0000" stop="20240920103000 +0000">
-		<title>Dapat Alam Mo!</title>
-		<desc>Dapat Alam Mo!: 'Dapat Alam Mo!' is a daily newsmagazine program that showcases current events as well as timely and relatable feature stories for the public.</desc>
+	<programme channel="GMA" start="20240923080500 +0000" stop="20240923084500 +0000">
+		<title>Shining Inheritance</title>
+		<desc>Shining Inheritance</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20240920103000 +0000" stop="20240920120000 +0000">
+	<programme channel="GMA" start="20240923084500 +0000" stop="20240923091000 +0000">
+		<title>Fast Talk with Boy Abunda</title>
+		<desc>: th guest celebrities.
+Fast Talk with Boy Abunda: 'Fast Talk with Boy Abunda' is a multi-platform showbiz news and talk show. Hosted by the King of Talk Boy Abunda, the show features a rundown and analysis of the latest showbiz-related news or stories and an interview wi</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240923091000 +0000" stop="20240923094000 +0000">
+		<title>The Betrayal</title>
+		<desc>The Betrayal</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240923094000 +0000" stop="20240923103000 +0000">
+		<title>Family Feud</title>
+		<desc>Family Feud: The game show that every family loves to play is back!</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240923103000 +0000" stop="20240923120000 +0000">
 		<title>24 Oras</title>
 		<desc>24 Oras: The flagship nightly newscast of GMA News and Public Affairs</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20240920120000 +0000" stop="20240920134000 +0000">
-		<title>G! Flicks</title>
-		<desc>G! Flicks: Weeknights movie block on GTV.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20240920134000 +0000" stop="20240920143000 +0000">
+	<programme channel="GMA" start="20240923120000 +0000" stop="20240923125000 +0000">
 		<title>Pulang Araw</title>
 		<desc>Pulang Araw: Pulang ArawÃÂ is a family drama that tells stories of courage, sacrifice, and hardships that every Filipino family has. These stories were inspired by the tales of the unsung heroes who defied the odds of World War II and the Japanese o</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20240920143000 +0000" stop="20240920150500 +0000">
+	<programme channel="GMA" start="20240923125000 +0000" stop="20240923133500 +0000">
 		<title>Widows' War</title>
 		<desc>Widows' War: Ã¢â¬ËWidowsÃ¢â¬â¢ WarÃ¢â¬â¢ is the newest murder mystery drama series on GMA Network, top-billed by A-list Kapuso actresses Bea Alonzo and Carla Abellana.Ã</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20240920150500 +0000" stop="20240920152500 +0000">
-		<title>State of the Nation</title>
-		<desc>State of the Nation: State of the Nation is a newscast anchored by Atom Araullo and Maki Pulido that airs weeknights at 9:15 p.m. on GTV.</desc>
+	<programme channel="GMA" start="20240923133500 +0000" stop="20240923142000 +0000">
+		<title>Asawa Ng Asawa Ko</title>
+		<desc>: riend.
+Asawa Ng Asawa Ko: 'Asawa Ng Asawa Ko' tells the story of Cristy, who was presumed dead after she was captured by the armed group KALASAG. When she goes back to her family, she finds that her husband Jordan is now happily married to Shaira, their f</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20240920152500 +0000" stop="20240920160000 +0000">
-		<title>Doors</title>
-		<desc>Doors: 'Doors' is a horror anthology airing every Friday from 11:25 PM to 12:00AM on GTV.</desc>
+	<programme channel="GMA" start="20240923142000 +0000" stop="20240923150000 +0000">
+		<title>Saksi</title>
+		<desc>Saksi: Cap off your night with the latest news from Arnold Clavio and Pia Arcangel.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240923150000 +0000" stop="20240923153000 +0000">
+		<title>The Heavenly Idol</title>
+		<desc>The Heavenly Idol: A fantasy-romance drama about an unpopular idol, Nico, whose body was possessed by Rembrary, a high priest of an otherworldly realm.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240923153000 +0000" stop="20240923160000 +0000">
+		<title>The Girl Who Sees Smells</title>
+		<desc>The Girl Who Sees Smells: 'The Girl Who Sees Smells'ÃÂ is a romantic fantasy Chinese drama that follows the unconventional love story of Frannie and Michael, which starts with a kiss that is the "antidote" for the strange disease of the latter. Dete</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240923160000 +0000" stop="20240923213000 +0000">
+		<title>The 700 Club Asia</title>
+		<desc>The 700 Club Asia: A flagship program of CBN Asia, the show brings miracles into your home through encouraging stories and testimonies.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20240923213000 +0000" stop="20240924000000 +0000">
+		<title>Unang Hirit</title>
+		<desc>Unang Hirit: An early morning show that provides latest news and good vibes with celebrity performances, food trips, and other festivities.</desc>
 		<language>CHI</language>
 	</programme>
 	<programme channel="GTV" start="20240920213000 +0000" stop="20240921003000 +0000">
@@ -482,85 +574,385 @@ Cayetano In Action with Boy Abunda: Hosted by Senators Alan and Pia Cayetano, an
 		<desc>In Touch With Dr. Charles Stanley: Committed to advancing the gospel from person to person and place to place as quickly, clearly, and irresistibly as possible.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240920010000 +0000" stop="20240920014500 +0000">
-		<title>You Are My Heartbeat</title>
-		<desc>You Are My Heartbeat: You Are My Heartbeat tells the story of an office romance between a young CEO with a strange personality and an abnormal fear of getting dirty, and a beautiful, cunning designer.</desc>
+	<programme channel="GTV" start="20240921220000 +0000" stop="20240921223000 +0000">
+		<title>Angry Birds Blues</title>
+		<desc>Angry Birds Blues: Watch the adventures of bluebird triplets, Jake, Jay and Jim (also known as the Blues).</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240920014500 +0000" stop="20240920023000 +0000">
-		<title>Jumong</title>
-		<desc>Jumong: 'Jumong' is a tale of a hero whose legacy to the Korean people is his great historical triumph against thousands of armies to win back the skies of his old kingdom, the Old Joseon, and establish what would become the great Goguryeo Dynasty.</desc>
+	<programme channel="GTV" start="20240921223000 +0000" stop="20240921230000 +0000">
+		<title>Negosyo Goals</title>
+		<desc>Negosyo Goals: 'Negosyo Goals'ÃÂ is a captivating and informative show thatÃÂ revolves around business-related topics, catering to viewers with an entrepreneurial spirit.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240920023000 +0000" stop="20240920031500 +0000">
-		<title>The Romantic Doctor 2</title>
-		<desc>:  solve the manpower shortage in Doldam Hospital.
-The Romantic Doctor 2: The heart-warming story continues after the events from the first season. A top surgeon named Dr. Daniel Boo (Han Suk-kyu), also known as Master Kim, decides to recruit new surgeons from Geosan University Hospital in Seoul to</desc>
+	<programme channel="GTV" start="20240921230000 +0000" stop="20240921233000 +0000">
+		<title>Business Matters</title>
+		<desc>Business Matters: Hosted by Pinky Webb, 'Business Matters' is a documentary series that explores the various practices of corporate citizenship among Philippine businesses, aimed at creating societal and economic impact.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240920031500 +0000" stop="20240920040000 +0000">
-		<title>Jewel in the Palace</title>
-		<desc>Jewel in the Palace: 'Jewel in the Palace' is based on the true story of Jang Geum, the first female royal physician of the Joseon Dynasty.Ã</desc>
+	<programme channel="GTV" start="20240921233000 +0000" stop="20240922000000 +0000">
+		<title>Oggy and The Cockroaches</title>
+		<desc>Oggy and The Cockroaches: 'Oggy and The Cockroaches' comes the tale of an otherwise contented cat named Oggy, who faces constant harassment by a group of annoying cockroaches.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240920040000 +0000" stop="20240920090000 +0000">
+	<programme channel="GTV" start="20240922000000 +0000" stop="20240922003000 +0000">
+		<title>Kamen Rider Zero-One</title>
+		<desc>:  changes his mind after witnessing MetsubouJinrai.net's terrorist attacks firsthand; maintaining appearances as CEO while becoming Kamen Rider Zero-One to realize his late father's wish for a peaceful co-existence between humans and Humagears.
+Kamen Rider Zero-One: The story follows Aruto Hiden, a young man with aspirations of becoming a comedian who suddenly finds himself appointed as the new CEO of Hiden Intelligence after his grandfather's death. Despite his initial disinterest, Aruto</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240922003000 +0000" stop="20240922013000 +0000">
+		<title>Martin Mystery</title>
+		<desc>: ivity around the world.
+Martin Mystery: The series revolves around typical teens, Martin Mystery, his step-sister Diana Lombard and their pal Java the Caveman, as they're sent on various missions by a secret organization known as "The Center" to investigate paranormal act</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240922013000 +0000" stop="20240922020000 +0000">
+		<title>Dinofroz</title>
+		<desc>Dinofroz: Dinofroz depicts the adventures of Tom Carter, a 12-year-old boy and his friends who, after playing a board game, are teleported to the past where they can transform into dinosaurs using stones called Rockfroz.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240922020000 +0000" stop="20240922023000 +0000">
+		<title>I Heart PH</title>
+		<desc>I Heart PH: Hosted by Valerie Tan, 'I Heart PH'ÃÂ is a lifestyle and travel show that promotes love and appreciation of our country, helping the government to amplify its tourism campaign, "Love the Philippines!"</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240922023000 +0000" stop="20240922030000 +0000">
+		<title>Jujutsu Kaisen</title>
+		<desc>: parts, the power they gain could destroy the world as we know it. Fortunately, there is a mysterious school of Jujutsu Sorcerers who exist to protect the precarious existence of the living from the supernatural!
+Jujutsu Kaisen: The story of Jujutsu Kaisen is set in a world where cursed spirits feed on unsuspecting humans and fragments of the legendary and feared demon Ryomen Sukuna have been lost and scattered about. Should any curse consume Sukuna's body </desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240922030000 +0000" stop="20240922033000 +0000">
+		<title>The Unlisted</title>
+		<desc>The Unlisted: 'The Unlisted'ÃÂ is an exciting sci-fi series that revolves around the lives of twins, Dru and Kal, who discover a sinister plot stirring in their school. The show follows the brothers as they uncover a secret government organization c</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240922033000 +0000" stop="20240922040000 +0000">
+		<title>Wolfblood</title>
+		<desc>: extraordinary speed and senses, and the ability to transform at will.
+Wolfblood: Wolfblood is a television series revolves around the life of the species known as wolfbloods. When Rhydian Morris comes to Stoneybridge, he finds that others share the same secret as him: they are Wolfbloods, part-human, part-wolf, with </desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240922040000 +0000" stop="20240922090000 +0000">
 		<title>NCAA Siglo Uno: Inspiring Legacies</title>
 		<desc>: " and a series of activities to honor the league's "10 Greatest Players."
 NCAA Siglo Uno: Inspiring Legacies: Spanning 100 years of excellence in sports, the National Collegiate Athletic Association (NCAA) celebrates its historic centennial season this 2024 with a brand new logo and theme, "Siglo Uno: Inspiring Legacies,</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240920090000 +0000" stop="20240920094500 +0000">
-		<title>Queen and I</title>
-		<desc>Queen and I: 'Queen and I' is a love story that transcends time, as it brings together two different people from the past and the present.</desc>
+	<programme channel="GTV" start="20240922090000 +0000" stop="20240922093000 +0000">
+		<title>The Penthouse 2</title>
+		<desc>: focuses on Simone's secrets and the aftermath of her death, Cindy's revenge, Scarlet's downfall, and the Hera Palace kids who want to be the best and win the grand award at the Cheong-ah Arts Festival.
+The Penthouse 2: The Penthouse tells the story of wealthy families living in Hera Palace and their children at Cheong-ah Arts School. All of them have grand ambitions and desires for their children and would do anything for them. The 'Penthouse 2' </desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240920094500 +0000" stop="20240920103000 +0000">
-		<title>The World of Fantasy</title>
-		<desc>The World of Fantasy: A young man with amnesia and his childhood sweetheart grow up in the spirit domain to search for the meaning of life and pursue a higher power.</desc>
+	<programme channel="GTV" start="20240922093000 +0000" stop="20240922101000 +0000">
+		<title>24 Oras Weekend</title>
+		<desc>24 Oras Weekend: The award-winning news broadcasting program brings the latest on what's happening in the Philippines and around the world.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240920103000 +0000" stop="20240920111500 +0000">
-		<title>Jumong</title>
-		<desc>Jumong: 'Jumong' is a tale of a hero whose legacy to the Korean people is his great historical triumph against thousands of armies to win back the skies of his old kingdom, the Old Joseon, and establish what would become the great Goguryeo Dynasty.</desc>
+	<programme channel="GTV" start="20240922101000 +0000" stop="20240922110500 +0000">
+		<title>Bubble Gang</title>
+		<desc>Bubble Gang: The laughter never stops here in the funniest and longest running gag show in the country!</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240920111500 +0000" stop="20240920115500 +0000">
-		<title>The Herbal Master</title>
-		<desc>: in the same field after meeting Tonio's grandfather.
-The Herbal Master: 'The Herbal Master' tells the story of Tonio (Mario Maurer) who is determined to heal people through traditional herbal medicine. He then meets the beautiful and fearless Chaba (Kimberley Anne Woltemas), who develops an interest </desc>
+	<programme channel="GTV" start="20240922110500 +0000" stop="20240922115000 +0000">
+		<title>Farm To Table</title>
+		<desc>: ely encourage viewers to rediscover the joy of eating home-cooked meals and living a healthy lifestyle.
+Farm To Table: Join resident food explorer Chef JR Royol in 'Farm To Table' as he gives a peek into the fascinating process of food preparation - from growing and harvesting fresh ingredients to cooking and plating mouthwatering meals that will sur</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240920115500 +0000" stop="20240920124000 +0000">
-		<title>Jewel in the Palace</title>
-		<desc>Jewel in the Palace: 'Jewel in the Palace' is based on the true story of Jang Geum, the first female royal physician of the Joseon Dynasty.Ã</desc>
+	<programme channel="GTV" start="20240922115000 +0000" stop="20240922123500 +0000">
+		<title>I Juander</title>
+		<desc>I Juander: iJuander is a news magazine program hosted by Susan Enriquez and Mark Salazar.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240920124000 +0000" stop="20240920132500 +0000">
-		<title>The Wolf</title>
-		<desc>: s the boy again, but only to find that he has become Prince Bo, the royal prince working for the King. Their love-hate relationship is intensified by the appearance of bounty hunter Ji Chong (Xiao Zhan). Struggling between power and loyalty, the , two are inevitably involved in a battle to defend their deep-rooted love.
-The Wolf: 'The Wolf' stars Li Qin as Ma Zhai Xing, a government official's daughter who befriends a wolf-raised boy (Darren Wang) in her teenage years and is forced to quit contact with him due to a political conspiracy. Eight years later, she meet</desc>
+	<programme channel="GTV" start="20240922123500 +0000" stop="20240922131500 +0000">
+		<title>Biyahe ni Drew</title>
+		<desc>Biyahe ni Drew: Travel show hosted by Drew Arellano that takes viewers on an adventure around the Philippines.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240920132500 +0000" stop="20240920141000 +0000">
-		<title>What's Wrong With Secretary Kim</title>
-		<desc>: ng for him. Franco then decides to do whatever he can to make sure Macy staysÃÂ by his side. Will Franco succeed in keeping Macy in the company and in his life?
-What's Wrong With Secretary Kim: 'What's Wrong With Secretary Kim' tells the story of Franco Lee (Park Seo-joon), whose life is shaken when his highly-capable secretary, Macy Kim (Park Min-young), announces her resignation after nine years of worki</desc>
+	<programme channel="GTV" start="20240922131500 +0000" stop="20240922150000 +0000">
+		<title>Kapuso Mo, Jessica Soho</title>
+		<desc>Kapuso Mo, Jessica Soho: Jessica Soho features stories on food, urban legends, trends, and pop culture in this magazine show.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240920141000 +0000" stop="20240920145500 +0000">
-		<title>Jumong</title>
-		<desc>Jumong: 'Jumong' is a tale of a hero whose legacy to the Korean people is his great historical triumph against thousands of armies to win back the skies of his old kingdom, the Old Joseon, and establish what would become the great Goguryeo Dynasty.</desc>
+	<programme channel="GTV" start="20240922150000 +0000" stop="20240922160000 +0000">
+		<title>The Voice Kids</title>
+		<desc>The Voice Kids: 'The Voice Kids' introduces young stars to be mentored by the brightest Filipino artists and to showcase their talent in the worldÃ¢â¬â¢s biggest singing competition.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240920145500 +0000" stop="20240920154000 +0000">
-		<title>You Are My Heartbeat</title>
-		<desc>You Are My Heartbeat: You Are My Heartbeat tells the story of an office romance between a young CEO with a strange personality and an abnormal fear of getting dirty, and a beautiful, cunning designer.</desc>
+	<programme channel="GTV" start="20240922213000 +0000" stop="20240923010000 +0000">
+		<title>Dobol B TV</title>
+		<desc>Dobol B TV: Super Radyo DZBB 594 radio programs simulcast on GTV.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240920154000 +0000" stop="20240920160000 +0000">
-		<title>The Herbal Master</title>
-		<desc>: in the same field after meeting Tonio's grandfather.
-The Herbal Master: 'The Herbal Master' tells the story of Tonio (Mario Maurer) who is determined to heal people through traditional herbal medicine. He then meets the beautiful and fearless Chaba (Kimberley Anne Woltemas), who develops an interest </desc>
+	<programme channel="GTV" start="20240923010000 +0000" stop="20240923030000 +0000">
+		<title>Cinema G!</title>
+		<desc>Cinema G!: Cinema G! is the latest GTV movie block featuring upliftingÃÂ local films including romance, family, and comedy, airing weekdays from 9:00-11:00 AM.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240923030000 +0000" stop="20240923040000 +0000">
+		<title>Balitanghali</title>
+		<desc>Balitanghali: GTV's award-winning lunchtime newscast and source of breaking news, anchored by GMA's finest journalists.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240923040000 +0000" stop="20240923063000 +0000">
+		<title>It's Showtime</title>
+		<desc>It's Showtime: 'It's Showtime' is ABS-CBN's longest-running noontime variety show that airs from Monday to Saturday on GMA and GTV.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240923063000 +0000" stop="20240923071500 +0000">
+		<title>The Penthouse 2</title>
+		<desc>: focuses on Simone's secrets and the aftermath of her death, Cindy's revenge, Scarlet's downfall, and the Hera Palace kids who want to be the best and win the grand award at the Cheong-ah Arts Festival.
+The Penthouse 2: The Penthouse tells the story of wealthy families living in Hera Palace and their children at Cheong-ah Arts School. All of them have grand ambitions and desires for their children and would do anything for them. The 'Penthouse 2' </desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240923071500 +0000" stop="20240923093000 +0000">
+		<title>Regal Treasures</title>
+		<desc>Regal Treasures: Relive the nostalgic moments and the most unforgettable movies in Regal Treasures.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240923093000 +0000" stop="20240923103000 +0000">
+		<title>Dapat Alam Mo!</title>
+		<desc>Dapat Alam Mo!: 'Dapat Alam Mo!' is a daily newsmagazine program that showcases current events as well as timely and relatable feature stories for the public.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240923103000 +0000" stop="20240923120000 +0000">
+		<title>24 Oras</title>
+		<desc>24 Oras: The flagship nightly newscast of GMA News and Public Affairs</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240923120000 +0000" stop="20240923134000 +0000">
+		<title>G! Flicks</title>
+		<desc>G! Flicks: Weeknights movie block on GTV.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240923134000 +0000" stop="20240923143000 +0000">
+		<title>Pulang Araw</title>
+		<desc>Pulang Araw: Pulang ArawÃÂ is a family drama that tells stories of courage, sacrifice, and hardships that every Filipino family has. These stories were inspired by the tales of the unsung heroes who defied the odds of World War II and the Japanese o</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240923143000 +0000" stop="20240923150500 +0000">
+		<title>Widows' War</title>
+		<desc>Widows' War: Ã¢â¬ËWidowsÃ¢â¬â¢ WarÃ¢â¬â¢ is the newest murder mystery drama series on GMA Network, top-billed by A-list Kapuso actresses Bea Alonzo and Carla Abellana.Ã</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240923150500 +0000" stop="20240923152500 +0000">
+		<title>State of the Nation</title>
+		<desc>State of the Nation: State of the Nation is a newscast anchored by Atom Araullo and Maki Pulido that airs weeknights at 9:15 p.m. on GTV.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240923152500 +0000" stop="20240923160000 +0000">
+		<title>Asawa Ng Asawa Ko</title>
+		<desc>: riend.
+Asawa Ng Asawa Ko: 'Asawa Ng Asawa Ko' tells the story of Cristy, who was presumed dead after she was captured by the armed group KALASAG. When she goes back to her family, she finds that her husband Jordan is now happily married to Shaira, their f</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240923213000 +0000" stop="20240924010000 +0000">
+		<title>Dobol B TV</title>
+		<desc>Dobol B TV: Super Radyo DZBB 594 radio programs simulcast on GTV.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240924010000 +0000" stop="20240924030000 +0000">
+		<title>Cinema G!</title>
+		<desc>Cinema G!: Cinema G! is the latest GTV movie block featuring upliftingÃÂ local films including romance, family, and comedy, airing weekdays from 9:00-11:00 AM.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240924030000 +0000" stop="20240924040000 +0000">
+		<title>Balitanghali</title>
+		<desc>Balitanghali: GTV's award-winning lunchtime newscast and source of breaking news, anchored by GMA's finest journalists.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240924040000 +0000" stop="20240924063000 +0000">
+		<title>It's Showtime</title>
+		<desc>It's Showtime: 'It's Showtime' is ABS-CBN's longest-running noontime variety show that airs from Monday to Saturday on GMA and GTV.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240924063000 +0000" stop="20240924090000 +0000">
+		<title>NCAA Siglo Uno: Inspiring Legacies</title>
+		<desc>: " and a series of activities to honor the league's "10 Greatest Players."
+NCAA Siglo Uno: Inspiring Legacies: Spanning 100 years of excellence in sports, the National Collegiate Athletic Association (NCAA) celebrates its historic centennial season this 2024 with a brand new logo and theme, "Siglo Uno: Inspiring Legacies,</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240924090000 +0000" stop="20240924093000 +0000">
+		<title>The Penthouse 2</title>
+		<desc>: focuses on Simone's secrets and the aftermath of her death, Cindy's revenge, Scarlet's downfall, and the Hera Palace kids who want to be the best and win the grand award at the Cheong-ah Arts Festival.
+The Penthouse 2: The Penthouse tells the story of wealthy families living in Hera Palace and their children at Cheong-ah Arts School. All of them have grand ambitions and desires for their children and would do anything for them. The 'Penthouse 2' </desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240924093000 +0000" stop="20240924103000 +0000">
+		<title>Dapat Alam Mo!</title>
+		<desc>Dapat Alam Mo!: 'Dapat Alam Mo!' is a daily newsmagazine program that showcases current events as well as timely and relatable feature stories for the public.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240924103000 +0000" stop="20240924120000 +0000">
+		<title>24 Oras</title>
+		<desc>24 Oras: The flagship nightly newscast of GMA News and Public Affairs</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240924120000 +0000" stop="20240924134000 +0000">
+		<title>G! Flicks</title>
+		<desc>G! Flicks: Weeknights movie block on GTV.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240924134000 +0000" stop="20240924143000 +0000">
+		<title>Pulang Araw</title>
+		<desc>Pulang Araw: Pulang ArawÃÂ is a family drama that tells stories of courage, sacrifice, and hardships that every Filipino family has. These stories were inspired by the tales of the unsung heroes who defied the odds of World War II and the Japanese o</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240924143000 +0000" stop="20240924150500 +0000">
+		<title>Widows' War</title>
+		<desc>Widows' War: Ã¢â¬ËWidowsÃ¢â¬â¢ WarÃ¢â¬â¢ is the newest murder mystery drama series on GMA Network, top-billed by A-list Kapuso actresses Bea Alonzo and Carla Abellana.Ã</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240924150500 +0000" stop="20240924152500 +0000">
+		<title>State of the Nation</title>
+		<desc>State of the Nation: State of the Nation is a newscast anchored by Atom Araullo and Maki Pulido that airs weeknights at 9:15 p.m. on GTV.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240924152500 +0000" stop="20240924160000 +0000">
+		<title>Asawa Ng Asawa Ko</title>
+		<desc>: riend.
+Asawa Ng Asawa Ko: 'Asawa Ng Asawa Ko' tells the story of Cristy, who was presumed dead after she was captured by the armed group KALASAG. When she goes back to her family, she finds that her husband Jordan is now happily married to Shaira, their f</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240924213000 +0000" stop="20240925010000 +0000">
+		<title>Dobol B TV</title>
+		<desc>Dobol B TV: Super Radyo DZBB 594 radio programs simulcast on GTV.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240925010000 +0000" stop="20240925030000 +0000">
+		<title>Cinema G!</title>
+		<desc>Cinema G!: Cinema G! is the latest GTV movie block featuring upliftingÃÂ local films including romance, family, and comedy, airing weekdays from 9:00-11:00 AM.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240925030000 +0000" stop="20240925040000 +0000">
+		<title>Balitanghali</title>
+		<desc>Balitanghali: GTV's award-winning lunchtime newscast and source of breaking news, anchored by GMA's finest journalists.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240925040000 +0000" stop="20240925063000 +0000">
+		<title>It's Showtime</title>
+		<desc>It's Showtime: 'It's Showtime' is ABS-CBN's longest-running noontime variety show that airs from Monday to Saturday on GMA and GTV.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240925063000 +0000" stop="20240925071500 +0000">
+		<title>The Penthouse 2</title>
+		<desc>: focuses on Simone's secrets and the aftermath of her death, Cindy's revenge, Scarlet's downfall, and the Hera Palace kids who want to be the best and win the grand award at the Cheong-ah Arts Festival.
+The Penthouse 2: The Penthouse tells the story of wealthy families living in Hera Palace and their children at Cheong-ah Arts School. All of them have grand ambitions and desires for their children and would do anything for them. The 'Penthouse 2' </desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240925071500 +0000" stop="20240925093000 +0000">
+		<title>Siesta Fiesta Movies</title>
+		<desc>Siesta Fiesta Movies: The best of western and action movies, dubbed in Filipino</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240925093000 +0000" stop="20240925103000 +0000">
+		<title>Dapat Alam Mo!</title>
+		<desc>Dapat Alam Mo!: 'Dapat Alam Mo!' is a daily newsmagazine program that showcases current events as well as timely and relatable feature stories for the public.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240925103000 +0000" stop="20240925120000 +0000">
+		<title>24 Oras</title>
+		<desc>24 Oras: The flagship nightly newscast of GMA News and Public Affairs</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240925120000 +0000" stop="20240925134000 +0000">
+		<title>G! Flicks</title>
+		<desc>G! Flicks: Weeknights movie block on GTV.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240925134000 +0000" stop="20240925143000 +0000">
+		<title>Pulang Araw</title>
+		<desc>Pulang Araw: Pulang ArawÃÂ is a family drama that tells stories of courage, sacrifice, and hardships that every Filipino family has. These stories were inspired by the tales of the unsung heroes who defied the odds of World War II and the Japanese o</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240925143000 +0000" stop="20240925150500 +0000">
+		<title>Widows' War</title>
+		<desc>Widows' War: Ã¢â¬ËWidowsÃ¢â¬â¢ WarÃ¢â¬â¢ is the newest murder mystery drama series on GMA Network, top-billed by A-list Kapuso actresses Bea Alonzo and Carla Abellana.Ã</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240925150500 +0000" stop="20240925152500 +0000">
+		<title>State of the Nation</title>
+		<desc>State of the Nation: State of the Nation is a newscast anchored by Atom Araullo and Maki Pulido that airs weeknights at 9:15 p.m. on GTV.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240925152500 +0000" stop="20240925160000 +0000">
+		<title>Asawa Ng Asawa Ko</title>
+		<desc>: riend.
+Asawa Ng Asawa Ko: 'Asawa Ng Asawa Ko' tells the story of Cristy, who was presumed dead after she was captured by the armed group KALASAG. When she goes back to her family, she finds that her husband Jordan is now happily married to Shaira, their f</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240925213000 +0000" stop="20240926010000 +0000">
+		<title>Dobol B TV</title>
+		<desc>Dobol B TV: Super Radyo DZBB 594 radio programs simulcast on GTV.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240926010000 +0000" stop="20240926030000 +0000">
+		<title>Cinema G!</title>
+		<desc>Cinema G!: Cinema G! is the latest GTV movie block featuring upliftingÃÂ local films including romance, family, and comedy, airing weekdays from 9:00-11:00 AM.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240926030000 +0000" stop="20240926040000 +0000">
+		<title>Balitanghali</title>
+		<desc>Balitanghali: GTV's award-winning lunchtime newscast and source of breaking news, anchored by GMA's finest journalists.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240926040000 +0000" stop="20240926063000 +0000">
+		<title>It's Showtime</title>
+		<desc>It's Showtime: 'It's Showtime' is ABS-CBN's longest-running noontime variety show that airs from Monday to Saturday on GMA and GTV.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240926063000 +0000" stop="20240926071500 +0000">
+		<title>The Penthouse 2</title>
+		<desc>: focuses on Simone's secrets and the aftermath of her death, Cindy's revenge, Scarlet's downfall, and the Hera Palace kids who want to be the best and win the grand award at the Cheong-ah Arts Festival.
+The Penthouse 2: The Penthouse tells the story of wealthy families living in Hera Palace and their children at Cheong-ah Arts School. All of them have grand ambitions and desires for their children and would do anything for them. The 'Penthouse 2' </desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240926071500 +0000" stop="20240926093000 +0000">
+		<title>Siesta Fiesta Movies</title>
+		<desc>Siesta Fiesta Movies: The best of western and action movies, dubbed in Filipino</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240926093000 +0000" stop="20240926103000 +0000">
+		<title>Dapat Alam Mo!</title>
+		<desc>Dapat Alam Mo!: 'Dapat Alam Mo!' is a daily newsmagazine program that showcases current events as well as timely and relatable feature stories for the public.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240926103000 +0000" stop="20240926120000 +0000">
+		<title>24 Oras</title>
+		<desc>24 Oras: The flagship nightly newscast of GMA News and Public Affairs</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240926120000 +0000" stop="20240926134000 +0000">
+		<title>G! Flicks</title>
+		<desc>G! Flicks: Weeknights movie block on GTV.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240926134000 +0000" stop="20240926143000 +0000">
+		<title>Pulang Araw</title>
+		<desc>Pulang Araw: Pulang ArawÃÂ is a family drama that tells stories of courage, sacrifice, and hardships that every Filipino family has. These stories were inspired by the tales of the unsung heroes who defied the odds of World War II and the Japanese o</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240926143000 +0000" stop="20240926150500 +0000">
+		<title>Widows' War</title>
+		<desc>Widows' War: Ã¢â¬ËWidowsÃ¢â¬â¢ WarÃ¢â¬â¢ is the newest murder mystery drama series on GMA Network, top-billed by A-list Kapuso actresses Bea Alonzo and Carla Abellana.Ã</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240926150500 +0000" stop="20240926152500 +0000">
+		<title>State of the Nation</title>
+		<desc>State of the Nation: State of the Nation is a newscast anchored by Atom Araullo and Maki Pulido that airs weeknights at 9:15 p.m. on GTV.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240926152500 +0000" stop="20240926160000 +0000">
+		<title>Asawa Ng Asawa Ko</title>
+		<desc>: riend.
+Asawa Ng Asawa Ko: 'Asawa Ng Asawa Ko' tells the story of Cristy, who was presumed dead after she was captured by the armed group KALASAG. When she goes back to her family, she finds that her husband Jordan is now happily married to Shaira, their f</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20240926213000 +0000" stop="20240927010000 +0000">
+		<title>Dobol B TV</title>
+		<desc>Dobol B TV: Super Radyo DZBB 594 radio programs simulcast on GTV.</desc>
 		<language>CHI</language>
 	</programme>
 	<programme channel="HEART OF ASIA" start="20240920220000 +0000" stop="20240920230000 +0000">
@@ -626,6 +1018,218 @@ The Maid: The Maid tells the story of Jay's life with his four wives, Susana, Na
 	<programme channel="HEART OF ASIA" start="20240921140000 +0000" stop="20240921160000 +0000">
 		<title>Screams on Screen</title>
 		<desc>Screams on Screen: A collection of horror movies from Korea, Thailand and other Asian countries, dubbed in Filipino.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240921220000 +0000" stop="20240922000000 +0000">
+		<title>The World of Fantasy</title>
+		<desc>The World of Fantasy: A young man with amnesia and his childhood sweetheart grow up in the spirit domain to search for the meaning of life and pursue a higher power.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240922000000 +0000" stop="20240922010000 +0000">
+		<title>Backstreet Rookie</title>
+		<desc>Backstreet Rookie: 'Backstreet Rookie' tells the story of a young girl named Arriane (Kim You-jung) who applies as a part-time employee in a convenience store owned by Darrel (Ji Chang-wook), whom she had previous encounters with.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240922010000 +0000" stop="20240922020000 +0000">
+		<title>The Skywatcher</title>
+		<desc>: e evil spirits and help them reincarnate.
+The Skywatcher: The Skywatcher is a Taiwanese drama that tells the love story of Zandro and Lady Meng. Upon various attacks in both the human world and underworld, the Ghost King, Zandro is on the hunt, bringing Lady Meng along as they fight off th</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240922020000 +0000" stop="20240922040000 +0000">
+		<title>Bida Asia</title>
+		<desc>Bida Asia: 'Bida Asia' is a movie block featuring new Asian movies.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240922040000 +0000" stop="20240922063000 +0000">
+		<title>NCAA Siglo Uno: Inspiring Legacies</title>
+		<desc>: " and a series of activities to honor the league's "10 Greatest Players."
+NCAA Siglo Uno: Inspiring Legacies: Spanning 100 years of excellence in sports, the National Collegiate Athletic Association (NCAA) celebrates its historic centennial season this 2024 with a brand new logo and theme, "Siglo Uno: Inspiring Legacies,</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240922063000 +0000" stop="20240922090000 +0000">
+		<title>NCAA Siglo Uno: Inspiring Legacies</title>
+		<desc>: " and a series of activities to honor the league's "10 Greatest Players."
+NCAA Siglo Uno: Inspiring Legacies: Spanning 100 years of excellence in sports, the National Collegiate Athletic Association (NCAA) celebrates its historic centennial season this 2024 with a brand new logo and theme, "Siglo Uno: Inspiring Legacies,</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240922090000 +0000" stop="20240922093000 +0000">
+		<title>The Maid</title>
+		<desc>: k happy but the truth is Susana, Nadia, Rika, and Elisa hate each other. Only the maid of every wife knows their story.
+The Maid: The Maid tells the story of Jay's life with his four wives, Susana, Nadia, Rika, and Elisa, who became popular after Jay immortalized his polygamous relationships through a novel titled Mr. Golden Umbrella. On the outside, their lives loo</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240922093000 +0000" stop="20240922100000 +0000">
+		<title>Business Matters</title>
+		<desc>Business Matters: Hosted by Pinky Webb, 'Business Matters' is a documentary series that explores the various practices of corporate citizenship among Philippine businesses, aimed at creating societal and economic impact.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240922100000 +0000" stop="20240922120000 +0000">
+		<title>Feel na Films</title>
+		<desc>Feel na Films: The best of fantasy, comedy and costume movies from Hong Kong, China and other Asian countries, dubbed in Filipino.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240922120000 +0000" stop="20240922140000 +0000">
+		<title>Asian Cinemix</title>
+		<desc>Asian Cinemix: A movie block that features a combination of different Asian films with genres ranging from fantasy, comedy, action and the classics.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240922140000 +0000" stop="20240922150000 +0000">
+		<title>Moon Embracing the Sun</title>
+		<desc>: s with her life, but loses her memories. All believe her to be dead, including the Crown Prince Hwon (Kim Soo-hyun), who loves her and whom she was to marry.
+Moon Embracing the Sun: Thirteen-year-old Heo Yeon Woo (Han Ga-in) is chosen to become the Crown Princess of Joseon until the Dowager Queen plots against her and secretly orders her death. With the help of a powerful shaman's magic, Yeon Woo escape</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240922150000 +0000" stop="20240922160000 +0000">
+		<title>General and I</title>
+		<desc>: e each other, but are torn between rekindling their past love and fighting for their kingdoms.
+General and I: Chu Bei Jie and Bai Ping Ting fell in love in their youth, but the war between their kingdoms kept them apart. Years later, Chu Bei Jie becomes a powerful general while Bai Ping Ting is an exemplary military strategist. They recogniz</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240922220000 +0000" stop="20240922224500 +0000">
+		<title>The World of Fantasy</title>
+		<desc>The World of Fantasy: A young man with amnesia and his childhood sweetheart grow up in the spirit domain to search for the meaning of life and pursue a higher power.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240922224500 +0000" stop="20240922233000 +0000">
+		<title>Queen and I</title>
+		<desc>Queen and I: 'Queen and I' is a love story that transcends time, as it brings together two different people from the past and the present.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240922233000 +0000" stop="20240923001500 +0000">
+		<title>The Wolf</title>
+		<desc>: s the boy again, but only to find that he has become Prince Bo, the royal prince working for the King. Their love-hate relationship is intensified by the appearance of bounty hunter Ji Chong (Xiao Zhan). Struggling between power and loyalty, the , two are inevitably involved in a battle to defend their deep-rooted love.
+The Wolf: 'The Wolf' stars Li Qin as Ma Zhai Xing, a government official's daughter who befriends a wolf-raised boy (Darren Wang) in her teenage years and is forced to quit contact with him due to a political conspiracy. Eight years later, she meet</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240923001500 +0000" stop="20240923010000 +0000">
+		<title>What's Wrong With Secretary Kim</title>
+		<desc>: ng for him. Franco then decides to do whatever he can to make sure Macy staysÃÂ by his side. Will Franco succeed in keeping Macy in the company and in his life?
+What's Wrong With Secretary Kim: 'What's Wrong With Secretary Kim' tells the story of Franco Lee (Park Seo-joon), whose life is shaken when his highly-capable secretary, Macy Kim (Park Min-young), announces her resignation after nine years of worki</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240923010000 +0000" stop="20240923014500 +0000">
+		<title>You Are My Heartbeat</title>
+		<desc>You Are My Heartbeat: You Are My Heartbeat tells the story of an office romance between a young CEO with a strange personality and an abnormal fear of getting dirty, and a beautiful, cunning designer.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240923014500 +0000" stop="20240923023000 +0000">
+		<title>Jumong</title>
+		<desc>Jumong: 'Jumong' is a tale of a hero whose legacy to the Korean people is his great historical triumph against thousands of armies to win back the skies of his old kingdom, the Old Joseon, and establish what would become the great Goguryeo Dynasty.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240923023000 +0000" stop="20240923031500 +0000">
+		<title>The Romantic Doctor 2</title>
+		<desc>:  solve the manpower shortage in Doldam Hospital.
+The Romantic Doctor 2: The heart-warming story continues after the events from the first season. A top surgeon named Dr. Daniel Boo (Han Suk-kyu), also known as Master Kim, decides to recruit new surgeons from Geosan University Hospital in Seoul to</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240923031500 +0000" stop="20240923040500 +0000">
+		<title>Jewel in the Palace</title>
+		<desc>Jewel in the Palace: 'Jewel in the Palace' is based on the true story of Jang Geum, the first female royal physician of the Joseon Dynasty.Ã</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240923040500 +0000" stop="20240923045000 +0000">
+		<title>Queen and I</title>
+		<desc>Queen and I: 'Queen and I' is a love story that transcends time, as it brings together two different people from the past and the present.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240923045000 +0000" stop="20240923053500 +0000">
+		<title>The World of Fantasy</title>
+		<desc>The World of Fantasy: A young man with amnesia and his childhood sweetheart grow up in the spirit domain to search for the meaning of life and pursue a higher power.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240923053500 +0000" stop="20240923062000 +0000">
+		<title>The Wolf</title>
+		<desc>: s the boy again, but only to find that he has become Prince Bo, the royal prince working for the King. Their love-hate relationship is intensified by the appearance of bounty hunter Ji Chong (Xiao Zhan). Struggling between power and loyalty, the , two are inevitably involved in a battle to defend their deep-rooted love.
+The Wolf: 'The Wolf' stars Li Qin as Ma Zhai Xing, a government official's daughter who befriends a wolf-raised boy (Darren Wang) in her teenage years and is forced to quit contact with him due to a political conspiracy. Eight years later, she meet</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240923062000 +0000" stop="20240923070500 +0000">
+		<title>What's Wrong With Secretary Kim</title>
+		<desc>: ng for him. Franco then decides to do whatever he can to make sure Macy staysÃÂ by his side. Will Franco succeed in keeping Macy in the company and in his life?
+What's Wrong With Secretary Kim: 'What's Wrong With Secretary Kim' tells the story of Franco Lee (Park Seo-joon), whose life is shaken when his highly-capable secretary, Macy Kim (Park Min-young), announces her resignation after nine years of worki</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240923070500 +0000" stop="20240923075000 +0000">
+		<title>You Are My Heartbeat</title>
+		<desc>You Are My Heartbeat: You Are My Heartbeat tells the story of an office romance between a young CEO with a strange personality and an abnormal fear of getting dirty, and a beautiful, cunning designer.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240923075000 +0000" stop="20240923083500 +0000">
+		<title>The Romantic Doctor 2</title>
+		<desc>:  solve the manpower shortage in Doldam Hospital.
+The Romantic Doctor 2: The heart-warming story continues after the events from the first season. A top surgeon named Dr. Daniel Boo (Han Suk-kyu), also known as Master Kim, decides to recruit new surgeons from Geosan University Hospital in Seoul to</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240923083500 +0000" stop="20240923092000 +0000">
+		<title>Queen and I</title>
+		<desc>Queen and I: 'Queen and I' is a love story that transcends time, as it brings together two different people from the past and the present.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240923092000 +0000" stop="20240923100500 +0000">
+		<title>The World of Fantasy</title>
+		<desc>The World of Fantasy: A young man with amnesia and his childhood sweetheart grow up in the spirit domain to search for the meaning of life and pursue a higher power.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240923100500 +0000" stop="20240923105000 +0000">
+		<title>Jumong</title>
+		<desc>Jumong: 'Jumong' is a tale of a hero whose legacy to the Korean people is his great historical triumph against thousands of armies to win back the skies of his old kingdom, the Old Joseon, and establish what would become the great Goguryeo Dynasty.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240923105000 +0000" stop="20240923113000 +0000">
+		<title>The Herbal Master</title>
+		<desc>: in the same field after meeting Tonio's grandfather.
+The Herbal Master: 'The Herbal Master' tells the story of Tonio (Mario Maurer) who is determined to heal people through traditional herbal medicine. He then meets the beautiful and fearless Chaba (Kimberley Anne Woltemas), who develops an interest </desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240923113000 +0000" stop="20240923122000 +0000">
+		<title>Jewel in the Palace</title>
+		<desc>Jewel in the Palace: 'Jewel in the Palace' is based on the true story of Jang Geum, the first female royal physician of the Joseon Dynasty.Ã</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240923122000 +0000" stop="20240923130500 +0000">
+		<title>The Wolf</title>
+		<desc>: s the boy again, but only to find that he has become Prince Bo, the royal prince working for the King. Their love-hate relationship is intensified by the appearance of bounty hunter Ji Chong (Xiao Zhan). Struggling between power and loyalty, the , two are inevitably involved in a battle to defend their deep-rooted love.
+The Wolf: 'The Wolf' stars Li Qin as Ma Zhai Xing, a government official's daughter who befriends a wolf-raised boy (Darren Wang) in her teenage years and is forced to quit contact with him due to a political conspiracy. Eight years later, she meet</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240923130500 +0000" stop="20240923135000 +0000">
+		<title>What's Wrong With Secretary Kim</title>
+		<desc>: ng for him. Franco then decides to do whatever he can to make sure Macy staysÃÂ by his side. Will Franco succeed in keeping Macy in the company and in his life?
+What's Wrong With Secretary Kim: 'What's Wrong With Secretary Kim' tells the story of Franco Lee (Park Seo-joon), whose life is shaken when his highly-capable secretary, Macy Kim (Park Min-young), announces her resignation after nine years of worki</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240923135000 +0000" stop="20240923143500 +0000">
+		<title>Jumong</title>
+		<desc>Jumong: 'Jumong' is a tale of a hero whose legacy to the Korean people is his great historical triumph against thousands of armies to win back the skies of his old kingdom, the Old Joseon, and establish what would become the great Goguryeo Dynasty.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240923143500 +0000" stop="20240923152000 +0000">
+		<title>You Are My Heartbeat</title>
+		<desc>You Are My Heartbeat: You Are My Heartbeat tells the story of an office romance between a young CEO with a strange personality and an abnormal fear of getting dirty, and a beautiful, cunning designer.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240923152000 +0000" stop="20240923160000 +0000">
+		<title>The Herbal Master</title>
+		<desc>: in the same field after meeting Tonio's grandfather.
+The Herbal Master: 'The Herbal Master' tells the story of Tonio (Mario Maurer) who is determined to heal people through traditional herbal medicine. He then meets the beautiful and fearless Chaba (Kimberley Anne Woltemas), who develops an interest </desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240923220000 +0000" stop="20240923224000 +0000">
+		<title>The World of Fantasy</title>
+		<desc>The World of Fantasy: A young man with amnesia and his childhood sweetheart grow up in the spirit domain to search for the meaning of life and pursue a higher power.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240923224000 +0000" stop="20240923232500 +0000">
+		<title>Queen and I</title>
+		<desc>Queen and I: 'Queen and I' is a love story that transcends time, as it brings together two different people from the past and the present.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20240923232500 +0000" stop="20240924001000 +0000">
+		<title>The Wolf</title>
+		<desc>: s the boy again, but only to find that he has become Prince Bo, the royal prince working for the King. Their love-hate relationship is intensified by the appearance of bounty hunter Ji Chong (Xiao Zhan). Struggling between power and loyalty, the , two are inevitably involved in a battle to defend their deep-rooted love.
+The Wolf: 'The Wolf' stars Li Qin as Ma Zhai Xing, a government official's daughter who befriends a wolf-raised boy (Darren Wang) in her teenage years and is forced to quit contact with him due to a political conspiracy. Eight years later, she meet</desc>
 		<language>CHI</language>
 	</programme>
 </tv>
