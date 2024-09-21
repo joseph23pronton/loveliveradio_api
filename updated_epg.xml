@@ -11,11 +11,6 @@
 	<channel id="HEART OF ASIA">
 		<display-name>HEART OF ASIA</display-name>
 	</channel>
-	<programme channel="I HEART MOVIES" start="20240920220000 +0000" stop="20240921000000 +0000">
-		<title>Takilya Throwback</title>
-		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
-		<language>CHI</language>
-	</programme>
 	<programme channel="I HEART MOVIES" start="20240921000000 +0000" stop="20240921020000 +0000">
 		<title>Block Screening</title>
 		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
@@ -149,42 +144,6 @@
 	<programme channel="I HEART MOVIES" start="20240923220000 +0000" stop="20240924000000 +0000">
 		<title>Takilya Throwback</title>
 		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20240920160000 +0000" stop="20240920210000 +0000">
-		<title>The 700 Club Asia</title>
-		<desc>The 700 Club Asia: A flagship program of CBN Asia, the show brings miracles into your home through encouraging stories and testimonies.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20240920210000 +0000" stop="20240920213000 +0000">
-		<title>Kapwa Ko, Mahal Ko</title>
-		<desc>Kapwa Ko, Mahal Ko: The longest-running public service program on Philippine television.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20240920213000 +0000" stop="20240920220000 +0000">
-		<title>Agripreneur</title>
-		<desc>Agripreneur: Features the latest innovations and procedures in farming as well as agri-business ideas for farmers and entrepreneurs.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20240920220000 +0000" stop="20240920230000 +0000">
-		<title>Pinoy M.D.</title>
-		<desc>Pinoy M.D.: Weekly morning show hosted by Connie Sison that provides information about various health concerns.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20240920230000 +0000" stop="20240920233000 +0000">
-		<title>Turbo Zone</title>
-		<desc>Turbo Zone: News and features about various models of cars and motorcycles.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20240920233000 +0000" stop="20240921000000 +0000">
-		<title>Healing Galing</title>
-		<desc>: ay."
-Healing Galing: Hosted by Dr. Edinell Calvario, 'Healing Galing' is a health and wellness television show that teaches Filipinos how to care for one's health and treat ailments at home using the holistic approach, aptly called "the Healing Galing w</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20240921000000 +0000" stop="20240921003000 +0000">
-		<title>Piggy Tales</title>
-		<desc>Piggy Tales: Piggy Tales follows the lives of the minion pigs as they navigate their surroundings with their limited wisdom.</desc>
 		<language>CHI</language>
 	</programme>
 	<programme channel="GMA" start="20240921003000 +0000" stop="20240921010000 +0000">
@@ -504,11 +463,6 @@ Asawa Ng Asawa Ko: 'Asawa Ng Asawa Ko' tells the story of Cristy, who was presum
 	<programme channel="GMA" start="20240923213000 +0000" stop="20240924000000 +0000">
 		<title>Unang Hirit</title>
 		<desc>Unang Hirit: An early morning show that provides latest news and good vibes with celebrity performances, food trips, and other festivities.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20240920213000 +0000" stop="20240921003000 +0000">
-		<title>Dobol B TV</title>
-		<desc>Dobol B TV: Super Radyo DZBB 594 radio programs simulcast on GTV.</desc>
 		<language>CHI</language>
 	</programme>
 	<programme channel="GTV" start="20240921003000 +0000" stop="20240921013000 +0000">
@@ -953,17 +907,6 @@ Asawa Ng Asawa Ko: 'Asawa Ng Asawa Ko' tells the story of Cristy, who was presum
 	<programme channel="GTV" start="20240926213000 +0000" stop="20240927010000 +0000">
 		<title>Dobol B TV</title>
 		<desc>Dobol B TV: Super Radyo DZBB 594 radio programs simulcast on GTV.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20240920220000 +0000" stop="20240920230000 +0000">
-		<title>Puppy In My Pocket</title>
-		<desc>Puppy In My Pocket: Puppy In My Pocket features the whimsical adventures of Flo and her puppy Magic in helping the animals of the Pocket Kingdom.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20240920230000 +0000" stop="20240921000000 +0000">
-		<title>Ultraman R/B</title>
-		<desc>: the power to become Ultraman Rosso and Blu respectively.
-Ultraman R/B: Katsumi and Isami are brothers (with Katsumi being the older one) who live with their younger sister and father. One day, during the sudden appearance of a giant monster, the brothers find the R/B Gyro, which grants Katsumi and Isami </desc>
 		<language>CHI</language>
 	</programme>
 	<programme channel="HEART OF ASIA" start="20240921000000 +0000" stop="20240921020000 +0000">
