@@ -2,6 +2,18 @@
 	<channel id="I HEART MOVIES">
 		<display-name>I HEART MOVIES</display-name>
 	</channel>
+	<channel id="Service 102">
+		<display-name>Service 102</display-name>
+	</channel>
+	<channel id="Service 103">
+		<display-name>Service 103</display-name>
+	</channel>
+	<channel id="Service 104">
+		<display-name>Service 104</display-name>
+	</channel>
+	<channel id="GMA 1-Seg">
+		<display-name>GMA 1-Seg</display-name>
+	</channel>
 	<channel id="GMA">
 		<display-name>GMA</display-name>
 	</channel>
@@ -26,1367 +38,1710 @@
 	<channel id="ssu OTA">
 		<display-name>ssu OTA</display-name>
 	</channel>
-	<channel id="A2Z">
-		<display-name>A2Z</display-name>
-	</channel>
-	<channel id="Light TV">
-		<display-name>Light TV</display-name>
-	</channel>
-	<channel id="A2Z Oneseg">
-		<display-name>A2Z Oneseg</display-name>
-	</channel>
-	<programme channel="I HEART MOVIES" start="20240929120000 +0000" stop="20240929140000 +0000">
+	<programme channel="I HEART MOVIES" start="20241125080000 +0000" stop="20241125100000 +0000">
 		<title>Pinoy Movie Date</title>
 		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20240929140000 +0000" stop="20240929160000 +0000">
-		<title>Takilya Throwback</title>
-		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="I HEART MOVIES" start="20240929220000 +0000" stop="20240930000000 +0000">
-		<title>Takilya Throwback</title>
-		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="I HEART MOVIES" start="20240930000000 +0000" stop="20240930020000 +0000">
+	<programme channel="I HEART MOVIES" start="20241125100000 +0000" stop="20241125120000 +0000">
 		<title>Block Screening</title>
 		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20240930020000 +0000" stop="20240930040000 +0000">
+	<programme channel="I HEART MOVIES" start="20241125120000 +0000" stop="20241125140000 +0000">
 		<title>Pinoy Movie Date</title>
 		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20240930040000 +0000" stop="20240930060000 +0000">
+	<programme channel="I HEART MOVIES" start="20241125140000 +0000" stop="20241125160000 +0000">
 		<title>Takilya Throwback</title>
 		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20240930060000 +0000" stop="20240930080000 +0000">
+	<programme channel="I HEART MOVIES" start="20241125220000 +0000" stop="20241126000000 +0000">
+		<title>Takilya Throwback</title>
+		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="I HEART MOVIES" start="20241126000000 +0000" stop="20241126020000 +0000">
 		<title>Block Screening</title>
 		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20240930080000 +0000" stop="20240930100000 +0000">
+	<programme channel="I HEART MOVIES" start="20241126020000 +0000" stop="20241126040000 +0000">
 		<title>Pinoy Movie Date</title>
 		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20240930100000 +0000" stop="20240930120000 +0000">
+	<programme channel="I HEART MOVIES" start="20241126040000 +0000" stop="20241126060000 +0000">
+		<title>Takilya Throwback</title>
+		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="I HEART MOVIES" start="20241126060000 +0000" stop="20241126080000 +0000">
 		<title>Block Screening</title>
 		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20240930120000 +0000" stop="20240930140000 +0000">
+	<programme channel="I HEART MOVIES" start="20241126080000 +0000" stop="20241126100000 +0000">
 		<title>Pinoy Movie Date</title>
 		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20240930140000 +0000" stop="20240930160000 +0000">
-		<title>Takilya Throwback</title>
-		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="I HEART MOVIES" start="20240930220000 +0000" stop="20241001000000 +0000">
-		<title>Takilya Throwback</title>
-		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="I HEART MOVIES" start="20241001000000 +0000" stop="20241001020000 +0000">
+	<programme channel="I HEART MOVIES" start="20241126100000 +0000" stop="20241126120000 +0000">
 		<title>Block Screening</title>
 		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20241001020000 +0000" stop="20241001040000 +0000">
+	<programme channel="I HEART MOVIES" start="20241126120000 +0000" stop="20241126140000 +0000">
 		<title>Pinoy Movie Date</title>
 		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20241001040000 +0000" stop="20241001060000 +0000">
+	<programme channel="I HEART MOVIES" start="20241126140000 +0000" stop="20241126160000 +0000">
 		<title>Takilya Throwback</title>
 		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20241001060000 +0000" stop="20241001080000 +0000">
+	<programme channel="I HEART MOVIES" start="20241126220000 +0000" stop="20241127000000 +0000">
+		<title>Takilya Throwback</title>
+		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="I HEART MOVIES" start="20241127000000 +0000" stop="20241127020000 +0000">
 		<title>Block Screening</title>
 		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20241001080000 +0000" stop="20241001100000 +0000">
+	<programme channel="I HEART MOVIES" start="20241127020000 +0000" stop="20241127040000 +0000">
 		<title>Pinoy Movie Date</title>
 		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20241001100000 +0000" stop="20241001120000 +0000">
+	<programme channel="I HEART MOVIES" start="20241127040000 +0000" stop="20241127060000 +0000">
+		<title>Takilya Throwback</title>
+		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="I HEART MOVIES" start="20241127060000 +0000" stop="20241127080000 +0000">
 		<title>Block Screening</title>
 		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20241001120000 +0000" stop="20241001140000 +0000">
+	<programme channel="I HEART MOVIES" start="20241127080000 +0000" stop="20241127100000 +0000">
 		<title>Pinoy Movie Date</title>
 		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20241001140000 +0000" stop="20241001160000 +0000">
-		<title>Takilya Throwback</title>
-		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="I HEART MOVIES" start="20241001220000 +0000" stop="20241002000000 +0000">
-		<title>Takilya Throwback</title>
-		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="I HEART MOVIES" start="20241002000000 +0000" stop="20241002020000 +0000">
+	<programme channel="I HEART MOVIES" start="20241127100000 +0000" stop="20241127120000 +0000">
 		<title>Block Screening</title>
 		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20241002020000 +0000" stop="20241002040000 +0000">
+	<programme channel="I HEART MOVIES" start="20241127120000 +0000" stop="20241127140000 +0000">
 		<title>Pinoy Movie Date</title>
 		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20241002040000 +0000" stop="20241002060000 +0000">
+	<programme channel="I HEART MOVIES" start="20241127140000 +0000" stop="20241127160000 +0000">
 		<title>Takilya Throwback</title>
 		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20241002060000 +0000" stop="20241002080000 +0000">
+	<programme channel="I HEART MOVIES" start="20241127220000 +0000" stop="20241128000000 +0000">
+		<title>Takilya Throwback</title>
+		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="I HEART MOVIES" start="20241128000000 +0000" stop="20241128020000 +0000">
 		<title>Block Screening</title>
 		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20241002080000 +0000" stop="20241002100000 +0000">
+	<programme channel="I HEART MOVIES" start="20241128020000 +0000" stop="20241128040000 +0000">
 		<title>Pinoy Movie Date</title>
 		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20241002100000 +0000" stop="20241002120000 +0000">
+	<programme channel="I HEART MOVIES" start="20241128040000 +0000" stop="20241128060000 +0000">
+		<title>Takilya Throwback</title>
+		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="I HEART MOVIES" start="20241128060000 +0000" stop="20241128080000 +0000">
 		<title>Block Screening</title>
 		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20241002120000 +0000" stop="20241002140000 +0000">
+	<programme channel="I HEART MOVIES" start="20241128080000 +0000" stop="20241128100000 +0000">
 		<title>Pinoy Movie Date</title>
 		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20241002140000 +0000" stop="20241002160000 +0000">
+	<programme channel="I HEART MOVIES" start="20241128100000 +0000" stop="20241128120000 +0000">
+		<title>Block Screening</title>
+		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="I HEART MOVIES" start="20241128120000 +0000" stop="20241128140000 +0000">
+		<title>Pinoy Movie Date</title>
+		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="I HEART MOVIES" start="20241128140000 +0000" stop="20241128160000 +0000">
 		<title>Takilya Throwback</title>
 		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20241002220000 +0000" stop="20241003000000 +0000">
+	<programme channel="I HEART MOVIES" start="20241128220000 +0000" stop="20241129000000 +0000">
 		<title>Takilya Throwback</title>
 		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240929122000 +0000" stop="20240929141000 +0000">
-		<title>Kapuso Mo, Jessica Soho</title>
-		<desc>Kapuso Mo, Jessica Soho: Jessica Soho features stories on food, urban legends, trends, and pop culture in this magazine show.</desc>
+	<programme channel="I HEART MOVIES" start="20241129000000 +0000" stop="20241129020000 +0000">
+		<title>Block Screening</title>
+		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240929141000 +0000" stop="20240929150500 +0000">
-		<title>The Boobay and Tekla Show</title>
-		<desc>The Boobay and Tekla Show: Boobay and Tekla feature a variety of funny skits, pranks, and other hilarious segments in this comedy program.</desc>
+	<programme channel="I HEART MOVIES" start="20241129020000 +0000" stop="20241129040000 +0000">
+		<title>Pinoy Movie Date</title>
+		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240929150500 +0000" stop="20240929160000 +0000">
-		<title>Cayetano In Action with Boy Abunda</title>
-		<desc>:  advice and guidance, as well as making the public understand the law in layman's terms.
-Cayetano In Action with Boy Abunda: Hosted by Senators Alan and Pia Cayetano, and moderated by "King of Talk" Boy Abunda, 'Cayetano in Action with Boy Abunda' aims to continue the biggest legacy of the late Senator Rene Cayetano - giving free legal</desc>
+	<programme channel="I HEART MOVIES" start="20241129040000 +0000" stop="20241129060000 +0000">
+		<title>Takilya Throwback</title>
+		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240929213000 +0000" stop="20240930000000 +0000">
-		<title>Unang Hirit</title>
-		<desc>Unang Hirit: An early morning show that provides latest news and good vibes with celebrity performances, food trips, and other festivities.</desc>
+	<programme channel="I HEART MOVIES" start="20241129060000 +0000" stop="20241129080000 +0000">
+		<title>Block Screening</title>
+		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240930000000 +0000" stop="20240930002500 +0000">
-		<title>Tokyo Revengers</title>
-		<desc>Tokyo Revengers: Tokyo Revengers follows the story of Takemichi Hanagaki, who has the ability to travel back and forth in time. He uses this ability to save his friends from the Tokyo Manji Gang.</desc>
+	<programme channel="I HEART MOVIES" start="20241129080000 +0000" stop="20241129100000 +0000">
+		<title>Pinoy Movie Date</title>
+		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240930002500 +0000" stop="20240930010000 +0000">
-		<title>Snow Eagle Lord</title>
-		<desc>: e is challenging. Xue Ying embarks on a quest to assemble a team of powerful warriors, learning the importance of teamwork and the values of courage, sacrifice, kindness, and love along the way.
-Snow Eagle Lord: 'Snow Eagle Lord' follows the heroic journey of Dong Bo Xue Ying, the Snow Eagle Lord, who is determined to confront evil creatures to protect the world from its doom and rescue his mother. However, facing such formidable foes alon</desc>
+	<programme channel="I HEART MOVIES" start="20241129100000 +0000" stop="20241129120000 +0000">
+		<title>Block Screening</title>
+		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240930010000 +0000" stop="20240930013000 +0000">
-		<title>Doctor Detective</title>
-		<desc>: d.
-Doctor Detective: When a deadly infectious disease resembling the Ebola virus ravages a small village, a team of epidemiologists led by Dr. Kenneth (Nadech Kugimiya) races against time to investigate the source of the outbreak and contain the sprea</desc>
+	<programme channel="I HEART MOVIES" start="20241129120000 +0000" stop="20241129140000 +0000">
+		<title>Pinoy Movie Date</title>
+		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240930013000 +0000" stop="20240930030000 +0000">
-		<title>Kapuso Movie Festival</title>
-		<desc>Kapuso Movie Festival: Your favorite Hollywood movies dubbed in Filipino.</desc>
+	<programme channel="I HEART MOVIES" start="20241129140000 +0000" stop="20241129160000 +0000">
+		<title>Takilya Throwback</title>
+		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240930030000 +0000" stop="20240930040000 +0000">
-		<title>TiktoClock</title>
-		<desc>TiktoClock: TiktoClock is a one-of-a-kind countdown variety show hosted by Pokwang, Kuya Kim Atienza and Rabiya Mateo.</desc>
+	<programme channel="I HEART MOVIES" start="20241129220000 +0000" stop="20241130000000 +0000">
+		<title>Takilya Throwback</title>
+		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240930040000 +0000" stop="20240930063000 +0000">
-		<title>It's Showtime</title>
-		<desc>It's Showtime: 'It's Showtime' is ABS-CBN's longest-running noontime variety show that airs from Monday to Saturday on GMA and GTV.</desc>
+	<programme channel="I HEART MOVIES" start="20241130000000 +0000" stop="20241130020000 +0000">
+		<title>Block Screening</title>
+		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240930063000 +0000" stop="20240930072000 +0000">
-		<title>Abot Kamay Na Pangarap</title>
-		<desc>: wo actresses, the new Kapuso serye also stars Richard Yap who will play the role of Robert Tanyag, a passionate doctor. What is the true connection of Robert to Lyneth and Analyn?
-Abot Kamay Na Pangarap: 'Abot Kamay Na Pangarap' tells the life story of an illiterate mother named Lyneth (Carmina Villarroel) and her intelligent daughter and youngest neuro surgeon in the Philippines named Analyn (Jillian Ward). Aside from the t</desc>
+	<programme channel="I HEART MOVIES" start="20241130020000 +0000" stop="20241130040000 +0000">
+		<title>Pinoy Movie Date</title>
+		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240930072000 +0000" stop="20240930080500 +0000">
-		<title>Lilet Matias, Attorney-At-Law</title>
-		<desc>Lilet Matias, Attorney-At-Law: Lilet Matias, Attorney-at-Law tells the story of a little person who has big dreams of fighting for people like her in a world full of injustices, discrimination, sexism, abuse, and poverty.</desc>
+	<programme channel="I HEART MOVIES" start="20241130040000 +0000" stop="20241130060000 +0000">
+		<title>Takilya Throwback</title>
+		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240930080500 +0000" stop="20240930084500 +0000">
-		<title>Shining Inheritance</title>
-		<desc>Shining Inheritance</desc>
+	<programme channel="I HEART MOVIES" start="20241130060000 +0000" stop="20241130080000 +0000">
+		<title>Block Screening</title>
+		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240930084500 +0000" stop="20240930091000 +0000">
-		<title>Fast Talk with Boy Abunda</title>
-		<desc>: th guest celebrities.
-Fast Talk with Boy Abunda: 'Fast Talk with Boy Abunda' is a multi-platform showbiz news and talk show. Hosted by the King of Talk Boy Abunda, the show features a rundown and analysis of the latest showbiz-related news or stories and an interview wi</desc>
+	<programme channel="I HEART MOVIES" start="20241130080000 +0000" stop="20241130100000 +0000">
+		<title>Pinoy Movie Date</title>
+		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240930091000 +0000" stop="20240930094000 +0000">
-		<title>The Betrayal</title>
-		<desc>The Betrayal</desc>
+	<programme channel="I HEART MOVIES" start="20241130100000 +0000" stop="20241130120000 +0000">
+		<title>Block Screening</title>
+		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240930094000 +0000" stop="20240930103000 +0000">
+	<programme channel="I HEART MOVIES" start="20241130120000 +0000" stop="20241130140000 +0000">
+		<title>Pinoy Movie Date</title>
+		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="I HEART MOVIES" start="20241130140000 +0000" stop="20241130160000 +0000">
+		<title>Takilya Throwback</title>
+		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241125091000 +0000" stop="20241125094000 +0000">
+		<title>Love at First Night</title>
+		<desc>Love at First Night</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241125094000 +0000" stop="20241125103000 +0000">
 		<title>Family Feud</title>
 		<desc>Family Feud: The game show that every family loves to play is back!</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240930103000 +0000" stop="20240930120000 +0000">
+	<programme channel="GMA" start="20241125103000 +0000" stop="20241125120000 +0000">
 		<title>24 Oras</title>
 		<desc>24 Oras: The flagship nightly newscast of GMA News and Public Affairs</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240930120000 +0000" stop="20240930125000 +0000">
+	<programme channel="GMA" start="20241125120000 +0000" stop="20241125125000 +0000">
 		<title>Pulang Araw</title>
 		<desc>Pulang Araw: Pulang ArawÃÂ is a family drama that tells stories of courage, sacrifice, and hardships that every Filipino family has. These stories were inspired by the tales of the unsung heroes who defied the odds of World War II and the Japanese o</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240930125000 +0000" stop="20240930133500 +0000">
+	<programme channel="GMA" start="20241125125000 +0000" stop="20241125133500 +0000">
 		<title>Widows' War</title>
 		<desc>Widows' War: Ã¢â¬ËWidowsÃ¢â¬â¢ WarÃ¢â¬â¢ is the newest murder mystery drama series on GMA Network, top-billed by A-list Kapuso actresses Bea Alonzo and Carla Abellana.Ã</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240930133500 +0000" stop="20240930142000 +0000">
+	<programme channel="GMA" start="20241125133500 +0000" stop="20241125142000 +0000">
 		<title>Asawa Ng Asawa Ko</title>
 		<desc>: riend.
 Asawa Ng Asawa Ko: 'Asawa Ng Asawa Ko' tells the story of Cristy, who was presumed dead after she was captured by the armed group KALASAG. When she goes back to her family, she finds that her husband Jordan is now happily married to Shaira, their f</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240930142000 +0000" stop="20240930150000 +0000">
+	<programme channel="GMA" start="20241125142000 +0000" stop="20241125150000 +0000">
 		<title>Saksi</title>
 		<desc>Saksi: Cap off your night with the latest news from Arnold Clavio and Pia Arcangel.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240930150000 +0000" stop="20240930153000 +0000">
-		<title>The Heavenly Idol</title>
-		<desc>The Heavenly Idol: A fantasy-romance drama about an unpopular idol, Nico, whose body was possessed by Rembrary, a high priest of an otherworldly realm.</desc>
+	<programme channel="GMA" start="20241125150000 +0000" stop="20241125153000 +0000">
+		<title>Stealer: The Treasure Keeper</title>
+		<desc>: ish those who are able to evade the law.
+Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of Skunk (Joo Won) a thief who specializes in cultural assets. Skunk will team up with Karma, an unofficial cultural assets recovery team that will help him redeem and pun</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240930153000 +0000" stop="20240930160000 +0000">
-		<title>The Girl Who Sees Smells</title>
-		<desc>The Girl Who Sees Smells: 'The Girl Who Sees Smells'ÃÂ is a romantic fantasy Chinese drama that follows the unconventional love story of Frannie and Michael, which starts with a kiss that is the "antidote" for the strange disease of the latter. Dete</desc>
+	<programme channel="GMA" start="20241125153000 +0000" stop="20241125160000 +0000">
+		<title>Endless Love</title>
+		<desc>:  differences in life are nothing compared to the love they share, but what happens if Drew learns that Aileen is connected to the person who caused the death of his parents? Will he forgive and forget? Or will he turn back from Aileen?
+Endless Love: Follow the story of Drew (Thanat Lowkhunsombat) and Aileen (Violette Wautier) as they prove that the Red String theory is real and find their way into each other's arms in various ways in the Thai romantic drama, 'Endless Love.' Their</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240930160000 +0000" stop="20240930213000 +0000">
+	<programme channel="GMA" start="20241125160000 +0000" stop="20241125213000 +0000">
 		<title>The 700 Club Asia</title>
 		<desc>The 700 Club Asia: A flagship program of CBN Asia, the show brings miracles into your home through encouraging stories and testimonies.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20240930213000 +0000" stop="20241001000000 +0000">
+	<programme channel="GMA" start="20241125213000 +0000" stop="20241126000000 +0000">
 		<title>Unang Hirit</title>
 		<desc>Unang Hirit: An early morning show that provides latest news and good vibes with celebrity performances, food trips, and other festivities.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241001000000 +0000" stop="20241001002500 +0000">
-		<title>Tokyo Revengers</title>
-		<desc>Tokyo Revengers: Tokyo Revengers follows the story of Takemichi Hanagaki, who has the ability to travel back and forth in time. He uses this ability to save his friends from the Tokyo Manji Gang.</desc>
+	<programme channel="GMA" start="20241126000000 +0000" stop="20241126002500 +0000">
+		<title>Knock Out</title>
+		<desc>Knock Out: An animated series that shows the life of boxers.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241001002500 +0000" stop="20241001010000 +0000">
+	<programme channel="GMA" start="20241126002500 +0000" stop="20241126010000 +0000">
 		<title>Snow Eagle Lord</title>
 		<desc>: e is challenging. Xue Ying embarks on a quest to assemble a team of powerful warriors, learning the importance of teamwork and the values of courage, sacrifice, kindness, and love along the way.
 Snow Eagle Lord: 'Snow Eagle Lord' follows the heroic journey of Dong Bo Xue Ying, the Snow Eagle Lord, who is determined to confront evil creatures to protect the world from its doom and rescue his mother. However, facing such formidable foes alon</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241001010000 +0000" stop="20241001013000 +0000">
-		<title>Doctor Detective</title>
-		<desc>: d.
-Doctor Detective: When a deadly infectious disease resembling the Ebola virus ravages a small village, a team of epidemiologists led by Dr. Kenneth (Nadech Kugimiya) races against time to investigate the source of the outbreak and contain the sprea</desc>
+	<programme channel="GMA" start="20241126010000 +0000" stop="20241126013000 +0000">
+		<title>When The Sky Falls</title>
+		<desc>When The Sky Falls: 'When The Sky Falls' is a Thai drama series about love, revenge, and betrayal. It stars Prang Kannarun Wongkhajornkai and Film Thanapat Kawila.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241001013000 +0000" stop="20241001030000 +0000">
+	<programme channel="GMA" start="20241126013000 +0000" stop="20241126030000 +0000">
 		<title>Kapuso Movie Festival</title>
 		<desc>Kapuso Movie Festival: Your favorite Hollywood movies dubbed in Filipino.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241001030000 +0000" stop="20241001040000 +0000">
+	<programme channel="GMA" start="20241126030000 +0000" stop="20241126040000 +0000">
 		<title>TiktoClock</title>
 		<desc>TiktoClock: TiktoClock is a one-of-a-kind countdown variety show hosted by Pokwang, Kuya Kim Atienza and Rabiya Mateo.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241001040000 +0000" stop="20241001063000 +0000">
+	<programme channel="GMA" start="20241126040000 +0000" stop="20241126063000 +0000">
 		<title>It's Showtime</title>
 		<desc>It's Showtime: 'It's Showtime' is ABS-CBN's longest-running noontime variety show that airs from Monday to Saturday on GMA and GTV.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241001063000 +0000" stop="20241001072000 +0000">
-		<title>Abot Kamay Na Pangarap</title>
-		<desc>: wo actresses, the new Kapuso serye also stars Richard Yap who will play the role of Robert Tanyag, a passionate doctor. What is the true connection of Robert to Lyneth and Analyn?
-Abot Kamay Na Pangarap: 'Abot Kamay Na Pangarap' tells the life story of an illiterate mother named Lyneth (Carmina Villarroel) and her intelligent daughter and youngest neuro surgeon in the Philippines named Analyn (Jillian Ward). Aside from the t</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20241001072000 +0000" stop="20241001080500 +0000">
+	<programme channel="GMA" start="20241126063000 +0000" stop="20241126072000 +0000">
 		<title>Lilet Matias, Attorney-At-Law</title>
 		<desc>Lilet Matias, Attorney-At-Law: Lilet Matias, Attorney-at-Law tells the story of a little person who has big dreams of fighting for people like her in a world full of injustices, discrimination, sexism, abuse, and poverty.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241001080500 +0000" stop="20241001084500 +0000">
+	<programme channel="GMA" start="20241126072000 +0000" stop="20241126080500 +0000">
 		<title>Shining Inheritance</title>
 		<desc>Shining Inheritance</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241001084500 +0000" stop="20241001091000 +0000">
+	<programme channel="GMA" start="20241126080500 +0000" stop="20241126084500 +0000">
+		<title>Forever Young</title>
+		<desc>Forever Young: 'Forever Young' is an inspirational family drama series that follows the story of Rambo, a 25-year-old with panhypopituitarism, a rare condition that slows his growth hormone and retains his childlike appearance. ThroughÃÂ hisÃÂ life a</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241126084500 +0000" stop="20241126091000 +0000">
 		<title>Fast Talk with Boy Abunda</title>
 		<desc>: th guest celebrities.
 Fast Talk with Boy Abunda: 'Fast Talk with Boy Abunda' is a multi-platform showbiz news and talk show. Hosted by the King of Talk Boy Abunda, the show features a rundown and analysis of the latest showbiz-related news or stories and an interview wi</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241001091000 +0000" stop="20241001094000 +0000">
-		<title>The Betrayal</title>
-		<desc>The Betrayal</desc>
+	<programme channel="GMA" start="20241126091000 +0000" stop="20241126094000 +0000">
+		<title>Love at First Night</title>
+		<desc>Love at First Night</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241001094000 +0000" stop="20241001103000 +0000">
+	<programme channel="GMA" start="20241126094000 +0000" stop="20241126103000 +0000">
 		<title>Family Feud</title>
 		<desc>Family Feud: The game show that every family loves to play is back!</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241001103000 +0000" stop="20241001120000 +0000">
+	<programme channel="GMA" start="20241126103000 +0000" stop="20241126120000 +0000">
 		<title>24 Oras</title>
 		<desc>24 Oras: The flagship nightly newscast of GMA News and Public Affairs</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241001120000 +0000" stop="20241001125000 +0000">
+	<programme channel="GMA" start="20241126120000 +0000" stop="20241126125000 +0000">
 		<title>Pulang Araw</title>
 		<desc>Pulang Araw: Pulang ArawÃÂ is a family drama that tells stories of courage, sacrifice, and hardships that every Filipino family has. These stories were inspired by the tales of the unsung heroes who defied the odds of World War II and the Japanese o</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241001125000 +0000" stop="20241001133500 +0000">
+	<programme channel="GMA" start="20241126125000 +0000" stop="20241126133500 +0000">
 		<title>Widows' War</title>
 		<desc>Widows' War: Ã¢â¬ËWidowsÃ¢â¬â¢ WarÃ¢â¬â¢ is the newest murder mystery drama series on GMA Network, top-billed by A-list Kapuso actresses Bea Alonzo and Carla Abellana.Ã</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241001133500 +0000" stop="20241001142000 +0000">
+	<programme channel="GMA" start="20241126133500 +0000" stop="20241126142000 +0000">
 		<title>Asawa Ng Asawa Ko</title>
 		<desc>: riend.
 Asawa Ng Asawa Ko: 'Asawa Ng Asawa Ko' tells the story of Cristy, who was presumed dead after she was captured by the armed group KALASAG. When she goes back to her family, she finds that her husband Jordan is now happily married to Shaira, their f</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241001142000 +0000" stop="20241001150000 +0000">
+	<programme channel="GMA" start="20241126142000 +0000" stop="20241126150000 +0000">
 		<title>Saksi</title>
 		<desc>Saksi: Cap off your night with the latest news from Arnold Clavio and Pia Arcangel.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241001150000 +0000" stop="20241001153000 +0000">
-		<title>The Heavenly Idol</title>
-		<desc>The Heavenly Idol: A fantasy-romance drama about an unpopular idol, Nico, whose body was possessed by Rembrary, a high priest of an otherworldly realm.</desc>
+	<programme channel="GMA" start="20241126150000 +0000" stop="20241126153000 +0000">
+		<title>Stealer: The Treasure Keeper</title>
+		<desc>: ish those who are able to evade the law.
+Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of Skunk (Joo Won) a thief who specializes in cultural assets. Skunk will team up with Karma, an unofficial cultural assets recovery team that will help him redeem and pun</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241001153000 +0000" stop="20241001160000 +0000">
-		<title>The Girl Who Sees Smells</title>
-		<desc>The Girl Who Sees Smells: 'The Girl Who Sees Smells'ÃÂ is a romantic fantasy Chinese drama that follows the unconventional love story of Frannie and Michael, which starts with a kiss that is the "antidote" for the strange disease of the latter. Dete</desc>
+	<programme channel="GMA" start="20241126153000 +0000" stop="20241126160000 +0000">
+		<title>Endless Love</title>
+		<desc>:  differences in life are nothing compared to the love they share, but what happens if Drew learns that Aileen is connected to the person who caused the death of his parents? Will he forgive and forget? Or will he turn back from Aileen?
+Endless Love: Follow the story of Drew (Thanat Lowkhunsombat) and Aileen (Violette Wautier) as they prove that the Red String theory is real and find their way into each other's arms in various ways in the Thai romantic drama, 'Endless Love.' Their</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241001160000 +0000" stop="20241001213000 +0000">
+	<programme channel="GMA" start="20241126160000 +0000" stop="20241126213000 +0000">
 		<title>The 700 Club Asia</title>
 		<desc>The 700 Club Asia: A flagship program of CBN Asia, the show brings miracles into your home through encouraging stories and testimonies.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241001213000 +0000" stop="20241002000000 +0000">
+	<programme channel="GMA" start="20241126213000 +0000" stop="20241127000000 +0000">
 		<title>Unang Hirit</title>
 		<desc>Unang Hirit: An early morning show that provides latest news and good vibes with celebrity performances, food trips, and other festivities.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241002000000 +0000" stop="20241002002500 +0000">
-		<title>Tokyo Revengers</title>
-		<desc>Tokyo Revengers: Tokyo Revengers follows the story of Takemichi Hanagaki, who has the ability to travel back and forth in time. He uses this ability to save his friends from the Tokyo Manji Gang.</desc>
+	<programme channel="GMA" start="20241127000000 +0000" stop="20241127002500 +0000">
+		<title>Knock Out</title>
+		<desc>Knock Out: An animated series that shows the life of boxers.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241002002500 +0000" stop="20241002010000 +0000">
+	<programme channel="GMA" start="20241127002500 +0000" stop="20241127010000 +0000">
 		<title>Snow Eagle Lord</title>
 		<desc>: e is challenging. Xue Ying embarks on a quest to assemble a team of powerful warriors, learning the importance of teamwork and the values of courage, sacrifice, kindness, and love along the way.
 Snow Eagle Lord: 'Snow Eagle Lord' follows the heroic journey of Dong Bo Xue Ying, the Snow Eagle Lord, who is determined to confront evil creatures to protect the world from its doom and rescue his mother. However, facing such formidable foes alon</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241002010000 +0000" stop="20241002013000 +0000">
-		<title>Doctor Detective</title>
-		<desc>: d.
-Doctor Detective: When a deadly infectious disease resembling the Ebola virus ravages a small village, a team of epidemiologists led by Dr. Kenneth (Nadech Kugimiya) races against time to investigate the source of the outbreak and contain the sprea</desc>
+	<programme channel="GMA" start="20241127010000 +0000" stop="20241127013000 +0000">
+		<title>When The Sky Falls</title>
+		<desc>When The Sky Falls: 'When The Sky Falls' is a Thai drama series about love, revenge, and betrayal. It stars Prang Kannarun Wongkhajornkai and Film Thanapat Kawila.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241002013000 +0000" stop="20241002030000 +0000">
+	<programme channel="GMA" start="20241127013000 +0000" stop="20241127030000 +0000">
 		<title>Kapuso Movie Festival</title>
 		<desc>Kapuso Movie Festival: Your favorite Hollywood movies dubbed in Filipino.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241002030000 +0000" stop="20241002040000 +0000">
+	<programme channel="GMA" start="20241127030000 +0000" stop="20241127040000 +0000">
 		<title>TiktoClock</title>
 		<desc>TiktoClock: TiktoClock is a one-of-a-kind countdown variety show hosted by Pokwang, Kuya Kim Atienza and Rabiya Mateo.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241002040000 +0000" stop="20241002063000 +0000">
+	<programme channel="GMA" start="20241127040000 +0000" stop="20241127063000 +0000">
 		<title>It's Showtime</title>
 		<desc>It's Showtime: 'It's Showtime' is ABS-CBN's longest-running noontime variety show that airs from Monday to Saturday on GMA and GTV.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241002063000 +0000" stop="20241002072000 +0000">
-		<title>Abot Kamay Na Pangarap</title>
-		<desc>: wo actresses, the new Kapuso serye also stars Richard Yap who will play the role of Robert Tanyag, a passionate doctor. What is the true connection of Robert to Lyneth and Analyn?
-Abot Kamay Na Pangarap: 'Abot Kamay Na Pangarap' tells the life story of an illiterate mother named Lyneth (Carmina Villarroel) and her intelligent daughter and youngest neuro surgeon in the Philippines named Analyn (Jillian Ward). Aside from the t</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20241002072000 +0000" stop="20241002080500 +0000">
+	<programme channel="GMA" start="20241127063000 +0000" stop="20241127072000 +0000">
 		<title>Lilet Matias, Attorney-At-Law</title>
 		<desc>Lilet Matias, Attorney-At-Law: Lilet Matias, Attorney-at-Law tells the story of a little person who has big dreams of fighting for people like her in a world full of injustices, discrimination, sexism, abuse, and poverty.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241002080500 +0000" stop="20241002084500 +0000">
+	<programme channel="GMA" start="20241127072000 +0000" stop="20241127080500 +0000">
 		<title>Shining Inheritance</title>
 		<desc>Shining Inheritance</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241002084500 +0000" stop="20241002091000 +0000">
+	<programme channel="GMA" start="20241127080500 +0000" stop="20241127084500 +0000">
+		<title>Forever Young</title>
+		<desc>Forever Young: 'Forever Young' is an inspirational family drama series that follows the story of Rambo, a 25-year-old with panhypopituitarism, a rare condition that slows his growth hormone and retains his childlike appearance. ThroughÃÂ hisÃÂ life a</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241127084500 +0000" stop="20241127091000 +0000">
 		<title>Fast Talk with Boy Abunda</title>
 		<desc>: th guest celebrities.
 Fast Talk with Boy Abunda: 'Fast Talk with Boy Abunda' is a multi-platform showbiz news and talk show. Hosted by the King of Talk Boy Abunda, the show features a rundown and analysis of the latest showbiz-related news or stories and an interview wi</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241002091000 +0000" stop="20241002094000 +0000">
-		<title>The Betrayal</title>
-		<desc>The Betrayal</desc>
+	<programme channel="GMA" start="20241127091000 +0000" stop="20241127094000 +0000">
+		<title>Love at First Night</title>
+		<desc>Love at First Night</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241002094000 +0000" stop="20241002103000 +0000">
+	<programme channel="GMA" start="20241127094000 +0000" stop="20241127103000 +0000">
 		<title>Family Feud</title>
 		<desc>Family Feud: The game show that every family loves to play is back!</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241002103000 +0000" stop="20241002120000 +0000">
+	<programme channel="GMA" start="20241127103000 +0000" stop="20241127120000 +0000">
 		<title>24 Oras</title>
 		<desc>24 Oras: The flagship nightly newscast of GMA News and Public Affairs</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241002120000 +0000" stop="20241002125000 +0000">
+	<programme channel="GMA" start="20241127120000 +0000" stop="20241127125000 +0000">
 		<title>Pulang Araw</title>
 		<desc>Pulang Araw: Pulang ArawÃÂ is a family drama that tells stories of courage, sacrifice, and hardships that every Filipino family has. These stories were inspired by the tales of the unsung heroes who defied the odds of World War II and the Japanese o</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241002125000 +0000" stop="20241002133500 +0000">
+	<programme channel="GMA" start="20241127125000 +0000" stop="20241127133500 +0000">
 		<title>Widows' War</title>
 		<desc>Widows' War: Ã¢â¬ËWidowsÃ¢â¬â¢ WarÃ¢â¬â¢ is the newest murder mystery drama series on GMA Network, top-billed by A-list Kapuso actresses Bea Alonzo and Carla Abellana.Ã</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241002133500 +0000" stop="20241002142000 +0000">
+	<programme channel="GMA" start="20241127133500 +0000" stop="20241127142000 +0000">
 		<title>Asawa Ng Asawa Ko</title>
 		<desc>: riend.
 Asawa Ng Asawa Ko: 'Asawa Ng Asawa Ko' tells the story of Cristy, who was presumed dead after she was captured by the armed group KALASAG. When she goes back to her family, she finds that her husband Jordan is now happily married to Shaira, their f</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241002142000 +0000" stop="20241002150000 +0000">
+	<programme channel="GMA" start="20241127142000 +0000" stop="20241127150000 +0000">
 		<title>Saksi</title>
 		<desc>Saksi: Cap off your night with the latest news from Arnold Clavio and Pia Arcangel.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241002150000 +0000" stop="20241002153000 +0000">
-		<title>The Heavenly Idol</title>
-		<desc>The Heavenly Idol: A fantasy-romance drama about an unpopular idol, Nico, whose body was possessed by Rembrary, a high priest of an otherworldly realm.</desc>
+	<programme channel="GMA" start="20241127150000 +0000" stop="20241127153000 +0000">
+		<title>Stealer: The Treasure Keeper</title>
+		<desc>: ish those who are able to evade the law.
+Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of Skunk (Joo Won) a thief who specializes in cultural assets. Skunk will team up with Karma, an unofficial cultural assets recovery team that will help him redeem and pun</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241002153000 +0000" stop="20241002160000 +0000">
-		<title>The Girl Who Sees Smells</title>
-		<desc>The Girl Who Sees Smells: 'The Girl Who Sees Smells'ÃÂ is a romantic fantasy Chinese drama that follows the unconventional love story of Frannie and Michael, which starts with a kiss that is the "antidote" for the strange disease of the latter. Dete</desc>
+	<programme channel="GMA" start="20241127153000 +0000" stop="20241127160000 +0000">
+		<title>Endless Love</title>
+		<desc>:  differences in life are nothing compared to the love they share, but what happens if Drew learns that Aileen is connected to the person who caused the death of his parents? Will he forgive and forget? Or will he turn back from Aileen?
+Endless Love: Follow the story of Drew (Thanat Lowkhunsombat) and Aileen (Violette Wautier) as they prove that the Red String theory is real and find their way into each other's arms in various ways in the Thai romantic drama, 'Endless Love.' Their</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241002160000 +0000" stop="20241002213000 +0000">
+	<programme channel="GMA" start="20241127160000 +0000" stop="20241127213000 +0000">
 		<title>The 700 Club Asia</title>
 		<desc>The 700 Club Asia: A flagship program of CBN Asia, the show brings miracles into your home through encouraging stories and testimonies.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241002213000 +0000" stop="20241003000000 +0000">
+	<programme channel="GMA" start="20241127213000 +0000" stop="20241128000000 +0000">
 		<title>Unang Hirit</title>
 		<desc>Unang Hirit: An early morning show that provides latest news and good vibes with celebrity performances, food trips, and other festivities.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20240929131500 +0000" stop="20240929150000 +0000">
-		<title>Kapuso Mo, Jessica Soho</title>
-		<desc>Kapuso Mo, Jessica Soho: Jessica Soho features stories on food, urban legends, trends, and pop culture in this magazine show.</desc>
+	<programme channel="GMA" start="20241128000000 +0000" stop="20241128002500 +0000">
+		<title>Knock Out</title>
+		<desc>Knock Out: An animated series that shows the life of boxers.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20240929150000 +0000" stop="20240929160000 +0000">
-		<title>The Voice Kids</title>
-		<desc>The Voice Kids: 'The Voice Kids' introduces young stars to be mentored by the brightest Filipino artists and to showcase their talent in the worldÃ¢â¬â¢s biggest singing competition.</desc>
+	<programme channel="GMA" start="20241128002500 +0000" stop="20241128010000 +0000">
+		<title>Snow Eagle Lord</title>
+		<desc>: e is challenging. Xue Ying embarks on a quest to assemble a team of powerful warriors, learning the importance of teamwork and the values of courage, sacrifice, kindness, and love along the way.
+Snow Eagle Lord: 'Snow Eagle Lord' follows the heroic journey of Dong Bo Xue Ying, the Snow Eagle Lord, who is determined to confront evil creatures to protect the world from its doom and rescue his mother. However, facing such formidable foes alon</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20240929213000 +0000" stop="20240930010000 +0000">
-		<title>Dobol B TV</title>
-		<desc>Dobol B TV: Super Radyo DZBB 594 radio programs simulcast on GTV.</desc>
+	<programme channel="GMA" start="20241128010000 +0000" stop="20241128013000 +0000">
+		<title>When The Sky Falls</title>
+		<desc>When The Sky Falls: 'When The Sky Falls' is a Thai drama series about love, revenge, and betrayal. It stars Prang Kannarun Wongkhajornkai and Film Thanapat Kawila.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20240930010000 +0000" stop="20240930030000 +0000">
-		<title>Cinema G!</title>
-		<desc>Cinema G!: Cinema G! is the latest GTV movie block featuring upliftingÃÂ local films including romance, family, and comedy, airing weekdays from 9:00-11:00 AM.</desc>
+	<programme channel="GMA" start="20241128013000 +0000" stop="20241128030000 +0000">
+		<title>Kapuso Movie Festival</title>
+		<desc>Kapuso Movie Festival: Your favorite Hollywood movies dubbed in Filipino.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20240930030000 +0000" stop="20240930040000 +0000">
-		<title>Balitanghali</title>
-		<desc>Balitanghali: GTV's award-winning lunchtime newscast and source of breaking news, anchored by GMA's finest journalists.</desc>
+	<programme channel="GMA" start="20241128030000 +0000" stop="20241128040000 +0000">
+		<title>TiktoClock</title>
+		<desc>TiktoClock: TiktoClock is a one-of-a-kind countdown variety show hosted by Pokwang, Kuya Kim Atienza and Rabiya Mateo.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20240930040000 +0000" stop="20240930063000 +0000">
+	<programme channel="GMA" start="20241128040000 +0000" stop="20241128063000 +0000">
 		<title>It's Showtime</title>
 		<desc>It's Showtime: 'It's Showtime' is ABS-CBN's longest-running noontime variety show that airs from Monday to Saturday on GMA and GTV.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20240930063000 +0000" stop="20240930071500 +0000">
-		<title>The Penthouse 3</title>
-		<desc>: n, and Eugene as Cindy Oh, continues to tell the story of wealthy families living in Hera Palace and their children at Cheong-ah Arts School.
-The Penthouse 3: The desire for revenge is not over yet. The final lap of greed, corruption, justice, and redemption is just beginning in 'The Penthouse Season 3.' The final season, headlined by Lee Ji-ah as Simone Shim, Kim So-yeon as Scarlet Cheo</desc>
+	<programme channel="GMA" start="20241128063000 +0000" stop="20241128072000 +0000">
+		<title>Lilet Matias, Attorney-At-Law</title>
+		<desc>Lilet Matias, Attorney-At-Law: Lilet Matias, Attorney-at-Law tells the story of a little person who has big dreams of fighting for people like her in a world full of injustices, discrimination, sexism, abuse, and poverty.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20240930071500 +0000" stop="20240930093000 +0000">
+	<programme channel="GMA" start="20241128072000 +0000" stop="20241128080500 +0000">
+		<title>Shining Inheritance</title>
+		<desc>Shining Inheritance</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241128080500 +0000" stop="20241128084500 +0000">
+		<title>Forever Young</title>
+		<desc>Forever Young: 'Forever Young' is an inspirational family drama series that follows the story of Rambo, a 25-year-old with panhypopituitarism, a rare condition that slows his growth hormone and retains his childlike appearance. ThroughÃÂ hisÃÂ life a</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241128084500 +0000" stop="20241128091000 +0000">
+		<title>Fast Talk with Boy Abunda</title>
+		<desc>: th guest celebrities.
+Fast Talk with Boy Abunda: 'Fast Talk with Boy Abunda' is a multi-platform showbiz news and talk show. Hosted by the King of Talk Boy Abunda, the show features a rundown and analysis of the latest showbiz-related news or stories and an interview wi</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241128091000 +0000" stop="20241128094000 +0000">
+		<title>Love at First Night</title>
+		<desc>Love at First Night</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241128094000 +0000" stop="20241128103000 +0000">
+		<title>Family Feud</title>
+		<desc>Family Feud: The game show that every family loves to play is back!</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241128103000 +0000" stop="20241128120000 +0000">
+		<title>24 Oras</title>
+		<desc>24 Oras: The flagship nightly newscast of GMA News and Public Affairs</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241128120000 +0000" stop="20241128125000 +0000">
+		<title>Pulang Araw</title>
+		<desc>Pulang Araw: Pulang ArawÃÂ is a family drama that tells stories of courage, sacrifice, and hardships that every Filipino family has. These stories were inspired by the tales of the unsung heroes who defied the odds of World War II and the Japanese o</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241128125000 +0000" stop="20241128133500 +0000">
+		<title>Widows' War</title>
+		<desc>Widows' War: Ã¢â¬ËWidowsÃ¢â¬â¢ WarÃ¢â¬â¢ is the newest murder mystery drama series on GMA Network, top-billed by A-list Kapuso actresses Bea Alonzo and Carla Abellana.Ã</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241128133500 +0000" stop="20241128142000 +0000">
+		<title>Asawa Ng Asawa Ko</title>
+		<desc>: riend.
+Asawa Ng Asawa Ko: 'Asawa Ng Asawa Ko' tells the story of Cristy, who was presumed dead after she was captured by the armed group KALASAG. When she goes back to her family, she finds that her husband Jordan is now happily married to Shaira, their f</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241128142000 +0000" stop="20241128150000 +0000">
+		<title>Saksi</title>
+		<desc>Saksi: Cap off your night with the latest news from Arnold Clavio and Pia Arcangel.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241128150000 +0000" stop="20241128153000 +0000">
+		<title>Stealer: The Treasure Keeper</title>
+		<desc>: ish those who are able to evade the law.
+Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of Skunk (Joo Won) a thief who specializes in cultural assets. Skunk will team up with Karma, an unofficial cultural assets recovery team that will help him redeem and pun</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241128153000 +0000" stop="20241128160000 +0000">
+		<title>Endless Love</title>
+		<desc>:  differences in life are nothing compared to the love they share, but what happens if Drew learns that Aileen is connected to the person who caused the death of his parents? Will he forgive and forget? Or will he turn back from Aileen?
+Endless Love: Follow the story of Drew (Thanat Lowkhunsombat) and Aileen (Violette Wautier) as they prove that the Red String theory is real and find their way into each other's arms in various ways in the Thai romantic drama, 'Endless Love.' Their</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241128160000 +0000" stop="20241128213000 +0000">
+		<title>The 700 Club Asia</title>
+		<desc>The 700 Club Asia: A flagship program of CBN Asia, the show brings miracles into your home through encouraging stories and testimonies.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241128213000 +0000" stop="20241129000000 +0000">
+		<title>Unang Hirit</title>
+		<desc>Unang Hirit: An early morning show that provides latest news and good vibes with celebrity performances, food trips, and other festivities.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241129000000 +0000" stop="20241129002500 +0000">
+		<title>Knock Out</title>
+		<desc>Knock Out: An animated series that shows the life of boxers.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241129002500 +0000" stop="20241129010000 +0000">
+		<title>Snow Eagle Lord</title>
+		<desc>: e is challenging. Xue Ying embarks on a quest to assemble a team of powerful warriors, learning the importance of teamwork and the values of courage, sacrifice, kindness, and love along the way.
+Snow Eagle Lord: 'Snow Eagle Lord' follows the heroic journey of Dong Bo Xue Ying, the Snow Eagle Lord, who is determined to confront evil creatures to protect the world from its doom and rescue his mother. However, facing such formidable foes alon</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241129010000 +0000" stop="20241129013000 +0000">
+		<title>When The Sky Falls</title>
+		<desc>When The Sky Falls: 'When The Sky Falls' is a Thai drama series about love, revenge, and betrayal. It stars Prang Kannarun Wongkhajornkai and Film Thanapat Kawila.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241129013000 +0000" stop="20241129030000 +0000">
+		<title>Kapuso Movie Festival</title>
+		<desc>Kapuso Movie Festival: Your favorite Hollywood movies dubbed in Filipino.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241129030000 +0000" stop="20241129040000 +0000">
+		<title>TiktoClock</title>
+		<desc>TiktoClock: TiktoClock is a one-of-a-kind countdown variety show hosted by Pokwang, Kuya Kim Atienza and Rabiya Mateo.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241129040000 +0000" stop="20241129063000 +0000">
+		<title>It's Showtime</title>
+		<desc>It's Showtime: 'It's Showtime' is ABS-CBN's longest-running noontime variety show that airs from Monday to Saturday on GMA and GTV.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241129063000 +0000" stop="20241129072000 +0000">
+		<title>Lilet Matias, Attorney-At-Law</title>
+		<desc>Lilet Matias, Attorney-At-Law: Lilet Matias, Attorney-at-Law tells the story of a little person who has big dreams of fighting for people like her in a world full of injustices, discrimination, sexism, abuse, and poverty.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241129072000 +0000" stop="20241129080500 +0000">
+		<title>Shining Inheritance</title>
+		<desc>Shining Inheritance</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241129080500 +0000" stop="20241129084500 +0000">
+		<title>Forever Young</title>
+		<desc>Forever Young: 'Forever Young' is an inspirational family drama series that follows the story of Rambo, a 25-year-old with panhypopituitarism, a rare condition that slows his growth hormone and retains his childlike appearance. ThroughÃÂ hisÃÂ life a</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241129084500 +0000" stop="20241129091000 +0000">
+		<title>Fast Talk with Boy Abunda</title>
+		<desc>: th guest celebrities.
+Fast Talk with Boy Abunda: 'Fast Talk with Boy Abunda' is a multi-platform showbiz news and talk show. Hosted by the King of Talk Boy Abunda, the show features a rundown and analysis of the latest showbiz-related news or stories and an interview wi</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241129091000 +0000" stop="20241129094000 +0000">
+		<title>Love at First Night</title>
+		<desc>Love at First Night</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241129094000 +0000" stop="20241129103000 +0000">
+		<title>Family Feud</title>
+		<desc>Family Feud: The game show that every family loves to play is back!</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241129103000 +0000" stop="20241129120000 +0000">
+		<title>24 Oras</title>
+		<desc>24 Oras: The flagship nightly newscast of GMA News and Public Affairs</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241129120000 +0000" stop="20241129125000 +0000">
+		<title>Pulang Araw</title>
+		<desc>Pulang Araw: Pulang ArawÃÂ is a family drama that tells stories of courage, sacrifice, and hardships that every Filipino family has. These stories were inspired by the tales of the unsung heroes who defied the odds of World War II and the Japanese o</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241129125000 +0000" stop="20241129133500 +0000">
+		<title>Widows' War</title>
+		<desc>Widows' War: Ã¢â¬ËWidowsÃ¢â¬â¢ WarÃ¢â¬â¢ is the newest murder mystery drama series on GMA Network, top-billed by A-list Kapuso actresses Bea Alonzo and Carla Abellana.Ã</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241129133500 +0000" stop="20241129142000 +0000">
+		<title>Amazing Earth</title>
+		<desc>Amazing Earth: Dingdong Dantes showcases raw beauty of the Earth in this weekly infotainment program.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241129142000 +0000" stop="20241129150000 +0000">
+		<title>Saksi</title>
+		<desc>Saksi: Cap off your night with the latest news from Arnold Clavio and Pia Arcangel.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241129150000 +0000" stop="20241129153000 +0000">
+		<title>Stealer: The Treasure Keeper</title>
+		<desc>: ish those who are able to evade the law.
+Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of Skunk (Joo Won) a thief who specializes in cultural assets. Skunk will team up with Karma, an unofficial cultural assets recovery team that will help him redeem and pun</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241129153000 +0000" stop="20241129160000 +0000">
+		<title>Endless Love</title>
+		<desc>:  differences in life are nothing compared to the love they share, but what happens if Drew learns that Aileen is connected to the person who caused the death of his parents? Will he forgive and forget? Or will he turn back from Aileen?
+Endless Love: Follow the story of Drew (Thanat Lowkhunsombat) and Aileen (Violette Wautier) as they prove that the Red String theory is real and find their way into each other's arms in various ways in the Thai romantic drama, 'Endless Love.' Their</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241129160000 +0000" stop="20241129210000 +0000">
+		<title>The 700 Club Asia</title>
+		<desc>The 700 Club Asia: A flagship program of CBN Asia, the show brings miracles into your home through encouraging stories and testimonies.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241129210000 +0000" stop="20241129213000 +0000">
+		<title>Kapwa Ko, Mahal Ko</title>
+		<desc>Kapwa Ko, Mahal Ko: The longest-running public service program on Philippine television.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241129213000 +0000" stop="20241129220000 +0000">
+		<title>Agripreneur</title>
+		<desc>Agripreneur: Features the latest innovations and procedures in farming as well as agri-business ideas for farmers and entrepreneurs.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241129220000 +0000" stop="20241129230000 +0000">
+		<title>Pinoy M.D.</title>
+		<desc>Pinoy M.D.: Weekly morning show hosted by Connie Sison that provides information about various health concerns.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241129230000 +0000" stop="20241129233000 +0000">
+		<title>Turbo Zone</title>
+		<desc>Turbo Zone: News and features about various models of cars and motorcycles.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241129233000 +0000" stop="20241130000000 +0000">
+		<title>Healing Galing</title>
+		<desc>: ay."
+Healing Galing: Hosted by Dr. Edinell Calvario, 'Healing Galing' is a health and wellness television show that teaches Filipinos how to care for one's health and treat ailments at home using the holistic approach, aptly called "the Healing Galing w</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241130000000 +0000" stop="20241130003000 +0000">
+		<title>Yashahime</title>
+		<desc>Yashahime: Half-demon twins, Towa and Setsuna, get separated during their childhood by a fateful accident. Years later, they are reunited but Towa learns that her twin has no memory of her past.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241130003000 +0000" stop="20241130010000 +0000">
+		<title>Cardcaptor Sakura</title>
+		<desc>: ards grants different magical powers, and can only be activated by someone with inherent magical abilities.
+Cardcaptor Sakura: The story centers on Sakura Kinomoto, an elementary school student who discovers magical powers after accidentally freeing a set of magical cards into the world; she must retrieve the cards to prevent catastrophe. Each of these c</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241130010000 +0000" stop="20241130013000 +0000">
+		<title>Kung Fu Panda</title>
+		<desc>Kung Fu Panda: 'Kung Fu Panda' follows the adventures of Po, a giant panda who is unexpectedly chosen as the prophesied Dragon Warrior. HeÃÂ becomes a master of Kung Fu who will try to save the Valley of Peace from Tai Lung's wrath.Ã</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241130013000 +0000" stop="20241130020000 +0000">
+		<title>Piggy Tales</title>
+		<desc>Piggy Tales: Piggy Tales follows the lives of the minion pigs as they navigate their surroundings with their limited wisdom.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241130020000 +0000" stop="20241130023000 +0000">
+		<title>Knock Out</title>
+		<desc>Knock Out: An animated series that shows the life of boxers.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241130023000 +0000" stop="20241130031500 +0000">
+		<title>Dami Mong Alam, Kuya Kim</title>
+		<desc>Dami Mong Alam, Kuya Kim: Dami Mong Alam, Kuya Kim is a dynamic infotainment program that taps into the endless stream of user-generated content (UGC) from Facebook, YouTube, and Tiktok.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241130031500 +0000" stop="20241130040000 +0000">
+		<title>Pera Paraan</title>
+		<desc>Pera Paraan: Learn tips on handling household finances, earning more income, and succeeding in a work-from-home environment from this show.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241130040000 +0000" stop="20241130063000 +0000">
+		<title>It's Showtime</title>
+		<desc>It's Showtime: 'It's Showtime' is ABS-CBN's longest-running noontime variety show that airs from Monday to Saturday on GMA and GTV.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241130063000 +0000" stop="20241130071500 +0000">
+		<title>Lilet Matias, Attorney-At-Law</title>
+		<desc>Lilet Matias, Attorney-At-Law: Lilet Matias, Attorney-at-Law tells the story of a little person who has big dreams of fighting for people like her in a world full of injustices, discrimination, sexism, abuse, and poverty.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241130071500 +0000" stop="20241130080500 +0000">
+		<title>Tadhana</title>
+		<desc>Tadhana: Hosted by Marian Rivera, Tadhana is a drama anthology featuring the colorful, heroic, and inspiring stories of OFWs.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241130080500 +0000" stop="20241130084500 +0000">
+		<title>Wish Ko Lang</title>
+		<desc>Wish Ko Lang: Another Saturday, another wish comes true, courtesy of everyone's favorite wish-granter, Vicky Morales.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241130084500 +0000" stop="20241130093000 +0000">
+		<title>MAKA</title>
+		<desc>MAKA: MAKA is an exciting teen drama that aims to bridge generational gaps by addressing relatable issues faced by Gen Z and their interactions with other generations, including millennials, Gen X, and boomers.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241130093000 +0000" stop="20241130101500 +0000">
+		<title>24 Oras Weekend</title>
+		<desc>24 Oras Weekend: The award-winning news broadcasting program brings the latest on what's happening in the Philippines and around the world.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241130101500 +0000" stop="20241130111500 +0000">
+		<title>Pepito Manaloto: Tuloy Ang Kuwento</title>
+		<desc>: eflects the humorous realities of everyday Filipino life, highlighting family values that help the lead characters to face challenges with optimism, and celebrating the special, happy moments - big or small- that we all aspire to share with our l, oved ones. Set in the present-day, the stories are based on real-life experiences and portrayed with humor and wit by the country's top-notch comedians, led by the show's creator, lead star, and director, Michael V.
+Pepito Manaloto: Tuloy Ang Kuwento: "PEPITO MANALOTO, TULOY ANG KUWENTO" is the continuing comedic chronicle of the life of Pepito Manaloto, a lucky multimillion lotto winner, his family, and the merry mix of neighbors and colleagues. The program r</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241130111500 +0000" stop="20241130121500 +0000">
+		<title>The Clash</title>
+		<desc>The Clash: GMA Network's original musical competition - The Clash - is back with bigger and more surprising twists!</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241130121500 +0000" stop="20241130133000 +0000">
+		<title>Magpakailanman</title>
+		<desc>Magpakailanman: GMA's award-winning drama anthology Magpakailanman features stories that warm the heart and enrich the soul.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241130133000 +0000" stop="20241130141500 +0000">
+		<title>Heart WorldÃ</title>
+		<desc>Heart WorldÃ: Heart WorldÃÂ is a limited series following multi-faceted KapusoÃÂ star, HeartÃÂ Evangelista, from exhilarating fashion week in Europe to her private life in Manila.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241130141500 +0000" stop="20241130150000 +0000">
+		<title>I-Witness</title>
+		<desc>I-Witness: Philippine's pioneer documentary program tackles current issues in an in-depth manner.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241130150000 +0000" stop="20241130153000 +0000">
+		<title>Reporter's Notebook</title>
+		<desc>Reporter's Notebook: This multi-awarded investigative news magazine program takes you to the stories behind the news.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20241130153000 +0000" stop="20241130160000 +0000">
+		<title>Dear SV</title>
+		<desc>Dear SV: Hosted by Sam "SV"ÃÂ Versoza, 'Dear SV' features inspiring stories of ordinary Filipinos who never lose hope and remain resilient despite the struggles and challenges they face every day.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20241125073000 +0000" stop="20241125094500 +0000">
 		<title>Regal Treasures</title>
 		<desc>Regal Treasures: Relive the nostalgic moments and the most unforgettable movies in Regal Treasures.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20240930093000 +0000" stop="20240930103000 +0000">
-		<title>Dapat Alam Mo!</title>
-		<desc>Dapat Alam Mo!: 'Dapat Alam Mo!' is a daily newsmagazine program that showcases current events as well as timely and relatable feature stories for the public.</desc>
+	<programme channel="GTV" start="20241125094500 +0000" stop="20241125103000 +0000">
+		<title>Lutong Bahay</title>
+		<desc>Lutong Bahay: 'Lutong Bahay' is a guaranteed mix of food, laughter, and heartfelt conversations that will make your kitchen more homey and food even more yummy!</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20240930103000 +0000" stop="20240930120000 +0000">
+	<programme channel="GTV" start="20241125103000 +0000" stop="20241125120000 +0000">
 		<title>24 Oras</title>
 		<desc>24 Oras: The flagship nightly newscast of GMA News and Public Affairs</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20240930120000 +0000" stop="20240930134000 +0000">
+	<programme channel="GTV" start="20241125120000 +0000" stop="20241125134000 +0000">
 		<title>G! Flicks</title>
 		<desc>G! Flicks: Weeknights movie block on GTV.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20240930134000 +0000" stop="20240930143000 +0000">
+	<programme channel="GTV" start="20241125134000 +0000" stop="20241125143000 +0000">
 		<title>Pulang Araw</title>
 		<desc>Pulang Araw: Pulang ArawÃÂ is a family drama that tells stories of courage, sacrifice, and hardships that every Filipino family has. These stories were inspired by the tales of the unsung heroes who defied the odds of World War II and the Japanese o</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20240930143000 +0000" stop="20240930150500 +0000">
+	<programme channel="GTV" start="20241125143000 +0000" stop="20241125150500 +0000">
 		<title>Widows' War</title>
 		<desc>Widows' War: Ã¢â¬ËWidowsÃ¢â¬â¢ WarÃ¢â¬â¢ is the newest murder mystery drama series on GMA Network, top-billed by A-list Kapuso actresses Bea Alonzo and Carla Abellana.Ã</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20240930150500 +0000" stop="20240930152500 +0000">
+	<programme channel="GTV" start="20241125150500 +0000" stop="20241125152500 +0000">
 		<title>State of the Nation</title>
 		<desc>State of the Nation: State of the Nation is a newscast anchored by Atom Araullo and Maki Pulido that airs weeknights at 9:15 p.m. on GTV.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20240930152500 +0000" stop="20240930160000 +0000">
+	<programme channel="GTV" start="20241125152500 +0000" stop="20241125160000 +0000">
 		<title>Asawa Ng Asawa Ko</title>
 		<desc>: riend.
 Asawa Ng Asawa Ko: 'Asawa Ng Asawa Ko' tells the story of Cristy, who was presumed dead after she was captured by the armed group KALASAG. When she goes back to her family, she finds that her husband Jordan is now happily married to Shaira, their f</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20240930213000 +0000" stop="20241001010000 +0000">
+	<programme channel="GTV" start="20241125213000 +0000" stop="20241126010000 +0000">
 		<title>Dobol B TV</title>
 		<desc>Dobol B TV: Super Radyo DZBB 594 radio programs simulcast on GTV.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20241001010000 +0000" stop="20241001030000 +0000">
+	<programme channel="GTV" start="20241126010000 +0000" stop="20241126030000 +0000">
 		<title>Cinema G!</title>
 		<desc>Cinema G!: Cinema G! is the latest GTV movie block featuring upliftingÃÂ local films including romance, family, and comedy, airing weekdays from 9:00-11:00 AM.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20241001030000 +0000" stop="20241001040000 +0000">
+	<programme channel="GTV" start="20241126030000 +0000" stop="20241126040000 +0000">
 		<title>Balitanghali</title>
 		<desc>Balitanghali: GTV's award-winning lunchtime newscast and source of breaking news, anchored by GMA's finest journalists.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20241001040000 +0000" stop="20241001063000 +0000">
+	<programme channel="GTV" start="20241126040000 +0000" stop="20241126063000 +0000">
 		<title>It's Showtime</title>
 		<desc>It's Showtime: 'It's Showtime' is ABS-CBN's longest-running noontime variety show that airs from Monday to Saturday on GMA and GTV.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20241001063000 +0000" stop="20241001090000 +0000">
-		<title>NCAA Siglo Uno: Inspiring Legacies</title>
-		<desc>: " and a series of activities to honor the league's "10 Greatest Players."
-NCAA Siglo Uno: Inspiring Legacies: Spanning 100 years of excellence in sports, the National Collegiate Athletic Association (NCAA) celebrates its historic centennial season this 2024 with a brand new logo and theme, "Siglo Uno: Inspiring Legacies,</desc>
+	<programme channel="GTV" start="20241126063000 +0000" stop="20241126070000 +0000">
+		<title>Goblin: The Lonely and Great God</title>
+		<desc>: an immortal goblin. To end his immortality, he needs to find the GoblinÃ¢â¬â¢s bride, Ella (Kim Go-eun).
+Goblin: The Lonely and Great God: 'Goblin: The Lonely and Great God' stars renowned Korean actors Gong Yoo, Kim Go-eun, and Lee Dong-wook. This fantasy drama tells the story of Kim Shin (Gong Yoo), a decorated military general who will soon become </desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20241001090000 +0000" stop="20241001093000 +0000">
-		<title>The Penthouse 3</title>
-		<desc>: n, and Eugene as Cindy Oh, continues to tell the story of wealthy families living in Hera Palace and their children at Cheong-ah Arts School.
-The Penthouse 3: The desire for revenge is not over yet. The final lap of greed, corruption, justice, and redemption is just beginning in 'The Penthouse Season 3.' The final season, headlined by Lee Ji-ah as Simone Shim, Kim So-yeon as Scarlet Cheo</desc>
+	<programme channel="GTV" start="20241126070000 +0000" stop="20241126073000 +0000">
+		<title>The Witch's Diner</title>
+		<desc>: ce the most precious thing in their life.
+The Witch's Diner: The Witch's Diner tells the story of desperate people who come to dine at the restaurant operated by a witch named Hera (Song Ji-hyo), hoping to get their wishes fulfilled through a special meal. In exchange, they have to sacrifi</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20241001093000 +0000" stop="20241001103000 +0000">
-		<title>Dapat Alam Mo!</title>
-		<desc>Dapat Alam Mo!: 'Dapat Alam Mo!' is a daily newsmagazine program that showcases current events as well as timely and relatable feature stories for the public.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20241001103000 +0000" stop="20241001120000 +0000">
-		<title>24 Oras</title>
-		<desc>24 Oras: The flagship nightly newscast of GMA News and Public Affairs</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20241001120000 +0000" stop="20241001134000 +0000">
-		<title>G! Flicks</title>
-		<desc>G! Flicks: Weeknights movie block on GTV.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20241001134000 +0000" stop="20241001143000 +0000">
-		<title>Pulang Araw</title>
-		<desc>Pulang Araw: Pulang ArawÃÂ is a family drama that tells stories of courage, sacrifice, and hardships that every Filipino family has. These stories were inspired by the tales of the unsung heroes who defied the odds of World War II and the Japanese o</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20241001143000 +0000" stop="20241001150500 +0000">
-		<title>Widows' War</title>
-		<desc>Widows' War: Ã¢â¬ËWidowsÃ¢â¬â¢ WarÃ¢â¬â¢ is the newest murder mystery drama series on GMA Network, top-billed by A-list Kapuso actresses Bea Alonzo and Carla Abellana.Ã</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20241001150500 +0000" stop="20241001152500 +0000">
-		<title>State of the Nation</title>
-		<desc>State of the Nation: State of the Nation is a newscast anchored by Atom Araullo and Maki Pulido that airs weeknights at 9:15 p.m. on GTV.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20241001152500 +0000" stop="20241001160000 +0000">
-		<title>Asawa Ng Asawa Ko</title>
-		<desc>: riend.
-Asawa Ng Asawa Ko: 'Asawa Ng Asawa Ko' tells the story of Cristy, who was presumed dead after she was captured by the armed group KALASAG. When she goes back to her family, she finds that her husband Jordan is now happily married to Shaira, their f</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20241001213000 +0000" stop="20241002010000 +0000">
-		<title>Dobol B TV</title>
-		<desc>Dobol B TV: Super Radyo DZBB 594 radio programs simulcast on GTV.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20241002010000 +0000" stop="20241002030000 +0000">
-		<title>Cinema G!</title>
-		<desc>Cinema G!: Cinema G! is the latest GTV movie block featuring upliftingÃÂ local films including romance, family, and comedy, airing weekdays from 9:00-11:00 AM.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20241002030000 +0000" stop="20241002040000 +0000">
-		<title>Balitanghali</title>
-		<desc>Balitanghali: GTV's award-winning lunchtime newscast and source of breaking news, anchored by GMA's finest journalists.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20241002040000 +0000" stop="20241002063000 +0000">
-		<title>It's Showtime</title>
-		<desc>It's Showtime: 'It's Showtime' is ABS-CBN's longest-running noontime variety show that airs from Monday to Saturday on GMA and GTV.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20241002063000 +0000" stop="20241002071500 +0000">
-		<title>The Penthouse 3</title>
-		<desc>: n, and Eugene as Cindy Oh, continues to tell the story of wealthy families living in Hera Palace and their children at Cheong-ah Arts School.
-The Penthouse 3: The desire for revenge is not over yet. The final lap of greed, corruption, justice, and redemption is just beginning in 'The Penthouse Season 3.' The final season, headlined by Lee Ji-ah as Simone Shim, Kim So-yeon as Scarlet Cheo</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20241002071500 +0000" stop="20241002093000 +0000">
+	<programme channel="GTV" start="20241126073000 +0000" stop="20241126094500 +0000">
 		<title>Siesta Fiesta Movies</title>
 		<desc>Siesta Fiesta Movies: The best of western and action movies, dubbed in Filipino</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20241002093000 +0000" stop="20241002103000 +0000">
-		<title>Dapat Alam Mo!</title>
-		<desc>Dapat Alam Mo!: 'Dapat Alam Mo!' is a daily newsmagazine program that showcases current events as well as timely and relatable feature stories for the public.</desc>
+	<programme channel="GTV" start="20241126094500 +0000" stop="20241126103000 +0000">
+		<title>Lutong Bahay</title>
+		<desc>Lutong Bahay: 'Lutong Bahay' is a guaranteed mix of food, laughter, and heartfelt conversations that will make your kitchen more homey and food even more yummy!</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20241002103000 +0000" stop="20241002120000 +0000">
+	<programme channel="GTV" start="20241126103000 +0000" stop="20241126120000 +0000">
 		<title>24 Oras</title>
 		<desc>24 Oras: The flagship nightly newscast of GMA News and Public Affairs</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20241002120000 +0000" stop="20241002134000 +0000">
+	<programme channel="GTV" start="20241126120000 +0000" stop="20241126134000 +0000">
 		<title>G! Flicks</title>
 		<desc>G! Flicks: Weeknights movie block on GTV.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20241002134000 +0000" stop="20241002143000 +0000">
+	<programme channel="GTV" start="20241126134000 +0000" stop="20241126143000 +0000">
 		<title>Pulang Araw</title>
 		<desc>Pulang Araw: Pulang ArawÃÂ is a family drama that tells stories of courage, sacrifice, and hardships that every Filipino family has. These stories were inspired by the tales of the unsung heroes who defied the odds of World War II and the Japanese o</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20241002143000 +0000" stop="20241002150500 +0000">
+	<programme channel="GTV" start="20241126143000 +0000" stop="20241126150500 +0000">
 		<title>Widows' War</title>
 		<desc>Widows' War: Ã¢â¬ËWidowsÃ¢â¬â¢ WarÃ¢â¬â¢ is the newest murder mystery drama series on GMA Network, top-billed by A-list Kapuso actresses Bea Alonzo and Carla Abellana.Ã</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20241002150500 +0000" stop="20241002152500 +0000">
+	<programme channel="GTV" start="20241126150500 +0000" stop="20241126152500 +0000">
 		<title>State of the Nation</title>
 		<desc>State of the Nation: State of the Nation is a newscast anchored by Atom Araullo and Maki Pulido that airs weeknights at 9:15 p.m. on GTV.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20241002152500 +0000" stop="20241002160000 +0000">
+	<programme channel="GTV" start="20241126152500 +0000" stop="20241126160000 +0000">
 		<title>Asawa Ng Asawa Ko</title>
 		<desc>: riend.
 Asawa Ng Asawa Ko: 'Asawa Ng Asawa Ko' tells the story of Cristy, who was presumed dead after she was captured by the armed group KALASAG. When she goes back to her family, she finds that her husband Jordan is now happily married to Shaira, their f</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20241002213000 +0000" stop="20241003010000 +0000">
+	<programme channel="GTV" start="20241126213000 +0000" stop="20241127010000 +0000">
 		<title>Dobol B TV</title>
 		<desc>Dobol B TV: Super Radyo DZBB 594 radio programs simulcast on GTV.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240929120000 +0000" stop="20240929140000 +0000">
-		<title>Asian Cinemix</title>
-		<desc>Asian Cinemix: A movie block that features a combination of different Asian films with genres ranging from fantasy, comedy, action and the classics.</desc>
+	<programme channel="GTV" start="20241127010000 +0000" stop="20241127030000 +0000">
+		<title>Cinema G!</title>
+		<desc>Cinema G!: Cinema G! is the latest GTV movie block featuring upliftingÃÂ local films including romance, family, and comedy, airing weekdays from 9:00-11:00 AM.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240929140000 +0000" stop="20240929150000 +0000">
-		<title>Moon Embracing the Sun</title>
-		<desc>: s with her life, but loses her memories. All believe her to be dead, including the Crown Prince Hwon (Kim Soo-hyun), who loves her and whom she was to marry.
-Moon Embracing the Sun: Thirteen-year-old Heo Yeon Woo (Han Ga-in) is chosen to become the Crown Princess of Joseon until the Dowager Queen plots against her and secretly orders her death. With the help of a powerful shaman's magic, Yeon Woo escape</desc>
+	<programme channel="GTV" start="20241127030000 +0000" stop="20241127040000 +0000">
+		<title>Balitanghali</title>
+		<desc>Balitanghali: GTV's award-winning lunchtime newscast and source of breaking news, anchored by GMA's finest journalists.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240929150000 +0000" stop="20240929160000 +0000">
-		<title>General and I</title>
-		<desc>: e each other, but are torn between rekindling their past love and fighting for their kingdoms.
-General and I: Chu Bei Jie and Bai Ping Ting fell in love in their youth, but the war between their kingdoms kept them apart. Years later, Chu Bei Jie becomes a powerful general while Bai Ping Ting is an exemplary military strategist. They recogniz</desc>
+	<programme channel="GTV" start="20241127040000 +0000" stop="20241127063000 +0000">
+		<title>It's Showtime</title>
+		<desc>It's Showtime: 'It's Showtime' is ABS-CBN's longest-running noontime variety show that airs from Monday to Saturday on GMA and GTV.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240929220000 +0000" stop="20240929224500 +0000">
+	<programme channel="GTV" start="20241127063000 +0000" stop="20241127070000 +0000">
+		<title>Goblin: The Lonely and Great God</title>
+		<desc>: an immortal goblin. To end his immortality, he needs to find the GoblinÃ¢â¬â¢s bride, Ella (Kim Go-eun).
+Goblin: The Lonely and Great God: 'Goblin: The Lonely and Great God' stars renowned Korean actors Gong Yoo, Kim Go-eun, and Lee Dong-wook. This fantasy drama tells the story of Kim Shin (Gong Yoo), a decorated military general who will soon become </desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20241127070000 +0000" stop="20241127073000 +0000">
+		<title>The Witch's Diner</title>
+		<desc>: ce the most precious thing in their life.
+The Witch's Diner: The Witch's Diner tells the story of desperate people who come to dine at the restaurant operated by a witch named Hera (Song Ji-hyo), hoping to get their wishes fulfilled through a special meal. In exchange, they have to sacrifi</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20241127073000 +0000" stop="20241127094500 +0000">
+		<title>Siesta Fiesta Movies</title>
+		<desc>Siesta Fiesta Movies: The best of western and action movies, dubbed in Filipino</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20241127094500 +0000" stop="20241127103000 +0000">
+		<title>Lutong Bahay</title>
+		<desc>Lutong Bahay: 'Lutong Bahay' is a guaranteed mix of food, laughter, and heartfelt conversations that will make your kitchen more homey and food even more yummy!</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20241127103000 +0000" stop="20241127120000 +0000">
+		<title>24 Oras</title>
+		<desc>24 Oras: The flagship nightly newscast of GMA News and Public Affairs</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20241127120000 +0000" stop="20241127134000 +0000">
+		<title>G! Flicks</title>
+		<desc>G! Flicks: Weeknights movie block on GTV.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20241127134000 +0000" stop="20241127143000 +0000">
+		<title>Pulang Araw</title>
+		<desc>Pulang Araw: Pulang ArawÃÂ is a family drama that tells stories of courage, sacrifice, and hardships that every Filipino family has. These stories were inspired by the tales of the unsung heroes who defied the odds of World War II and the Japanese o</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20241127143000 +0000" stop="20241127150500 +0000">
+		<title>Widows' War</title>
+		<desc>Widows' War: Ã¢â¬ËWidowsÃ¢â¬â¢ WarÃ¢â¬â¢ is the newest murder mystery drama series on GMA Network, top-billed by A-list Kapuso actresses Bea Alonzo and Carla Abellana.Ã</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20241127150500 +0000" stop="20241127152500 +0000">
+		<title>State of the Nation</title>
+		<desc>State of the Nation: State of the Nation is a newscast anchored by Atom Araullo and Maki Pulido that airs weeknights at 9:15 p.m. on GTV.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20241127152500 +0000" stop="20241127160000 +0000">
+		<title>Asawa Ng Asawa Ko</title>
+		<desc>: riend.
+Asawa Ng Asawa Ko: 'Asawa Ng Asawa Ko' tells the story of Cristy, who was presumed dead after she was captured by the armed group KALASAG. When she goes back to her family, she finds that her husband Jordan is now happily married to Shaira, their f</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20241127213000 +0000" stop="20241128010000 +0000">
+		<title>Dobol B TV</title>
+		<desc>Dobol B TV: Super Radyo DZBB 594 radio programs simulcast on GTV.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241125091000 +0000" stop="20241125095500 +0000">
+		<title>Douluo Continent</title>
+		<desc>: oal to be strong enough to reveal his family secrets would be tough but with the help of the people who support him, he would conquer all obstacles.
+Douluo Continent: 'Douluo Continent' tackles the story of a young man named Tang San (Xhan Xiao) who grew up in a village and has a very huge potential. He realized his powers when he was six years old and was sent to an academy for training. His g</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241125095500 +0000" stop="20241125104000 +0000">
 		<title>The Long Ballad</title>
 		<desc>The Long Ballad: After her father, the Crown Prince of Tang, and her family were killed because of her uncle's doing, Li Changge managed to escape the coup. She headedÃÂ to Shuo Province under the guise of a man with hopes of raising an army to kill</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240929224500 +0000" stop="20240929233000 +0000">
-		<title>Queen and I</title>
-		<desc>Queen and I: 'Queen and I' is a love story that transcends time, as it brings together two different people from the past and the present.</desc>
+	<programme channel="HEART OF ASIA" start="20241125104000 +0000" stop="20241125112500 +0000">
+		<title>Jumong</title>
+		<desc>Jumong: 'Jumong' is a tale of a hero whose legacy to the Korean people is his great historical triumph against thousands of armies to win back the skies of his old kingdom, the Old Joseon, and establish what would become the great Goguryeo Dynasty.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240929233000 +0000" stop="20240930001500 +0000">
+	<programme channel="HEART OF ASIA" start="20241125112500 +0000" stop="20241125120500 +0000">
+		<title>Romantic Deception</title>
+		<desc>: ecret crush on him.
+Romantic Deception: 'Romantic Deception' starts with Roy, who got hurt and heartbroken after his girlfriend Korina cheated on him with his dad. Due to sudden circumstances, Roy is forced to marry Patty, the younger sister of Korina, who harbors a s</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241125120500 +0000" stop="20241125125000 +0000">
+		<title>Delayed Justice</title>
+		<desc>Delayed Justice: 'Delayed Justice' tells the story of a public defender and a reporter, both represent the voices of judicial victims who are falsely accused.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241125125000 +0000" stop="20241125133500 +0000">
 		<title>The Wolf</title>
 		<desc>: s the boy again, but only to find that he has become Prince Bo, the royal prince working for the King. Their love-hate relationship is intensified by the appearance of bounty hunter Ji Chong (Xiao Zhan). Struggling between power and loyalty, the , two are inevitably involved in a battle to defend their deep-rooted love.
 The Wolf: 'The Wolf' stars Li Qin as Ma Zhai Xing, a government official's daughter who befriends a wolf-raised boy (Darren Wang) in her teenage years and is forced to quit contact with him due to a political conspiracy. Eight years later, she meet</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240930001500 +0000" stop="20240930010000 +0000">
-		<title>What's Wrong With Secretary Kim</title>
-		<desc>: ng for him. Franco then decides to do whatever he can to make sure Macy staysÃÂ by his side. Will Franco succeed in keeping Macy in the company and in his life?
-What's Wrong With Secretary Kim: 'What's Wrong With Secretary Kim' tells the story of Franco Lee (Park Seo-joon), whose life is shaken when his highly-capable secretary, Macy Kim (Park Min-young), announces her resignation after nine years of worki</desc>
+	<programme channel="HEART OF ASIA" start="20241125133500 +0000" stop="20241125142000 +0000">
+		<title>Dong Yi</title>
+		<desc>: f the Queen during the court disputes caused by Jang Hee-Bin. Dong Yi becomes a concubine with the rank of sook-bin and bears a son who will later become the 21st king of Joseon, Yeongjo.
+Dong Yi: Set during the reign of King Sukjong in the Joseon dynasty, the story focuses on Dong Yi, a water maid who gains the trust of Queen Inhyeon. Dong Yi later gains the favor of the King as well when he is moved by her prayers for the health o</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240930010000 +0000" stop="20240930014500 +0000">
-		<title>You Are My Heartbeat</title>
-		<desc>You Are My Heartbeat: You Are My Heartbeat tells the story of an office romance between a young CEO with a strange personality and an abnormal fear of getting dirty, and a beautiful, cunning designer.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20240930014500 +0000" stop="20240930023000 +0000">
+	<programme channel="HEART OF ASIA" start="20241125142000 +0000" stop="20241125150500 +0000">
 		<title>Jumong</title>
 		<desc>Jumong: 'Jumong' is a tale of a hero whose legacy to the Korean people is his great historical triumph against thousands of armies to win back the skies of his old kingdom, the Old Joseon, and establish what would become the great Goguryeo Dynasty.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240930023000 +0000" stop="20240930031500 +0000">
-		<title>The Romantic Doctor 2</title>
-		<desc>:  solve the manpower shortage in Doldam Hospital.
-The Romantic Doctor 2: The heart-warming story continues after the events from the first season. A top surgeon named Dr. Daniel Boo (Han Suk-kyu), also known as Master Kim, decides to recruit new surgeons from Geosan University Hospital in Seoul to</desc>
+	<programme channel="HEART OF ASIA" start="20241125150500 +0000" stop="20241125155000 +0000">
+		<title>My Name is Busaba</title>
+		<desc>My Name is Busaba: Just as her life turns upside down, skilled chef Busaba encounters a wealthy heir who soon becomes her boss - and love interest.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240930031500 +0000" stop="20240930040500 +0000">
+	<programme channel="HEART OF ASIA" start="20241125155000 +0000" stop="20241125160000 +0000">
+		<title>Romantic Deception</title>
+		<desc>: ecret crush on him.
+Romantic Deception: 'Romantic Deception' starts with Roy, who got hurt and heartbroken after his girlfriend Korina cheated on him with his dad. Due to sudden circumstances, Roy is forced to marry Patty, the younger sister of Korina, who harbors a s</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241125220000 +0000" stop="20241125223000 +0000">
+		<title>Bleach</title>
+		<desc>Bleach: A Pinoy-dubbed Japanese anime series that follows the adventures of Ichigo Kurosaki who obtains the powers of a Soul Reaper.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241125223000 +0000" stop="20241125233000 +0000">
 		<title>Jewel in the Palace</title>
 		<desc>Jewel in the Palace: 'Jewel in the Palace' is based on the true story of Jang Geum, the first female royal physician of the Joseon Dynasty.Ã</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240930040500 +0000" stop="20240930045000 +0000">
-		<title>Queen and I</title>
-		<desc>Queen and I: 'Queen and I' is a love story that transcends time, as it brings together two different people from the past and the present.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20240930045000 +0000" stop="20240930053500 +0000">
-		<title>The Long Ballad</title>
-		<desc>The Long Ballad: After her father, the Crown Prince of Tang, and her family were killed because of her uncle's doing, Li Changge managed to escape the coup. She headedÃÂ to Shuo Province under the guise of a man with hopes of raising an army to kill</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20240930053500 +0000" stop="20240930062000 +0000">
+	<programme channel="HEART OF ASIA" start="20241125233000 +0000" stop="20241126001500 +0000">
 		<title>The Wolf</title>
 		<desc>: s the boy again, but only to find that he has become Prince Bo, the royal prince working for the King. Their love-hate relationship is intensified by the appearance of bounty hunter Ji Chong (Xiao Zhan). Struggling between power and loyalty, the , two are inevitably involved in a battle to defend their deep-rooted love.
 The Wolf: 'The Wolf' stars Li Qin as Ma Zhai Xing, a government official's daughter who befriends a wolf-raised boy (Darren Wang) in her teenage years and is forced to quit contact with him due to a political conspiracy. Eight years later, she meet</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240930062000 +0000" stop="20240930070500 +0000">
-		<title>What's Wrong With Secretary Kim</title>
-		<desc>: ng for him. Franco then decides to do whatever he can to make sure Macy staysÃÂ by his side. Will Franco succeed in keeping Macy in the company and in his life?
-What's Wrong With Secretary Kim: 'What's Wrong With Secretary Kim' tells the story of Franco Lee (Park Seo-joon), whose life is shaken when his highly-capable secretary, Macy Kim (Park Min-young), announces her resignation after nine years of worki</desc>
+	<programme channel="HEART OF ASIA" start="20241126001500 +0000" stop="20241126010000 +0000">
+		<title>Dong Yi</title>
+		<desc>: f the Queen during the court disputes caused by Jang Hee-Bin. Dong Yi becomes a concubine with the rank of sook-bin and bears a son who will later become the 21st king of Joseon, Yeongjo.
+Dong Yi: Set during the reign of King Sukjong in the Joseon dynasty, the story focuses on Dong Yi, a water maid who gains the trust of Queen Inhyeon. Dong Yi later gains the favor of the King as well when he is moved by her prayers for the health o</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240930070500 +0000" stop="20240930075000 +0000">
-		<title>You Are My Heartbeat</title>
-		<desc>You Are My Heartbeat: You Are My Heartbeat tells the story of an office romance between a young CEO with a strange personality and an abnormal fear of getting dirty, and a beautiful, cunning designer.</desc>
+	<programme channel="HEART OF ASIA" start="20241126010000 +0000" stop="20241126014500 +0000">
+		<title>My Name is Busaba</title>
+		<desc>My Name is Busaba: Just as her life turns upside down, skilled chef Busaba encounters a wealthy heir who soon becomes her boss - and love interest.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240930075000 +0000" stop="20240930083500 +0000">
-		<title>The Romantic Doctor 2</title>
-		<desc>:  solve the manpower shortage in Doldam Hospital.
-The Romantic Doctor 2: The heart-warming story continues after the events from the first season. A top surgeon named Dr. Daniel Boo (Han Suk-kyu), also known as Master Kim, decides to recruit new surgeons from Geosan University Hospital in Seoul to</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20240930083500 +0000" stop="20240930092000 +0000">
-		<title>Queen and I</title>
-		<desc>Queen and I: 'Queen and I' is a love story that transcends time, as it brings together two different people from the past and the present.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20240930092000 +0000" stop="20240930100500 +0000">
-		<title>The Long Ballad</title>
-		<desc>The Long Ballad: After her father, the Crown Prince of Tang, and her family were killed because of her uncle's doing, Li Changge managed to escape the coup. She headedÃÂ to Shuo Province under the guise of a man with hopes of raising an army to kill</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20240930100500 +0000" stop="20240930105000 +0000">
+	<programme channel="HEART OF ASIA" start="20241126014500 +0000" stop="20241126023000 +0000">
 		<title>Jumong</title>
 		<desc>Jumong: 'Jumong' is a tale of a hero whose legacy to the Korean people is his great historical triumph against thousands of armies to win back the skies of his old kingdom, the Old Joseon, and establish what would become the great Goguryeo Dynasty.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240930105000 +0000" stop="20240930113000 +0000">
-		<title>The Herbal Master</title>
-		<desc>: in the same field after meeting Tonio's grandfather.
-The Herbal Master: 'The Herbal Master' tells the story of Tonio (Mario Maurer) who is determined to heal people through traditional herbal medicine. He then meets the beautiful and fearless Chaba (Kimberley Anne Woltemas), who develops an interest </desc>
+	<programme channel="HEART OF ASIA" start="20241126023000 +0000" stop="20241126031500 +0000">
+		<title>Miracle of Love</title>
+		<desc>: eelings for her former lover?
+Miracle of Love: 'Miracle of Love' tells the love story of two guys and a girl. Danica has a partner named Louie, but she loses him. Danica moves on with another man named Aldwin, but she never stops loving Louie. How long will she hold on to her f</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240930113000 +0000" stop="20240930122000 +0000">
+	<programme channel="HEART OF ASIA" start="20241126031500 +0000" stop="20241126040000 +0000">
+		<title>Delayed Justice</title>
+		<desc>Delayed Justice: 'Delayed Justice' tells the story of a public defender and a reporter, both represent the voices of judicial victims who are falsely accused.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241126040000 +0000" stop="20241126044000 +0000">
+		<title>Romantic Deception</title>
+		<desc>: ecret crush on him.
+Romantic Deception: 'Romantic Deception' starts with Roy, who got hurt and heartbroken after his girlfriend Korina cheated on him with his dad. Due to sudden circumstances, Roy is forced to marry Patty, the younger sister of Korina, who harbors a s</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241126044000 +0000" stop="20241126052500 +0000">
+		<title>Douluo Continent</title>
+		<desc>: oal to be strong enough to reveal his family secrets would be tough but with the help of the people who support him, he would conquer all obstacles.
+Douluo Continent: 'Douluo Continent' tackles the story of a young man named Tang San (Xhan Xiao) who grew up in a village and has a very huge potential. He realized his powers when he was six years old and was sent to an academy for training. His g</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241126052500 +0000" stop="20241126061000 +0000">
+		<title>The Long Ballad</title>
+		<desc>The Long Ballad: After her father, the Crown Prince of Tang, and her family were killed because of her uncle's doing, Li Changge managed to escape the coup. She headedÃÂ to Shuo Province under the guise of a man with hopes of raising an army to kill</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241126061000 +0000" stop="20241126065500 +0000">
+		<title>The Wolf</title>
+		<desc>: s the boy again, but only to find that he has become Prince Bo, the royal prince working for the King. Their love-hate relationship is intensified by the appearance of bounty hunter Ji Chong (Xiao Zhan). Struggling between power and loyalty, the , two are inevitably involved in a battle to defend their deep-rooted love.
+The Wolf: 'The Wolf' stars Li Qin as Ma Zhai Xing, a government official's daughter who befriends a wolf-raised boy (Darren Wang) in her teenage years and is forced to quit contact with him due to a political conspiracy. Eight years later, she meet</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241126065500 +0000" stop="20241126074000 +0000">
+		<title>Dong Yi</title>
+		<desc>: f the Queen during the court disputes caused by Jang Hee-Bin. Dong Yi becomes a concubine with the rank of sook-bin and bears a son who will later become the 21st king of Joseon, Yeongjo.
+Dong Yi: Set during the reign of King Sukjong in the Joseon dynasty, the story focuses on Dong Yi, a water maid who gains the trust of Queen Inhyeon. Dong Yi later gains the favor of the King as well when he is moved by her prayers for the health o</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241126074000 +0000" stop="20241126082500 +0000">
+		<title>My Name is Busaba</title>
+		<desc>My Name is Busaba: Just as her life turns upside down, skilled chef Busaba encounters a wealthy heir who soon becomes her boss - and love interest.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241126082500 +0000" stop="20241126091000 +0000">
+		<title>Miracle of Love</title>
+		<desc>: eelings for her former lover?
+Miracle of Love: 'Miracle of Love' tells the love story of two guys and a girl. Danica has a partner named Louie, but she loses him. Danica moves on with another man named Aldwin, but she never stops loving Louie. How long will she hold on to her f</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241126091000 +0000" stop="20241126095500 +0000">
+		<title>Douluo Continent</title>
+		<desc>: oal to be strong enough to reveal his family secrets would be tough but with the help of the people who support him, he would conquer all obstacles.
+Douluo Continent: 'Douluo Continent' tackles the story of a young man named Tang San (Xhan Xiao) who grew up in a village and has a very huge potential. He realized his powers when he was six years old and was sent to an academy for training. His g</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241126095500 +0000" stop="20241126104000 +0000">
+		<title>The Long Ballad</title>
+		<desc>The Long Ballad: After her father, the Crown Prince of Tang, and her family were killed because of her uncle's doing, Li Changge managed to escape the coup. She headedÃÂ to Shuo Province under the guise of a man with hopes of raising an army to kill</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241126104000 +0000" stop="20241126112500 +0000">
+		<title>Jumong</title>
+		<desc>Jumong: 'Jumong' is a tale of a hero whose legacy to the Korean people is his great historical triumph against thousands of armies to win back the skies of his old kingdom, the Old Joseon, and establish what would become the great Goguryeo Dynasty.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241126112500 +0000" stop="20241126120500 +0000">
+		<title>Romantic Deception</title>
+		<desc>: ecret crush on him.
+Romantic Deception: 'Romantic Deception' starts with Roy, who got hurt and heartbroken after his girlfriend Korina cheated on him with his dad. Due to sudden circumstances, Roy is forced to marry Patty, the younger sister of Korina, who harbors a s</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241126120500 +0000" stop="20241126125000 +0000">
+		<title>Delayed Justice</title>
+		<desc>Delayed Justice: 'Delayed Justice' tells the story of a public defender and a reporter, both represent the voices of judicial victims who are falsely accused.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241126125000 +0000" stop="20241126133500 +0000">
+		<title>The Wolf</title>
+		<desc>: s the boy again, but only to find that he has become Prince Bo, the royal prince working for the King. Their love-hate relationship is intensified by the appearance of bounty hunter Ji Chong (Xiao Zhan). Struggling between power and loyalty, the , two are inevitably involved in a battle to defend their deep-rooted love.
+The Wolf: 'The Wolf' stars Li Qin as Ma Zhai Xing, a government official's daughter who befriends a wolf-raised boy (Darren Wang) in her teenage years and is forced to quit contact with him due to a political conspiracy. Eight years later, she meet</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241126133500 +0000" stop="20241126142000 +0000">
+		<title>Dong Yi</title>
+		<desc>: f the Queen during the court disputes caused by Jang Hee-Bin. Dong Yi becomes a concubine with the rank of sook-bin and bears a son who will later become the 21st king of Joseon, Yeongjo.
+Dong Yi: Set during the reign of King Sukjong in the Joseon dynasty, the story focuses on Dong Yi, a water maid who gains the trust of Queen Inhyeon. Dong Yi later gains the favor of the King as well when he is moved by her prayers for the health o</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241126142000 +0000" stop="20241126150500 +0000">
+		<title>Jumong</title>
+		<desc>Jumong: 'Jumong' is a tale of a hero whose legacy to the Korean people is his great historical triumph against thousands of armies to win back the skies of his old kingdom, the Old Joseon, and establish what would become the great Goguryeo Dynasty.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241126150500 +0000" stop="20241126155000 +0000">
+		<title>My Name is Busaba</title>
+		<desc>My Name is Busaba: Just as her life turns upside down, skilled chef Busaba encounters a wealthy heir who soon becomes her boss - and love interest.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241126155000 +0000" stop="20241126160000 +0000">
+		<title>Romantic Deception</title>
+		<desc>: ecret crush on him.
+Romantic Deception: 'Romantic Deception' starts with Roy, who got hurt and heartbroken after his girlfriend Korina cheated on him with his dad. Due to sudden circumstances, Roy is forced to marry Patty, the younger sister of Korina, who harbors a s</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241126220000 +0000" stop="20241126223000 +0000">
+		<title>Bleach</title>
+		<desc>Bleach: A Pinoy-dubbed Japanese anime series that follows the adventures of Ichigo Kurosaki who obtains the powers of a Soul Reaper.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241126223000 +0000" stop="20241126233000 +0000">
 		<title>Jewel in the Palace</title>
 		<desc>Jewel in the Palace: 'Jewel in the Palace' is based on the true story of Jang Geum, the first female royal physician of the Joseon Dynasty.Ã</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240930122000 +0000" stop="20240930130500 +0000">
+	<programme channel="HEART OF ASIA" start="20241126233000 +0000" stop="20241127001500 +0000">
 		<title>The Wolf</title>
 		<desc>: s the boy again, but only to find that he has become Prince Bo, the royal prince working for the King. Their love-hate relationship is intensified by the appearance of bounty hunter Ji Chong (Xiao Zhan). Struggling between power and loyalty, the , two are inevitably involved in a battle to defend their deep-rooted love.
 The Wolf: 'The Wolf' stars Li Qin as Ma Zhai Xing, a government official's daughter who befriends a wolf-raised boy (Darren Wang) in her teenage years and is forced to quit contact with him due to a political conspiracy. Eight years later, she meet</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240930130500 +0000" stop="20240930135000 +0000">
-		<title>What's Wrong With Secretary Kim</title>
-		<desc>: ng for him. Franco then decides to do whatever he can to make sure Macy staysÃÂ by his side. Will Franco succeed in keeping Macy in the company and in his life?
-What's Wrong With Secretary Kim: 'What's Wrong With Secretary Kim' tells the story of Franco Lee (Park Seo-joon), whose life is shaken when his highly-capable secretary, Macy Kim (Park Min-young), announces her resignation after nine years of worki</desc>
+	<programme channel="HEART OF ASIA" start="20241127001500 +0000" stop="20241127010000 +0000">
+		<title>Dong Yi</title>
+		<desc>: f the Queen during the court disputes caused by Jang Hee-Bin. Dong Yi becomes a concubine with the rank of sook-bin and bears a son who will later become the 21st king of Joseon, Yeongjo.
+Dong Yi: Set during the reign of King Sukjong in the Joseon dynasty, the story focuses on Dong Yi, a water maid who gains the trust of Queen Inhyeon. Dong Yi later gains the favor of the King as well when he is moved by her prayers for the health o</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240930135000 +0000" stop="20240930143500 +0000">
+	<programme channel="HEART OF ASIA" start="20241127010000 +0000" stop="20241127014500 +0000">
+		<title>My Name is Busaba</title>
+		<desc>My Name is Busaba: Just as her life turns upside down, skilled chef Busaba encounters a wealthy heir who soon becomes her boss - and love interest.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241127014500 +0000" stop="20241127023000 +0000">
 		<title>Jumong</title>
 		<desc>Jumong: 'Jumong' is a tale of a hero whose legacy to the Korean people is his great historical triumph against thousands of armies to win back the skies of his old kingdom, the Old Joseon, and establish what would become the great Goguryeo Dynasty.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240930143500 +0000" stop="20240930152000 +0000">
-		<title>You Are My Heartbeat</title>
-		<desc>You Are My Heartbeat: You Are My Heartbeat tells the story of an office romance between a young CEO with a strange personality and an abnormal fear of getting dirty, and a beautiful, cunning designer.</desc>
+	<programme channel="HEART OF ASIA" start="20241127023000 +0000" stop="20241127031500 +0000">
+		<title>Miracle of Love</title>
+		<desc>: eelings for her former lover?
+Miracle of Love: 'Miracle of Love' tells the love story of two guys and a girl. Danica has a partner named Louie, but she loses him. Danica moves on with another man named Aldwin, but she never stops loving Louie. How long will she hold on to her f</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240930152000 +0000" stop="20240930160000 +0000">
-		<title>The Herbal Master</title>
-		<desc>: in the same field after meeting Tonio's grandfather.
-The Herbal Master: 'The Herbal Master' tells the story of Tonio (Mario Maurer) who is determined to heal people through traditional herbal medicine. He then meets the beautiful and fearless Chaba (Kimberley Anne Woltemas), who develops an interest </desc>
+	<programme channel="HEART OF ASIA" start="20241127031500 +0000" stop="20241127040000 +0000">
+		<title>Delayed Justice</title>
+		<desc>Delayed Justice: 'Delayed Justice' tells the story of a public defender and a reporter, both represent the voices of judicial victims who are falsely accused.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240930220000 +0000" stop="20240930224000 +0000">
+	<programme channel="HEART OF ASIA" start="20241127040000 +0000" stop="20241127044000 +0000">
+		<title>Romantic Deception</title>
+		<desc>: ecret crush on him.
+Romantic Deception: 'Romantic Deception' starts with Roy, who got hurt and heartbroken after his girlfriend Korina cheated on him with his dad. Due to sudden circumstances, Roy is forced to marry Patty, the younger sister of Korina, who harbors a s</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241127044000 +0000" stop="20241127052500 +0000">
+		<title>Douluo Continent</title>
+		<desc>: oal to be strong enough to reveal his family secrets would be tough but with the help of the people who support him, he would conquer all obstacles.
+Douluo Continent: 'Douluo Continent' tackles the story of a young man named Tang San (Xhan Xiao) who grew up in a village and has a very huge potential. He realized his powers when he was six years old and was sent to an academy for training. His g</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241127052500 +0000" stop="20241127061000 +0000">
 		<title>The Long Ballad</title>
 		<desc>The Long Ballad: After her father, the Crown Prince of Tang, and her family were killed because of her uncle's doing, Li Changge managed to escape the coup. She headedÃÂ to Shuo Province under the guise of a man with hopes of raising an army to kill</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20240930224000 +0000" stop="20240930232500 +0000">
-		<title>Queen and I</title>
-		<desc>Queen and I: 'Queen and I' is a love story that transcends time, as it brings together two different people from the past and the present.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20240930232500 +0000" stop="20241001001000 +0000">
+	<programme channel="HEART OF ASIA" start="20241127061000 +0000" stop="20241127065500 +0000">
 		<title>The Wolf</title>
 		<desc>: s the boy again, but only to find that he has become Prince Bo, the royal prince working for the King. Their love-hate relationship is intensified by the appearance of bounty hunter Ji Chong (Xiao Zhan). Struggling between power and loyalty, the , two are inevitably involved in a battle to defend their deep-rooted love.
 The Wolf: 'The Wolf' stars Li Qin as Ma Zhai Xing, a government official's daughter who befriends a wolf-raised boy (Darren Wang) in her teenage years and is forced to quit contact with him due to a political conspiracy. Eight years later, she meet</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241001001000 +0000" stop="20241001005500 +0000">
-		<title>What's Wrong With Secretary Kim</title>
-		<desc>: ng for him. Franco then decides to do whatever he can to make sure Macy staysÃÂ by his side. Will Franco succeed in keeping Macy in the company and in his life?
-What's Wrong With Secretary Kim: 'What's Wrong With Secretary Kim' tells the story of Franco Lee (Park Seo-joon), whose life is shaken when his highly-capable secretary, Macy Kim (Park Min-young), announces her resignation after nine years of worki</desc>
+	<programme channel="HEART OF ASIA" start="20241127065500 +0000" stop="20241127074000 +0000">
+		<title>Dong Yi</title>
+		<desc>: f the Queen during the court disputes caused by Jang Hee-Bin. Dong Yi becomes a concubine with the rank of sook-bin and bears a son who will later become the 21st king of Joseon, Yeongjo.
+Dong Yi: Set during the reign of King Sukjong in the Joseon dynasty, the story focuses on Dong Yi, a water maid who gains the trust of Queen Inhyeon. Dong Yi later gains the favor of the King as well when he is moved by her prayers for the health o</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241001005500 +0000" stop="20241001013500 +0000">
-		<title>You Are My Heartbeat</title>
-		<desc>You Are My Heartbeat: You Are My Heartbeat tells the story of an office romance between a young CEO with a strange personality and an abnormal fear of getting dirty, and a beautiful, cunning designer.</desc>
+	<programme channel="HEART OF ASIA" start="20241127074000 +0000" stop="20241127082500 +0000">
+		<title>My Name is Busaba</title>
+		<desc>My Name is Busaba: Just as her life turns upside down, skilled chef Busaba encounters a wealthy heir who soon becomes her boss - and love interest.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241001013500 +0000" stop="20241001022000 +0000">
+	<programme channel="HEART OF ASIA" start="20241127082500 +0000" stop="20241127091000 +0000">
+		<title>Miracle of Love</title>
+		<desc>: eelings for her former lover?
+Miracle of Love: 'Miracle of Love' tells the love story of two guys and a girl. Danica has a partner named Louie, but she loses him. Danica moves on with another man named Aldwin, but she never stops loving Louie. How long will she hold on to her f</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241127091000 +0000" stop="20241127095500 +0000">
+		<title>Douluo Continent</title>
+		<desc>: oal to be strong enough to reveal his family secrets would be tough but with the help of the people who support him, he would conquer all obstacles.
+Douluo Continent: 'Douluo Continent' tackles the story of a young man named Tang San (Xhan Xiao) who grew up in a village and has a very huge potential. He realized his powers when he was six years old and was sent to an academy for training. His g</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241127095500 +0000" stop="20241127104000 +0000">
+		<title>The Long Ballad</title>
+		<desc>The Long Ballad: After her father, the Crown Prince of Tang, and her family were killed because of her uncle's doing, Li Changge managed to escape the coup. She headedÃÂ to Shuo Province under the guise of a man with hopes of raising an army to kill</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241127104000 +0000" stop="20241127112500 +0000">
 		<title>Jumong</title>
 		<desc>Jumong: 'Jumong' is a tale of a hero whose legacy to the Korean people is his great historical triumph against thousands of armies to win back the skies of his old kingdom, the Old Joseon, and establish what would become the great Goguryeo Dynasty.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241001022000 +0000" stop="20241001030000 +0000">
-		<title>The Romantic Doctor 2</title>
-		<desc>:  solve the manpower shortage in Doldam Hospital.
-The Romantic Doctor 2: The heart-warming story continues after the events from the first season. A top surgeon named Dr. Daniel Boo (Han Suk-kyu), also known as Master Kim, decides to recruit new surgeons from Geosan University Hospital in Seoul to</desc>
+	<programme channel="HEART OF ASIA" start="20241127112500 +0000" stop="20241127120500 +0000">
+		<title>Romantic Deception</title>
+		<desc>: ecret crush on him.
+Romantic Deception: 'Romantic Deception' starts with Roy, who got hurt and heartbroken after his girlfriend Korina cheated on him with his dad. Due to sudden circumstances, Roy is forced to marry Patty, the younger sister of Korina, who harbors a s</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241001030000 +0000" stop="20241001053000 +0000">
-		<title>NCAA Siglo Uno: Inspiring Legacies</title>
-		<desc>: " and a series of activities to honor the league's "10 Greatest Players."
-NCAA Siglo Uno: Inspiring Legacies: Spanning 100 years of excellence in sports, the National Collegiate Athletic Association (NCAA) celebrates its historic centennial season this 2024 with a brand new logo and theme, "Siglo Uno: Inspiring Legacies,</desc>
+	<programme channel="HEART OF ASIA" start="20241127120500 +0000" stop="20241127125000 +0000">
+		<title>Delayed Justice</title>
+		<desc>Delayed Justice: 'Delayed Justice' tells the story of a public defender and a reporter, both represent the voices of judicial victims who are falsely accused.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241001053000 +0000" stop="20241001063000 +0000">
+	<programme channel="HEART OF ASIA" start="20241127125000 +0000" stop="20241127133500 +0000">
+		<title>The Wolf</title>
+		<desc>: s the boy again, but only to find that he has become Prince Bo, the royal prince working for the King. Their love-hate relationship is intensified by the appearance of bounty hunter Ji Chong (Xiao Zhan). Struggling between power and loyalty, the , two are inevitably involved in a battle to defend their deep-rooted love.
+The Wolf: 'The Wolf' stars Li Qin as Ma Zhai Xing, a government official's daughter who befriends a wolf-raised boy (Darren Wang) in her teenage years and is forced to quit contact with him due to a political conspiracy. Eight years later, she meet</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241127133500 +0000" stop="20241127142000 +0000">
+		<title>Dong Yi</title>
+		<desc>: f the Queen during the court disputes caused by Jang Hee-Bin. Dong Yi becomes a concubine with the rank of sook-bin and bears a son who will later become the 21st king of Joseon, Yeongjo.
+Dong Yi: Set during the reign of King Sukjong in the Joseon dynasty, the story focuses on Dong Yi, a water maid who gains the trust of Queen Inhyeon. Dong Yi later gains the favor of the King as well when he is moved by her prayers for the health o</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241127142000 +0000" stop="20241127150500 +0000">
+		<title>Jumong</title>
+		<desc>Jumong: 'Jumong' is a tale of a hero whose legacy to the Korean people is his great historical triumph against thousands of armies to win back the skies of his old kingdom, the Old Joseon, and establish what would become the great Goguryeo Dynasty.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241127150500 +0000" stop="20241127155000 +0000">
+		<title>My Name is Busaba</title>
+		<desc>My Name is Busaba: Just as her life turns upside down, skilled chef Busaba encounters a wealthy heir who soon becomes her boss - and love interest.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241127155000 +0000" stop="20241127160000 +0000">
+		<title>Romantic Deception</title>
+		<desc>: ecret crush on him.
+Romantic Deception: 'Romantic Deception' starts with Roy, who got hurt and heartbroken after his girlfriend Korina cheated on him with his dad. Due to sudden circumstances, Roy is forced to marry Patty, the younger sister of Korina, who harbors a s</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241127220000 +0000" stop="20241127223000 +0000">
+		<title>Bleach</title>
+		<desc>Bleach: A Pinoy-dubbed Japanese anime series that follows the adventures of Ichigo Kurosaki who obtains the powers of a Soul Reaper.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241127223000 +0000" stop="20241127233000 +0000">
 		<title>Jewel in the Palace</title>
 		<desc>Jewel in the Palace: 'Jewel in the Palace' is based on the true story of Jang Geum, the first female royal physician of the Joseon Dynasty.Ã</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241001063000 +0000" stop="20241001090000 +0000">
-		<title>NCAA Siglo Uno: Inspiring Legacies</title>
-		<desc>: " and a series of activities to honor the league's "10 Greatest Players."
-NCAA Siglo Uno: Inspiring Legacies: Spanning 100 years of excellence in sports, the National Collegiate Athletic Association (NCAA) celebrates its historic centennial season this 2024 with a brand new logo and theme, "Siglo Uno: Inspiring Legacies,</desc>
+	<programme channel="HEART OF ASIA" start="20241127233000 +0000" stop="20241128001500 +0000">
+		<title>The Wolf</title>
+		<desc>: s the boy again, but only to find that he has become Prince Bo, the royal prince working for the King. Their love-hate relationship is intensified by the appearance of bounty hunter Ji Chong (Xiao Zhan). Struggling between power and loyalty, the , two are inevitably involved in a battle to defend their deep-rooted love.
+The Wolf: 'The Wolf' stars Li Qin as Ma Zhai Xing, a government official's daughter who befriends a wolf-raised boy (Darren Wang) in her teenage years and is forced to quit contact with him due to a political conspiracy. Eight years later, she meet</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241001090000 +0000" stop="20241001094500 +0000">
-		<title>Queen and I</title>
-		<desc>Queen and I: 'Queen and I' is a love story that transcends time, as it brings together two different people from the past and the present.</desc>
+	<programme channel="HEART OF ASIA" start="20241128001500 +0000" stop="20241128010000 +0000">
+		<title>Dong Yi</title>
+		<desc>: f the Queen during the court disputes caused by Jang Hee-Bin. Dong Yi becomes a concubine with the rank of sook-bin and bears a son who will later become the 21st king of Joseon, Yeongjo.
+Dong Yi: Set during the reign of King Sukjong in the Joseon dynasty, the story focuses on Dong Yi, a water maid who gains the trust of Queen Inhyeon. Dong Yi later gains the favor of the King as well when he is moved by her prayers for the health o</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241001094500 +0000" stop="20241001102500 +0000">
-		<title>The Long Ballad</title>
-		<desc>The Long Ballad: After her father, the Crown Prince of Tang, and her family were killed because of her uncle's doing, Li Changge managed to escape the coup. She headedÃÂ to Shuo Province under the guise of a man with hopes of raising an army to kill</desc>
+	<programme channel="HEART OF ASIA" start="20241128010000 +0000" stop="20241128014500 +0000">
+		<title>My Name is Busaba</title>
+		<desc>My Name is Busaba: Just as her life turns upside down, skilled chef Busaba encounters a wealthy heir who soon becomes her boss - and love interest.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241001102500 +0000" stop="20241001111000 +0000">
+	<programme channel="HEART OF ASIA" start="20241128014500 +0000" stop="20241128023000 +0000">
 		<title>Jumong</title>
 		<desc>Jumong: 'Jumong' is a tale of a hero whose legacy to the Korean people is his great historical triumph against thousands of armies to win back the skies of his old kingdom, the Old Joseon, and establish what would become the great Goguryeo Dynasty.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241001111000 +0000" stop="20241001115000 +0000">
-		<title>The Herbal Master</title>
-		<desc>: in the same field after meeting Tonio's grandfather.
-The Herbal Master: 'The Herbal Master' tells the story of Tonio (Mario Maurer) who is determined to heal people through traditional herbal medicine. He then meets the beautiful and fearless Chaba (Kimberley Anne Woltemas), who develops an interest </desc>
+	<programme channel="HEART OF ASIA" start="20241128023000 +0000" stop="20241128031500 +0000">
+		<title>Miracle of Love</title>
+		<desc>: eelings for her former lover?
+Miracle of Love: 'Miracle of Love' tells the love story of two guys and a girl. Danica has a partner named Louie, but she loses him. Danica moves on with another man named Aldwin, but she never stops loving Louie. How long will she hold on to her f</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241001115000 +0000" stop="20241001125000 +0000">
+	<programme channel="HEART OF ASIA" start="20241128031500 +0000" stop="20241128040000 +0000">
+		<title>Delayed Justice</title>
+		<desc>Delayed Justice: 'Delayed Justice' tells the story of a public defender and a reporter, both represent the voices of judicial victims who are falsely accused.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241128040000 +0000" stop="20241128044000 +0000">
+		<title>Romantic Deception</title>
+		<desc>: ecret crush on him.
+Romantic Deception: 'Romantic Deception' starts with Roy, who got hurt and heartbroken after his girlfriend Korina cheated on him with his dad. Due to sudden circumstances, Roy is forced to marry Patty, the younger sister of Korina, who harbors a s</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241128044000 +0000" stop="20241128052500 +0000">
+		<title>Douluo Continent</title>
+		<desc>: oal to be strong enough to reveal his family secrets would be tough but with the help of the people who support him, he would conquer all obstacles.
+Douluo Continent: 'Douluo Continent' tackles the story of a young man named Tang San (Xhan Xiao) who grew up in a village and has a very huge potential. He realized his powers when he was six years old and was sent to an academy for training. His g</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241128052500 +0000" stop="20241128061000 +0000">
+		<title>The Long Ballad</title>
+		<desc>The Long Ballad: After her father, the Crown Prince of Tang, and her family were killed because of her uncle's doing, Li Changge managed to escape the coup. She headedÃÂ to Shuo Province under the guise of a man with hopes of raising an army to kill</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241128061000 +0000" stop="20241128065500 +0000">
+		<title>The Wolf</title>
+		<desc>: s the boy again, but only to find that he has become Prince Bo, the royal prince working for the King. Their love-hate relationship is intensified by the appearance of bounty hunter Ji Chong (Xiao Zhan). Struggling between power and loyalty, the , two are inevitably involved in a battle to defend their deep-rooted love.
+The Wolf: 'The Wolf' stars Li Qin as Ma Zhai Xing, a government official's daughter who befriends a wolf-raised boy (Darren Wang) in her teenage years and is forced to quit contact with him due to a political conspiracy. Eight years later, she meet</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241128065500 +0000" stop="20241128074000 +0000">
+		<title>Dong Yi</title>
+		<desc>: f the Queen during the court disputes caused by Jang Hee-Bin. Dong Yi becomes a concubine with the rank of sook-bin and bears a son who will later become the 21st king of Joseon, Yeongjo.
+Dong Yi: Set during the reign of King Sukjong in the Joseon dynasty, the story focuses on Dong Yi, a water maid who gains the trust of Queen Inhyeon. Dong Yi later gains the favor of the King as well when he is moved by her prayers for the health o</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241128074000 +0000" stop="20241128082500 +0000">
+		<title>My Name is Busaba</title>
+		<desc>My Name is Busaba: Just as her life turns upside down, skilled chef Busaba encounters a wealthy heir who soon becomes her boss - and love interest.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241128082500 +0000" stop="20241128091000 +0000">
+		<title>Miracle of Love</title>
+		<desc>: eelings for her former lover?
+Miracle of Love: 'Miracle of Love' tells the love story of two guys and a girl. Danica has a partner named Louie, but she loses him. Danica moves on with another man named Aldwin, but she never stops loving Louie. How long will she hold on to her f</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241128091000 +0000" stop="20241128095500 +0000">
+		<title>Douluo Continent</title>
+		<desc>: oal to be strong enough to reveal his family secrets would be tough but with the help of the people who support him, he would conquer all obstacles.
+Douluo Continent: 'Douluo Continent' tackles the story of a young man named Tang San (Xhan Xiao) who grew up in a village and has a very huge potential. He realized his powers when he was six years old and was sent to an academy for training. His g</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241128095500 +0000" stop="20241128104000 +0000">
+		<title>The Long Ballad</title>
+		<desc>The Long Ballad: After her father, the Crown Prince of Tang, and her family were killed because of her uncle's doing, Li Changge managed to escape the coup. She headedÃÂ to Shuo Province under the guise of a man with hopes of raising an army to kill</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241128104000 +0000" stop="20241128112500 +0000">
+		<title>Jumong</title>
+		<desc>Jumong: 'Jumong' is a tale of a hero whose legacy to the Korean people is his great historical triumph against thousands of armies to win back the skies of his old kingdom, the Old Joseon, and establish what would become the great Goguryeo Dynasty.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241128112500 +0000" stop="20241128120500 +0000">
+		<title>Romantic Deception</title>
+		<desc>: ecret crush on him.
+Romantic Deception: 'Romantic Deception' starts with Roy, who got hurt and heartbroken after his girlfriend Korina cheated on him with his dad. Due to sudden circumstances, Roy is forced to marry Patty, the younger sister of Korina, who harbors a s</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241128120500 +0000" stop="20241128125000 +0000">
+		<title>Delayed Justice</title>
+		<desc>Delayed Justice: 'Delayed Justice' tells the story of a public defender and a reporter, both represent the voices of judicial victims who are falsely accused.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241128125000 +0000" stop="20241128133500 +0000">
+		<title>The Wolf</title>
+		<desc>: s the boy again, but only to find that he has become Prince Bo, the royal prince working for the King. Their love-hate relationship is intensified by the appearance of bounty hunter Ji Chong (Xiao Zhan). Struggling between power and loyalty, the , two are inevitably involved in a battle to defend their deep-rooted love.
+The Wolf: 'The Wolf' stars Li Qin as Ma Zhai Xing, a government official's daughter who befriends a wolf-raised boy (Darren Wang) in her teenage years and is forced to quit contact with him due to a political conspiracy. Eight years later, she meet</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241128133500 +0000" stop="20241128142000 +0000">
+		<title>Dong Yi</title>
+		<desc>: f the Queen during the court disputes caused by Jang Hee-Bin. Dong Yi becomes a concubine with the rank of sook-bin and bears a son who will later become the 21st king of Joseon, Yeongjo.
+Dong Yi: Set during the reign of King Sukjong in the Joseon dynasty, the story focuses on Dong Yi, a water maid who gains the trust of Queen Inhyeon. Dong Yi later gains the favor of the King as well when he is moved by her prayers for the health o</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241128142000 +0000" stop="20241128150500 +0000">
+		<title>Jumong</title>
+		<desc>Jumong: 'Jumong' is a tale of a hero whose legacy to the Korean people is his great historical triumph against thousands of armies to win back the skies of his old kingdom, the Old Joseon, and establish what would become the great Goguryeo Dynasty.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241128150500 +0000" stop="20241128155000 +0000">
+		<title>My Name is Busaba</title>
+		<desc>My Name is Busaba: Just as her life turns upside down, skilled chef Busaba encounters a wealthy heir who soon becomes her boss - and love interest.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241128155000 +0000" stop="20241128160000 +0000">
+		<title>Romantic Deception</title>
+		<desc>: ecret crush on him.
+Romantic Deception: 'Romantic Deception' starts with Roy, who got hurt and heartbroken after his girlfriend Korina cheated on him with his dad. Due to sudden circumstances, Roy is forced to marry Patty, the younger sister of Korina, who harbors a s</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241128220000 +0000" stop="20241128223000 +0000">
+		<title>Bleach</title>
+		<desc>Bleach: A Pinoy-dubbed Japanese anime series that follows the adventures of Ichigo Kurosaki who obtains the powers of a Soul Reaper.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241128223000 +0000" stop="20241128233000 +0000">
 		<title>Jewel in the Palace</title>
 		<desc>Jewel in the Palace: 'Jewel in the Palace' is based on the true story of Jang Geum, the first female royal physician of the Joseon Dynasty.Ã</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241001125000 +0000" stop="20241001133500 +0000">
+	<programme channel="HEART OF ASIA" start="20241128233000 +0000" stop="20241129001500 +0000">
 		<title>The Wolf</title>
 		<desc>: s the boy again, but only to find that he has become Prince Bo, the royal prince working for the King. Their love-hate relationship is intensified by the appearance of bounty hunter Ji Chong (Xiao Zhan). Struggling between power and loyalty, the , two are inevitably involved in a battle to defend their deep-rooted love.
 The Wolf: 'The Wolf' stars Li Qin as Ma Zhai Xing, a government official's daughter who befriends a wolf-raised boy (Darren Wang) in her teenage years and is forced to quit contact with him due to a political conspiracy. Eight years later, she meet</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241001133500 +0000" stop="20241001142000 +0000">
-		<title>What's Wrong With Secretary Kim</title>
-		<desc>: ng for him. Franco then decides to do whatever he can to make sure Macy staysÃÂ by his side. Will Franco succeed in keeping Macy in the company and in his life?
-What's Wrong With Secretary Kim: 'What's Wrong With Secretary Kim' tells the story of Franco Lee (Park Seo-joon), whose life is shaken when his highly-capable secretary, Macy Kim (Park Min-young), announces her resignation after nine years of worki</desc>
+	<programme channel="HEART OF ASIA" start="20241129001500 +0000" stop="20241129010000 +0000">
+		<title>Dong Yi</title>
+		<desc>: f the Queen during the court disputes caused by Jang Hee-Bin. Dong Yi becomes a concubine with the rank of sook-bin and bears a son who will later become the 21st king of Joseon, Yeongjo.
+Dong Yi: Set during the reign of King Sukjong in the Joseon dynasty, the story focuses on Dong Yi, a water maid who gains the trust of Queen Inhyeon. Dong Yi later gains the favor of the King as well when he is moved by her prayers for the health o</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241001142000 +0000" stop="20241001150500 +0000">
+	<programme channel="HEART OF ASIA" start="20241129010000 +0000" stop="20241129014500 +0000">
+		<title>My Name is Busaba</title>
+		<desc>My Name is Busaba: Just as her life turns upside down, skilled chef Busaba encounters a wealthy heir who soon becomes her boss - and love interest.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241129014500 +0000" stop="20241129023000 +0000">
 		<title>Jumong</title>
 		<desc>Jumong: 'Jumong' is a tale of a hero whose legacy to the Korean people is his great historical triumph against thousands of armies to win back the skies of his old kingdom, the Old Joseon, and establish what would become the great Goguryeo Dynasty.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241001150500 +0000" stop="20241001154500 +0000">
-		<title>You Are My Heartbeat</title>
-		<desc>You Are My Heartbeat: You Are My Heartbeat tells the story of an office romance between a young CEO with a strange personality and an abnormal fear of getting dirty, and a beautiful, cunning designer.</desc>
+	<programme channel="HEART OF ASIA" start="20241129023000 +0000" stop="20241129031500 +0000">
+		<title>Miracle of Love</title>
+		<desc>: eelings for her former lover?
+Miracle of Love: 'Miracle of Love' tells the love story of two guys and a girl. Danica has a partner named Louie, but she loses him. Danica moves on with another man named Aldwin, but she never stops loving Louie. How long will she hold on to her f</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241001154500 +0000" stop="20241001160000 +0000">
-		<title>The Herbal Master</title>
-		<desc>: in the same field after meeting Tonio's grandfather.
-The Herbal Master: 'The Herbal Master' tells the story of Tonio (Mario Maurer) who is determined to heal people through traditional herbal medicine. He then meets the beautiful and fearless Chaba (Kimberley Anne Woltemas), who develops an interest </desc>
+	<programme channel="HEART OF ASIA" start="20241129031500 +0000" stop="20241129040000 +0000">
+		<title>Delayed Justice</title>
+		<desc>Delayed Justice: 'Delayed Justice' tells the story of a public defender and a reporter, both represent the voices of judicial victims who are falsely accused.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241001220000 +0000" stop="20241001224500 +0000">
+	<programme channel="HEART OF ASIA" start="20241129040000 +0000" stop="20241129044000 +0000">
+		<title>Romantic Deception</title>
+		<desc>: ecret crush on him.
+Romantic Deception: 'Romantic Deception' starts with Roy, who got hurt and heartbroken after his girlfriend Korina cheated on him with his dad. Due to sudden circumstances, Roy is forced to marry Patty, the younger sister of Korina, who harbors a s</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241129044000 +0000" stop="20241129052500 +0000">
+		<title>Douluo Continent</title>
+		<desc>: oal to be strong enough to reveal his family secrets would be tough but with the help of the people who support him, he would conquer all obstacles.
+Douluo Continent: 'Douluo Continent' tackles the story of a young man named Tang San (Xhan Xiao) who grew up in a village and has a very huge potential. He realized his powers when he was six years old and was sent to an academy for training. His g</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20241129052500 +0000" stop="20241129060500 +0000">
 		<title>The Long Ballad</title>
 		<desc>The Long Ballad: After her father, the Crown Prince of Tang, and her family were killed because of her uncle's doing, Li Changge managed to escape the coup. She headedÃÂ to Shuo Province under the guise of a man with hopes of raising an army to kill</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241001224500 +0000" stop="20241001233000 +0000">
-		<title>Queen and I</title>
-		<desc>Queen and I: 'Queen and I' is a love story that transcends time, as it brings together two different people from the past and the present.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241001233000 +0000" stop="20241002001500 +0000">
+	<programme channel="HEART OF ASIA" start="20241129060500 +0000" stop="20241129064500 +0000">
 		<title>The Wolf</title>
 		<desc>: s the boy again, but only to find that he has become Prince Bo, the royal prince working for the King. Their love-hate relationship is intensified by the appearance of bounty hunter Ji Chong (Xiao Zhan). Struggling between power and loyalty, the , two are inevitably involved in a battle to defend their deep-rooted love.
 The Wolf: 'The Wolf' stars Li Qin as Ma Zhai Xing, a government official's daughter who befriends a wolf-raised boy (Darren Wang) in her teenage years and is forced to quit contact with him due to a political conspiracy. Eight years later, she meet</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241002001500 +0000" stop="20241002010000 +0000">
-		<title>What's Wrong With Secretary Kim</title>
-		<desc>: ng for him. Franco then decides to do whatever he can to make sure Macy staysÃÂ by his side. Will Franco succeed in keeping Macy in the company and in his life?
-What's Wrong With Secretary Kim: 'What's Wrong With Secretary Kim' tells the story of Franco Lee (Park Seo-joon), whose life is shaken when his highly-capable secretary, Macy Kim (Park Min-young), announces her resignation after nine years of worki</desc>
+	<programme channel="HEART OF ASIA" start="20241129064500 +0000" stop="20241129073000 +0000">
+		<title>Dong Yi</title>
+		<desc>: f the Queen during the court disputes caused by Jang Hee-Bin. Dong Yi becomes a concubine with the rank of sook-bin and bears a son who will later become the 21st king of Joseon, Yeongjo.
+Dong Yi: Set during the reign of King Sukjong in the Joseon dynasty, the story focuses on Dong Yi, a water maid who gains the trust of Queen Inhyeon. Dong Yi later gains the favor of the King as well when he is moved by her prayers for the health o</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241002010000 +0000" stop="20241002014500 +0000">
-		<title>You Are My Heartbeat</title>
-		<desc>You Are My Heartbeat: You Are My Heartbeat tells the story of an office romance between a young CEO with a strange personality and an abnormal fear of getting dirty, and a beautiful, cunning designer.</desc>
+	<programme channel="HEART OF ASIA" start="20241129073000 +0000" stop="20241129081500 +0000">
+		<title>My Name is Busaba</title>
+		<desc>My Name is Busaba: Just as her life turns upside down, skilled chef Busaba encounters a wealthy heir who soon becomes her boss - and love interest.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241002014500 +0000" stop="20241002023000 +0000">
-		<title>Jumong</title>
-		<desc>Jumong: 'Jumong' is a tale of a hero whose legacy to the Korean people is his great historical triumph against thousands of armies to win back the skies of his old kingdom, the Old Joseon, and establish what would become the great Goguryeo Dynasty.</desc>
+	<programme channel="HEART OF ASIA" start="20241129081500 +0000" stop="20241129085500 +0000">
+		<title>Miracle of Love</title>
+		<desc>: eelings for her former lover?
+Miracle of Love: 'Miracle of Love' tells the love story of two guys and a girl. Danica has a partner named Louie, but she loses him. Danica moves on with another man named Aldwin, but she never stops loving Louie. How long will she hold on to her f</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241002023000 +0000" stop="20241002031500 +0000">
-		<title>The Romantic Doctor 2</title>
-		<desc>:  solve the manpower shortage in Doldam Hospital.
-The Romantic Doctor 2: The heart-warming story continues after the events from the first season. A top surgeon named Dr. Daniel Boo (Han Suk-kyu), also known as Master Kim, decides to recruit new surgeons from Geosan University Hospital in Seoul to</desc>
+	<programme channel="HEART OF ASIA" start="20241129085500 +0000" stop="20241129093500 +0000">
+		<title>Douluo Continent</title>
+		<desc>: oal to be strong enough to reveal his family secrets would be tough but with the help of the people who support him, he would conquer all obstacles.
+Douluo Continent: 'Douluo Continent' tackles the story of a young man named Tang San (Xhan Xiao) who grew up in a village and has a very huge potential. He realized his powers when he was six years old and was sent to an academy for training. His g</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241002031500 +0000" stop="20241002040000 +0000">
-		<title>Jewel in the Palace</title>
-		<desc>Jewel in the Palace: 'Jewel in the Palace' is based on the true story of Jang Geum, the first female royal physician of the Joseon Dynasty.Ã</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241002040000 +0000" stop="20241002090000 +0000">
-		<title>NCAA Siglo Uno: Inspiring Legacies</title>
-		<desc>: " and a series of activities to honor the league's "10 Greatest Players."
-NCAA Siglo Uno: Inspiring Legacies: Spanning 100 years of excellence in sports, the National Collegiate Athletic Association (NCAA) celebrates its historic centennial season this 2024 with a brand new logo and theme, "Siglo Uno: Inspiring Legacies,</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241002090000 +0000" stop="20241002094500 +0000">
-		<title>Queen and I</title>
-		<desc>Queen and I: 'Queen and I' is a love story that transcends time, as it brings together two different people from the past and the present.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241002094500 +0000" stop="20241002103000 +0000">
+	<programme channel="HEART OF ASIA" start="20241129093500 +0000" stop="20241129101500 +0000">
 		<title>The Long Ballad</title>
 		<desc>The Long Ballad: After her father, the Crown Prince of Tang, and her family were killed because of her uncle's doing, Li Changge managed to escape the coup. She headedÃÂ to Shuo Province under the guise of a man with hopes of raising an army to kill</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241002103000 +0000" stop="20241002111500 +0000">
+	<programme channel="HEART OF ASIA" start="20241129101500 +0000" stop="20241129110000 +0000">
 		<title>Jumong</title>
 		<desc>Jumong: 'Jumong' is a tale of a hero whose legacy to the Korean people is his great historical triumph against thousands of armies to win back the skies of his old kingdom, the Old Joseon, and establish what would become the great Goguryeo Dynasty.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241002111500 +0000" stop="20241002115500 +0000">
-		<title>The Herbal Master</title>
-		<desc>: in the same field after meeting Tonio's grandfather.
-The Herbal Master: 'The Herbal Master' tells the story of Tonio (Mario Maurer) who is determined to heal people through traditional herbal medicine. He then meets the beautiful and fearless Chaba (Kimberley Anne Woltemas), who develops an interest </desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241002115500 +0000" stop="20241002124000 +0000">
-		<title>Jewel in the Palace</title>
-		<desc>Jewel in the Palace: 'Jewel in the Palace' is based on the true story of Jang Geum, the first female royal physician of the Joseon Dynasty.Ã</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241002124000 +0000" stop="20241002132500 +0000">
-		<title>The Wolf</title>
-		<desc>: s the boy again, but only to find that he has become Prince Bo, the royal prince working for the King. Their love-hate relationship is intensified by the appearance of bounty hunter Ji Chong (Xiao Zhan). Struggling between power and loyalty, the , two are inevitably involved in a battle to defend their deep-rooted love.
-The Wolf: 'The Wolf' stars Li Qin as Ma Zhai Xing, a government official's daughter who befriends a wolf-raised boy (Darren Wang) in her teenage years and is forced to quit contact with him due to a political conspiracy. Eight years later, she meet</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241002132500 +0000" stop="20241002141000 +0000">
-		<title>What's Wrong With Secretary Kim</title>
-		<desc>: ng for him. Franco then decides to do whatever he can to make sure Macy staysÃÂ by his side. Will Franco succeed in keeping Macy in the company and in his life?
-What's Wrong With Secretary Kim: 'What's Wrong With Secretary Kim' tells the story of Franco Lee (Park Seo-joon), whose life is shaken when his highly-capable secretary, Macy Kim (Park Min-young), announces her resignation after nine years of worki</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241002141000 +0000" stop="20241002145500 +0000">
-		<title>Jumong</title>
-		<desc>Jumong: 'Jumong' is a tale of a hero whose legacy to the Korean people is his great historical triumph against thousands of armies to win back the skies of his old kingdom, the Old Joseon, and establish what would become the great Goguryeo Dynasty.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241002145500 +0000" stop="20241002154000 +0000">
-		<title>You Are My Heartbeat</title>
-		<desc>You Are My Heartbeat: You Are My Heartbeat tells the story of an office romance between a young CEO with a strange personality and an abnormal fear of getting dirty, and a beautiful, cunning designer.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241002154000 +0000" stop="20241002160000 +0000">
-		<title>The Herbal Master</title>
-		<desc>: in the same field after meeting Tonio's grandfather.
-The Herbal Master: 'The Herbal Master' tells the story of Tonio (Mario Maurer) who is determined to heal people through traditional herbal medicine. He then meets the beautiful and fearless Chaba (Kimberley Anne Woltemas), who develops an interest </desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241002220000 +0000" stop="20241002224500 +0000">
-		<title>The Long Ballad</title>
-		<desc>The Long Ballad: After her father, the Crown Prince of Tang, and her family were killed because of her uncle's doing, Li Changge managed to escape the coup. She headedÃÂ to Shuo Province under the guise of a man with hopes of raising an army to kill</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241002224500 +0000" stop="20241002233000 +0000">
-		<title>Queen and I</title>
-		<desc>Queen and I: 'Queen and I' is a love story that transcends time, as it brings together two different people from the past and the present.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241002233000 +0000" stop="20241003001500 +0000">
-		<title>The Wolf</title>
-		<desc>: s the boy again, but only to find that he has become Prince Bo, the royal prince working for the King. Their love-hate relationship is intensified by the appearance of bounty hunter Ji Chong (Xiao Zhan). Struggling between power and loyalty, the , two are inevitably involved in a battle to defend their deep-rooted love.
-The Wolf: 'The Wolf' stars Li Qin as Ma Zhai Xing, a government official's daughter who befriends a wolf-raised boy (Darren Wang) in her teenage years and is forced to quit contact with him due to a political conspiracy. Eight years later, she meet</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241003001500 +0000" stop="20241003010000 +0000">
-		<title>What's Wrong With Secretary Kim</title>
-		<desc>: ng for him. Franco then decides to do whatever he can to make sure Macy staysÃÂ by his side. Will Franco succeed in keeping Macy in the company and in his life?
-What's Wrong With Secretary Kim: 'What's Wrong With Secretary Kim' tells the story of Franco Lee (Park Seo-joon), whose life is shaken when his highly-capable secretary, Macy Kim (Park Min-young), announces her resignation after nine years of worki</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241003010000 +0000" stop="20241003014500 +0000">
-		<title>You Are My Heartbeat</title>
-		<desc>You Are My Heartbeat: You Are My Heartbeat tells the story of an office romance between a young CEO with a strange personality and an abnormal fear of getting dirty, and a beautiful, cunning designer.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241003014500 +0000" stop="20241003023000 +0000">
-		<title>Jumong</title>
-		<desc>Jumong: 'Jumong' is a tale of a hero whose legacy to the Korean people is his great historical triumph against thousands of armies to win back the skies of his old kingdom, the Old Joseon, and establish what would become the great Goguryeo Dynasty.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241003023000 +0000" stop="20241003031500 +0000">
-		<title>The Romantic Doctor 2</title>
-		<desc>:  solve the manpower shortage in Doldam Hospital.
-The Romantic Doctor 2: The heart-warming story continues after the events from the first season. A top surgeon named Dr. Daniel Boo (Han Suk-kyu), also known as Master Kim, decides to recruit new surgeons from Geosan University Hospital in Seoul to</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241003031500 +0000" stop="20241003040500 +0000">
-		<title>Jewel in the Palace</title>
-		<desc>Jewel in the Palace: 'Jewel in the Palace' is based on the true story of Jang Geum, the first female royal physician of the Joseon Dynasty.Ã</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241003040500 +0000" stop="20241003045000 +0000">
-		<title>Queen and I</title>
-		<desc>Queen and I: 'Queen and I' is a love story that transcends time, as it brings together two different people from the past and the present.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241003045000 +0000" stop="20241003053500 +0000">
-		<title>The Long Ballad</title>
-		<desc>The Long Ballad: After her father, the Crown Prince of Tang, and her family were killed because of her uncle's doing, Li Changge managed to escape the coup. She headedÃÂ to Shuo Province under the guise of a man with hopes of raising an army to kill</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241003053500 +0000" stop="20241003062000 +0000">
-		<title>The Wolf</title>
-		<desc>: s the boy again, but only to find that he has become Prince Bo, the royal prince working for the King. Their love-hate relationship is intensified by the appearance of bounty hunter Ji Chong (Xiao Zhan). Struggling between power and loyalty, the , two are inevitably involved in a battle to defend their deep-rooted love.
-The Wolf: 'The Wolf' stars Li Qin as Ma Zhai Xing, a government official's daughter who befriends a wolf-raised boy (Darren Wang) in her teenage years and is forced to quit contact with him due to a political conspiracy. Eight years later, she meet</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241003062000 +0000" stop="20241003070500 +0000">
-		<title>What's Wrong With Secretary Kim</title>
-		<desc>: ng for him. Franco then decides to do whatever he can to make sure Macy staysÃÂ by his side. Will Franco succeed in keeping Macy in the company and in his life?
-What's Wrong With Secretary Kim: 'What's Wrong With Secretary Kim' tells the story of Franco Lee (Park Seo-joon), whose life is shaken when his highly-capable secretary, Macy Kim (Park Min-young), announces her resignation after nine years of worki</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241003070500 +0000" stop="20241003075000 +0000">
-		<title>You Are My Heartbeat</title>
-		<desc>You Are My Heartbeat: You Are My Heartbeat tells the story of an office romance between a young CEO with a strange personality and an abnormal fear of getting dirty, and a beautiful, cunning designer.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241003075000 +0000" stop="20241003083500 +0000">
-		<title>The Romantic Doctor 2</title>
-		<desc>:  solve the manpower shortage in Doldam Hospital.
-The Romantic Doctor 2: The heart-warming story continues after the events from the first season. A top surgeon named Dr. Daniel Boo (Han Suk-kyu), also known as Master Kim, decides to recruit new surgeons from Geosan University Hospital in Seoul to</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241003083500 +0000" stop="20241003092000 +0000">
-		<title>Queen and I</title>
-		<desc>Queen and I: 'Queen and I' is a love story that transcends time, as it brings together two different people from the past and the present.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241003092000 +0000" stop="20241003100500 +0000">
-		<title>The Long Ballad</title>
-		<desc>The Long Ballad: After her father, the Crown Prince of Tang, and her family were killed because of her uncle's doing, Li Changge managed to escape the coup. She headedÃÂ to Shuo Province under the guise of a man with hopes of raising an army to kill</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241003100500 +0000" stop="20241003105000 +0000">
-		<title>Jumong</title>
-		<desc>Jumong: 'Jumong' is a tale of a hero whose legacy to the Korean people is his great historical triumph against thousands of armies to win back the skies of his old kingdom, the Old Joseon, and establish what would become the great Goguryeo Dynasty.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241003105000 +0000" stop="20241003113000 +0000">
-		<title>The Herbal Master</title>
-		<desc>: in the same field after meeting Tonio's grandfather.
-The Herbal Master: 'The Herbal Master' tells the story of Tonio (Mario Maurer) who is determined to heal people through traditional herbal medicine. He then meets the beautiful and fearless Chaba (Kimberley Anne Woltemas), who develops an interest </desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241003113000 +0000" stop="20241003122000 +0000">
-		<title>Jewel in the Palace</title>
-		<desc>Jewel in the Palace: 'Jewel in the Palace' is based on the true story of Jang Geum, the first female royal physician of the Joseon Dynasty.Ã</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241003122000 +0000" stop="20241003130500 +0000">
-		<title>The Wolf</title>
-		<desc>: s the boy again, but only to find that he has become Prince Bo, the royal prince working for the King. Their love-hate relationship is intensified by the appearance of bounty hunter Ji Chong (Xiao Zhan). Struggling between power and loyalty, the , two are inevitably involved in a battle to defend their deep-rooted love.
-The Wolf: 'The Wolf' stars Li Qin as Ma Zhai Xing, a government official's daughter who befriends a wolf-raised boy (Darren Wang) in her teenage years and is forced to quit contact with him due to a political conspiracy. Eight years later, she meet</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241003130500 +0000" stop="20241003135000 +0000">
-		<title>What's Wrong With Secretary Kim</title>
-		<desc>: ng for him. Franco then decides to do whatever he can to make sure Macy staysÃÂ by his side. Will Franco succeed in keeping Macy in the company and in his life?
-What's Wrong With Secretary Kim: 'What's Wrong With Secretary Kim' tells the story of Franco Lee (Park Seo-joon), whose life is shaken when his highly-capable secretary, Macy Kim (Park Min-young), announces her resignation after nine years of worki</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241003135000 +0000" stop="20241003143500 +0000">
-		<title>Jumong</title>
-		<desc>Jumong: 'Jumong' is a tale of a hero whose legacy to the Korean people is his great historical triumph against thousands of armies to win back the skies of his old kingdom, the Old Joseon, and establish what would become the great Goguryeo Dynasty.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241003143500 +0000" stop="20241003152000 +0000">
-		<title>You Are My Heartbeat</title>
-		<desc>You Are My Heartbeat: You Are My Heartbeat tells the story of an office romance between a young CEO with a strange personality and an abnormal fear of getting dirty, and a beautiful, cunning designer.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241003152000 +0000" stop="20241003160000 +0000">
-		<title>The Herbal Master</title>
-		<desc>: in the same field after meeting Tonio's grandfather.
-The Herbal Master: 'The Herbal Master' tells the story of Tonio (Mario Maurer) who is determined to heal people through traditional herbal medicine. He then meets the beautiful and fearless Chaba (Kimberley Anne Woltemas), who develops an interest </desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241003220000 +0000" stop="20241003224500 +0000">
-		<title>The Long Ballad</title>
-		<desc>The Long Ballad: After her father, the Crown Prince of Tang, and her family were killed because of her uncle's doing, Li Changge managed to escape the coup. She headedÃÂ to Shuo Province under the guise of a man with hopes of raising an army to kill</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241003224500 +0000" stop="20241003233000 +0000">
-		<title>Queen and I</title>
-		<desc>Queen and I: 'Queen and I' is a love story that transcends time, as it brings together two different people from the past and the present.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241003233000 +0000" stop="20241004001500 +0000">
-		<title>The Wolf</title>
-		<desc>: s the boy again, but only to find that he has become Prince Bo, the royal prince working for the King. Their love-hate relationship is intensified by the appearance of bounty hunter Ji Chong (Xiao Zhan). Struggling between power and loyalty, the , two are inevitably involved in a battle to defend their deep-rooted love.
-The Wolf: 'The Wolf' stars Li Qin as Ma Zhai Xing, a government official's daughter who befriends a wolf-raised boy (Darren Wang) in her teenage years and is forced to quit contact with him due to a political conspiracy. Eight years later, she meet</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241004001500 +0000" stop="20241004010000 +0000">
-		<title>What's Wrong With Secretary Kim</title>
-		<desc>: ng for him. Franco then decides to do whatever he can to make sure Macy staysÃÂ by his side. Will Franco succeed in keeping Macy in the company and in his life?
-What's Wrong With Secretary Kim: 'What's Wrong With Secretary Kim' tells the story of Franco Lee (Park Seo-joon), whose life is shaken when his highly-capable secretary, Macy Kim (Park Min-young), announces her resignation after nine years of worki</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241004010000 +0000" stop="20241004014500 +0000">
-		<title>You Are My Heartbeat</title>
-		<desc>You Are My Heartbeat: You Are My Heartbeat tells the story of an office romance between a young CEO with a strange personality and an abnormal fear of getting dirty, and a beautiful, cunning designer.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241004014500 +0000" stop="20241004023000 +0000">
-		<title>Jumong</title>
-		<desc>Jumong: 'Jumong' is a tale of a hero whose legacy to the Korean people is his great historical triumph against thousands of armies to win back the skies of his old kingdom, the Old Joseon, and establish what would become the great Goguryeo Dynasty.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241004023000 +0000" stop="20241004031500 +0000">
-		<title>The Romantic Doctor 2</title>
-		<desc>:  solve the manpower shortage in Doldam Hospital.
-The Romantic Doctor 2: The heart-warming story continues after the events from the first season. A top surgeon named Dr. Daniel Boo (Han Suk-kyu), also known as Master Kim, decides to recruit new surgeons from Geosan University Hospital in Seoul to</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241004031500 +0000" stop="20241004040000 +0000">
-		<title>Jewel in the Palace</title>
-		<desc>Jewel in the Palace: 'Jewel in the Palace' is based on the true story of Jang Geum, the first female royal physician of the Joseon Dynasty.Ã</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241004040000 +0000" stop="20241004090000 +0000">
-		<title>NCAA Siglo Uno: Inspiring Legacies</title>
-		<desc>: " and a series of activities to honor the league's "10 Greatest Players."
-NCAA Siglo Uno: Inspiring Legacies: Spanning 100 years of excellence in sports, the National Collegiate Athletic Association (NCAA) celebrates its historic centennial season this 2024 with a brand new logo and theme, "Siglo Uno: Inspiring Legacies,</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241004090000 +0000" stop="20241004094500 +0000">
-		<title>Queen and I</title>
-		<desc>Queen and I: 'Queen and I' is a love story that transcends time, as it brings together two different people from the past and the present.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241004094500 +0000" stop="20241004102500 +0000">
-		<title>The Long Ballad</title>
-		<desc>The Long Ballad: After her father, the Crown Prince of Tang, and her family were killed because of her uncle's doing, Li Changge managed to escape the coup. She headedÃÂ to Shuo Province under the guise of a man with hopes of raising an army to kill</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241004102500 +0000" stop="20241004111000 +0000">
-		<title>Jumong</title>
-		<desc>Jumong: 'Jumong' is a tale of a hero whose legacy to the Korean people is his great historical triumph against thousands of armies to win back the skies of his old kingdom, the Old Joseon, and establish what would become the great Goguryeo Dynasty.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241004111000 +0000" stop="20241004131000 +0000">
+	<programme channel="HEART OF ASIA" start="20241129110000 +0000" stop="20241129130000 +0000">
 		<title>Astig Anime Friday</title>
 		<desc>Astig Anime Friday: A collection of anime movies, dubbed in Filipino</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241004131000 +0000" stop="20241004145500 +0000">
+	<programme channel="HEART OF ASIA" start="20241129130000 +0000" stop="20241129143000 +0000">
 		<title>Sci-Fi Picks</title>
 		<desc>Sci-Fi Picks: A collection of sci-fi films, dubbed in Filipino</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241004145500 +0000" stop="20241004154000 +0000">
-		<title>You Are My Heartbeat</title>
-		<desc>You Are My Heartbeat: You Are My Heartbeat tells the story of an office romance between a young CEO with a strange personality and an abnormal fear of getting dirty, and a beautiful, cunning designer.</desc>
+	<programme channel="HEART OF ASIA" start="20241129143000 +0000" stop="20241129151500 +0000">
+		<title>My Name is Busaba</title>
+		<desc>My Name is Busaba: Just as her life turns upside down, skilled chef Busaba encounters a wealthy heir who soon becomes her boss - and love interest.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241004154000 +0000" stop="20241004160000 +0000">
-		<title>The Herbal Master</title>
-		<desc>: in the same field after meeting Tonio's grandfather.
-The Herbal Master: 'The Herbal Master' tells the story of Tonio (Mario Maurer) who is determined to heal people through traditional herbal medicine. He then meets the beautiful and fearless Chaba (Kimberley Anne Woltemas), who develops an interest </desc>
+	<programme channel="HEART OF ASIA" start="20241129151500 +0000" stop="20241129160000 +0000">
+		<title>Romantic Deception</title>
+		<desc>: ecret crush on him.
+Romantic Deception: 'Romantic Deception' starts with Roy, who got hurt and heartbroken after his girlfriend Korina cheated on him with his dad. Due to sudden circumstances, Roy is forced to marry Patty, the younger sister of Korina, who harbors a s</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241004220000 +0000" stop="20241004230000 +0000">
-		<title>Puppy In My Pocket</title>
-		<desc>Puppy In My Pocket: Puppy In My Pocket features the whimsical adventures of Flo and her puppy Magic in helping the animals of the Pocket Kingdom.</desc>
+	<programme channel="HEART OF ASIA" start="20241129220000 +0000" stop="20241129230000 +0000">
+		<title>Ultraman Taiga</title>
+		<desc>Ultraman Taiga: Ultraman Taiga, a warrior and the son of Ultraman Taro, is dedicated to fighting for peace on Earth. Along with Hiroyuki and his friends, he does everything in his power to bring justice.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241004230000 +0000" stop="20241005000000 +0000">
-		<title>Ultraman R/B</title>
-		<desc>: the power to become Ultraman Rosso and Blu respectively.
-Ultraman R/B: Katsumi and Isami are brothers (with Katsumi being the older one) who live with their younger sister and father. One day, during the sudden appearance of a giant monster, the brothers find the R/B Gyro, which grants Katsumi and Isami </desc>
+	<programme channel="HEART OF ASIA" start="20241129230000 +0000" stop="20241130000000 +0000">
+		<title>Dino Dana</title>
+		<desc>Dino Dana: Dana is a 9-year old girl who loves dinosaurs. Her life changes forever when she's given a Dino Field Guide, which not only teaches her new things about dinosaurs, but gives her the power to imagine dinosaurs into real life.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241005000000 +0000" stop="20241005020000 +0000">
-		<title>Movie Mania</title>
-		<desc>Movie Mania: A movie block that offers different Hollywood TV and blockbuster movies.</desc>
+	<programme channel="HEART OF ASIA" start="20241130000000 +0000" stop="20241130020000 +0000">
+		<title>Jewel in the Palace</title>
+		<desc>Jewel in the Palace: 'Jewel in the Palace' is based on the true story of Jang Geum, the first female royal physician of the Joseon Dynasty.Ã</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241005020000 +0000" stop="20241005030000 +0000">
+	<programme channel="HEART OF ASIA" start="20241130020000 +0000" stop="20241130040000 +0000">
 		<title>Boys Over Flowers</title>
 		<desc>Boys Over Flowers: "Boys Over Flowers" is a Korean TV series about a working-class girl who gets tangled up in the lives of a group of wealthy young men in her high school.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241005030000 +0000" stop="20241005053000 +0000">
-		<title>NCAA Siglo Uno: Inspiring Legacies</title>
-		<desc>: " and a series of activities to honor the league's "10 Greatest Players."
-NCAA Siglo Uno: Inspiring Legacies: Spanning 100 years of excellence in sports, the National Collegiate Athletic Association (NCAA) celebrates its historic centennial season this 2024 with a brand new logo and theme, "Siglo Uno: Inspiring Legacies,</desc>
+	<programme channel="HEART OF ASIA" start="20241130040000 +0000" stop="20241130060000 +0000">
+		<title>Douluo Continent</title>
+		<desc>: oal to be strong enough to reveal his family secrets would be tough but with the help of the people who support him, he would conquer all obstacles.
+Douluo Continent: 'Douluo Continent' tackles the story of a young man named Tang San (Xhan Xiao) who grew up in a village and has a very huge potential. He realized his powers when he was six years old and was sent to an academy for training. His g</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241005053000 +0000" stop="20241005063000 +0000">
-		<title>The Merciless Judge</title>
-		<desc>The Merciless Judge: Multi-awarded actor Ji Sung takes on the role of Victor Kang, a ruthless head judge for a reality show-like courtroom in a dystopian modern-day South Korea in the drama.</desc>
+	<programme channel="HEART OF ASIA" start="20241130060000 +0000" stop="20241130070000 +0000">
+		<title>One Night Steal</title>
+		<desc>: two have a chance encounter and have a one night stand. Their luck changes and they find themselves in different positions - Nott's band has skyrocketed in popularity while Angie is the one getting one unlucky break after another.
+One Night Steal: 'One Night Steal' follows the lives of Angie and Nott, two people whose lives could not be more different from each other. While Angie seems to always have good luck, Nott can't seem to get a break. However, things change when the </desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241005063000 +0000" stop="20241005090000 +0000">
-		<title>NCAA Siglo Uno: Inspiring Legacies</title>
-		<desc>: " and a series of activities to honor the league's "10 Greatest Players."
-NCAA Siglo Uno: Inspiring Legacies: Spanning 100 years of excellence in sports, the National Collegiate Athletic Association (NCAA) celebrates its historic centennial season this 2024 with a brand new logo and theme, "Siglo Uno: Inspiring Legacies,</desc>
+	<programme channel="HEART OF ASIA" start="20241130070000 +0000" stop="20241130090000 +0000">
+		<title>My Name is Busaba</title>
+		<desc>My Name is Busaba: Just as her life turns upside down, skilled chef Busaba encounters a wealthy heir who soon becomes her boss - and love interest.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241005090000 +0000" stop="20241005093000 +0000">
-		<title>The Maid</title>
-		<desc>: k happy but the truth is Susana, Nadia, Rika, and Elisa hate each other. Only the maid of every wife knows their story.
-The Maid: The Maid tells the story of Jay's life with his four wives, Susana, Nadia, Rika, and Elisa, who became popular after Jay immortalized his polygamous relationships through a novel titled Mr. Golden Umbrella. On the outside, their lives loo</desc>
+	<programme channel="HEART OF ASIA" start="20241130090000 +0000" stop="20241130093000 +0000">
+		<title>Boy For Rent</title>
+		<desc>Boy For Rent: 'Boy For Rent' is a romantic comedy drama that stars Thai actors Sananthachat Thanapatpisal, Thanat Lowkhunsombat, Tanutchai Wijitvongtong, and Sarunchana Apisamaimongkol.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241005093000 +0000" stop="20241005100000 +0000">
-		<title>Blacklist</title>
-		<desc>Blacklist: 'Blacklist' tells the story of a group of students who work together to stop the crimes and injustices in their school.</desc>
+	<programme channel="HEART OF ASIA" start="20241130093000 +0000" stop="20241130100000 +0000">
+		<title>Third Rail</title>
+		<desc>Third Rail: 'Third Rail' follows theÃÂ heart-racing experience of ordinary citizens caught amidÃÂ a hijacking crisis. Trapped in a train carriage with armed hijackers and a bomb, the characters must bravely confront the threats and face theirÃÂ fearsÃ</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241005100000 +0000" stop="20241005120000 +0000">
+	<programme channel="HEART OF ASIA" start="20241130100000 +0000" stop="20241130120000 +0000">
 		<title>Strictly Pinoy</title>
 		<desc>Strictly Pinoy: An all-Filipino movie block featuring award-winners, indie films and recently released Filipino movies.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241005120000 +0000" stop="20241005140000 +0000">
+	<programme channel="HEART OF ASIA" start="20241130120000 +0000" stop="20241130140000 +0000">
 		<title>Action Flicks</title>
 		<desc>Action Flicks: A showcase of some of the most thrilling Hong Kong, Chinese and other Asian action movies, dubbed in Filipino.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20241005140000 +0000" stop="20241005160000 +0000">
+	<programme channel="HEART OF ASIA" start="20241130140000 +0000" stop="20241130160000 +0000">
 		<title>Screams on Screen</title>
 		<desc>Screams on Screen: A collection of horror movies from Korea, Thailand and other Asian countries, dubbed in Filipino.</desc>
 		<language>CHI</language>
