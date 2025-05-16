@@ -1,0 +1,53 @@
+name: Combine EPG and Update
+
+on:
+  workflow_dispatch: # Allows manual triggering from the Actions tab
+  schedule:
+    # Runs every 30 minutes
+    - cron: '*/30 * * * *'
+
+jobs:
+  build-and-commit-epg:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required to push changes back to the repository
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4 # Fetches your repository code
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x' # Use a recent Python 3 version
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run EPG Combiner Script
+        run: python epg_combiner.py # Make sure your script is named epg_combiner.py
+
+      - name: Configure Git
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Check for changes
+        id: git_status
+        run: |
+          git add combined_epg.xml
+          if ! git diff --staged --quiet; then
+            echo "EPG file has changed."
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "No changes to combined_epg.xml."
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push EPG if changed
+        if: steps.git_status.outputs.changed == 'true'
+        run: |
+          git commit -m "Automated EPG update: $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
