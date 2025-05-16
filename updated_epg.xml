@@ -2,15 +2,6 @@
 	<channel id="I HEART MOVIES">
 		<display-name>I HEART MOVIES</display-name>
 	</channel>
-	<channel id="Service 102">
-		<display-name>Service 102</display-name>
-	</channel>
-	<channel id="Service 103">
-		<display-name>Service 103</display-name>
-	</channel>
-	<channel id="Service 104">
-		<display-name>Service 104</display-name>
-	</channel>
 	<channel id="GMA 1-Seg">
 		<display-name>GMA 1-Seg</display-name>
 	</channel>
@@ -23,1276 +14,426 @@
 	<channel id="HEART OF ASIA">
 		<display-name>HEART OF ASIA</display-name>
 	</channel>
-	<programme channel="I HEART MOVIES" start="20241231000000 +0000" stop="20241231020000 +0000">
+	<programme channel="I HEART MOVIES" start="20250516100000 +0000" stop="20250516120000 +0000">
 		<title>Block Screening</title>
 		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20241231020000 +0000" stop="20241231040000 +0000">
+	<programme channel="I HEART MOVIES" start="20250516120000 +0000" stop="20250516140000 +0000">
 		<title>Pinoy Movie Date</title>
 		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20241231040000 +0000" stop="20241231060000 +0000">
+	<programme channel="I HEART MOVIES" start="20250516140000 +0000" stop="20250516160000 +0000">
 		<title>Takilya Throwback</title>
 		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20241231060000 +0000" stop="20241231080000 +0000">
+	<programme channel="I HEART MOVIES" start="20250516220000 +0000" stop="20250517000000 +0000">
+		<title>Takilya Throwback</title>
+		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="I HEART MOVIES" start="20250517000000 +0000" stop="20250517020000 +0000">
 		<title>Block Screening</title>
 		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20241231080000 +0000" stop="20241231100000 +0000">
+	<programme channel="I HEART MOVIES" start="20250517020000 +0000" stop="20250517040000 +0000">
 		<title>Pinoy Movie Date</title>
 		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20241231100000 +0000" stop="20241231120000 +0000">
+	<programme channel="I HEART MOVIES" start="20250517040000 +0000" stop="20250517060000 +0000">
+		<title>Takilya Throwback</title>
+		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="I HEART MOVIES" start="20250517060000 +0000" stop="20250517080000 +0000">
 		<title>Block Screening</title>
 		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20241231120000 +0000" stop="20241231140000 +0000">
+	<programme channel="I HEART MOVIES" start="20250517080000 +0000" stop="20250517100000 +0000">
 		<title>Pinoy Movie Date</title>
 		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20241231140000 +0000" stop="20241231160000 +0000">
+	<programme channel="I HEART MOVIES" start="20250517100000 +0000" stop="20250517120000 +0000">
+		<title>Block Screening</title>
+		<desc>Block Screening: Big-budget blockbusters and other offerings from Hollywood.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="I HEART MOVIES" start="20250517120000 +0000" stop="20250517140000 +0000">
+		<title>Pinoy Movie Date</title>
+		<desc>Pinoy Movie Date: A collection of the best contemporary Filipino films</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="I HEART MOVIES" start="20250517140000 +0000" stop="20250517160000 +0000">
 		<title>Takilya Throwback</title>
 		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="I HEART MOVIES" start="20241231220000 +0000" stop="20250101000000 +0000">
-		<title>Takilya Throwback</title>
-		<desc>Takilya Throwback: Popular Pinoy flicks from the '70s until the early 2000s</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20241231010000 +0000" stop="20241231013000 +0000">
-		<title>When The Sky Falls</title>
-		<desc>When The Sky Falls: 'When The Sky Falls' is a Thai drama series about love, revenge, and betrayal. It stars Prang Kannarun Wongkhajornkai and Film Thanapat Kawila.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20241231013000 +0000" stop="20241231030000 +0000">
-		<title>Kapuso Movie Festival</title>
-		<desc>Kapuso Movie Festival: Your favorite Hollywood movies dubbed in Filipino.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20241231030000 +0000" stop="20241231040000 +0000">
-		<title>TiktoClock</title>
-		<desc>TiktoClock: TiktoClock is a one-of-a-kind countdown variety show hosted by Pokwang, Kuya Kim Atienza and Rabiya Mateo.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20241231040000 +0000" stop="20241231063000 +0000">
-		<title>It's Showtime</title>
-		<desc>It's Showtime: 'It's Showtime' is ABS-CBN's longest-running noontime variety show that airs from Monday to Saturday on GMA and GTV.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20241231063000 +0000" stop="20241231072000 +0000">
-		<title>Lilet Matias, Attorney-At-Law</title>
-		<desc>Lilet Matias, Attorney-At-Law: Lilet Matias, Attorney-at-Law tells the story of a little person who has big dreams of fighting for people like her in a world full of injustices, discrimination, sexism, abuse, and poverty.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20241231072000 +0000" stop="20241231080500 +0000">
-		<title>Shining Inheritance</title>
-		<desc>Shining Inheritance</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20241231080500 +0000" stop="20241231084500 +0000">
-		<title>Forever Young</title>
-		<desc>Forever Young: 'Forever Young' is an inspirational family drama series that follows the story of Rambo, a 25-year-old with panhypopituitarism, a rare condition that slows his growth hormone and retains his childlike appearance. ThroughÃÂ hisÃÂ life a</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20241231084500 +0000" stop="20241231091000 +0000">
-		<title>Fast Talk with Boy Abunda</title>
-		<desc>: th guest celebrities.
-Fast Talk with Boy Abunda: 'Fast Talk with Boy Abunda' is a multi-platform showbiz news and talk show. Hosted by the King of Talk Boy Abunda, the show features a rundown and analysis of the latest showbiz-related news or stories and an interview wi</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20241231091000 +0000" stop="20241231094000 +0000">
-		<title>Love at First Night</title>
-		<desc>Love at First Night</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20241231094000 +0000" stop="20241231103000 +0000">
-		<title>Family Feud</title>
-		<desc>Family Feud: The game show that every family loves to play is back!</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20241231103000 +0000" stop="20241231120000 +0000">
+	<programme channel="GMA" start="20250516103000 +0000" stop="20250516120500 +0000">
 		<title>24 Oras</title>
 		<desc>24 Oras: The flagship nightly newscast of GMA News and Public Affairs</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241231120000 +0000" stop="20241231125000 +0000">
-		<title>Kapuso Primetime Cinema</title>
-		<desc>Kapuso Primetime Cinema: Kapuso Primetime Cinema is a collection of all-time favorite Pinoy movies that have entertained and touched Filipinos.</desc>
+	<programme channel="GMA" start="20250516120500 +0000" stop="20250516125000 +0000">
+		<title>Lolong: Bayani ng Bayan</title>
+		<desc>Bayani ng BayanïA crocodile-them
+Lolong: Bayani ng Bayan: A crocodile-themed action-adventure drama series, Ã¢â¬ÅLolongÃ¢â¬Â centers on a man's extraordinary friendship with a giant crocodile named Dakila. In Ã¢â¬ÅLolong: Bayani ng Bayan,Ã¢â¬Â viewers can look forward to Lolong's journey </desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241231125000 +0000" stop="20241231132500 +0000">
-		<title>Widows' War</title>
-		<desc>Widows' War: Ã¢â¬ËWidowsÃ¢â¬â¢ WarÃ¢â¬â¢ is the newest murder mystery drama series on GMA Network, top-billed by A-list Kapuso actresses Bea Alonzo and Carla Abellana.Ã</desc>
+	<programme channel="GMA" start="20250516125000 +0000" stop="20250516133000 +0000">
+		<title>Mga Batang Riles</title>
+		<desc>: dds, survive, and get out to find the real culprit, clear their names, and save their impoverished neighborhood from corruption and abuse.
+Mga Batang Riles: Mga Batang Riles tells the story of four underprivileged boys -- Kidlat, Kulot, Sig, and Dags -- who were detained in a juvenile center as a punishment for a crime they did not commit. In the juvenile center, they must fight the o</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241231132500 +0000" stop="20241231140000 +0000">
-		<title>Asawa Ng Asawa Ko</title>
-		<desc>: riend.
-Asawa Ng Asawa Ko: 'Asawa Ng Asawa Ko' tells the story of Cristy, who was presumed dead after she was captured by the armed group KALASAG. When she goes back to her family, she finds that her husband Jordan is now happily married to Shaira, their f</desc>
+	<programme channel="GMA" start="20250516133000 +0000" stop="20250516140500 +0000">
+		<title>SLAY</title>
+		<desc>SLAY: SLAY follows four women--Sugar (Mikee), Liv (Julie Anne), Amelie (Gabbi), and Yana (Ysabel),ÃÂ each with their own motive to kill fitness influencer, Zach (Derrick).ÃÂ When Zach dies in a gym fire, the women find themselves entangled in a deadl</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241231140000 +0000" stop="20241231143000 +0000">
+	<programme channel="GMA" start="20250516140500 +0000" stop="20250516144500 +0000">
+		<title>Pinoy Big Brother Celebrity Collab Edition</title>
+		<desc>: ertainment industry, GMA Network and ABS-CBN Studios.
+Pinoy Big Brother Celebrity Collab Edition: The iconic Bahay ni Kuya is now open for its new season called 'Pinoy Big Brother Celebrity Collab Edition.' The show marks another exciting collaboration between two content leaders in the Philippine ent</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20250516144500 +0000" stop="20250516153000 +0000">
 		<title>Saksi</title>
 		<desc>Saksi: Cap off your night with the latest news from Arnold Clavio and Pia Arcangel.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241231143000 +0000" stop="20241231160000 +0000">
-		<title>Kapuso Countdown to 2025: Isa sa Puso</title>
-		<desc>: r's Eve party featuring some of your favorite Kapuso stars!
-Kapuso Countdown to 2025: Isa sa Puso: Kickstart your 2025 with a star-studded New Year countdown! The Kapuso Countdown is back and brighter than before as it returns to SM Mall of Asia on December 31 to usher in the new year with a festive New Yea</desc>
+	<programme channel="GMA" start="20250516153000 +0000" stop="20250516160000 +0000">
+		<title>Oh, My Boss</title>
+		<desc>: s for him.
+Oh, My Boss: 'Oh My Boss' is a Thai/Lakorn series about Natalie, who lands a new job. She celebrates with friends and meets a charming stranger, only to discover he is her boss, Koji. As she navigates work, she deals with drama and develops feeling</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241231164500 +0000" stop="20241231213000 +0000">
+	<programme channel="GMA" start="20250516160000 +0000" stop="20250516213000 +0000">
 		<title>The 700 Club Asia</title>
 		<desc>The 700 Club Asia: A flagship program of CBN Asia, the show brings miracles into your home through encouraging stories and testimonies.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20241231213000 +0000" stop="20250101000000 +0000">
-		<title>Unang Hirit</title>
-		<desc>Unang Hirit: An early morning show that provides latest news and good vibes with celebrity performances, food trips, and other festivities.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250101000000 +0000" stop="20250101002500 +0000">
-		<title>Knock Out</title>
-		<desc>Knock Out: An animated series that shows the life of boxers.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250101002500 +0000" stop="20250101010000 +0000">
-		<title>Kamen Rider Saber</title>
-		<desc>Kamen Rider Saber: Kamen Rider Saber revolves around a sect of swordsmen known as the Sword of Logos sworn toÃÂ protect the Book of Ancients, a powerful tome of history that contains everything known to man. However, thousands of years ago, a traito</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250101010000 +0000" stop="20250101013000 +0000">
-		<title>When The Sky Falls</title>
-		<desc>When The Sky Falls: 'When The Sky Falls' is a Thai drama series about love, revenge, and betrayal. It stars Prang Kannarun Wongkhajornkai and Film Thanapat Kawila.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250101013000 +0000" stop="20250101030000 +0000">
-		<title>Kapuso Movie Festival</title>
-		<desc>Kapuso Movie Festival: Your favorite Hollywood movies dubbed in Filipino.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250101030000 +0000" stop="20250101040000 +0000">
-		<title>TiktoClock</title>
-		<desc>TiktoClock: TiktoClock is a one-of-a-kind countdown variety show hosted by Pokwang, Kuya Kim Atienza and Rabiya Mateo.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250101040000 +0000" stop="20250101063000 +0000">
-		<title>It's Showtime</title>
-		<desc>It's Showtime: 'It's Showtime' is ABS-CBN's longest-running noontime variety show that airs from Monday to Saturday on GMA and GTV.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250101063000 +0000" stop="20250101072000 +0000">
-		<title>Lilet Matias, Attorney-At-Law</title>
-		<desc>Lilet Matias, Attorney-At-Law: Lilet Matias, Attorney-at-Law tells the story of a little person who has big dreams of fighting for people like her in a world full of injustices, discrimination, sexism, abuse, and poverty.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250101072000 +0000" stop="20250101080500 +0000">
-		<title>Shining Inheritance</title>
-		<desc>Shining Inheritance</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250101080500 +0000" stop="20250101084500 +0000">
-		<title>Forever Young</title>
-		<desc>Forever Young: 'Forever Young' is an inspirational family drama series that follows the story of Rambo, a 25-year-old with panhypopituitarism, a rare condition that slows his growth hormone and retains his childlike appearance. ThroughÃÂ hisÃÂ life a</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250101084500 +0000" stop="20250101091000 +0000">
-		<title>Fast Talk with Boy Abunda</title>
-		<desc>: th guest celebrities.
-Fast Talk with Boy Abunda: 'Fast Talk with Boy Abunda' is a multi-platform showbiz news and talk show. Hosted by the King of Talk Boy Abunda, the show features a rundown and analysis of the latest showbiz-related news or stories and an interview wi</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250101091000 +0000" stop="20250101094000 +0000">
-		<title>Love at First Night</title>
-		<desc>Love at First Night</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250101094000 +0000" stop="20250101103000 +0000">
-		<title>Family Feud</title>
-		<desc>Family Feud: The game show that every family loves to play is back!</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250101103000 +0000" stop="20250101120000 +0000">
-		<title>24 Oras</title>
-		<desc>24 Oras: The flagship nightly newscast of GMA News and Public Affairs</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250101120000 +0000" stop="20250101133000 +0000">
-		<title>Kapuso Primetime Cinema</title>
-		<desc>Kapuso Primetime Cinema: Kapuso Primetime Cinema is a collection of all-time favorite Pinoy movies that have entertained and touched Filipinos.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250101133000 +0000" stop="20250101141500 +0000">
-		<title>Widows' War</title>
-		<desc>Widows' War: Ã¢â¬ËWidowsÃ¢â¬â¢ WarÃ¢â¬â¢ is the newest murder mystery drama series on GMA Network, top-billed by A-list Kapuso actresses Bea Alonzo and Carla Abellana.Ã</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250101141500 +0000" stop="20250101150000 +0000">
-		<title>Asawa Ng Asawa Ko</title>
-		<desc>: riend.
-Asawa Ng Asawa Ko: 'Asawa Ng Asawa Ko' tells the story of Cristy, who was presumed dead after she was captured by the armed group KALASAG. When she goes back to her family, she finds that her husband Jordan is now happily married to Shaira, their f</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250101150000 +0000" stop="20250101153000 +0000">
-		<title>Saksi</title>
-		<desc>Saksi: Cap off your night with the latest news from Arnold Clavio and Pia Arcangel.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250101153000 +0000" stop="20250101160000 +0000">
-		<title>Flames of Vengeance</title>
-		<desc>Flames of Vengeance: 'Flames of Vengeance' begins with the once perfect relationship of Maui (Yard Yardthip Rajpal) and John (Fluke Krirkphol Masayavanich), but it all came crashing down when John cheated on Maui with Angela (Ying Rhatha Phongam).</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250101160000 +0000" stop="20250101213000 +0000">
-		<title>The 700 Club Asia</title>
-		<desc>The 700 Club Asia: A flagship program of CBN Asia, the show brings miracles into your home through encouraging stories and testimonies.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250101213000 +0000" stop="20250102000000 +0000">
-		<title>Unang Hirit</title>
-		<desc>Unang Hirit: An early morning show that provides latest news and good vibes with celebrity performances, food trips, and other festivities.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250102000000 +0000" stop="20250102002500 +0000">
-		<title>Knock Out</title>
-		<desc>Knock Out: An animated series that shows the life of boxers.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250102002500 +0000" stop="20250102010000 +0000">
-		<title>Kamen Rider Saber</title>
-		<desc>Kamen Rider Saber: Kamen Rider Saber revolves around a sect of swordsmen known as the Sword of Logos sworn toÃÂ protect the Book of Ancients, a powerful tome of history that contains everything known to man. However, thousands of years ago, a traito</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250102010000 +0000" stop="20250102013000 +0000">
-		<title>When The Sky Falls</title>
-		<desc>When The Sky Falls: 'When The Sky Falls' is a Thai drama series about love, revenge, and betrayal. It stars Prang Kannarun Wongkhajornkai and Film Thanapat Kawila.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250102013000 +0000" stop="20250102030000 +0000">
-		<title>Kapuso Movie Festival</title>
-		<desc>Kapuso Movie Festival: Your favorite Hollywood movies dubbed in Filipino.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250102030000 +0000" stop="20250102040000 +0000">
-		<title>TiktoClock</title>
-		<desc>TiktoClock: TiktoClock is a one-of-a-kind countdown variety show hosted by Pokwang, Kuya Kim Atienza and Rabiya Mateo.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250102040000 +0000" stop="20250102063000 +0000">
-		<title>It's Showtime</title>
-		<desc>It's Showtime: 'It's Showtime' is ABS-CBN's longest-running noontime variety show that airs from Monday to Saturday on GMA and GTV.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250102063000 +0000" stop="20250102072000 +0000">
-		<title>Lilet Matias, Attorney-At-Law</title>
-		<desc>Lilet Matias, Attorney-At-Law: Lilet Matias, Attorney-at-Law tells the story of a little person who has big dreams of fighting for people like her in a world full of injustices, discrimination, sexism, abuse, and poverty.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250102072000 +0000" stop="20250102080500 +0000">
-		<title>Shining Inheritance</title>
-		<desc>Shining Inheritance</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250102080500 +0000" stop="20250102084500 +0000">
-		<title>Forever Young</title>
-		<desc>Forever Young: 'Forever Young' is an inspirational family drama series that follows the story of Rambo, a 25-year-old with panhypopituitarism, a rare condition that slows his growth hormone and retains his childlike appearance. ThroughÃÂ hisÃÂ life a</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250102084500 +0000" stop="20250102091000 +0000">
-		<title>Fast Talk with Boy Abunda</title>
-		<desc>: th guest celebrities.
-Fast Talk with Boy Abunda: 'Fast Talk with Boy Abunda' is a multi-platform showbiz news and talk show. Hosted by the King of Talk Boy Abunda, the show features a rundown and analysis of the latest showbiz-related news or stories and an interview wi</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250102091000 +0000" stop="20250102094000 +0000">
-		<title>Love at First Night</title>
-		<desc>Love at First Night</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250102094000 +0000" stop="20250102103000 +0000">
-		<title>Family Feud</title>
-		<desc>Family Feud: The game show that every family loves to play is back!</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250102103000 +0000" stop="20250102120000 +0000">
-		<title>24 Oras</title>
-		<desc>24 Oras: The flagship nightly newscast of GMA News and Public Affairs</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250102120000 +0000" stop="20250102133000 +0000">
-		<title>Kapuso Primetime Cinema</title>
-		<desc>Kapuso Primetime Cinema: Kapuso Primetime Cinema is a collection of all-time favorite Pinoy movies that have entertained and touched Filipinos.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250102133000 +0000" stop="20250102141500 +0000">
-		<title>Widows' War</title>
-		<desc>Widows' War: Ã¢â¬ËWidowsÃ¢â¬â¢ WarÃ¢â¬â¢ is the newest murder mystery drama series on GMA Network, top-billed by A-list Kapuso actresses Bea Alonzo and Carla Abellana.Ã</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250102141500 +0000" stop="20250102150000 +0000">
-		<title>Asawa Ng Asawa Ko</title>
-		<desc>: riend.
-Asawa Ng Asawa Ko: 'Asawa Ng Asawa Ko' tells the story of Cristy, who was presumed dead after she was captured by the armed group KALASAG. When she goes back to her family, she finds that her husband Jordan is now happily married to Shaira, their f</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250102150000 +0000" stop="20250102153000 +0000">
-		<title>Saksi</title>
-		<desc>Saksi: Cap off your night with the latest news from Arnold Clavio and Pia Arcangel.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250102153000 +0000" stop="20250102160000 +0000">
-		<title>Flames of Vengeance</title>
-		<desc>Flames of Vengeance: 'Flames of Vengeance' begins with the once perfect relationship of Maui (Yard Yardthip Rajpal) and John (Fluke Krirkphol Masayavanich), but it all came crashing down when John cheated on Maui with Angela (Ying Rhatha Phongam).</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250102160000 +0000" stop="20250102213000 +0000">
-		<title>The 700 Club Asia</title>
-		<desc>The 700 Club Asia: A flagship program of CBN Asia, the show brings miracles into your home through encouraging stories and testimonies.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250102213000 +0000" stop="20250103000000 +0000">
-		<title>Unang Hirit</title>
-		<desc>Unang Hirit: An early morning show that provides latest news and good vibes with celebrity performances, food trips, and other festivities.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250103000000 +0000" stop="20250103002500 +0000">
-		<title>Knock Out</title>
-		<desc>Knock Out: An animated series that shows the life of boxers.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250103002500 +0000" stop="20250103010000 +0000">
-		<title>Kamen Rider Saber</title>
-		<desc>Kamen Rider Saber: Kamen Rider Saber revolves around a sect of swordsmen known as the Sword of Logos sworn toÃÂ protect the Book of Ancients, a powerful tome of history that contains everything known to man. However, thousands of years ago, a traito</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250103010000 +0000" stop="20250103013000 +0000">
-		<title>When The Sky Falls</title>
-		<desc>When The Sky Falls: 'When The Sky Falls' is a Thai drama series about love, revenge, and betrayal. It stars Prang Kannarun Wongkhajornkai and Film Thanapat Kawila.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250103013000 +0000" stop="20250103030000 +0000">
-		<title>Kapuso Movie Festival</title>
-		<desc>Kapuso Movie Festival: Your favorite Hollywood movies dubbed in Filipino.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250103030000 +0000" stop="20250103040000 +0000">
-		<title>TiktoClock</title>
-		<desc>TiktoClock: TiktoClock is a one-of-a-kind countdown variety show hosted by Pokwang, Kuya Kim Atienza and Rabiya Mateo.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250103040000 +0000" stop="20250103063000 +0000">
-		<title>It's Showtime</title>
-		<desc>It's Showtime: 'It's Showtime' is ABS-CBN's longest-running noontime variety show that airs from Monday to Saturday on GMA and GTV.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250103063000 +0000" stop="20250103072000 +0000">
-		<title>Lilet Matias, Attorney-At-Law</title>
-		<desc>Lilet Matias, Attorney-At-Law: Lilet Matias, Attorney-at-Law tells the story of a little person who has big dreams of fighting for people like her in a world full of injustices, discrimination, sexism, abuse, and poverty.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250103072000 +0000" stop="20250103080500 +0000">
-		<title>Shining Inheritance</title>
-		<desc>Shining Inheritance</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250103080500 +0000" stop="20250103084500 +0000">
-		<title>Forever Young</title>
-		<desc>Forever Young: 'Forever Young' is an inspirational family drama series that follows the story of Rambo, a 25-year-old with panhypopituitarism, a rare condition that slows his growth hormone and retains his childlike appearance. ThroughÃÂ hisÃÂ life a</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250103084500 +0000" stop="20250103091000 +0000">
-		<title>Fast Talk with Boy Abunda</title>
-		<desc>: th guest celebrities.
-Fast Talk with Boy Abunda: 'Fast Talk with Boy Abunda' is a multi-platform showbiz news and talk show. Hosted by the King of Talk Boy Abunda, the show features a rundown and analysis of the latest showbiz-related news or stories and an interview wi</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250103091000 +0000" stop="20250103094000 +0000">
-		<title>Love at First Night</title>
-		<desc>Love at First Night</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250103094000 +0000" stop="20250103103000 +0000">
-		<title>Family Feud</title>
-		<desc>Family Feud: The game show that every family loves to play is back!</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250103103000 +0000" stop="20250103120000 +0000">
-		<title>24 Oras</title>
-		<desc>24 Oras: The flagship nightly newscast of GMA News and Public Affairs</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250103120000 +0000" stop="20250103133000 +0000">
-		<title>Kapuso Primetime Cinema</title>
-		<desc>Kapuso Primetime Cinema: Kapuso Primetime Cinema is a collection of all-time favorite Pinoy movies that have entertained and touched Filipinos.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250103133000 +0000" stop="20250103141500 +0000">
-		<title>Widows' War</title>
-		<desc>Widows' War: Ã¢â¬ËWidowsÃ¢â¬â¢ WarÃ¢â¬â¢ is the newest murder mystery drama series on GMA Network, top-billed by A-list Kapuso actresses Bea Alonzo and Carla Abellana.Ã</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250103141500 +0000" stop="20250103150000 +0000">
-		<title>Amazing Earth</title>
-		<desc>Amazing Earth: Dingdong Dantes showcases raw beauty of the Earth in this weekly infotainment program.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250103150000 +0000" stop="20250103153000 +0000">
-		<title>Saksi</title>
-		<desc>Saksi: Cap off your night with the latest news from Arnold Clavio and Pia Arcangel.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250103153000 +0000" stop="20250103160000 +0000">
-		<title>Flames of Vengeance</title>
-		<desc>Flames of Vengeance: 'Flames of Vengeance' begins with the once perfect relationship of Maui (Yard Yardthip Rajpal) and John (Fluke Krirkphol Masayavanich), but it all came crashing down when John cheated on Maui with Angela (Ying Rhatha Phongam).</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250103160000 +0000" stop="20250103213000 +0000">
-		<title>The 700 Club Asia</title>
-		<desc>The 700 Club Asia: A flagship program of CBN Asia, the show brings miracles into your home through encouraging stories and testimonies.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GMA" start="20250103213000 +0000" stop="20250103220000 +0000">
+	<programme channel="GMA" start="20250516213000 +0000" stop="20250516220000 +0000">
 		<title>Kapwa Ko, Mahal Ko</title>
 		<desc>Kapwa Ko, Mahal Ko: The longest-running public service program on Philippine television.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20250103220000 +0000" stop="20250103223000 +0000">
+	<programme channel="GMA" start="20250516220000 +0000" stop="20250516223000 +0000">
 		<title>Agripreneur</title>
 		<desc>Agripreneur: Features the latest innovations and procedures in farming as well as agri-business ideas for farmers and entrepreneurs.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20250103223000 +0000" stop="20250103230000 +0000">
+	<programme channel="GMA" start="20250516223000 +0000" stop="20250516230000 +0000">
 		<title>Pinoy M.D.</title>
 		<desc>Pinoy M.D.: Weekly morning show hosted by Connie Sison that provides information about various health concerns.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20250103230000 +0000" stop="20250103233000 +0000">
+	<programme channel="GMA" start="20250516230000 +0000" stop="20250516233000 +0000">
 		<title>Turbo Zone</title>
 		<desc>Turbo Zone: News and features about various models of cars and motorcycles.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GMA" start="20250103233000 +0000" stop="20250104000000 +0000">
+	<programme channel="GMA" start="20250516233000 +0000" stop="20250517000000 +0000">
 		<title>Healing Galing</title>
 		<desc>: ay."
 Healing Galing: Hosted by Dr. Edinell Calvario, 'Healing Galing' is a health and wellness television show that teaches Filipinos how to care for one's health and treat ailments at home using the holistic approach, aptly called "the Healing Galing w</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20241231010000 +0000" stop="20241231030000 +0000">
-		<title>Cinema G!</title>
-		<desc>Cinema G!: Cinema G! is the latest GTV movie block featuring upliftingÃÂ local films including romance, family, and comedy, airing weekdays from 9:00-11:00 AM.</desc>
+	<programme channel="GMA" start="20250517000000 +0000" stop="20250517003000 +0000">
+		<title>Yashahime</title>
+		<desc>Yashahime: Half-demon twins, Towa and Setsuna, get separated during their childhood by a fateful accident. Years later, they are reunited but Towa learns that her twin has no memory of her past.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20241231030000 +0000" stop="20241231040000 +0000">
-		<title>Balitanghali</title>
-		<desc>Balitanghali: GTV's award-winning lunchtime newscast and source of breaking news, anchored by GMA's finest journalists.</desc>
+	<programme channel="GMA" start="20250517003000 +0000" stop="20250517010000 +0000">
+		<title>Magic Kaito</title>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20241231040000 +0000" stop="20241231063000 +0000">
+	<programme channel="GMA" start="20250517010000 +0000" stop="20250517013000 +0000">
+		<title>All New Jackie Chan Adventures</title>
+		<desc>All New Jackie Chan Adventures: 'All New Jackie Chan Adventures' is a reboot of the animated series 'Jackie Chan Adventures,' following the fictionalized adventures of action film star Jackie Chan.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20250517013000 +0000" stop="20250517020000 +0000">
+		<title>Voltes V</title>
+		<desc>Voltes V: 'Voltes V' is a popular Japanese Ã¢â¬Ë70s anime that follows a group of heroic warriors piloting a a giant ultra-magnetic robot called Voltes V, as they fight the forces of humanoid aliens known as Boazanians who plan to invade the earth an</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20250517020000 +0000" stop="20250517021500 +0000">
+		<title>Angry Birds</title>
+		<desc>Angry Birds: The feud between the flock of birds and the egg-stealing pigs continues in this animated series based on the popular video game.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20250517021500 +0000" stop="20250517024500 +0000">
+		<title>Knock Out</title>
+		<desc>Knock Out: An animated series that shows the life of boxers.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20250517024500 +0000" stop="20250517031500 +0000">
+		<title>Dami Mong Alam, Kuya Kim</title>
+		<desc>Dami Mong Alam, Kuya Kim: Dami Mong Alam, Kuya Kim is a dynamic infotainment program that taps into the endless stream of user-generated content (UGC) from Facebook, YouTube, and Tiktok.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20250517031500 +0000" stop="20250517040000 +0000">
+		<title>Pera Paraan</title>
+		<desc>Pera Paraan: Learn tips on handling household finances, earning more income, and succeeding in a work-from-home environment from this show.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20250517040000 +0000" stop="20250517063000 +0000">
 		<title>It's Showtime</title>
 		<desc>It's Showtime: 'It's Showtime' is ABS-CBN's longest-running noontime variety show that airs from Monday to Saturday on GMA and GTV.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20241231063000 +0000" stop="20241231070000 +0000">
-		<title>Love in the Moonlight</title>
-		<desc>: oman disguising herself as a man and going by the name Hong Sam-nom. In exchange for money, Hong Ra-on counsels men, gives them advice on dating, and writes their love letters for them.
-Love in the Moonlight: 'Love in the Moonlight' is a coming-of-age, youth romance drama that's led by two of the biggest names in the Korean entertainment industry, Park Bo-gum and Kim Yoo-jung. Its story centers around Hong Ra-on (Kim Yoo-jung) a w</desc>
+	<programme channel="GMA" start="20250517063000 +0000" stop="20250517071500 +0000">
+		<title>Prinsesa ng City Jail</title>
+		<desc>: ite the love and happiness she finds with them, Princess still longs for the mother who abandoned her.
+Prinsesa ng City Jail: Prinsesa Ng City Jail tells the story of Princess (Sofia Pablo), a young girl raised near a prison by her jail guard father. She brings light to the lives of the people around her, especially the convicted criminals. But desp</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20241231070000 +0000" stop="20241231073000 +0000">
-		<title>Yumi's Cells</title>
-		<desc>Yumi's Cells: Yumi's Cells is a Korean drama based on a popular webtoon. It teaches the importance of believing in love despite past heartbreaks.</desc>
+	<programme channel="GMA" start="20250517071500 +0000" stop="20250517084500 +0000">
+		<title>Philippine Defenders</title>
+		<desc>: , sea, and air.
+Philippine Defenders: "Philippine Defenders" is a documentary produced by GMA Public Affairs. Host Matteo Guidicelli, himself a Philippine Army reservist, pays tribute to the brave men and women who protect the Philippines' sovereignty through land</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20241231073000 +0000" stop="20241231094500 +0000">
-		<title>Siesta Fiesta Movies</title>
-		<desc>Siesta Fiesta Movies: The best of western and action movies, dubbed in Filipino</desc>
+	<programme channel="GMA" start="20250517084500 +0000" stop="20250517093000 +0000">
+		<title>MAKA</title>
+		<desc>MAKA: MAKA is an exciting teen drama that aims to bridge generational gaps by addressing relatable issues faced by Gen Z and their interactions with other generations, including millennials, Gen X, and boomers.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20241231094500 +0000" stop="20241231103000 +0000">
-		<title>Lutong Bahay</title>
-		<desc>Lutong Bahay: 'Lutong Bahay' is a guaranteed mix of food, laughter, and heartfelt conversations that will make your kitchen more homey and food even more yummy!</desc>
+	<programme channel="GMA" start="20250517093000 +0000" stop="20250517101500 +0000">
+		<title>24 Oras Weekend</title>
+		<desc>24 Oras Weekend: The award-winning news broadcasting program brings the latest on what's happening in the Philippines and around the world.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20241231103000 +0000" stop="20241231120000 +0000">
+	<programme channel="GMA" start="20250517101500 +0000" stop="20250517111500 +0000">
+		<title>Pinoy Big Brother Celebrity Collab Edition</title>
+		<desc>: ertainment industry, GMA Network and ABS-CBN Studios.
+Pinoy Big Brother Celebrity Collab Edition: The iconic Bahay ni Kuya is now open for its new season called 'Pinoy Big Brother Celebrity Collab Edition.' The show marks another exciting collaboration between two content leaders in the Philippine ent</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20250517111500 +0000" stop="20250517121500 +0000">
+		<title>Pepito Manaloto: Tuloy Ang Kuwento</title>
+		<desc>: eflects the humorous realities of everyday Filipino life, highlighting family values that help the lead characters to face challenges with optimism, and celebrating the special, happy moments - big or small- that we all aspire to share with our l, oved ones. Set in the present-day, the stories are based on real-life experiences and portrayed with humor and wit by the country's top-notch comedians, led by the show's creator, lead star, and director, Michael V.
+Pepito Manaloto: Tuloy Ang Kuwento: "PEPITO MANALOTO, TULOY ANG KUWENTO" is the continuing comedic chronicle of the life of Pepito Manaloto, a lucky multimillion lotto winner, his family, and the merry mix of neighbors and colleagues. The program r</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20250517121500 +0000" stop="20250517133000 +0000">
+		<title>Magpakailanman</title>
+		<desc>Magpakailanman: GMA's award-winning drama anthology Magpakailanman features stories that warm the heart and enrich the soul.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20250517133000 +0000" stop="20250517141500 +0000">
+		<title>Daig Kayo Ng Lola Ko</title>
+		<desc>Daig Kayo Ng Lola Ko: Lola Goreng bonds with her granchildren by narrating different adventure stories in this weekly fantasy anthology'</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20250517141500 +0000" stop="20250517150000 +0000">
+		<title>I-Witness</title>
+		<desc>I-Witness: Philippine's pioneer documentary program tackles current issues in an in-depth manner.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20250517150000 +0000" stop="20250517153000 +0000">
+		<title>Reporter's Notebook</title>
+		<desc>Reporter's Notebook: This multi-awarded investigative news magazine program takes you to the stories behind the news.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GMA" start="20250517153000 +0000" stop="20250517160000 +0000">
+		<title>Where in Manila</title>
+		<desc>Where in Manila: Join Rhian Ramos as she takes you on a journey through the Metro in "Where in Manila?" Tune in every Saturday at 11:30 PM.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="GTV" start="20250516103000 +0000" stop="20250516120500 +0000">
 		<title>24 Oras</title>
 		<desc>24 Oras: The flagship nightly newscast of GMA News and Public Affairs</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20241231120000 +0000" stop="20241231134000 +0000">
-		<title>G! Flicks</title>
-		<desc>G! Flicks: Weeknights movie block on GTV.</desc>
+	<programme channel="GTV" start="20250516120500 +0000" stop="20250516134500 +0000">
+		<title>FPJ Sa G! Flicks</title>
+		<desc>FPJ Sa G! Flicks: 'FPJ Sa G! Flicks'ÃÂ features the collection of digitally-restored films of The King of Philippine Movies Fernando Poe Jr.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20241231134000 +0000" stop="20241231143000 +0000">
-		<title>Widows' War</title>
-		<desc>Widows' War: Ã¢â¬ËWidowsÃ¢â¬â¢ WarÃ¢â¬â¢ is the newest murder mystery drama series on GMA Network, top-billed by A-list Kapuso actresses Bea Alonzo and Carla Abellana.Ã</desc>
+	<programme channel="GTV" start="20250516134500 +0000" stop="20250516143000 +0000">
+		<title>Lolong: Bayani ng Bayan</title>
+		<desc>Bayani ng BayanïA crocodile-them
+Lolong: Bayani ng Bayan: A crocodile-themed action-adventure drama series, Ã¢â¬ÅLolongÃ¢â¬Â centers on a man's extraordinary friendship with a giant crocodile named Dakila. In Ã¢â¬ÅLolong: Bayani ng Bayan,Ã¢â¬Â viewers can look forward to Lolong's journey </desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20241231143000 +0000" stop="20241231150500 +0000">
-		<title>Asawa Ng Asawa Ko</title>
-		<desc>: riend.
-Asawa Ng Asawa Ko: 'Asawa Ng Asawa Ko' tells the story of Cristy, who was presumed dead after she was captured by the armed group KALASAG. When she goes back to her family, she finds that her husband Jordan is now happily married to Shaira, their f</desc>
+	<programme channel="GTV" start="20250516143000 +0000" stop="20250516150500 +0000">
+		<title>Mga Batang Riles</title>
+		<desc>: dds, survive, and get out to find the real culprit, clear their names, and save their impoverished neighborhood from corruption and abuse.
+Mga Batang Riles: Mga Batang Riles tells the story of four underprivileged boys -- Kidlat, Kulot, Sig, and Dags -- who were detained in a juvenile center as a punishment for a crime they did not commit. In the juvenile center, they must fight the o</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20241231150500 +0000" stop="20241231152500 +0000">
+	<programme channel="GTV" start="20250516150500 +0000" stop="20250516152500 +0000">
 		<title>State of the Nation</title>
 		<desc>State of the Nation: State of the Nation is a newscast anchored by Atom Araullo and Maki Pulido that airs weeknights at 9:15 p.m. on GTV.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20241231152500 +0000" stop="20241231160000 +0000">
-		<title>Fear Times</title>
-		<desc>: pening one after the other.
-Fear Times: Onoda Shizuru is a university student in Kyoto. As soon as she starts living her long cherished desire, the strange horror newspaper begins to arrive. At first, she believes them to be a prank but the stories in the newspapers begin hap</desc>
+	<programme channel="GTV" start="20250516152500 +0000" stop="20250516160000 +0000">
+		<title>SLAY</title>
+		<desc>SLAY: SLAY follows four women--Sugar (Mikee), Liv (Julie Anne), Amelie (Gabbi), and Yana (Ysabel),ÃÂ each with their own motive to kill fitness influencer, Zach (Derrick).ÃÂ When Zach dies in a gym fire, the women find themselves entangled in a deadl</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20241231213000 +0000" stop="20250101010000 +0000">
+	<programme channel="GTV" start="20250516213000 +0000" stop="20250517010000 +0000">
 		<title>Dobol B TV</title>
 		<desc>Dobol B TV: Super Radyo DZBB 594 radio programs simulcast on GTV.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20250101010000 +0000" stop="20250101030000 +0000">
-		<title>Cinema G!</title>
-		<desc>Cinema G!: Cinema G! is the latest GTV movie block featuring upliftingÃÂ local films including romance, family, and comedy, airing weekdays from 9:00-11:00 AM.</desc>
+	<programme channel="GTV" start="20250517010000 +0000" stop="20250517013000 +0000">
+		<title>Science Pinas</title>
+		<desc>Science Pinas: Hosted by Mark Wei and Riana Pangindian, 'Science Pinas' is a science travel show that explores knowledge and discovery.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20250101030000 +0000" stop="20250101040000 +0000">
-		<title>Balitanghali</title>
-		<desc>Balitanghali: GTV's award-winning lunchtime newscast and source of breaking news, anchored by GMA's finest journalists.</desc>
+	<programme channel="GTV" start="20250517013000 +0000" stop="20250517040000 +0000">
+		<title>Saturday Cinema Hits</title>
+		<desc>Saturday Cinema Hits: Movie block every Saturday on GTV.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20250101040000 +0000" stop="20250101063000 +0000">
+	<programme channel="GTV" start="20250517040000 +0000" stop="20250517063000 +0000">
 		<title>Noontime Movie Hits</title>
 		<desc>Noontime Movie Hits: Spend your chill afternoons watching shows on the Noontime movie block on GTV.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20250101063000 +0000" stop="20250101070000 +0000">
-		<title>Love in the Moonlight</title>
-		<desc>: oman disguising herself as a man and going by the name Hong Sam-nom. In exchange for money, Hong Ra-on counsels men, gives them advice on dating, and writes their love letters for them.
-Love in the Moonlight: 'Love in the Moonlight' is a coming-of-age, youth romance drama that's led by two of the biggest names in the Korean entertainment industry, Park Bo-gum and Kim Yoo-jung. Its story centers around Hong Ra-on (Kim Yoo-jung) a w</desc>
+	<programme channel="GTV" start="20250517063000 +0000" stop="20250517090000 +0000">
+		<title>NCAA Siglo Uno: Inspiring Legacies</title>
+		<desc>: " and a series of activities to honor the league's "10 Greatest Players."
+NCAA Siglo Uno: Inspiring Legacies: Spanning 100 years of excellence in sports, the National Collegiate Athletic Association (NCAA) celebrates its historic centennial season this 2024 with a brand new logo and theme, "Siglo Uno: Inspiring Legacies,</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20250101070000 +0000" stop="20250101073000 +0000">
-		<title>Yumi's Cells</title>
-		<desc>Yumi's Cells: Yumi's Cells is a Korean drama based on a popular webtoon. It teaches the importance of believing in love despite past heartbreaks.</desc>
+	<programme channel="GTV" start="20250517090000 +0000" stop="20250517093000 +0000">
+		<title>About Time</title>
+		<desc>: sh, Mika comes across Dino (Lee Sang-yoon), the chief director of a cultural foundation, she realizes her own time clock stops whenever she is near him.
+About Time: "About Time" is fantasy romance Korean drama series about an aspiring musical actress Michaela (Lee Sung-kyung), who has an incredible ability to see the life spans of everyone, including herself. But in the aftermath of a minor car cra</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20250101073000 +0000" stop="20250101094500 +0000">
-		<title>Afternoon Movie Break</title>
-		<desc>Afternoon Movie Break: Daily afternoon movie block.</desc>
+	<programme channel="GTV" start="20250517093000 +0000" stop="20250517101500 +0000">
+		<title>24 Oras Weekend</title>
+		<desc>24 Oras Weekend: The award-winning news broadcasting program brings the latest on what's happening in the Philippines and around the world.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20250101094500 +0000" stop="20250101103000 +0000">
-		<title>Lutong Bahay</title>
-		<desc>Lutong Bahay: 'Lutong Bahay' is a guaranteed mix of food, laughter, and heartfelt conversations that will make your kitchen more homey and food even more yummy!</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20250101103000 +0000" stop="20250101120000 +0000">
-		<title>24 Oras</title>
-		<desc>24 Oras: The flagship nightly newscast of GMA News and Public Affairs</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20250101120000 +0000" stop="20250101134000 +0000">
+	<programme channel="GTV" start="20250517101500 +0000" stop="20250517121500 +0000">
 		<title>G! Flicks</title>
 		<desc>G! Flicks: Weeknights movie block on GTV.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20250101134000 +0000" stop="20250101143000 +0000">
-		<title>Widows' War</title>
-		<desc>Widows' War: Ã¢â¬ËWidowsÃ¢â¬â¢ WarÃ¢â¬â¢ is the newest murder mystery drama series on GMA Network, top-billed by A-list Kapuso actresses Bea Alonzo and Carla Abellana.Ã</desc>
+	<programme channel="GTV" start="20250517121500 +0000" stop="20250517130000 +0000">
+		<title>Pinas Sarap</title>
+		<desc>Pinas Sarap: The show takes the audience to culinary destinations in the Philippines, bringing the history and stories behind each cuisine.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20250101143000 +0000" stop="20250101150500 +0000">
-		<title>Asawa Ng Asawa Ko</title>
-		<desc>: riend.
-Asawa Ng Asawa Ko: 'Asawa Ng Asawa Ko' tells the story of Cristy, who was presumed dead after she was captured by the armed group KALASAG. When she goes back to her family, she finds that her husband Jordan is now happily married to Shaira, their f</desc>
+	<programme channel="GTV" start="20250517130000 +0000" stop="20250517134500 +0000">
+		<title>Good News</title>
+		<desc>Good News: 'Good News Kasama si Vicky Morales' is a weekly newscast that rounds up the trending feel-good stories in the Philippines and offers D-I-Y fashion tips and affordable healthy recipes for Kapuso viewers on a budget.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20250101150500 +0000" stop="20250101152500 +0000">
-		<title>State of the Nation</title>
-		<desc>State of the Nation: State of the Nation is a newscast anchored by Atom Araullo and Maki Pulido that airs weeknights at 9:15 p.m. on GTV.</desc>
+	<programme channel="GTV" start="20250517134500 +0000" stop="20250517143000 +0000">
+		<title>Daig Kayo Ng Lola Ko</title>
+		<desc>Daig Kayo Ng Lola Ko: Lola Goreng bonds with her granchildren by narrating different adventure stories in this weekly fantasy anthology'</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20250101152500 +0000" stop="20250101160000 +0000">
-		<title>Fear Times</title>
-		<desc>: pening one after the other.
-Fear Times: Onoda Shizuru is a university student in Kyoto. As soon as she starts living her long cherished desire, the strange horror newspaper begins to arrive. At first, she believes them to be a prank but the stories in the newspapers begin hap</desc>
+	<programme channel="GTV" start="20250517143000 +0000" stop="20250517153000 +0000">
+		<title>Just For Laughs Gags</title>
+		<desc>Just For Laughs Gags: 'Just for Laughs, Gags' is the ultimate prank playground where the only rule is to laugh till it hurts! There are no words, no scriptsÃ¢â¬âjust brilliant setups, unsuspecting victims, and side-splitting comedy that everyone can </desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20250101213000 +0000" stop="20250102010000 +0000">
-		<title>Dobol B TV</title>
-		<desc>Dobol B TV: Super Radyo DZBB 594 radio programs simulcast on GTV.</desc>
+	<programme channel="GTV" start="20250517153000 +0000" stop="20250517160000 +0000">
+		<title>In Touch With Dr. Charles Stanley</title>
+		<desc>In Touch With Dr. Charles Stanley: Committed to advancing the gospel from person to person and place to place as quickly, clearly, and irresistibly as possible.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20250102010000 +0000" stop="20250102030000 +0000">
-		<title>Cinema G!</title>
-		<desc>Cinema G!: Cinema G! is the latest GTV movie block featuring upliftingÃÂ local films including romance, family, and comedy, airing weekdays from 9:00-11:00 AM.</desc>
+	<programme channel="HEART OF ASIA" start="20250516103000 +0000" stop="20250516111500 +0000">
+		<title>Beauty and The Guy</title>
+		<desc>Beauty and The Guy: 'Beauty and The Guy' is a feel-good romantic Thai series about love between a girl known as hot-tempered and strict and the boy next door, starring Pechaya Wattanamontree and Metawin Opas-iamkajorn.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="GTV" start="20250102030000 +0000" stop="20250102040000 +0000">
-		<title>Balitanghali</title>
-		<desc>Balitanghali: GTV's award-winning lunchtime newscast and source of breaking news, anchored by GMA's finest journalists.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20250102040000 +0000" stop="20250102063000 +0000">
-		<title>Noontime Movie Hits</title>
-		<desc>Noontime Movie Hits: Spend your chill afternoons watching shows on the Noontime movie block on GTV.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20250102063000 +0000" stop="20250102070000 +0000">
-		<title>Love in the Moonlight</title>
-		<desc>: oman disguising herself as a man and going by the name Hong Sam-nom. In exchange for money, Hong Ra-on counsels men, gives them advice on dating, and writes their love letters for them.
-Love in the Moonlight: 'Love in the Moonlight' is a coming-of-age, youth romance drama that's led by two of the biggest names in the Korean entertainment industry, Park Bo-gum and Kim Yoo-jung. Its story centers around Hong Ra-on (Kim Yoo-jung) a w</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20250102070000 +0000" stop="20250102073000 +0000">
-		<title>Yumi's Cells</title>
-		<desc>Yumi's Cells: Yumi's Cells is a Korean drama based on a popular webtoon. It teaches the importance of believing in love despite past heartbreaks.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20250102073000 +0000" stop="20250102094500 +0000">
-		<title>Afternoon Movie Break</title>
-		<desc>Afternoon Movie Break: Daily afternoon movie block.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20250102094500 +0000" stop="20250102100000 +0000">
-		<title>Lutong Bahay</title>
-		<desc>Lutong Bahay: 'Lutong Bahay' is a guaranteed mix of food, laughter, and heartfelt conversations that will make your kitchen more homey and food even more yummy!</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20250102100000 +0000" stop="20250102120000 +0000">
-		<title>24 Oras</title>
-		<desc>24 Oras: The flagship nightly newscast of GMA News and Public Affairs</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20250102120000 +0000" stop="20250102134000 +0000">
-		<title>G! Flicks</title>
-		<desc>G! Flicks: Weeknights movie block on GTV.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20250102134000 +0000" stop="20250102143000 +0000">
-		<title>Widows' War</title>
-		<desc>Widows' War: Ã¢â¬ËWidowsÃ¢â¬â¢ WarÃ¢â¬â¢ is the newest murder mystery drama series on GMA Network, top-billed by A-list Kapuso actresses Bea Alonzo and Carla Abellana.Ã</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20250102143000 +0000" stop="20250102150500 +0000">
-		<title>Asawa Ng Asawa Ko</title>
-		<desc>: riend.
-Asawa Ng Asawa Ko: 'Asawa Ng Asawa Ko' tells the story of Cristy, who was presumed dead after she was captured by the armed group KALASAG. When she goes back to her family, she finds that her husband Jordan is now happily married to Shaira, their f</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20250102150500 +0000" stop="20250102152500 +0000">
-		<title>State of the Nation</title>
-		<desc>State of the Nation: State of the Nation is a newscast anchored by Atom Araullo and Maki Pulido that airs weeknights at 9:15 p.m. on GTV.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20250102152500 +0000" stop="20250102160000 +0000">
-		<title>Fear Times</title>
-		<desc>: pening one after the other.
-Fear Times: Onoda Shizuru is a university student in Kyoto. As soon as she starts living her long cherished desire, the strange horror newspaper begins to arrive. At first, she believes them to be a prank but the stories in the newspapers begin hap</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20250102213000 +0000" stop="20250103010000 +0000">
-		<title>Dobol B TV</title>
-		<desc>Dobol B TV: Super Radyo DZBB 594 radio programs simulcast on GTV.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20250103010000 +0000" stop="20250103030000 +0000">
-		<title>Cinema G!</title>
-		<desc>Cinema G!: Cinema G! is the latest GTV movie block featuring upliftingÃÂ local films including romance, family, and comedy, airing weekdays from 9:00-11:00 AM.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20250103030000 +0000" stop="20250103040000 +0000">
-		<title>Balitanghali</title>
-		<desc>Balitanghali: GTV's award-winning lunchtime newscast and source of breaking news, anchored by GMA's finest journalists.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20250103040000 +0000" stop="20250103063000 +0000">
-		<title>Noontime Movie Hits</title>
-		<desc>Noontime Movie Hits: Spend your chill afternoons watching shows on the Noontime movie block on GTV.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20250103063000 +0000" stop="20250103070000 +0000">
-		<title>Love in the Moonlight</title>
-		<desc>: oman disguising herself as a man and going by the name Hong Sam-nom. In exchange for money, Hong Ra-on counsels men, gives them advice on dating, and writes their love letters for them.
-Love in the Moonlight: 'Love in the Moonlight' is a coming-of-age, youth romance drama that's led by two of the biggest names in the Korean entertainment industry, Park Bo-gum and Kim Yoo-jung. Its story centers around Hong Ra-on (Kim Yoo-jung) a w</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20250103070000 +0000" stop="20250103073000 +0000">
-		<title>Yumi's Cells</title>
-		<desc>Yumi's Cells: Yumi's Cells is a Korean drama based on a popular webtoon. It teaches the importance of believing in love despite past heartbreaks.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20250103073000 +0000" stop="20250103094500 +0000">
-		<title>Afternoon Movie Break</title>
-		<desc>Afternoon Movie Break: Daily afternoon movie block.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20250103094500 +0000" stop="20250103103000 +0000">
-		<title>Lutong Bahay</title>
-		<desc>Lutong Bahay: 'Lutong Bahay' is a guaranteed mix of food, laughter, and heartfelt conversations that will make your kitchen more homey and food even more yummy!</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20250103103000 +0000" stop="20250103120000 +0000">
-		<title>24 Oras</title>
-		<desc>24 Oras: The flagship nightly newscast of GMA News and Public Affairs</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20250103120000 +0000" stop="20250103134000 +0000">
-		<title>G! Flicks</title>
-		<desc>G! Flicks: Weeknights movie block on GTV.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20250103134000 +0000" stop="20250103143000 +0000">
-		<title>Widows' War</title>
-		<desc>Widows' War: Ã¢â¬ËWidowsÃ¢â¬â¢ WarÃ¢â¬â¢ is the newest murder mystery drama series on GMA Network, top-billed by A-list Kapuso actresses Bea Alonzo and Carla Abellana.Ã</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20250103143000 +0000" stop="20250103150500 +0000">
-		<title>G! Flicks</title>
-		<desc>G! Flicks: Weeknights movie block on GTV.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20250103150500 +0000" stop="20250103152500 +0000">
-		<title>State of the Nation</title>
-		<desc>State of the Nation: State of the Nation is a newscast anchored by Atom Araullo and Maki Pulido that airs weeknights at 9:15 p.m. on GTV.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20250103152500 +0000" stop="20250103160000 +0000">
-		<title>Fear Times</title>
-		<desc>: pening one after the other.
-Fear Times: Onoda Shizuru is a university student in Kyoto. As soon as she starts living her long cherished desire, the strange horror newspaper begins to arrive. At first, she believes them to be a prank but the stories in the newspapers begin hap</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="GTV" start="20250103213000 +0000" stop="20250104010000 +0000">
-		<title>Dobol B TV</title>
-		<desc>Dobol B TV: Super Radyo DZBB 594 radio programs simulcast on GTV.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241231003000 +0000" stop="20241231011500 +0000">
-		<title>Hello From The Other Side</title>
-		<desc>: uls were taken to the underworld where they will be given special tasks.
-Hello From The Other Side: Elisse is upset that her grandfather did not divide his properties equally. As a way of revenge, she always picks on Jacob. Their lives make a sharp turn when one day they fall from a cliff and both die. However, their so</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241231011500 +0000" stop="20241231020000 +0000">
-		<title>Queen Seondeok</title>
-		<desc>Queen Seondeok: The series tells the story of Queen Seondeok who was born a princess, brought up among commoners, and overcame many trials to become the ruler of Silla.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241231020000 +0000" stop="20241231024500 +0000">
-		<title>Dr. Tang</title>
-		<desc>Dr. Tang: 'Dr. Tang' follows the story of an empowered female doctorÃÂ who returns to China to pursue her passion for medicine and become the head of the Heart Center.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241231024500 +0000" stop="20241231033000 +0000">
-		<title>Jinxed at First</title>
-		<desc>Jinxed at First: 'Jinxed at First'ÃÂ is a Korean drama series that tells the story of a man who regards his unfortunate life as his destiny and a young woman with mysterious powers over people's destiny. As he becomes involved with her, he learns mo</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241231033000 +0000" stop="20241231041000 +0000">
-		<title>Eclipse of the Heart</title>
-		<desc>: rin) accompanies Rina in her quest for answers.
-Eclipse of the Heart: "Eclipse of the Heart" is a story about Rina (Maylada Susri) who is trying to uncover the truth behind the suspicious death of her father, Ben. Brian, who Rina considers as her second father, accused Ben of theft. Enzo (Mark P</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241231041000 +0000" stop="20241231045500 +0000">
-		<title>Douluo Continent</title>
-		<desc>: oal to be strong enough to reveal his family secrets would be tough but with the help of the people who support him, he would conquer all obstacles.
-Douluo Continent: 'Douluo Continent' tackles the story of a young man named Tang San (Xhan Xiao) who grew up in a village and has a very huge potential. He realized his powers when he was six years old and was sent to an academy for training. His g</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241231045500 +0000" stop="20241231054000 +0000">
-		<title>The Long Ballad</title>
-		<desc>The Long Ballad: After her father, the Crown Prince of Tang, and her family were killed because of her uncle's doing, Li Changge managed to escape the coup. She headedÃÂ to Shuo Province under the guise of a man with hopes of raising an army to kill</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241231054000 +0000" stop="20241231062500 +0000">
-		<title>Shooting Stars</title>
-		<desc>Shooting Stars: 'Shooting Stars' is a Korean comedy-romance drama series starring Lee Sung-kyung and Kim Young-dae.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241231062500 +0000" stop="20241231071000 +0000">
-		<title>Dong Yi</title>
-		<desc>: f the Queen during the court disputes caused by Jang Hee-Bin. Dong Yi becomes a concubine with the rank of sook-bin and bears a son who will later become the 21st king of Joseon, Yeongjo.
-Dong Yi: Set during the reign of King Sukjong in the Joseon dynasty, the story focuses on Dong Yi, a water maid who gains the trust of Queen Inhyeon. Dong Yi later gains the favor of the King as well when he is moved by her prayers for the health o</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241231071000 +0000" stop="20241231075500 +0000">
-		<title>Hello From The Other Side</title>
-		<desc>: uls were taken to the underworld where they will be given special tasks.
-Hello From The Other Side: Elisse is upset that her grandfather did not divide his properties equally. As a way of revenge, she always picks on Jacob. Their lives make a sharp turn when one day they fall from a cliff and both die. However, their so</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241231075500 +0000" stop="20241231084000 +0000">
-		<title>Eclipse of the Heart</title>
-		<desc>: rin) accompanies Rina in her quest for answers.
-Eclipse of the Heart: "Eclipse of the Heart" is a story about Rina (Maylada Susri) who is trying to uncover the truth behind the suspicious death of her father, Ben. Brian, who Rina considers as her second father, accused Ben of theft. Enzo (Mark P</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241231084000 +0000" stop="20241231092500 +0000">
-		<title>Douluo Continent</title>
-		<desc>: oal to be strong enough to reveal his family secrets would be tough but with the help of the people who support him, he would conquer all obstacles.
-Douluo Continent: 'Douluo Continent' tackles the story of a young man named Tang San (Xhan Xiao) who grew up in a village and has a very huge potential. He realized his powers when he was six years old and was sent to an academy for training. His g</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241231092500 +0000" stop="20241231101000 +0000">
-		<title>The Long Ballad</title>
-		<desc>The Long Ballad: After her father, the Crown Prince of Tang, and her family were killed because of her uncle's doing, Li Changge managed to escape the coup. She headedÃÂ to Shuo Province under the guise of a man with hopes of raising an army to kill</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241231101000 +0000" stop="20241231105500 +0000">
-		<title>Queen Seondeok</title>
-		<desc>Queen Seondeok: The series tells the story of Queen Seondeok who was born a princess, brought up among commoners, and overcame many trials to become the ruler of Silla.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241231105500 +0000" stop="20241231113500 +0000">
-		<title>Eclipse of the Heart</title>
-		<desc>: rin) accompanies Rina in her quest for answers.
-Eclipse of the Heart: "Eclipse of the Heart" is a story about Rina (Maylada Susri) who is trying to uncover the truth behind the suspicious death of her father, Ben. Brian, who Rina considers as her second father, accused Ben of theft. Enzo (Mark P</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241231113500 +0000" stop="20241231122000 +0000">
-		<title>Jinxed at First</title>
-		<desc>Jinxed at First: 'Jinxed at First'ÃÂ is a Korean drama series that tells the story of a man who regards his unfortunate life as his destiny and a young woman with mysterious powers over people's destiny. As he becomes involved with her, he learns mo</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241231122000 +0000" stop="20241231130500 +0000">
-		<title>Shooting Stars</title>
-		<desc>Shooting Stars: 'Shooting Stars' is a Korean comedy-romance drama series starring Lee Sung-kyung and Kim Young-dae.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241231130500 +0000" stop="20241231135000 +0000">
-		<title>Dong Yi</title>
-		<desc>: f the Queen during the court disputes caused by Jang Hee-Bin. Dong Yi becomes a concubine with the rank of sook-bin and bears a son who will later become the 21st king of Joseon, Yeongjo.
-Dong Yi: Set during the reign of King Sukjong in the Joseon dynasty, the story focuses on Dong Yi, a water maid who gains the trust of Queen Inhyeon. Dong Yi later gains the favor of the King as well when he is moved by her prayers for the health o</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241231135000 +0000" stop="20241231143500 +0000">
-		<title>Queen Seondeok</title>
-		<desc>Queen Seondeok: The series tells the story of Queen Seondeok who was born a princess, brought up among commoners, and overcame many trials to become the ruler of Silla.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241231143500 +0000" stop="20241231152000 +0000">
-		<title>Hello From The Other Side</title>
-		<desc>: uls were taken to the underworld where they will be given special tasks.
-Hello From The Other Side: Elisse is upset that her grandfather did not divide his properties equally. As a way of revenge, she always picks on Jacob. Their lives make a sharp turn when one day they fall from a cliff and both die. However, their so</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241231152000 +0000" stop="20241231160000 +0000">
-		<title>Eclipse of the Heart</title>
-		<desc>: rin) accompanies Rina in her quest for answers.
-Eclipse of the Heart: "Eclipse of the Heart" is a story about Rina (Maylada Susri) who is trying to uncover the truth behind the suspicious death of her father, Ben. Brian, who Rina considers as her second father, accused Ben of theft. Enzo (Mark P</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241231220000 +0000" stop="20241231223000 +0000">
-		<title>Detective Conan</title>
-		<desc>Detective Conan: A Japanese animated series about young detective Shinichi Kudo who was shrunk due to an experimental drug and must now live as a child named Conan Edogawa.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241231223000 +0000" stop="20241231230000 +0000">
-		<title>Bleach</title>
-		<desc>Bleach: A Pinoy-dubbed Japanese anime series that follows the adventures of Ichigo Kurosaki who obtains the powers of a Soul Reaper.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241231230000 +0000" stop="20241231234500 +0000">
-		<title>Shooting Stars</title>
-		<desc>Shooting Stars: 'Shooting Stars' is a Korean comedy-romance drama series starring Lee Sung-kyung and Kim Young-dae.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20241231234500 +0000" stop="20250101003000 +0000">
-		<title>Dong Yi</title>
-		<desc>: f the Queen during the court disputes caused by Jang Hee-Bin. Dong Yi becomes a concubine with the rank of sook-bin and bears a son who will later become the 21st king of Joseon, Yeongjo.
-Dong Yi: Set during the reign of King Sukjong in the Joseon dynasty, the story focuses on Dong Yi, a water maid who gains the trust of Queen Inhyeon. Dong Yi later gains the favor of the King as well when he is moved by her prayers for the health o</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250101003000 +0000" stop="20250101011500 +0000">
-		<title>Hello From The Other Side</title>
-		<desc>: uls were taken to the underworld where they will be given special tasks.
-Hello From The Other Side: Elisse is upset that her grandfather did not divide his properties equally. As a way of revenge, she always picks on Jacob. Their lives make a sharp turn when one day they fall from a cliff and both die. However, their so</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250101011500 +0000" stop="20250101020000 +0000">
-		<title>Queen Seondeok</title>
-		<desc>Queen Seondeok: The series tells the story of Queen Seondeok who was born a princess, brought up among commoners, and overcame many trials to become the ruler of Silla.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250101020000 +0000" stop="20250101024500 +0000">
-		<title>Dr. Tang</title>
-		<desc>Dr. Tang: 'Dr. Tang' follows the story of an empowered female doctorÃÂ who returns to China to pursue her passion for medicine and become the head of the Heart Center.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250101024500 +0000" stop="20250101033000 +0000">
-		<title>Jinxed at First</title>
-		<desc>Jinxed at First: 'Jinxed at First'ÃÂ is a Korean drama series that tells the story of a man who regards his unfortunate life as his destiny and a young woman with mysterious powers over people's destiny. As he becomes involved with her, he learns mo</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250101033000 +0000" stop="20250101041000 +0000">
-		<title>Eclipse of the Heart</title>
-		<desc>: rin) accompanies Rina in her quest for answers.
-Eclipse of the Heart: "Eclipse of the Heart" is a story about Rina (Maylada Susri) who is trying to uncover the truth behind the suspicious death of her father, Ben. Brian, who Rina considers as her second father, accused Ben of theft. Enzo (Mark P</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250101041000 +0000" stop="20250101045500 +0000">
-		<title>Douluo Continent</title>
-		<desc>: oal to be strong enough to reveal his family secrets would be tough but with the help of the people who support him, he would conquer all obstacles.
-Douluo Continent: 'Douluo Continent' tackles the story of a young man named Tang San (Xhan Xiao) who grew up in a village and has a very huge potential. He realized his powers when he was six years old and was sent to an academy for training. His g</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250101045500 +0000" stop="20250101054000 +0000">
-		<title>The Long Ballad</title>
-		<desc>The Long Ballad: After her father, the Crown Prince of Tang, and her family were killed because of her uncle's doing, Li Changge managed to escape the coup. She headedÃÂ to Shuo Province under the guise of a man with hopes of raising an army to kill</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250101054000 +0000" stop="20250101062500 +0000">
-		<title>Shooting Stars</title>
-		<desc>Shooting Stars: 'Shooting Stars' is a Korean comedy-romance drama series starring Lee Sung-kyung and Kim Young-dae.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250101062500 +0000" stop="20250101071000 +0000">
-		<title>Dong Yi</title>
-		<desc>: f the Queen during the court disputes caused by Jang Hee-Bin. Dong Yi becomes a concubine with the rank of sook-bin and bears a son who will later become the 21st king of Joseon, Yeongjo.
-Dong Yi: Set during the reign of King Sukjong in the Joseon dynasty, the story focuses on Dong Yi, a water maid who gains the trust of Queen Inhyeon. Dong Yi later gains the favor of the King as well when he is moved by her prayers for the health o</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250101071000 +0000" stop="20250101075500 +0000">
-		<title>Hello From The Other Side</title>
-		<desc>: uls were taken to the underworld where they will be given special tasks.
-Hello From The Other Side: Elisse is upset that her grandfather did not divide his properties equally. As a way of revenge, she always picks on Jacob. Their lives make a sharp turn when one day they fall from a cliff and both die. However, their so</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250101075500 +0000" stop="20250101084000 +0000">
-		<title>Dr. Tang</title>
-		<desc>Dr. Tang: 'Dr. Tang' follows the story of an empowered female doctorÃÂ who returns to China to pursue her passion for medicine and become the head of the Heart Center.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250101084000 +0000" stop="20250101092500 +0000">
-		<title>Douluo Continent</title>
-		<desc>: oal to be strong enough to reveal his family secrets would be tough but with the help of the people who support him, he would conquer all obstacles.
-Douluo Continent: 'Douluo Continent' tackles the story of a young man named Tang San (Xhan Xiao) who grew up in a village and has a very huge potential. He realized his powers when he was six years old and was sent to an academy for training. His g</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250101092500 +0000" stop="20250101101000 +0000">
-		<title>The Long Ballad</title>
-		<desc>The Long Ballad: After her father, the Crown Prince of Tang, and her family were killed because of her uncle's doing, Li Changge managed to escape the coup. She headedÃÂ to Shuo Province under the guise of a man with hopes of raising an army to kill</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250101101000 +0000" stop="20250101105500 +0000">
-		<title>Queen Seondeok</title>
-		<desc>Queen Seondeok: The series tells the story of Queen Seondeok who was born a princess, brought up among commoners, and overcame many trials to become the ruler of Silla.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250101105500 +0000" stop="20250101113500 +0000">
-		<title>Eclipse of the Heart</title>
-		<desc>: rin) accompanies Rina in her quest for answers.
-Eclipse of the Heart: "Eclipse of the Heart" is a story about Rina (Maylada Susri) who is trying to uncover the truth behind the suspicious death of her father, Ben. Brian, who Rina considers as her second father, accused Ben of theft. Enzo (Mark P</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250101113500 +0000" stop="20250101122000 +0000">
-		<title>Jinxed at First</title>
-		<desc>Jinxed at First: 'Jinxed at First'ÃÂ is a Korean drama series that tells the story of a man who regards his unfortunate life as his destiny and a young woman with mysterious powers over people's destiny. As he becomes involved with her, he learns mo</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250101122000 +0000" stop="20250101130500 +0000">
-		<title>Shooting Stars</title>
-		<desc>Shooting Stars: 'Shooting Stars' is a Korean comedy-romance drama series starring Lee Sung-kyung and Kim Young-dae.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250101130500 +0000" stop="20250101135000 +0000">
-		<title>Dong Yi</title>
-		<desc>: f the Queen during the court disputes caused by Jang Hee-Bin. Dong Yi becomes a concubine with the rank of sook-bin and bears a son who will later become the 21st king of Joseon, Yeongjo.
-Dong Yi: Set during the reign of King Sukjong in the Joseon dynasty, the story focuses on Dong Yi, a water maid who gains the trust of Queen Inhyeon. Dong Yi later gains the favor of the King as well when he is moved by her prayers for the health o</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250101135000 +0000" stop="20250101143500 +0000">
-		<title>Queen Seondeok</title>
-		<desc>Queen Seondeok: The series tells the story of Queen Seondeok who was born a princess, brought up among commoners, and overcame many trials to become the ruler of Silla.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250101143500 +0000" stop="20250101152000 +0000">
-		<title>Hello From The Other Side</title>
-		<desc>: uls were taken to the underworld where they will be given special tasks.
-Hello From The Other Side: Elisse is upset that her grandfather did not divide his properties equally. As a way of revenge, she always picks on Jacob. Their lives make a sharp turn when one day they fall from a cliff and both die. However, their so</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250101152000 +0000" stop="20250101160000 +0000">
-		<title>Eclipse of the Heart</title>
-		<desc>: rin) accompanies Rina in her quest for answers.
-Eclipse of the Heart: "Eclipse of the Heart" is a story about Rina (Maylada Susri) who is trying to uncover the truth behind the suspicious death of her father, Ben. Brian, who Rina considers as her second father, accused Ben of theft. Enzo (Mark P</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250101220000 +0000" stop="20250101223000 +0000">
-		<title>Detective Conan</title>
-		<desc>Detective Conan: A Japanese animated series about young detective Shinichi Kudo who was shrunk due to an experimental drug and must now live as a child named Conan Edogawa.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250101223000 +0000" stop="20250101230000 +0000">
-		<title>Bleach</title>
-		<desc>Bleach: A Pinoy-dubbed Japanese anime series that follows the adventures of Ichigo Kurosaki who obtains the powers of a Soul Reaper.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250101230000 +0000" stop="20250101234500 +0000">
-		<title>Shooting Stars</title>
-		<desc>Shooting Stars: 'Shooting Stars' is a Korean comedy-romance drama series starring Lee Sung-kyung and Kim Young-dae.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250101234500 +0000" stop="20250102003000 +0000">
-		<title>Dong Yi</title>
-		<desc>: f the Queen during the court disputes caused by Jang Hee-Bin. Dong Yi becomes a concubine with the rank of sook-bin and bears a son who will later become the 21st king of Joseon, Yeongjo.
-Dong Yi: Set during the reign of King Sukjong in the Joseon dynasty, the story focuses on Dong Yi, a water maid who gains the trust of Queen Inhyeon. Dong Yi later gains the favor of the King as well when he is moved by her prayers for the health o</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250102003000 +0000" stop="20250102011500 +0000">
-		<title>Hello From The Other Side</title>
-		<desc>: uls were taken to the underworld where they will be given special tasks.
-Hello From The Other Side: Elisse is upset that her grandfather did not divide his properties equally. As a way of revenge, she always picks on Jacob. Their lives make a sharp turn when one day they fall from a cliff and both die. However, their so</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250102011500 +0000" stop="20250102020000 +0000">
-		<title>Queen Seondeok</title>
-		<desc>Queen Seondeok: The series tells the story of Queen Seondeok who was born a princess, brought up among commoners, and overcame many trials to become the ruler of Silla.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250102020000 +0000" stop="20250102024500 +0000">
-		<title>Dr. Tang</title>
-		<desc>Dr. Tang: 'Dr. Tang' follows the story of an empowered female doctorÃÂ who returns to China to pursue her passion for medicine and become the head of the Heart Center.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250102024500 +0000" stop="20250102033000 +0000">
-		<title>Jinxed at First</title>
-		<desc>Jinxed at First: 'Jinxed at First'ÃÂ is a Korean drama series that tells the story of a man who regards his unfortunate life as his destiny and a young woman with mysterious powers over people's destiny. As he becomes involved with her, he learns mo</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250102033000 +0000" stop="20250102041000 +0000">
-		<title>Eclipse of the Heart</title>
-		<desc>: rin) accompanies Rina in her quest for answers.
-Eclipse of the Heart: "Eclipse of the Heart" is a story about Rina (Maylada Susri) who is trying to uncover the truth behind the suspicious death of her father, Ben. Brian, who Rina considers as her second father, accused Ben of theft. Enzo (Mark P</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250102041000 +0000" stop="20250102045500 +0000">
-		<title>Douluo Continent</title>
-		<desc>: oal to be strong enough to reveal his family secrets would be tough but with the help of the people who support him, he would conquer all obstacles.
-Douluo Continent: 'Douluo Continent' tackles the story of a young man named Tang San (Xhan Xiao) who grew up in a village and has a very huge potential. He realized his powers when he was six years old and was sent to an academy for training. His g</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250102045500 +0000" stop="20250102054000 +0000">
-		<title>The Long Ballad</title>
-		<desc>The Long Ballad: After her father, the Crown Prince of Tang, and her family were killed because of her uncle's doing, Li Changge managed to escape the coup. She headedÃÂ to Shuo Province under the guise of a man with hopes of raising an army to kill</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250102054000 +0000" stop="20250102062500 +0000">
-		<title>Shooting Stars</title>
-		<desc>Shooting Stars: 'Shooting Stars' is a Korean comedy-romance drama series starring Lee Sung-kyung and Kim Young-dae.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250102062500 +0000" stop="20250102071000 +0000">
-		<title>Dong Yi</title>
-		<desc>: f the Queen during the court disputes caused by Jang Hee-Bin. Dong Yi becomes a concubine with the rank of sook-bin and bears a son who will later become the 21st king of Joseon, Yeongjo.
-Dong Yi: Set during the reign of King Sukjong in the Joseon dynasty, the story focuses on Dong Yi, a water maid who gains the trust of Queen Inhyeon. Dong Yi later gains the favor of the King as well when he is moved by her prayers for the health o</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250102071000 +0000" stop="20250102075500 +0000">
-		<title>Hello From The Other Side</title>
-		<desc>: uls were taken to the underworld where they will be given special tasks.
-Hello From The Other Side: Elisse is upset that her grandfather did not divide his properties equally. As a way of revenge, she always picks on Jacob. Their lives make a sharp turn when one day they fall from a cliff and both die. However, their so</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250102075500 +0000" stop="20250102084000 +0000">
-		<title>Dr. Tang</title>
-		<desc>Dr. Tang: 'Dr. Tang' follows the story of an empowered female doctorÃÂ who returns to China to pursue her passion for medicine and become the head of the Heart Center.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250102084000 +0000" stop="20250102092500 +0000">
-		<title>Douluo Continent</title>
-		<desc>: oal to be strong enough to reveal his family secrets would be tough but with the help of the people who support him, he would conquer all obstacles.
-Douluo Continent: 'Douluo Continent' tackles the story of a young man named Tang San (Xhan Xiao) who grew up in a village and has a very huge potential. He realized his powers when he was six years old and was sent to an academy for training. His g</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250102092500 +0000" stop="20250102101000 +0000">
-		<title>The Long Ballad</title>
-		<desc>The Long Ballad: After her father, the Crown Prince of Tang, and her family were killed because of her uncle's doing, Li Changge managed to escape the coup. She headedÃÂ to Shuo Province under the guise of a man with hopes of raising an army to kill</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250102101000 +0000" stop="20250102105500 +0000">
-		<title>Queen Seondeok</title>
-		<desc>Queen Seondeok: The series tells the story of Queen Seondeok who was born a princess, brought up among commoners, and overcame many trials to become the ruler of Silla.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250102105500 +0000" stop="20250102113500 +0000">
-		<title>Eclipse of the Heart</title>
-		<desc>: rin) accompanies Rina in her quest for answers.
-Eclipse of the Heart: "Eclipse of the Heart" is a story about Rina (Maylada Susri) who is trying to uncover the truth behind the suspicious death of her father, Ben. Brian, who Rina considers as her second father, accused Ben of theft. Enzo (Mark P</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250102113500 +0000" stop="20250102122000 +0000">
-		<title>Jinxed at First</title>
-		<desc>Jinxed at First: 'Jinxed at First'ÃÂ is a Korean drama series that tells the story of a man who regards his unfortunate life as his destiny and a young woman with mysterious powers over people's destiny. As he becomes involved with her, he learns mo</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250102122000 +0000" stop="20250102130500 +0000">
-		<title>Shooting Stars</title>
-		<desc>Shooting Stars: 'Shooting Stars' is a Korean comedy-romance drama series starring Lee Sung-kyung and Kim Young-dae.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250102130500 +0000" stop="20250102135000 +0000">
-		<title>Dong Yi</title>
-		<desc>: f the Queen during the court disputes caused by Jang Hee-Bin. Dong Yi becomes a concubine with the rank of sook-bin and bears a son who will later become the 21st king of Joseon, Yeongjo.
-Dong Yi: Set during the reign of King Sukjong in the Joseon dynasty, the story focuses on Dong Yi, a water maid who gains the trust of Queen Inhyeon. Dong Yi later gains the favor of the King as well when he is moved by her prayers for the health o</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250102135000 +0000" stop="20250102143500 +0000">
-		<title>Queen Seondeok</title>
-		<desc>Queen Seondeok: The series tells the story of Queen Seondeok who was born a princess, brought up among commoners, and overcame many trials to become the ruler of Silla.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250102143500 +0000" stop="20250102152000 +0000">
-		<title>Hello From The Other Side</title>
-		<desc>: uls were taken to the underworld where they will be given special tasks.
-Hello From The Other Side: Elisse is upset that her grandfather did not divide his properties equally. As a way of revenge, she always picks on Jacob. Their lives make a sharp turn when one day they fall from a cliff and both die. However, their so</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250102152000 +0000" stop="20250102160000 +0000">
-		<title>Eclipse of the Heart</title>
-		<desc>: rin) accompanies Rina in her quest for answers.
-Eclipse of the Heart: "Eclipse of the Heart" is a story about Rina (Maylada Susri) who is trying to uncover the truth behind the suspicious death of her father, Ben. Brian, who Rina considers as her second father, accused Ben of theft. Enzo (Mark P</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250102220000 +0000" stop="20250102223000 +0000">
-		<title>Detective Conan</title>
-		<desc>Detective Conan: A Japanese animated series about young detective Shinichi Kudo who was shrunk due to an experimental drug and must now live as a child named Conan Edogawa.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250102223000 +0000" stop="20250102230000 +0000">
-		<title>Bleach</title>
-		<desc>Bleach: A Pinoy-dubbed Japanese anime series that follows the adventures of Ichigo Kurosaki who obtains the powers of a Soul Reaper.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250102230000 +0000" stop="20250102234500 +0000">
-		<title>Shooting Stars</title>
-		<desc>Shooting Stars: 'Shooting Stars' is a Korean comedy-romance drama series starring Lee Sung-kyung and Kim Young-dae.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250102234500 +0000" stop="20250103003000 +0000">
-		<title>Dong Yi</title>
-		<desc>: f the Queen during the court disputes caused by Jang Hee-Bin. Dong Yi becomes a concubine with the rank of sook-bin and bears a son who will later become the 21st king of Joseon, Yeongjo.
-Dong Yi: Set during the reign of King Sukjong in the Joseon dynasty, the story focuses on Dong Yi, a water maid who gains the trust of Queen Inhyeon. Dong Yi later gains the favor of the King as well when he is moved by her prayers for the health o</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250103003000 +0000" stop="20250103011500 +0000">
-		<title>Hello From The Other Side</title>
-		<desc>: uls were taken to the underworld where they will be given special tasks.
-Hello From The Other Side: Elisse is upset that her grandfather did not divide his properties equally. As a way of revenge, she always picks on Jacob. Their lives make a sharp turn when one day they fall from a cliff and both die. However, their so</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250103011500 +0000" stop="20250103020000 +0000">
-		<title>Queen Seondeok</title>
-		<desc>Queen Seondeok: The series tells the story of Queen Seondeok who was born a princess, brought up among commoners, and overcame many trials to become the ruler of Silla.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250103020000 +0000" stop="20250103024500 +0000">
-		<title>Dr. Tang</title>
-		<desc>Dr. Tang: 'Dr. Tang' follows the story of an empowered female doctorÃÂ who returns to China to pursue her passion for medicine and become the head of the Heart Center.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250103024500 +0000" stop="20250103033000 +0000">
-		<title>Jinxed at First</title>
-		<desc>Jinxed at First: 'Jinxed at First'ÃÂ is a Korean drama series that tells the story of a man who regards his unfortunate life as his destiny and a young woman with mysterious powers over people's destiny. As he becomes involved with her, he learns mo</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250103033000 +0000" stop="20250103041000 +0000">
-		<title>Eclipse of the Heart</title>
-		<desc>: rin) accompanies Rina in her quest for answers.
-Eclipse of the Heart: "Eclipse of the Heart" is a story about Rina (Maylada Susri) who is trying to uncover the truth behind the suspicious death of her father, Ben. Brian, who Rina considers as her second father, accused Ben of theft. Enzo (Mark P</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250103041000 +0000" stop="20250103045500 +0000">
-		<title>Douluo Continent</title>
-		<desc>: oal to be strong enough to reveal his family secrets would be tough but with the help of the people who support him, he would conquer all obstacles.
-Douluo Continent: 'Douluo Continent' tackles the story of a young man named Tang San (Xhan Xiao) who grew up in a village and has a very huge potential. He realized his powers when he was six years old and was sent to an academy for training. His g</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250103045500 +0000" stop="20250103054000 +0000">
-		<title>The Long Ballad</title>
-		<desc>The Long Ballad: After her father, the Crown Prince of Tang, and her family were killed because of her uncle's doing, Li Changge managed to escape the coup. She headedÃÂ to Shuo Province under the guise of a man with hopes of raising an army to kill</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250103054000 +0000" stop="20250103062500 +0000">
-		<title>Shooting Stars</title>
-		<desc>Shooting Stars: 'Shooting Stars' is a Korean comedy-romance drama series starring Lee Sung-kyung and Kim Young-dae.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250103062500 +0000" stop="20250103071000 +0000">
-		<title>Dong Yi</title>
-		<desc>: f the Queen during the court disputes caused by Jang Hee-Bin. Dong Yi becomes a concubine with the rank of sook-bin and bears a son who will later become the 21st king of Joseon, Yeongjo.
-Dong Yi: Set during the reign of King Sukjong in the Joseon dynasty, the story focuses on Dong Yi, a water maid who gains the trust of Queen Inhyeon. Dong Yi later gains the favor of the King as well when he is moved by her prayers for the health o</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250103071000 +0000" stop="20250103075500 +0000">
-		<title>Hello From The Other Side</title>
-		<desc>: uls were taken to the underworld where they will be given special tasks.
-Hello From The Other Side: Elisse is upset that her grandfather did not divide his properties equally. As a way of revenge, she always picks on Jacob. Their lives make a sharp turn when one day they fall from a cliff and both die. However, their so</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250103075500 +0000" stop="20250103084000 +0000">
-		<title>Dr. Tang</title>
-		<desc>Dr. Tang: 'Dr. Tang' follows the story of an empowered female doctorÃÂ who returns to China to pursue her passion for medicine and become the head of the Heart Center.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250103084000 +0000" stop="20250103092500 +0000">
-		<title>Douluo Continent</title>
-		<desc>: oal to be strong enough to reveal his family secrets would be tough but with the help of the people who support him, he would conquer all obstacles.
-Douluo Continent: 'Douluo Continent' tackles the story of a young man named Tang San (Xhan Xiao) who grew up in a village and has a very huge potential. He realized his powers when he was six years old and was sent to an academy for training. His g</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250103092500 +0000" stop="20250103101000 +0000">
-		<title>The Long Ballad</title>
-		<desc>The Long Ballad: After her father, the Crown Prince of Tang, and her family were killed because of her uncle's doing, Li Changge managed to escape the coup. She headedÃÂ to Shuo Province under the guise of a man with hopes of raising an army to kill</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250103101000 +0000" stop="20250103110000 +0000">
-		<title>Queen Seondeok</title>
-		<desc>Queen Seondeok: The series tells the story of Queen Seondeok who was born a princess, brought up among commoners, and overcame many trials to become the ruler of Silla.</desc>
-		<language>CHI</language>
-	</programme>
-	<programme channel="HEART OF ASIA" start="20250103110000 +0000" stop="20250103130000 +0000">
+	<programme channel="HEART OF ASIA" start="20250516111500 +0000" stop="20250516130000 +0000">
 		<title>Astig Anime Friday</title>
 		<desc>Astig Anime Friday: A collection of anime movies, dubbed in Filipino</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20250103130000 +0000" stop="20250103143000 +0000">
+	<programme channel="HEART OF ASIA" start="20250516130000 +0000" stop="20250516143000 +0000">
 		<title>Sci-Fi Picks</title>
 		<desc>Sci-Fi Picks: A collection of sci-fi films, dubbed in Filipino</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20250103143000 +0000" stop="20250103151500 +0000">
-		<title>Hello From The Other Side</title>
-		<desc>: uls were taken to the underworld where they will be given special tasks.
-Hello From The Other Side: Elisse is upset that her grandfather did not divide his properties equally. As a way of revenge, she always picks on Jacob. Their lives make a sharp turn when one day they fall from a cliff and both die. However, their so</desc>
+	<programme channel="HEART OF ASIA" start="20250516143000 +0000" stop="20250516151500 +0000">
+		<title>My Roommate Is a Gumiho</title>
+		<desc>: asper and a woman named LaylaÃÂ (Lee Hye-ri).ÃÂ An accident happens that changes their fate and will lead them to live together until they figure out a solution to their unusual predicament.
+My Roommate Is a Gumiho: The Korean fantasy romantic-comedy series 'My Roommate Is a Gumiho' tells the story of a 999 year old nine-tailed fox named JasperÃÂ (Jang Ki-yong)ÃÂ who wants to become human. The story will revolve around the struggles of J</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20250103151500 +0000" stop="20250103160000 +0000">
-		<title>Eclipse of the Heart</title>
-		<desc>: rin) accompanies Rina in her quest for answers.
-Eclipse of the Heart: "Eclipse of the Heart" is a story about Rina (Maylada Susri) who is trying to uncover the truth behind the suspicious death of her father, Ben. Brian, who Rina considers as her second father, accused Ben of theft. Enzo (Mark P</desc>
+	<programme channel="HEART OF ASIA" start="20250516151500 +0000" stop="20250516160000 +0000">
+		<title>Beauty and The Guy</title>
+		<desc>Beauty and The Guy: 'Beauty and The Guy' is a feel-good romantic Thai series about love between a girl known as hot-tempered and strict and the boy next door, starring Pechaya Wattanamontree and Metawin Opas-iamkajorn.</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20250103220000 +0000" stop="20250103230000 +0000">
-		<title>Ultraman Taiga</title>
-		<desc>Ultraman Taiga: Ultraman Taiga, a warrior and the son of Ultraman Taro, is dedicated to fighting for peace on Earth. Along with Hiroyuki and his friends, he does everything in his power to bring justice.</desc>
+	<programme channel="HEART OF ASIA" start="20250516220000 +0000" stop="20250516230000 +0000">
+		<title>Kamen Rider Zero-One</title>
+		<desc>:  changes his mind after witnessing MetsubouJinrai.net's terrorist attacks firsthand; maintaining appearances as CEO while becoming Kamen Rider Zero-One to realize his late father's wish for a peaceful co-existence between humans and Humagears.
+Kamen Rider Zero-One: The story follows Aruto Hiden, a young man with aspirations of becoming a comedian who suddenly finds himself appointed as the new CEO of Hiden Intelligence after his grandfather's death. Despite his initial disinterest, Aruto</desc>
 		<language>CHI</language>
 	</programme>
-	<programme channel="HEART OF ASIA" start="20250103230000 +0000" stop="20250104000000 +0000">
-		<title>Dino Dana</title>
-		<desc>Dino Dana: Dana is a 9-year old girl who loves dinosaurs. Her life changes forever when she's given a Dino Field Guide, which not only teaches her new things about dinosaurs, but gives her the power to imagine dinosaurs into real life.</desc>
+	<programme channel="HEART OF ASIA" start="20250516230000 +0000" stop="20250517000000 +0000">
+		<title>Bleach</title>
+		<desc>Bleach: A Pinoy-dubbed Japanese anime series that follows the adventures of Ichigo Kurosaki who obtains the powers of a Soul Reaper.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20250517000000 +0000" stop="20250517020000 +0000">
+		<title>Movie Mania</title>
+		<desc>Movie Mania: A movie block that offers different Hollywood TV and blockbuster movies.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20250517020000 +0000" stop="20250517030000 +0000">
+		<title>An Oriental Odyssey</title>
+		<desc>An Oriental Odyssey: An Oriental Odyssey is a historical fantasy drama that centers around the unexpected friendship that will be formed between Ye Yuan An (Janice Wu), Mu Le (Zheng Ye Cheng), and Zhao Lan Zhi (Zhang Yu Jian).</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20250517030000 +0000" stop="20250517053000 +0000">
+		<title>NCAA Siglo Uno: Inspiring Legacies</title>
+		<desc>: " and a series of activities to honor the league's "10 Greatest Players."
+NCAA Siglo Uno: Inspiring Legacies: Spanning 100 years of excellence in sports, the National Collegiate Athletic Association (NCAA) celebrates its historic centennial season this 2024 with a brand new logo and theme, "Siglo Uno: Inspiring Legacies,</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20250517053000 +0000" stop="20250517063000 +0000">
+		<title>The Leaves</title>
+		<desc>The Leaves: 'The Leaves'ÃÂ tells the story of aÃÂ transÃÂ woman who finds herselfÃÂ caught up in a love triangle with her father and uncle-in-law.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20250517063000 +0000" stop="20250517090000 +0000">
+		<title>NCAA Siglo Uno: Inspiring Legacies</title>
+		<desc>: " and a series of activities to honor the league's "10 Greatest Players."
+NCAA Siglo Uno: Inspiring Legacies: Spanning 100 years of excellence in sports, the National Collegiate Athletic Association (NCAA) celebrates its historic centennial season this 2024 with a brand new logo and theme, "Siglo Uno: Inspiring Legacies,</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20250517090000 +0000" stop="20250517093000 +0000">
+		<title>Her Bucket List</title>
+		<desc>: s her life, she comes across a bucket list of items that she co-wrote with her boyfriend a long time ago. This discovery inspires her to take action: Before she ends it all, she decides to honor his memory by completing the bucket list - alone.
+Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend and her world falls apart when he dies suddenly. She doubts that she has the fortitude required to live without him, so decides to take her own life. But before she end</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20250517093000 +0000" stop="20250517100000 +0000">
+		<title>The Heavenly Idol</title>
+		<desc>The Heavenly Idol: A fantasy-romance drama about an unpopular idol, Nico, whose body was possessed by Rembrary, a high priest of an otherworldly realm.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20250517100000 +0000" stop="20250517120000 +0000">
+		<title>Strictly Pinoy</title>
+		<desc>Strictly Pinoy: An all-Filipino movie block featuring award-winners, indie films and recently released Filipino movies.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20250517120000 +0000" stop="20250517140000 +0000">
+		<title>Action Flicks</title>
+		<desc>Action Flicks: A showcase of some of the most thrilling Hong Kong, Chinese and other Asian action movies, dubbed in Filipino.</desc>
+		<language>CHI</language>
+	</programme>
+	<programme channel="HEART OF ASIA" start="20250517140000 +0000" stop="20250517160000 +0000">
+		<title>Screams on Screen</title>
+		<desc>Screams on Screen: A collection of horror movies from Korea, Thailand and other Asian countries, dubbed in Filipino.</desc>
 		<language>CHI</language>
 	</programme>
 </tv>
