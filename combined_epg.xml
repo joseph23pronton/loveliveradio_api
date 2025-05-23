@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv generator-info-name="EPGCombiner" generator-info-date="2025-05-23T09:40:19Z">
+<tv generator-info-name="EPGCombiner" generator-info-date="2025-05-23T10:15:57Z">
   <channel id="10">
     <display-name>TV5</display-name>
     <icon src="http://202.78.65.124/epgcms/uploads/TV5.png" />
@@ -26317,66 +26317,6 @@ Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend 
     <title lang="en">The Scorecard</title>
     <desc lang="en">The Scorecard</desc>
   </programme>
-  <programme start="20250523050000 +0000" stop="20250523060000 +0000" channel="blastPH.Arirang">
-    <title lang="en">SIMPLY K-POP GATEWAY TO KOREA</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523060000 +0000" stop="20250523063000 +0000" channel="blastPH.Arirang">
-    <title lang="en">THE KULTURE WAVE [L]</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523063000 +0000" stop="20250523070000 +0000" channel="blastPH.Arirang">
-    <title lang="en">NEWS GENERATION {R}</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523070000 +0000" stop="20250523073000 +0000" channel="blastPH.Arirang">
-    <title lang="en">Peace Insight</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523073000 +0000" stop="20250523075000 +0000" channel="blastPH.Arirang">
-    <title lang="en">KOREA TRAVELOGUE 5</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523075000 +0000" stop="20250523080000 +0000" channel="blastPH.Arirang">
-    <title lang="en">Exploring Korean Literature A</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523080000 +0000" stop="20250523082000 +0000" channel="blastPH.Arirang">
-    <title lang="en">THE GLOBALISTS</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523082000 +0000" stop="20250523083000 +0000" channel="blastPH.Arirang">
-    <title lang="en">Heritage Walks with Little Friend</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523083000 +0000" stop="20250523085000 +0000" channel="blastPH.Arirang">
-    <title lang="en">TASTE LOG</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523085000 +0000" stop="20250523090000 +0000" channel="blastPH.Arirang">
-    <title lang="en">EXPLORING KOREAN LITERATURE B</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523090000 +0000" stop="20250523093000 +0000" channel="blastPH.Arirang">
-    <title lang="en">THE DAILY REPORT</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523093000 +0000" stop="20250523100000 +0000" channel="blastPH.Arirang">
-    <title lang="en">PRESS PERSPECTIVE [L]</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
   <programme start="20250523100000 +0000" stop="20250523110000 +0000" channel="blastPH.Arirang">
     <title lang="en">SIMPLY K-POP GATEWAY TO KOREA</title>
     <desc>No description available</desc>
@@ -26817,15 +26757,55 @@ Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend 
     <desc>No description available</desc>
     <date>2025-05-25</date>
   </programme>
-  <programme start="20250523033000 +0000" stop="20250523073000 +0000" channel="blastPH.Blast.Sports">
-    <title lang="en">WTA Tour 2025</title>
+  <programme start="20250525052000 +0000" stop="20250525053000 +0000" channel="blastPH.Arirang">
+    <title lang="en">Heritage Walks with Little Friend</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523073000 +0000" stop="20250523093000 +0000" channel="blastPH.Blast.Sports">
-    <title lang="en">Isuzu A-League</title>
+  <programme start="20250525053000 +0000" stop="20250525060000 +0000" channel="blastPH.Arirang">
+    <title lang="en">DIPLOMAT'S ARCHIVE: HIDDEN STORIES</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525060000 +0000" stop="20250525070000 +0000" channel="blastPH.Arirang">
+    <title lang="en">PerformArts Reload:NTOK</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525070000 +0000" stop="20250525080000 +0000" channel="blastPH.Arirang">
+    <title lang="en">PREMUIM COLLECTION</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525080000 +0000" stop="20250525082000 +0000" channel="blastPH.Arirang">
+    <title lang="en">ARIRANG CREATIVE LAB B</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525082000 +0000" stop="20250525083000 +0000" channel="blastPH.Arirang">
+    <title lang="en">EXPLORING KOREAN LITERATURE B</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525083000 +0000" stop="20250525093000 +0000" channel="blastPH.Arirang">
+    <title lang="en">SIMPLY K-POP GATEWAY TO KOREA</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525093000 +0000" stop="20250525094000 +0000" channel="blastPH.Arirang">
+    <title lang="en">SPOTLIGHT - Rookies</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525094000 +0000" stop="20250525100000 +0000" channel="blastPH.Arirang">
+    <title lang="en">ARIRANG LAND</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525100000 +0000" stop="20250525103000 +0000" channel="blastPH.Arirang">
+    <title lang="en">WEEKLY NEWS HIGHLIGHTS</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
   </programme>
   <programme start="20250523093000 +0000" stop="20250523113000 +0000" channel="blastPH.Blast.Sports">
     <title lang="en">EUROLEAGUE 2024-25</title>
@@ -26927,20 +26907,20 @@ Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend 
     <desc>No description available</desc>
     <date>2025-05-25</date>
   </programme>
-  <programme start="20250523050000 +0000" stop="20250523060000 +0000" channel="blastPH.CNBC">
-    <title lang="en">Europe Early Edition</title>
+  <programme start="20250525063000 +0000" stop="20250525083000 +0000" channel="blastPH.Blast.Sports">
+    <title lang="en">EUROLEAGUE 2024-25</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523060000 +0000" stop="20250523090000 +0000" channel="blastPH.CNBC">
-    <title lang="en">Squawk Box Europe</title>
+  <programme start="20250525083000 +0000" stop="20250525100000 +0000" channel="blastPH.Blast.Sports">
+    <title lang="en">WWE NXT </title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523090000 +0000" stop="20250523100000 +0000" channel="blastPH.CNBC">
-    <title lang="en">Worldwide Exchange</title>
+  <programme start="20250525100000 +0000" stop="20250525123000 +0000" channel="blastPH.Blast.Sports">
+    <title lang="en">WWE SMACKDOWN</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
   <programme start="20250523100000 +0000" stop="20250523130000 +0000" channel="blastPH.CNBC">
     <title lang="en">US Squawk Box</title>
@@ -27104,6 +27084,21 @@ Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend 
   </programme>
   <programme start="20250525040000 +0000" stop="20250525060000 +0000" channel="blastPH.CNBC">
     <title lang="en">THE PLAYERS Championship Rd 4</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525060000 +0000" stop="20250525080000 +0000" channel="blastPH.CNBC">
+    <title lang="en">Cnbc Sports</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525080000 +0000" stop="20250525100000 +0000" channel="blastPH.CNBC">
+    <title lang="en">Late Night with Seth Meyers</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525100000 +0000" stop="20250525103000 +0000" channel="blastPH.CNBC">
+    <title lang="en">Channel Japan 2025/26 Ep16</title>
     <desc>No description available</desc>
     <date>2025-05-25</date>
   </programme>
@@ -27349,41 +27344,6 @@ Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend 
   </programme>
   <programme start="20250523200000 +0000" stop="20250523210000 +0000" channel="blastPH.Comic.U">
     <title lang="en">The Waking Dead</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523045847 +0000" stop="20250523054137 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">Unsolved Mysteries with Dennis Farina - Season 1: Episode 2</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523054137 +0000" stop="20250523062424 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">Unsolved Mysteries with Dennis Farina - Season 1: Episode 3</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523062424 +0000" stop="20250523070726 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">Unsolved Mysteries with Dennis Farina - Season 1: Episode 4</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523070726 +0000" stop="20250523075011 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">Unsolved Mysteries with Dennis Farina - Season 1: Episode 5</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523075011 +0000" stop="20250523083302 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">Unsolved Mysteries with Dennis Farina - Season 1: Episode 6</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523083302 +0000" stop="20250523091530 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">Unsolved Mysteries with Dennis Farina - Season 1: Episode 7</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523091530 +0000" stop="20250523095820 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">Unsolved Mysteries with Dennis Farina - Season 1: Episode 8</title>
     <desc>No description available</desc>
     <date>2025-05-23</date>
   </programme>
@@ -27692,50 +27652,40 @@ Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend 
     <desc>No description available</desc>
     <date>2025-05-25</date>
   </programme>
-  <programme start="20250523044000 +0000" stop="20250523053000 +0000" channel="blastPH.Dreamworks">
-    <title lang="en">Kung Fu Panda: The Dragon Knight</title>
+  <programme start="20250525053101 +0000" stop="20250525061504 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">Burden of Truth - Season 1 - Episode 03: Still Waters</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523053000 +0000" stop="20250523062000 +0000" channel="blastPH.Dreamworks">
-    <title lang="en">The Adventures Of Puss In Boots</title>
+  <programme start="20250525061504 +0000" stop="20250525065907 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">Burden of Truth - Season 1 - Episode 04: Family Ties</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523062000 +0000" stop="20250523071000 +0000" channel="blastPH.Dreamworks">
-    <title lang="en">Spirit Riding Free</title>
+  <programme start="20250525065907 +0000" stop="20250525074310 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">Burden of Truth - Season 1 - Episode 05: Witch Hunt</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523071000 +0000" stop="20250523073500 +0000" channel="blastPH.Dreamworks">
-    <title lang="en">Trolls: The Beat Goes On!</title>
+  <programme start="20250525074310 +0000" stop="20250525082713 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">Burden of Truth - Season 1 - Episode 06: Devil in the Desert</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523073500 +0000" stop="20250523080000 +0000" channel="blastPH.Dreamworks">
-    <title lang="en">Not Quite Narwhal</title>
+  <programme start="20250525082713 +0000" stop="20250525091116 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">Burden of Truth - Season 1 - Episode 07: Ducks on the Pond</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523080000 +0000" stop="20250523082500 +0000" channel="blastPH.Dreamworks">
-    <title lang="en">Go, Dog. Go!</title>
+  <programme start="20250525091116 +0000" stop="20250525095519 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">Burden of Truth - Season 1 - Episode 08: Hang Together</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523082500 +0000" stop="20250523085000 +0000" channel="blastPH.Dreamworks">
-    <title lang="en">Team Zenko Go</title>
+  <programme start="20250525095519 +0000" stop="20250525103922 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">Burden of Truth - Season 1 - Episode 09: Home to Roost</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523085000 +0000" stop="20250523091500 +0000" channel="blastPH.Dreamworks">
-    <title lang="en">Dragons: Rescue Riders</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523091500 +0000" stop="20250523100500 +0000" channel="blastPH.Dreamworks">
-    <title lang="en">Kung Fu Panda: The Paws Of Destiny</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
   <programme start="20250523100500 +0000" stop="20250523103000 +0000" channel="blastPH.Dreamworks">
     <title lang="en">Abominable and The Invisible City</title>
@@ -28017,20 +27967,50 @@ Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend 
     <desc>No description available</desc>
     <date>2025-05-25</date>
   </programme>
-  <programme start="20250523050056 +0000" stop="20250523063048 +0000" channel="blastPH.FEAR">
-    <title lang="en">Survival of the Dead</title>
+  <programme start="20250525053000 +0000" stop="20250525062000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">The Adventures Of Puss In Boots</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523063048 +0000" stop="20250523081500 +0000" channel="blastPH.FEAR">
-    <title lang="en">Room 203</title>
+  <programme start="20250525062000 +0000" stop="20250525071000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Spirit Riding Free</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523081500 +0000" stop="20250523100234 +0000" channel="blastPH.FEAR">
-    <title lang="en">In The Earth</title>
+  <programme start="20250525071000 +0000" stop="20250525073500 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Trolls: The Beat Goes On!</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525073500 +0000" stop="20250525080000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Not Quite Narwhal</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525080000 +0000" stop="20250525082500 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Go, Dog. Go!</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525082500 +0000" stop="20250525085000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Team Zenko Go</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525085000 +0000" stop="20250525091500 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Dragons: Rescue Riders</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525091500 +0000" stop="20250525100500 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Kung Fu Panda: The Paws Of Destiny</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525100500 +0000" stop="20250525103000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Abominable and The Invisible City</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
   </programme>
   <programme start="20250523100234 +0000" stop="20250523112347 +0000" channel="blastPH.FEAR">
     <title lang="en">The Wolf of Snow Hollow</title>
@@ -28169,6 +28149,26 @@ Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend 
   </programme>
   <programme start="20250525034624 +0000" stop="20250525052724 +0000" channel="blastPH.FEAR">
     <title lang="en">My Bloody Valentine</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525052724 +0000" stop="20250525072629 +0000" channel="blastPH.FEAR">
+    <title lang="en">Rob Zombie's Halloween 2</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525072629 +0000" stop="20250525084845 +0000" channel="blastPH.FEAR">
+    <title lang="en">Children of the Corn: Runaway</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525084845 +0000" stop="20250525100922 +0000" channel="blastPH.FEAR">
+    <title lang="en">Children of the Corn: Genesis</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525100922 +0000" stop="20250525114117 +0000" channel="blastPH.FEAR">
+    <title lang="en">The Darkness</title>
     <desc>No description available</desc>
     <date>2025-05-25</date>
   </programme>
@@ -28537,11 +28537,6 @@ Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend 
     <desc>No description available</desc>
     <date>2025-05-23</date>
   </programme>
-  <programme start="20250523031758 +0000" stop="20250523071312 +0000" channel="blastPH.Fight.Ticket">
-    <title lang="en">BKFC 71 Dubai - Trout vs. Trinidad-Snake</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
   <programme start="20250523071312 +0000" stop="20250523101418 +0000" channel="blastPH.Fight.Ticket">
     <title lang="en">BKFC 72 Dubai - Featherweight Championship - Stuart vs. Strydom</title>
     <desc>No description available</desc>
@@ -28627,10 +28622,15 @@ Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend 
     <desc>No description available</desc>
     <date>2025-05-25</date>
   </programme>
-  <programme start="20250523014555 +0000" stop="20250523064553 +0000" channel="blastPH.GolfPlus">
-    <title lang="en">DP World Tour - Joburg Open - Round 2</title>
+  <programme start="20250525054431 +0000" stop="20250525083339 +0000" channel="blastPH.Fight.Ticket">
+    <title lang="en">WWE RAW - Season 33 - April 22, 2025</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525083339 +0000" stop="20250525110159 +0000" channel="blastPH.Fight.Ticket">
+    <title lang="en">WWE RAW - Season 33 - April 29, 2025</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
   </programme>
   <programme start="20250523064553 +0000" stop="20250523113553 +0000" channel="blastPH.GolfPlus">
     <title lang="en">DP World Tour - Joburg Open - Round 3</title>
@@ -28697,75 +28697,15 @@ Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend 
     <desc>No description available</desc>
     <date>2025-05-25</date>
   </programme>
-  <programme start="20250523050808 +0000" stop="20250523052937 +0000" channel="blastPH.Laff">
-    <title lang="en">Brooklyn Nine-Nine- Season 4- Episode 4: The Night Shift</title>
+  <programme start="20250525073226 +0000" stop="20250525100158 +0000" channel="blastPH.GolfPlus">
+    <title lang="en">LPGA Tour - Founders Cup - Round 3</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523052937 +0000" stop="20250523055026 +0000" channel="blastPH.Laff">
-    <title lang="en">Brooklyn Nine-Nine- Season 4- Episode 5: Halloween IV</title>
+  <programme start="20250525100158 +0000" stop="20250525123716 +0000" channel="blastPH.GolfPlus">
+    <title lang="en">LPGA Tour - Founders Cup - Round 4</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523055026 +0000" stop="20250523061129 +0000" channel="blastPH.Laff">
-    <title lang="en">Brooklyn Nine-Nine- Season 4- Episode 6: Monster in the Closet</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523061129 +0000" stop="20250523063259 +0000" channel="blastPH.Laff">
-    <title lang="en">Brooklyn Nine-Nine- Season 4- Episode 7: Mr. Santiago</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523063259 +0000" stop="20250523065435 +0000" channel="blastPH.Laff">
-    <title lang="en">Brooklyn Nine-Nine- Season 4- Episode 8: Skyfire Cycle</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523065435 +0000" stop="20250523071639 +0000" channel="blastPH.Laff">
-    <title lang="en">Brooklyn Nine-Nine- Season 4- Episode 9: The Overmining</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523071639 +0000" stop="20250523073824 +0000" channel="blastPH.Laff">
-    <title lang="en">Brooklyn Nine-Nine- Season 4- Episode 10: Captain Latvia</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523073824 +0000" stop="20250523075841 +0000" channel="blastPH.Laff">
-    <title lang="en">Brooklyn Nine-Nine- Season 4- Episode 11: The Fugitive, Part 1</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523075841 +0000" stop="20250523082018 +0000" channel="blastPH.Laff">
-    <title lang="en">Brooklyn Nine-Nine- Season 4- Episode 12: The Fugitive, Part 2</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523082018 +0000" stop="20250523084155 +0000" channel="blastPH.Laff">
-    <title lang="en">Brooklyn Nine-Nine- Season 4- Episode 13: The Audit</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523084155 +0000" stop="20250523090326 +0000" channel="blastPH.Laff">
-    <title lang="en">Brooklyn Nine-Nine- Season 4- Episode 14: Serve &amp; Protect</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523090326 +0000" stop="20250523092502 +0000" channel="blastPH.Laff">
-    <title lang="en">Brooklyn Nine-Nine- Season 4- Episode 15: The Last Ride</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523092502 +0000" stop="20250523094600 +0000" channel="blastPH.Laff">
-    <title lang="en">Brooklyn Nine-Nine- Season 4- Episode 16:  Moo Moo</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523094600 +0000" stop="20250523100738 +0000" channel="blastPH.Laff">
-    <title lang="en">Brooklyn Nine-Nine- Season 4- Episode 17: Cop-Con</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
   <programme start="20250523100738 +0000" stop="20250523102914 +0000" channel="blastPH.Laff">
     <title lang="en">Brooklyn Nine-Nine- Season 4- Episode 18: Chasing Amy</title>
@@ -29372,20 +29312,75 @@ Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend 
     <desc>No description available</desc>
     <date>2025-05-25</date>
   </programme>
-  <programme start="20250523030000 +0000" stop="20250523060000 +0000" channel="blastPH.MTV.90s">
-    <title lang="en">Nothing but the best tracks and ultimate anthems from the 90s.</title>
+  <programme start="20250525052639 +0000" stop="20250525054811 +0000" channel="blastPH.Laff">
+    <title lang="en">Brooklyn Nine-Nine- Season 5- Episode 5: Bad Beat</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523060000 +0000" stop="20250523070000 +0000" channel="blastPH.MTV.90s">
-    <title lang="en">Zig-A-Zig-ah! It's all about girl power! Tune in for all the biggest girl power hits from the 90s.</title>
+  <programme start="20250525054811 +0000" stop="20250525060943 +0000" channel="blastPH.Laff">
+    <title lang="en">Brooklyn Nine-Nine- Season 5- Episode 6: The Venue</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523070000 +0000" stop="20250523100000 +0000" channel="blastPH.MTV.90s">
-    <title lang="en">The 90s are here to save us, so enjoy these giant hits from a golden decade of music.</title>
+  <programme start="20250525060943 +0000" stop="20250525063115 +0000" channel="blastPH.Laff">
+    <title lang="en">Brooklyn Nine-Nine- Season 5- Episode 7: Two Turkeys</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525063115 +0000" stop="20250525065247 +0000" channel="blastPH.Laff">
+    <title lang="en">Brooklyn Nine-Nine- Season 5- Episode 8: Return to Skyfire</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525065247 +0000" stop="20250525071418 +0000" channel="blastPH.Laff">
+    <title lang="en">Brooklyn Nine-Nine- Season 5- Episode 9: 99</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525071418 +0000" stop="20250525073550 +0000" channel="blastPH.Laff">
+    <title lang="en">Brooklyn Nine-Nine- Season 5- Episode 10: Game Night</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525073550 +0000" stop="20250525075723 +0000" channel="blastPH.Laff">
+    <title lang="en">Brooklyn Nine-Nine- Season 5- Episode 11: The Favor</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525075723 +0000" stop="20250525081855 +0000" channel="blastPH.Laff">
+    <title lang="en">Brooklyn Nine-Nine- Season 5- Episode 12: Safe House</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525081855 +0000" stop="20250525084024 +0000" channel="blastPH.Laff">
+    <title lang="en">Brooklyn Nine-Nine- Season 5- Episode 13: The Negotiation</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525084024 +0000" stop="20250525090216 +0000" channel="blastPH.Laff">
+    <title lang="en">Brooklyn Nine-Nine- Season 5- Episode 14: The Box</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525090216 +0000" stop="20250525092348 +0000" channel="blastPH.Laff">
+    <title lang="en">Brooklyn Nine-Nine- Season 5- Episode 15: The Puzzle Master</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525092348 +0000" stop="20250525094449 +0000" channel="blastPH.Laff">
+    <title lang="en">Brooklyn Nine-Nine- Season 5- Episode 16: Nutriboom</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525094449 +0000" stop="20250525100620 +0000" channel="blastPH.Laff">
+    <title lang="en">Brooklyn Nine-Nine- Season 5- Episode 17: DFW</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525100620 +0000" stop="20250525102740 +0000" channel="blastPH.Laff">
+    <title lang="en">Brooklyn Nine-Nine- Season 5- Episode 18: Gray Star Mutual</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
   </programme>
   <programme start="20250523100000 +0000" stop="20250523130000 +0000" channel="blastPH.MTV.90s">
     <title lang="en">We knew how to do hip hop and R'n'B in the 90s! Check out all of the classics right here, right now!</title>
@@ -29462,30 +29457,20 @@ Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend 
     <desc>No description available</desc>
     <date>2025-05-25</date>
   </programme>
-  <programme start="20250523050000 +0000" stop="20250523060000 +0000" channel="blastPH.MTV.Live">
-    <title lang="en">MTV Rewind: 2016</title>
+  <programme start="20250525060000 +0000" stop="20250525070000 +0000" channel="blastPH.MTV.90s">
+    <title lang="en">Zig-A-Zig-ah! It's all about girl power! Tune in for all the biggest girl power hits from the 90s.</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523060000 +0000" stop="20250523073000 +0000" channel="blastPH.MTV.Live">
-    <title lang="en">MTV's 20 Greatest Albums Of The...</title>
+  <programme start="20250525070000 +0000" stop="20250525100000 +0000" channel="blastPH.MTV.90s">
+    <title lang="en">We rewind back to the decade that brought us grunge and girl power, hip hop and teen pop, eurodance and house... It smells like... the 90s!</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523073000 +0000" stop="20250523080000 +0000" channel="blastPH.MTV.Live">
-    <title lang="en">MTV Live Vault!</title>
+  <programme start="20250525100000 +0000" stop="20250525140000 +0000" channel="blastPH.MTV.90s">
+    <title lang="en">The power of love is strong here at MTV, which is why we've put all of the best love songs and power ballads the 1990s had to offer in one heartfelt playlist!</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523080000 +0000" stop="20250523090000 +0000" channel="blastPH.MTV.Live">
-    <title lang="en">Global Beats!</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523090000 +0000" stop="20250523100000 +0000" channel="blastPH.MTV.Live">
-    <title lang="en">Rock.Alt.Indie</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
   <programme start="20250523100000 +0000" stop="20250523104500 +0000" channel="blastPH.MTV.Live">
     <title lang="en">Aerosmith: MTV Unplugged</title>
@@ -29707,40 +29692,20 @@ Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend 
     <desc>No description available</desc>
     <date>2025-05-25</date>
   </programme>
-  <programme start="20250523050000 +0000" stop="20250523054500 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Blazing Amazing Stories</title>
+  <programme start="20250525081500 +0000" stop="20250525090000 +0000" channel="blastPH.MTV.Live">
+    <title lang="en">Global Beats!</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523054500 +0000" stop="20250523064000 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Pups Save an Adventure / Pups Save a Surprise</title>
+  <programme start="20250525090000 +0000" stop="20250525100000 +0000" channel="blastPH.MTV.Live">
+    <title lang="en">Gonzo With Jack Saunders</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523064000 +0000" stop="20250523073000 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">The Crew Builds A Beaver Home / The Crew Fixes A Road</title>
+  <programme start="20250525100000 +0000" stop="20250525104500 +0000" channel="blastPH.MTV.Live">
+    <title lang="en">Elvis Costello: MTV Unplugged</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523073000 +0000" stop="20250523075000 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">The Alebrije Adventure / Let's Get A Paleta</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523075000 +0000" stop="20250523081000 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Super-Shark / William vs. Wild</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523081000 +0000" stop="20250523083500 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Green Around the Gills</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523083500 +0000" stop="20250523091500 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Shadows</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
   <programme start="20250523091500 +0000" stop="20250523102500 +0000" channel="blastPH.Nick.Jr.">
     <title lang="en">Barba TV</title>
@@ -30202,55 +30167,45 @@ Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend 
     <desc>No description available</desc>
     <date>2025-05-25</date>
   </programme>
-  <programme start="20250523045000 +0000" stop="20250523051500 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">Henry Danger</title>
+  <programme start="20250525054500 +0000" stop="20250525064000 +0000" channel="blastPH.Nick.Jr.">
+    <title lang="en">Pups Save Walinda / Pups Save a Big Bone</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523051500 +0000" stop="20250523053500 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">Tales of the Teenage Mutant Ninja Turtles</title>
+  <programme start="20250525064000 +0000" stop="20250525073000 +0000" channel="blastPH.Nick.Jr.">
+    <title lang="en">The Crew &amp; Marshall Build A Fire Station</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523053500 +0000" stop="20250523063500 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">The Casagrandes</title>
+  <programme start="20250525073000 +0000" stop="20250525075000 +0000" channel="blastPH.Nick.Jr.">
+    <title lang="en">Friendaversary Adventure / Swiper's Birthday Surprise</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523063500 +0000" stop="20250523070000 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">The Smurfs</title>
+  <programme start="20250525075000 +0000" stop="20250525081000 +0000" channel="blastPH.Nick.Jr.">
+    <title lang="en">When You Wish Upon a Fish / Shark-Off</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523070000 +0000" stop="20250523072500 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">SpongeBob SquarePants</title>
+  <programme start="20250525081000 +0000" stop="20250525083500 +0000" channel="blastPH.Nick.Jr.">
+    <title lang="en">Fish Fiesta Freakout</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523072500 +0000" stop="20250523081500 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">The Loud House</title>
+  <programme start="20250525083500 +0000" stop="20250525091500 +0000" channel="blastPH.Nick.Jr.">
+    <title lang="en">The Pet Competition</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523081500 +0000" stop="20250523084000 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">The Casagrandes</title>
+  <programme start="20250525091500 +0000" stop="20250525100000 +0000" channel="blastPH.Nick.Jr.">
+    <title lang="en">Princess For A Day / Barbabeau's Adventure</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523084000 +0000" stop="20250523090000 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">The Really Loud House</title>
+  <programme start="20250525100000 +0000" stop="20250525102500 +0000" channel="blastPH.Nick.Jr.">
+    <title lang="en">Paddington's Puffling Rescue / Paddington Goes Under The Sea</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523090000 +0000" stop="20250523092500 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">The Thundermans: Undercover</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523092500 +0000" stop="20250523095000 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">Danger Force</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
   <programme start="20250523095000 +0000" stop="20250523103500 +0000" channel="blastPH.Nickelodeon">
     <title lang="en">Henry Danger</title>
@@ -30537,6 +30492,66 @@ Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend 
     <desc>No description available</desc>
     <date>2025-05-25</date>
   </programme>
+  <programme start="20250525052500 +0000" stop="20250525055000 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">Henry Danger</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525055000 +0000" stop="20250525061500 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">The Thundermans: Undercover</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525061500 +0000" stop="20250525063500 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">The Really Loud House</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525063500 +0000" stop="20250525070000 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">Tales of the Teenage Mutant Ninja Turtles</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525070000 +0000" stop="20250525072500 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525072500 +0000" stop="20250525075000 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">The Loud House</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525075000 +0000" stop="20250525081000 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">The Fairly OddParents: A New Wish</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525081000 +0000" stop="20250525083500 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">The Casagrandes</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525083500 +0000" stop="20250525090000 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">The Really Loud House</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525090000 +0000" stop="20250525092500 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">The Thundermans: Undercover</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525092500 +0000" stop="20250525094500 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">Danger Force</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525094500 +0000" stop="20250525103500 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">Henry Danger</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
   <programme start="20250521200000 +0000" stop="20250521203000 +0000" channel="blastPH.Outdoor.Channel">
     <title lang="en">Chris Humfrey's Wild Action</title>
     <desc>No description available</desc>
@@ -30762,16 +30777,6 @@ Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend 
     <desc>No description available</desc>
     <date>2025-05-23</date>
   </programme>
-  <programme start="20250523050000 +0000" stop="20250523070000 +0000" channel="blastPH.Premier.Football">
-    <title lang="en">Kawasaki Frontale (JPN) vs. Central Coast Mariners (AUS) MD8</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523070000 +0000" stop="20250523090000 +0000" channel="blastPH.Premier.Football">
-    <title lang="en">Genoa vs. Atalanta MD37</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
   <programme start="20250523090000 +0000" stop="20250523110000 +0000" channel="blastPH.Premier.Football">
     <title lang="en">Western United vs. Auckland FC MD29</title>
     <desc>No description available</desc>
@@ -30902,15 +30907,15 @@ Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend 
     <desc>No description available</desc>
     <date>2025-05-25</date>
   </programme>
-  <programme start="20250523050000 +0000" stop="20250523090000 +0000" channel="blastPH.Premier.Sports">
-    <title lang="en">Glasgow</title>
+  <programme start="20250525070000 +0000" stop="20250525090000 +0000" channel="blastPH.Premier.Football">
+    <title lang="en">MD38</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523090000 +0000" stop="20250523100000 +0000" channel="blastPH.Premier.Sports">
-    <title lang="en">Ep. 1983</title>
+  <programme start="20250525090000 +0000" stop="20250525110000 +0000" channel="blastPH.Premier.Football">
+    <title lang="en">Melbourne City FC vs. Western United Semifinal Leg 2</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
   <programme start="20250523100000 +0000" stop="20250523110000 +0000" channel="blastPH.Premier.Sports">
     <title lang="en">San Francisco Highlights</title>
@@ -30972,10 +30977,10 @@ Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend 
     <desc>No description available</desc>
     <date>2025-05-25</date>
   </programme>
-  <programme start="20250523040000 +0000" stop="20250523080000 +0000" channel="blastPH.Premier.Sports.2">
-    <title lang="en">Day 2</title>
+  <programme start="20250525070000 +0000" stop="20250525110000 +0000" channel="blastPH.Premier.Sports">
+    <title lang="en">Ep. 3 &amp; 4</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
   <programme start="20250523080000 +0000" stop="20250523123000 +0000" channel="blastPH.Premier.Sports.2">
     <title lang="en">Day 1 TD</title>
@@ -31067,65 +31072,10 @@ Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend 
     <desc>No description available</desc>
     <date>2025-05-25</date>
   </programme>
-  <programme start="20250523050947 +0000" stop="20250523053331 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show Season 2 - Episode 11: Matty Matheson Butter Chicken</title>
+  <programme start="20250525080000 +0000" stop="20250525123000 +0000" channel="blastPH.Premier.Sports.2">
+    <title lang="en">Day 3 TD</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523053331 +0000" stop="20250523055728 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show Season 2 - Episode 12: Craziest Love Story</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523055728 +0000" stop="20250523062115 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show Season 3 - Episode 1: Gordon Ramsay Noodles</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523062115 +0000" stop="20250523064422 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show Season 3 - Episode 2: Uncle Roger Kidnapped</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523064422 +0000" stop="20250523070803 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show Season 3 - Episode 3: Favorite Chef</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523070803 +0000" stop="20250523073052 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show Season 3 - Episode 4: Worst Biryani Ever</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523073052 +0000" stop="20250523075442 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show Season 3 - Episode 5: Uncle Roger Pho</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523075442 +0000" stop="20250523081603 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show Season 3 - Episode 6: Kidnapped Again</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523081603 +0000" stop="20250523083745 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show Season 3 - Episode 7: Very Good Steak</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523083745 +0000" stop="20250523090142 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show Season 3 - Episode 8: Recreating Jamie Oliver Rice</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523090142 +0000" stop="20250523092541 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show Season 3 - Episode 9: New Fried Rice Technique</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523092541 +0000" stop="20250523094938 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">The Uncle Roger Show Season 3 - Episode 10: Worst Chef</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
   <programme start="20250523094938 +0000" stop="20250523101335 +0000" channel="blastPH.Reality.TV">
     <title lang="en">The Uncle Roger Show Season 3 - Episode 11: Cooking 3 Steak</title>
@@ -31677,40 +31627,70 @@ Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend 
     <desc>No description available</desc>
     <date>2025-05-25</date>
   </programme>
-  <programme start="20250523044508 +0000" stop="20250523052737 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">New Amsterdam Season 5: Episode 10 - Don't Do This for Me</title>
+  <programme start="20250525052641 +0000" stop="20250525054837 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">Hot Ones - Season 18 - Episode 2: Millie Bobby Brown Needs a Milkshake While Eating Spicy Wings</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523052737 +0000" stop="20250523061057 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">New Amsterdam Season 5: Episode 11 - Falling</title>
+  <programme start="20250525054837 +0000" stop="20250525061311 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">Hot Ones - Season 18 - Episode 3: Queen Latifah Sets It Off While Eating Spicy Wings</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523061057 +0000" stop="20250523065324 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">New Amsterdam Season 5: Episode 12 - Right Place</title>
+  <programme start="20250525061311 +0000" stop="20250525063621 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">Hot Ones - Season 18 - Episode 4: Kevin Bacon Needs Six Degrees of Separation From Spicy Wings</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523065324 +0000" stop="20250523073530 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">New Amsterdam Season 5: Episode 13 - How Can I Help?</title>
+  <programme start="20250525063621 +0000" stop="20250525065614 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">Hot Ones - Season 18 - Episode 5: Khloe Kardashian Holds Back Tears While Eating Spicy Wings</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523073530 +0000" stop="20250523081720 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Chicago Med Season 6 - Episode 1: When Did We Begin to Change</title>
+  <programme start="20250525065614 +0000" stop="20250525071958 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">Hot Ones - Season 18 - Episode 6: Andrew Callaghan Goes for the Marrow While Eating Spicy Wings</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523081720 +0000" stop="20250523085906 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Chicago Med Season 6 - Episode 2: Those Things Hidden in Plain Sight</title>
+  <programme start="20250525071958 +0000" stop="20250525074202 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">Hot Ones - Season 18 - Episode 7: Tessa Thompson Feels Alive While Eating Spicy Wings</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523085906 +0000" stop="20250523094102 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Chicago Med Season 6 - Episode 3: Do You Know the Way Home?</title>
+  <programme start="20250525074202 +0000" stop="20250525080535 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">Hot Ones - Season 18 - Episode 8: Gabriel Iglesias Feels Cursed by Spicy Wings</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525080535 +0000" stop="20250525082922 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">Hot Ones - Season 18 - Episode 9: Daniel Kaluuya Listens to His Ego While Eating Spicy Wings</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525082922 +0000" stop="20250525085312 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">Hot Ones - Season 18 - Episode 10: Bear Grylls Battles for Survival Against Spicy Wings</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525085312 +0000" stop="20250525091949 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">Hot Ones - Season 18 - Episode 11: Mark Rober Gives Up on Science While Eating Spicy Wings</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525091949 +0000" stop="20250525094311 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">Hot Ones - Season 18 - Episode 12: Lizzo Earns Her Hot Sauce Crown While Eating Spicy Wings</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525094311 +0000" stop="20250525100804 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">Hot Ones - Season 18 - Episode 13: Neil Patrick Harris Needs Magic to Escape Spicy Wings</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525100804 +0000" stop="20250525103155 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show Season 2 - Episode 1: Crazy Office Cooking</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
   </programme>
   <programme start="20250523094102 +0000" stop="20250523102300 +0000" channel="blastPH.Showcase.Drama">
     <title lang="en">Chicago Med Season 6 - Episode 4: In Search of Forgiveness, Not Permission</title>
@@ -32027,6 +32007,46 @@ Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend 
     <desc>No description available</desc>
     <date>2025-05-25</date>
   </programme>
+  <programme start="20250525051705 +0000" stop="20250525055841 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Chicago Med Season 6 - Episode 15: Stories, Secrets, Half-Truths and Lies</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525055841 +0000" stop="20250525064040 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Chicago Med Season 6 - Episode 16: I Will Come to Save You</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525064040 +0000" stop="20250525072110 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Chicago Fire Season 6 - Episode 1: It Wasn't Enough</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525072110 +0000" stop="20250525080157 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Chicago Fire Season 6 - Episode 2: Ignite on Contact</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525080157 +0000" stop="20250525084128 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Chicago Fire Season 6 - Episode 3: An Even Bigger Surprise</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525084128 +0000" stop="20250525092232 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Chicago Fire Season 6 - Episode 4: A Breaking Point</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525092232 +0000" stop="20250525100311 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Chicago Fire Season 6 - Episode 5: Devil's Bargain</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525100311 +0000" stop="20250525104411 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Chicago Fire Season 6 - Episode 6: Down Is Better</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
   <programme start="20250521184700 +0000" stop="20250521204700 +0000" channel="blastPH.Studio.Universal">
     <title lang="en">That Old Feeling</title>
     <desc>No description available</desc>
@@ -32157,16 +32177,6 @@ Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend 
     <desc>No description available</desc>
     <date>2025-05-23</date>
   </programme>
-  <programme start="20250523041500 +0000" stop="20250523061000 +0000" channel="blastPH.Tap.Action.Flix">
-    <title lang="en">Zombieland: Double Tap</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523061000 +0000" stop="20250523083000 +0000" channel="blastPH.Tap.Action.Flix">
-    <title lang="en">Warcraft</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
   <programme start="20250523083000 +0000" stop="20250523105500 +0000" channel="blastPH.Tap.Action.Flix">
     <title lang="en">Total Recall</title>
     <desc>No description available</desc>
@@ -32282,35 +32292,15 @@ Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend 
     <desc>No description available</desc>
     <date>2025-05-25</date>
   </programme>
-  <programme start="20250523043000 +0000" stop="20250523053000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Suits S6</title>
+  <programme start="20250525071000 +0000" stop="20250525091500 +0000" channel="blastPH.Tap.Action.Flix">
+    <title lang="en">Body Brokers</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523053000 +0000" stop="20250523063000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Unwanted S1</title>
+  <programme start="20250525091500 +0000" stop="20250525110500 +0000" channel="blastPH.Tap.Action.Flix">
+    <title lang="en">Evil Dead (2013) </title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523063000 +0000" stop="20250523073000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Law &amp; Order SVU S16</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523073000 +0000" stop="20250523080000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Frenemies S2</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523080000 +0000" stop="20250523090000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Burden of Truth S1</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523090000 +0000" stop="20250523100000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Suits S6</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
   <programme start="20250523100000 +0000" stop="20250523110000 +0000" channel="blastPH.Tap.EDGE">
     <title lang="en">Unwanted S1</title>
@@ -32547,20 +32537,30 @@ Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend 
     <desc>No description available</desc>
     <date>2025-05-25</date>
   </programme>
-  <programme start="20250523030000 +0000" stop="20250523053000 +0000" channel="blastPH.Tap.Movies">
-    <title lang="en">Across the Universe</title>
+  <programme start="20250525060000 +0000" stop="20250525070000 +0000" channel="blastPH.Tap.EDGE">
+    <title lang="en">Hawaii Five O S1</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523053000 +0000" stop="20250523075000 +0000" channel="blastPH.Tap.Movies">
-    <title lang="en">Emma (2020)</title>
+  <programme start="20250525070000 +0000" stop="20250525080000 +0000" channel="blastPH.Tap.EDGE">
+    <title lang="en">Suits S6</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523075000 +0000" stop="20250523093000 +0000" channel="blastPH.Tap.Movies">
-    <title lang="en">Avengers Confidential: Black Widow &amp; Punisher</title>
+  <programme start="20250525080000 +0000" stop="20250525090000 +0000" channel="blastPH.Tap.EDGE">
+    <title lang="en">NCIS LA S2</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525090000 +0000" stop="20250525100000 +0000" channel="blastPH.Tap.EDGE">
+    <title lang="en">Law &amp; Order SVU S16</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525100000 +0000" stop="20250525110000 +0000" channel="blastPH.Tap.EDGE">
+    <title lang="en">Ransom S1</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
   </programme>
   <programme start="20250523093000 +0000" stop="20250523111500 +0000" channel="blastPH.Tap.Movies">
     <title lang="en">Puppy Swap</title>
@@ -32682,20 +32682,20 @@ Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend 
     <desc>No description available</desc>
     <date>2025-05-25</date>
   </programme>
-  <programme start="20250523050000 +0000" stop="20250523070000 +0000" channel="blastPH.Tap.Sports">
-    <title lang="en">WWE NXT </title>
+  <programme start="20250525052500 +0000" stop="20250525071500 +0000" channel="blastPH.Tap.Movies">
+    <title lang="en">The Sun Is Also A Star </title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523070000 +0000" stop="20250523080000 +0000" channel="blastPH.Tap.Sports">
-    <title lang="en">2024 Street League Skateboarding </title>
+  <programme start="20250525071500 +0000" stop="20250525090500 +0000" channel="blastPH.Tap.Movies">
+    <title lang="en">The Croods: A New Age (2020)</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523080000 +0000" stop="20250523100000 +0000" channel="blastPH.Tap.Sports">
-    <title lang="en">ITTF Men's World Cup 2025</title>
+  <programme start="20250525090500 +0000" stop="20250525111000 +0000" channel="blastPH.Tap.Movies">
+    <title lang="en">Risen</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
   <programme start="20250523100000 +0000" stop="20250523120000 +0000" channel="blastPH.Tap.Sports">
     <title lang="en">Euroleague 2024-25 </title>
@@ -32832,40 +32832,20 @@ Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend 
     <desc>No description available</desc>
     <date>2025-05-25</date>
   </programme>
-  <programme start="20250523043000 +0000" stop="20250523053000 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">Top Chef All Stars LA S17</title>
+  <programme start="20250525073000 +0000" stop="20250525080000 +0000" channel="blastPH.Tap.Sports">
+    <title lang="en">Monster Jam 2023</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523053000 +0000" stop="20250523060000 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">Will &amp; Grace S3</title>
+  <programme start="20250525080000 +0000" stop="20250525100000 +0000" channel="blastPH.Tap.Sports">
+    <title lang="en">ITTF Men's World Cup 2025</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523060000 +0000" stop="20250523063000 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">The Good Place S4</title>
+  <programme start="20250525100000 +0000" stop="20250525120000 +0000" channel="blastPH.Tap.Sports">
+    <title lang="en">WNBA 2025</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523063000 +0000" stop="20250523073000 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">The Kelly Clarkson Show S6</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523073000 +0000" stop="20250523083000 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">Royal Inquest S1</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523083000 +0000" stop="20250523090000 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">Worth It S9</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme start="20250523090000 +0000" stop="20250523100000 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">Summer House S3</title>
-    <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
   <programme start="20250523100000 +0000" stop="20250523110000 +0000" channel="blastPH.Tap.TV">
     <title lang="en">The TONIGHT SHOW with Jimmy Fallon </title>
@@ -33127,20 +33107,45 @@ Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend 
     <desc>No description available</desc>
     <date>2025-05-25</date>
   </programme>
-  <programme start="20250523041500 +0000" stop="20250523064500 +0000" channel="blastPH.tvN">
-    <title lang="en">Second Shot at Love</title>
+  <programme start="20250525053000 +0000" stop="20250525060000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">Superstore S4</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523064500 +0000" stop="20250523083500 +0000" channel="blastPH.tvN">
-    <title lang="en">Fresh off the Sea 2</title>
+  <programme start="20250525060000 +0000" stop="20250525063000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">The Office S4</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523083500 +0000" stop="20250523100000 +0000" channel="blastPH.tvN">
-    <title lang="en">BRO&amp;MARBLE in Dubai</title>
+  <programme start="20250525063000 +0000" stop="20250525070000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">Hot Ones S15</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525070000 +0000" stop="20250525073000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">Parks And Recreation S5</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525073000 +0000" stop="20250525083000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">Million Dollar Listing NY S5</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525083000 +0000" stop="20250525093000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">Top Chef All Stars LA S17</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525093000 +0000" stop="20250525100000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">Brooklyn Nine-Nine S5</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525100000 +0000" stop="20250525110000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">Love Island USA S6</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
   </programme>
   <programme start="20250523100000 +0000" stop="20250523102000 +0000" channel="blastPH.tvN">
     <title lang="en">You Can Cook With Sam Kim</title>
@@ -33282,20 +33287,20 @@ Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend 
     <desc>No description available</desc>
     <date>2025-05-25</date>
   </programme>
-  <programme start="20250523042000 +0000" stop="20250523062000 +0000" channel="blastPH.tvN.Movies.Pinoy">
-    <title lang="en">THE PLAN MAN</title>
+  <programme start="20250525061500 +0000" stop="20250525075000 +0000" channel="blastPH.tvN">
+    <title lang="en">World Dice Tour3</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523062000 +0000" stop="20250523081000 +0000" channel="blastPH.tvN.Movies.Pinoy">
-    <title lang="en">MY WORST NEIGHBOR</title>
+  <programme start="20250525075000 +0000" stop="20250525094000 +0000" channel="blastPH.tvN">
+    <title lang="en">King of Karaoke: VS</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
-  <programme start="20250523081000 +0000" stop="20250523095000 +0000" channel="blastPH.tvN.Movies.Pinoy">
-    <title lang="en">TAEYONG: TY TRACK IN CINEMAS</title>
+  <programme start="20250525094000 +0000" stop="20250525113000 +0000" channel="blastPH.tvN">
+    <title lang="en">Fresh off the Sea 2</title>
     <desc>No description available</desc>
-    <date>2025-05-23</date>
+    <date>2025-05-25</date>
   </programme>
   <programme start="20250523095000 +0000" stop="20250523114000 +0000" channel="blastPH.tvN.Movies.Pinoy">
     <title lang="en">A HARD DAY</title>
@@ -33419,6 +33424,26 @@ Her Bucket List: Ari (Kim So-hye) is head over heels in love with her boyfriend 
   </programme>
   <programme start="20250525031500 +0000" stop="20250525051500 +0000" channel="blastPH.tvN.Movies.Pinoy">
     <title lang="en">ENEMIES IN-LAW</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525051500 +0000" stop="20250525063000 +0000" channel="blastPH.tvN.Movies.Pinoy">
+    <title lang="en">Mr. Queen Ep13</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525063000 +0000" stop="20250525074000 +0000" channel="blastPH.tvN.Movies.Pinoy">
+    <title lang="en">Mr. Queen Ep14</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525074000 +0000" stop="20250525095000 +0000" channel="blastPH.tvN.Movies.Pinoy">
+    <title lang="en">PARASITE</title>
+    <desc>No description available</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme start="20250525095000 +0000" stop="20250525112500 +0000" channel="blastPH.tvN.Movies.Pinoy">
+    <title lang="en">SLEEP</title>
     <desc>No description available</desc>
     <date>2025-05-25</date>
   </programme>
