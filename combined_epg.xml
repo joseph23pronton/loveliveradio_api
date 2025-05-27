@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv generator-info-name="EPGCombiner" generator-info-date="2025-05-27T14:43:24Z">
+<tv generator-info-name="EPGCombiner" generator-info-date="2025-05-27T15:16:01Z">
   <channel id="10">
     <display-name>TV5</display-name>
     <icon src="http://202.78.65.124/epgcms/uploads/TV5.png" />
@@ -25552,36 +25552,6 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <title lang="en">Trade Talks</title>
     <desc lang="en">Trade Talks</desc>
   </programme>
-  <programme start="20250527100000 +0000" stop="20250527110000 +0000" channel="blastPH.Arirang">
-    <title lang="en">After School Club{R}</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527110000 +0000" stop="20250527113000 +0000" channel="blastPH.Arirang">
-    <title lang="en">NEWSCENTER </title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527113000 +0000" stop="20250527120000 +0000" channel="blastPH.Arirang">
-    <title lang="en">WITHIN THE FRAME {L}</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527120000 +0000" stop="20250527140000 +0000" channel="blastPH.Arirang">
-    <title lang="en">2025 PRESIDENTIAL DEBATE</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527140000 +0000" stop="20250527143000 +0000" channel="blastPH.Arirang">
-    <title lang="en">DIPLOMAT'S ARCHIVE: HIDDEN STORIES</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527143000 +0000" stop="20250527150000 +0000" channel="blastPH.Arirang">
-    <title lang="en">The grand heritage K-ASMR</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
   <programme start="20250527150000 +0000" stop="20250527153000 +0000" channel="blastPH.Arirang">
     <title lang="en">PRESS PERSPECTIVE [R]</title>
     <desc>No description available</desc>
@@ -26102,20 +26072,60 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-05-29</date>
   </programme>
+  <programme start="20250529110000 +0000" stop="20250529113000 +0000" channel="blastPH.Arirang">
+    <title lang="en">SmartBiz Accelerators</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529113000 +0000" stop="20250529120000 +0000" channel="blastPH.Arirang">
+    <title lang="en">HOME EXPLORERS 2</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529120000 +0000" stop="20250529123000 +0000" channel="blastPH.Arirang">
+    <title lang="en">NEWSCENTER</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529123000 +0000" stop="20250529130000 +0000" channel="blastPH.Arirang">
+    <title lang="en">WITHIN THE FRAME [L]</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529130000 +0000" stop="20250529133000 +0000" channel="blastPH.Arirang">
+    <title lang="en">THE KULTURE WAVE [R]</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529133000 +0000" stop="20250529135000 +0000" channel="blastPH.Arirang">
+    <title lang="en">1DAY 1K-CULTURE: K-STAGE</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529135000 +0000" stop="20250529140000 +0000" channel="blastPH.Arirang">
+    <title lang="en">discovering korea: activity</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529140000 +0000" stop="20250529143000 +0000" channel="blastPH.Arirang">
+    <title lang="en">HOME TO TABLE</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529143000 +0000" stop="20250529150000 +0000" channel="blastPH.Arirang">
+    <title lang="en">The Grand Heritage</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529150000 +0000" stop="20250529153000 +0000" channel="blastPH.Arirang">
+    <title lang="en">PRESS PERSPECTIVE [R]</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
   <programme start="20250525123000 +0000" stop="20250525160000 +0000" channel="blastPH.Blast.Sports">
     <title lang="en">UFC</title>
     <desc>No description available</desc>
     <date>2025-05-25</date>
-  </programme>
-  <programme start="20250527100000 +0000" stop="20250527130000 +0000" channel="blastPH.CNBC">
-    <title lang="en">US Squawk Box</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527130000 +0000" stop="20250527150000 +0000" channel="blastPH.CNBC">
-    <title lang="en">US Squawk on the Street</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
   </programme>
   <programme start="20250527150000 +0000" stop="20250527160000 +0000" channel="blastPH.CNBC">
     <title lang="en">Money Movers</title>
@@ -26282,30 +26292,15 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-05-29</date>
   </programme>
-  <programme start="20250527100000 +0000" stop="20250527110000 +0000" channel="blastPH.Comic.U">
-    <title lang="en">Bishop</title>
+  <programme start="20250529130000 +0000" stop="20250529150000 +0000" channel="blastPH.CNBC">
+    <title lang="en">US Squawk on the Street</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527110000 +0000" stop="20250527120000 +0000" channel="blastPH.Comic.U">
-    <title lang="en">Shades of Gray</title>
+  <programme start="20250529150000 +0000" stop="20250529160000 +0000" channel="blastPH.CNBC">
+    <title lang="en">Money Movers</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527120000 +0000" stop="20250527130000 +0000" channel="blastPH.Comic.U">
-    <title lang="en">I Believe in Aliens</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527130000 +0000" stop="20250527140000 +0000" channel="blastPH.Comic.U">
-    <title lang="en">A Disquiet Follows My Soul</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527140000 +0000" stop="20250527150000 +0000" channel="blastPH.Comic.U">
-    <title lang="en">Room 320</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
   <programme start="20250527150000 +0000" stop="20250527160000 +0000" channel="blastPH.Comic.U">
     <title lang="en">Twenty-Three</title>
@@ -26527,40 +26522,30 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-05-29</date>
   </programme>
-  <programme start="20250527093127 +0000" stop="20250527101417 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">Unsolved Mysteries with Dennis Farina - Season 1: Episode 8</title>
+  <programme start="20250529110000 +0000" stop="20250529120000 +0000" channel="blastPH.Comic.U">
+    <title lang="en">Book 27</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527101417 +0000" stop="20250527105652 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">Unsolved Mysteries with Dennis Farina - Season 1: Episode 9</title>
+  <programme start="20250529120000 +0000" stop="20250529130000 +0000" channel="blastPH.Comic.U">
+    <title lang="en">Eye for an Eye</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527105652 +0000" stop="20250527113939 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">Unsolved Mysteries with Dennis Farina - Season 1: Episode 10</title>
+  <programme start="20250529130000 +0000" stop="20250529140000 +0000" channel="blastPH.Comic.U">
+    <title lang="en">The Exit</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527113939 +0000" stop="20250527122210 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">Unsolved Mysteries with Dennis Farina - Season 1: Episode 11</title>
+  <programme start="20250529140000 +0000" stop="20250529150000 +0000" channel="blastPH.Comic.U">
+    <title lang="en">Graveyard Smash</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527122210 +0000" stop="20250527130503 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">Unsolved Mysteries with Dennis Farina - Season 1: Episode 12</title>
+  <programme start="20250529150000 +0000" stop="20250529160000 +0000" channel="blastPH.Comic.U">
+    <title lang="en">I Believe in Aliens</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527130503 +0000" stop="20250527134755 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">Unsolved Mysteries with Dennis Farina - Season 1: Episode 13</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527134755 +0000" stop="20250527143039 +0000" channel="blastPH.Crime.TV">
-    <title lang="en">Unsolved Mysteries with Dennis Farina - Season 1: Episode 14</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
   <programme start="20250527143039 +0000" stop="20250527151327 +0000" channel="blastPH.Crime.TV">
     <title lang="en">Unsolved Mysteries with Dennis Farina - Season 1: Episode 15</title>
@@ -26872,6 +26857,41 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-05-29</date>
   </programme>
+  <programme start="20250529105519 +0000" stop="20250529113922 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">Burden of Truth - Season 1 - Episode 10: Cause in Fact</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529113922 +0000" stop="20250529122207 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">Ransom - Season 1 - Episode 01: The Return</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529122207 +0000" stop="20250529130519 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">Ransom - Season 1 - Episode 02: Grand Slam</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529130519 +0000" stop="20250529134636 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">Ransom - Season 1 - Episode 03: The Box</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529134636 +0000" stop="20250529142814 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">Ransom - Season 1 - Episode 04: Joe</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529142814 +0000" stop="20250529150938 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">Ransom - Season 1 - Episode 05: The Enemy Within</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529150938 +0000" stop="20250529155028 +0000" channel="blastPH.Crime.TV">
+    <title lang="en">Ransom - Season 1 - Episode 06: Celina</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
   <programme start="20250525130000 +0000" stop="20250525153000 +0000" channel="blastPH.Dreamworks">
     <title lang="en">Dawn Of The Croods</title>
     <desc>No description available</desc>
@@ -26881,21 +26901,6 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <title lang="en">Dragons: Defenders of Berk</title>
     <desc>No description available</desc>
     <date>2025-05-25</date>
-  </programme>
-  <programme start="20250527090853 +0000" stop="20250527103700 +0000" channel="blastPH.FEAR">
-    <title lang="en">Matriarch</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527103700 +0000" stop="20250527120545 +0000" channel="blastPH.FEAR">
-    <title lang="en">The Belko Experiment</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527120545 +0000" stop="20250527134004 +0000" channel="blastPH.FEAR">
-    <title lang="en">The Turning</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
   </programme>
   <programme start="20250527134004 +0000" stop="20250527151656 +0000" channel="blastPH.FEAR">
     <title lang="en">Come Play</title>
@@ -27042,25 +27047,20 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-05-29</date>
   </programme>
-  <programme start="20250527085510 +0000" stop="20250527102836 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Beethoven's 4th  (Dual Audio)</title>
+  <programme start="20250529110113 +0000" stop="20250529125014 +0000" channel="blastPH.FEAR">
+    <title lang="en">Fear of Rain</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527102836 +0000" stop="20250527120619 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Dragonheart: Battle for the Heartfire (Dual Audio)</title>
+  <programme start="20250529125014 +0000" stop="20250529141732 +0000" channel="blastPH.FEAR">
+    <title lang="en">The Seventh Day</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527120619 +0000" stop="20250527132431 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Casper's Scare School (Dual Audio)</title>
+  <programme start="20250529141732 +0000" stop="20250529154614 +0000" channel="blastPH.FEAR">
+    <title lang="en">Tucker and Dale vs Evil</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527132431 +0000" stop="20250527144432 +0000" channel="blastPH.Family.Movies">
-    <title lang="en">Curious George 3: Back to the Jungle (Dual Audio)</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
   <programme start="20250527144432 +0000" stop="20250527160459 +0000" channel="blastPH.Family.Movies">
     <title lang="en">Curious George 2: Follow That Monkey! (Dual Audio)</title>
@@ -27407,15 +27407,20 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-05-29</date>
   </programme>
-  <programme start="20250527080901 +0000" stop="20250527112749 +0000" channel="blastPH.Fight.Ticket">
-    <title lang="en">BKFC Fight Night - Manchester - Chipchase vs. Fox</title>
+  <programme start="20250529112830 +0000" stop="20250529125912 +0000" channel="blastPH.Family.Movies">
+    <title lang="en">Beethoven's 5th (Dual Audio)</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527112749 +0000" stop="20250527142955 +0000" channel="blastPH.Fight.Ticket">
-    <title lang="en">BKFC Fight Night Omaha - Cochrane vs. Edwards</title>
+  <programme start="20250529125912 +0000" stop="20250529142716 +0000" channel="blastPH.Family.Movies">
+    <title lang="en">Aliens Stole My Body (Dual Audio)</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529142716 +0000" stop="20250529153836 +0000" channel="blastPH.Family.Movies">
+    <title lang="en">The Adventures Of Brer Rabbit (Dual Audio)</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
   </programme>
   <programme start="20250527142955 +0000" stop="20250527152609 +0000" channel="blastPH.Fight.Ticket">
     <title lang="en">BKFC Italy - Camozzi vs. Hunt 2 - Prelims</title>
@@ -27512,10 +27517,10 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-05-29</date>
   </programme>
-  <programme start="20250527073342 +0000" stop="20250527124312 +0000" channel="blastPH.GolfPlus">
-    <title lang="en">DP World Tour - Volvo China Open - Round 1</title>
+  <programme start="20250529133432 +0000" stop="20250529172946 +0000" channel="blastPH.Fight.Ticket">
+    <title lang="en">BKFC 71 Dubai - Trout vs. Trinidad-Snake</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
   <programme start="20250527124312 +0000" stop="20250527174315 +0000" channel="blastPH.GolfPlus">
     <title lang="en">DP World Tour - Volvo China Open - Round 2</title>
@@ -27592,75 +27597,15 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-05-29</date>
   </programme>
-  <programme start="20250527100620 +0000" stop="20250527102756 +0000" channel="blastPH.Laff">
-    <title lang="en">Brooklyn Nine-Nine - Season 1 Episode 18 - The Apartment</title>
+  <programme start="20250529112013 +0000" stop="20250529141807 +0000" channel="blastPH.GolfPlus">
+    <title lang="en">LPGA Tour T-Mobile Matchplay Day 1</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527102756 +0000" stop="20250527104929 +0000" channel="blastPH.Laff">
-    <title lang="en">Brooklyn Nine-Nine - Season 1 Episode 19 - Tactical Village</title>
+  <programme start="20250529141807 +0000" stop="20250529171919 +0000" channel="blastPH.GolfPlus">
+    <title lang="en">LPGA Tour T-Mobile Matchplay Day 2</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527104929 +0000" stop="20250527111042 +0000" channel="blastPH.Laff">
-    <title lang="en">Brooklyn Nine-Nine - Season 1 Episode 20 - Fancy Brugdom</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527111042 +0000" stop="20250527113217 +0000" channel="blastPH.Laff">
-    <title lang="en">Brooklyn Nine-Nine - Season 1 Episode 21 - Unsolvable</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527113217 +0000" stop="20250527115351 +0000" channel="blastPH.Laff">
-    <title lang="en">Brooklyn Nine-Nine - Season 1 Episode 22 - Charges and Specs</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527115351 +0000" stop="20250527121524 +0000" channel="blastPH.Laff">
-    <title lang="en">Brooklyn Nine-Nine- Season 2- Episode 1: Undercover</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527121524 +0000" stop="20250527123700 +0000" channel="blastPH.Laff">
-    <title lang="en">Brooklyn Nine-Nine- Season 2- Episode 2: Chocolate Milk</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527123700 +0000" stop="20250527125837 +0000" channel="blastPH.Laff">
-    <title lang="en">Brooklyn Nine-Nine- Season 2- Episode 3: The Jimmy Jab Games</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527125837 +0000" stop="20250527132013 +0000" channel="blastPH.Laff">
-    <title lang="en">Brooklyn Nine-Nine- Season 2- Episode 4: Halloween II</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527132013 +0000" stop="20250527134151 +0000" channel="blastPH.Laff">
-    <title lang="en">Brooklyn Nine-Nine- Season 2- Episode 5: The Mole</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527134151 +0000" stop="20250527140327 +0000" channel="blastPH.Laff">
-    <title lang="en">Brooklyn Nine-Nine- Season 2- Episode 6: Jake and Sophia</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527140327 +0000" stop="20250527142443 +0000" channel="blastPH.Laff">
-    <title lang="en">Brooklyn Nine-Nine- Season 2- Episode 7: Lockdown</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527142443 +0000" stop="20250527144611 +0000" channel="blastPH.Laff">
-    <title lang="en">Brooklyn Nine-Nine- Season 2- Episode 8: USPIS</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527144611 +0000" stop="20250527150747 +0000" channel="blastPH.Laff">
-    <title lang="en">Brooklyn Nine-Nine- Season 2- Episode 9: The Road Trip</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
   <programme start="20250527150747 +0000" stop="20250527152922 +0000" channel="blastPH.Laff">
     <title lang="en">Brooklyn Nine-Nine- Season 2- Episode 10: The Pontiac Bandit Returns</title>
@@ -28267,30 +28212,80 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-05-29</date>
   </programme>
+  <programme start="20250529102802 +0000" stop="20250529104904 +0000" channel="blastPH.Laff">
+    <title lang="en">Brooklyn Nine-Nine- Season 2- Episode 19: Sabotage</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529104904 +0000" stop="20250529111040 +0000" channel="blastPH.Laff">
+    <title lang="en">Brooklyn Nine-Nine- Season 2- Episode 20: AC/DC</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529111040 +0000" stop="20250529113211 +0000" channel="blastPH.Laff">
+    <title lang="en">Brooklyn Nine-Nine- Season 2- Episode 21: Det. Dave Majors</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529113211 +0000" stop="20250529115341 +0000" channel="blastPH.Laff">
+    <title lang="en">Brooklyn Nine-Nine- Season 2- Episode 22: The Chopper</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529115341 +0000" stop="20250529121517 +0000" channel="blastPH.Laff">
+    <title lang="en">Brooklyn Nine-Nine- Season 2- Episode 23: Johnny and Dora</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529121517 +0000" stop="20250529123650 +0000" channel="blastPH.Laff">
+    <title lang="en">Brooklyn Nine-Nine- Season 3- Episode 1: New Captain</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529123650 +0000" stop="20250529125825 +0000" channel="blastPH.Laff">
+    <title lang="en">Brooklyn Nine-Nine- Season 3- Episode 2: The Funeral</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529125825 +0000" stop="20250529131947 +0000" channel="blastPH.Laff">
+    <title lang="en">Brooklyn Nine-Nine- Season 3- Episode 3: Boyle's Hunch</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529131947 +0000" stop="20250529134120 +0000" channel="blastPH.Laff">
+    <title lang="en">Brooklyn Nine-Nine- Season 3- Episode 4: The Oolong Slayer</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529134120 +0000" stop="20250529140256 +0000" channel="blastPH.Laff">
+    <title lang="en">Brooklyn Nine-Nine- Season 3- Episode 5: Halloween III</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529140256 +0000" stop="20250529142433 +0000" channel="blastPH.Laff">
+    <title lang="en">Brooklyn Nine-Nine- Season 3- Episode 6: Into The Woods</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529142433 +0000" stop="20250529144553 +0000" channel="blastPH.Laff">
+    <title lang="en">Brooklyn Nine-Nine- Season 3- Episode 7: The Mattress</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529144553 +0000" stop="20250529150655 +0000" channel="blastPH.Laff">
+    <title lang="en">Brooklyn Nine-Nine- Season 3- Episode 8: Ava</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529150655 +0000" stop="20250529152823 +0000" channel="blastPH.Laff">
+    <title lang="en">Brooklyn Nine-Nine- Season 3- Episode 9: The Swedes</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
   <programme start="20250525140000 +0000" stop="20250525170000 +0000" channel="blastPH.MTV.90s">
     <title lang="en">Mmm Bop after Bop after Bop! It's the perfect pop playlist from the 90s!</title>
     <desc>No description available</desc>
     <date>2025-05-25</date>
-  </programme>
-  <programme start="20250527100000 +0000" stop="20250527104500 +0000" channel="blastPH.MTV.Live">
-    <title lang="en">Seal: MTV Unplugged</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527104500 +0000" stop="20250527113000 +0000" channel="blastPH.MTV.Live">
-    <title lang="en">Tori Amos: MTV Unplugged</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527113000 +0000" stop="20250527130000 +0000" channel="blastPH.MTV.Live">
-    <title lang="en">HD Hits!</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527130000 +0000" stop="20250527140000 +0000" channel="blastPH.MTV.Live">
-    <title lang="en">Turning 5 In 2025!</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
   </programme>
   <programme start="20250527140000 +0000" stop="20250527153000 +0000" channel="blastPH.MTV.Live">
     <title lang="en">Sound Of Europe! Biggest Hits</title>
@@ -28527,65 +28522,30 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-05-29</date>
   </programme>
-  <programme start="20250527100000 +0000" stop="20250527102500 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Paddington's Hero Squad / Paddinton's Knightly Quest</title>
+  <programme start="20250529102000 +0000" stop="20250529104500 +0000" channel="blastPH.MTV.Live">
+    <title lang="en">Pearl Jam: MTV Unplugged</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527102500 +0000" stop="20250527104500 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">The Chicken Circus!</title>
+  <programme start="20250529104500 +0000" stop="20250529113000 +0000" channel="blastPH.MTV.Live">
+    <title lang="en">Alice In Chains: MTV Unplugged</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527104500 +0000" stop="20250527113000 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Liberty Makes a New Friend / Pups Save the Pup Pup Boogie Contest</title>
+  <programme start="20250529113000 +0000" stop="20250529130000 +0000" channel="blastPH.MTV.Live">
+    <title lang="en">HD Hits!</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527113000 +0000" stop="20250527115500 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Blizz's Big Bite / Friend of a Friend</title>
+  <programme start="20250529130000 +0000" stop="20250529140000 +0000" channel="blastPH.MTV.Live">
+    <title lang="en">MTV Rewind: 2022</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527115500 +0000" stop="20250527121500 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Summer Camp I / Summer Camp II</title>
+  <programme start="20250529140000 +0000" stop="20250529153000 +0000" channel="blastPH.MTV.Live">
+    <title lang="en">MTV's 20 Biggest Videos Of The...</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527121500 +0000" stop="20250527124000 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Paddington Vs The Seagulls / Paddington And The Lighthouse</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527124000 +0000" stop="20250527130000 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">The Crew Builds An Observatory / The Crew Builds A Zipline</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527130000 +0000" stop="20250527132500 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">The Rainforest Ritmo / The Magic Nut</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527132500 +0000" stop="20250527134500 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Superwheels!</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527134500 +0000" stop="20250527140500 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Donuts / Rainbow Salad</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527140500 +0000" stop="20250527143000 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Sharkdog, Family</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527143000 +0000" stop="20250527150000 +0000" channel="blastPH.Nick.Jr.">
-    <title lang="en">Blizz's Big Bite / Friend of a Friend</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
   <programme start="20250527150000 +0000" stop="20250527153000 +0000" channel="blastPH.Nick.Jr.">
     <title lang="en">Pups Bear-ly Save Danny / Pups Save the Mayor's Tulips</title>
@@ -29032,35 +28992,65 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-05-29</date>
   </programme>
-  <programme start="20250527095000 +0000" stop="20250527103500 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">Henry Danger</title>
+  <programme start="20250529102500 +0000" stop="20250529104500 +0000" channel="blastPH.Nick.Jr.">
+    <title lang="en">Robots to the Rescue</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527103500 +0000" stop="20250527110000 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">Danger Force</title>
+  <programme start="20250529104500 +0000" stop="20250529113000 +0000" channel="blastPH.Nick.Jr.">
+    <title lang="en">Pups Stop the Return of Humsquatch / Pups Save a Lonely Ghost</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527110000 +0000" stop="20250527114500 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">The Loud House</title>
+  <programme start="20250529113000 +0000" stop="20250529115500 +0000" channel="blastPH.Nick.Jr.">
+    <title lang="en">The Nice Off / Substitute Toothfish Fairy</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527114500 +0000" stop="20250527121000 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">Tales of the Teenage Mutant Ninja Turtles</title>
+  <programme start="20250529115500 +0000" stop="20250529121500 +0000" channel="blastPH.Nick.Jr.">
+    <title lang="en">Ah! My Beautiful Castle / The Sand Is Running Away</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527121000 +0000" stop="20250527134500 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">SpongeBob SquarePants</title>
+  <programme start="20250529121500 +0000" stop="20250529124000 +0000" channel="blastPH.Nick.Jr.">
+    <title lang="en">Paddington's Puffling Rescue / Paddington Goes Under The Sea</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527134500 +0000" stop="20250527143000 +0000" channel="blastPH.Nickelodeon">
-    <title lang="en">The Patrick Star Show</title>
+  <programme start="20250529124000 +0000" stop="20250529130000 +0000" channel="blastPH.Nick.Jr.">
+    <title lang="en">The Crew Builds A Giant Lemonade Stand / The Crew Builds A Wildlife Bridge</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529130000 +0000" stop="20250529132500 +0000" channel="blastPH.Nick.Jr.">
+    <title lang="en">Tres Leches Trouble / Wizzle Wozzle Woo</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529132500 +0000" stop="20250529134500 +0000" channel="blastPH.Nick.Jr.">
+    <title lang="en">Mail Truck Blaze</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529134500 +0000" stop="20250529140500 +0000" channel="blastPH.Nick.Jr.">
+    <title lang="en">Peanut Butter &amp; Jelly / Potato Skins</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529140500 +0000" stop="20250529143000 +0000" channel="blastPH.Nick.Jr.">
+    <title lang="en">The Big Picture</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529143000 +0000" stop="20250529150000 +0000" channel="blastPH.Nick.Jr.">
+    <title lang="en">The Nice Off / Substitute Toothfish Fairy</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529150000 +0000" stop="20250529153000 +0000" channel="blastPH.Nick.Jr.">
+    <title lang="en">Pups in a Jam / Pups Save a Windsurfing Pig</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
   </programme>
   <programme start="20250527143000 +0000" stop="20250527151500 +0000" channel="blastPH.Nickelodeon">
     <title lang="en">Monster High</title>
@@ -29422,30 +29412,30 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-05-29</date>
   </programme>
-  <programme start="20250527100000 +0000" stop="20250527110000 +0000" channel="blastPH.Outdoor.Channel">
-    <title lang="en">Facing Forces of Nature</title>
+  <programme start="20250529103500 +0000" stop="20250529114500 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">The Loud House</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527110000 +0000" stop="20250527120000 +0000" channel="blastPH.Outdoor.Channel">
-    <title lang="en">Ice Pilots NWT</title>
+  <programme start="20250529114500 +0000" stop="20250529121000 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">Tales of the Teenage Mutant Ninja Turtles</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527120000 +0000" stop="20250527130000 +0000" channel="blastPH.Outdoor.Channel">
-    <title lang="en">Facing Forces of Nature</title>
+  <programme start="20250529121000 +0000" stop="20250529134500 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">SpongeBob SquarePants</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527130000 +0000" stop="20250527140000 +0000" channel="blastPH.Outdoor.Channel">
-    <title lang="en">Making Pandas</title>
+  <programme start="20250529134500 +0000" stop="20250529143000 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">The Patrick Star Show</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527140000 +0000" stop="20250527150000 +0000" channel="blastPH.Outdoor.Channel">
-    <title lang="en">Jack Stein: In The Box</title>
+  <programme start="20250529143000 +0000" stop="20250529151500 +0000" channel="blastPH.Nickelodeon">
+    <title lang="en">Monster High</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
   <programme start="20250527150000 +0000" stop="20250527160000 +0000" channel="blastPH.Outdoor.Channel">
     <title lang="en">Dead Meat 2021</title>
@@ -29667,20 +29657,30 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-05-29</date>
   </programme>
-  <programme start="20250527090000 +0000" stop="20250527110000 +0000" channel="blastPH.Premier.Football">
-    <title lang="en">Western United vs. Melbourne City FC Semifinal Leg 1</title>
+  <programme start="20250529110000 +0000" stop="20250529120000 +0000" channel="blastPH.Outdoor.Channel">
+    <title lang="en">Kangaroo Mob</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527110000 +0000" stop="20250527120000 +0000" channel="blastPH.Premier.Football">
-    <title lang="en">A-League Highlights </title>
+  <programme start="20250529120000 +0000" stop="20250529130000 +0000" channel="blastPH.Outdoor.Channel">
+    <title lang="en">Great Aussie Road Trips 2025</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527120000 +0000" stop="20250527140000 +0000" channel="blastPH.Premier.Football">
-    <title lang="en">Como vs. Inter MD38</title>
+  <programme start="20250529130000 +0000" stop="20250529140000 +0000" channel="blastPH.Outdoor.Channel">
+    <title lang="en">Bushwhacked!</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529140000 +0000" stop="20250529150000 +0000" channel="blastPH.Outdoor.Channel">
+    <title lang="en">Around The World With Manu Fieldel</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529150000 +0000" stop="20250529160000 +0000" channel="blastPH.Outdoor.Channel">
+    <title lang="en">Duck Camp Dinners 2021</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
   </programme>
   <programme start="20250527140000 +0000" stop="20250527160000 +0000" channel="blastPH.Premier.Football">
     <title lang="en">Western United vs. Melbourne City FC Semifinal Leg 1</title>
@@ -29802,15 +29802,20 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-05-29</date>
   </programme>
-  <programme start="20250527100000 +0000" stop="20250527140000 +0000" channel="blastPH.Premier.Sports">
-    <title lang="en">Ep. 3 &amp; 4</title>
+  <programme start="20250529110000 +0000" stop="20250529120000 +0000" channel="blastPH.Premier.Football">
+    <title lang="en">A-League Highlights </title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527140000 +0000" stop="20250527150000 +0000" channel="blastPH.Premier.Sports">
-    <title lang="en">Texeira vs. Hill</title>
+  <programme start="20250529120000 +0000" stop="20250529140000 +0000" channel="blastPH.Premier.Football">
+    <title lang="en">Bologna vs. Genoa MD38</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529140000 +0000" stop="20250529160000 +0000" channel="blastPH.Premier.Football">
+    <title lang="en">Auckland FC vs. Melbourne Victory Semifinal Leg 2</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
   </programme>
   <programme start="20250527150000 +0000" stop="20250527160000 +0000" channel="blastPH.Premier.Sports">
     <title lang="en">Coca-Cola 600</title>
@@ -29897,6 +29902,16 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-05-29</date>
   </programme>
+  <programme start="20250529110000 +0000" stop="20250529150000 +0000" channel="blastPH.Premier.Sports">
+    <title lang="en">Dublin</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529150000 +0000" stop="20250529160000 +0000" channel="blastPH.Premier.Sports">
+    <title lang="en">Ep. 1984</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
   <programme start="20250527040000 +0000" stop="20250527160000 +0000" channel="blastPH.Premier.Sports.2">
     <title lang="en">Day 2</title>
     <desc>No description available</desc>
@@ -29947,70 +29962,10 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-05-28</date>
   </programme>
-  <programme start="20250527094744 +0000" stop="20250527101220 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 17 - Episode 3: Ed Helms Needs a Mouth Medic While Eating Spicy Wings</title>
+  <programme start="20250529110000 +0000" stop="20250529160000 +0000" channel="blastPH.Premier.Sports.2">
+    <title lang="en">Day 1</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527101220 +0000" stop="20250527103436 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 17 - Episode 4: Sebastian Stan Learns About Himself While Eating Spicy Wings</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527103436 +0000" stop="20250527105951 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 17 - Episode 5: Andrew Zimmern Has a Bucket List Moment While Eating Spicy Wings</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527105951 +0000" stop="20250527112933 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 17 - Episode 6: Dave Grohl Makes a New Friend While Eating Spicy Wings</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527112933 +0000" stop="20250527115711 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 17 - Episode 7: Colin Farrell Searches for Meaning in the Pain of Spicy Wings</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527115711 +0000" stop="20250527122100 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 17 - Episode 8: Courteney Cox Becomes Friends With Spicy Wings</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527122100 +0000" stop="20250527124538 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 17 - Episode 9: Jacob Elordi Feels Euphoric While Eating Spicy Wings</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527124538 +0000" stop="20250527130433 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 17 - Episode 10: Pusha T Has Beef With Spicy Wings</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527130433 +0000" stop="20250527132607 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 17 - Episode 11: Leslie Mann Gets Revenge While Eating Spicy Wings</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527132607 +0000" stop="20250527135236 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 17 - Episode 12: Josh Brolin Licks the Palate of Absurdity While Eating Spicy Wings</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527135236 +0000" stop="20250527141735 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 18 - Episode 1: Post Malone Has His Brain Hacked By Spicy Wings</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527141735 +0000" stop="20250527143931 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 18 - Episode 2: Millie Bobby Brown Needs a Milkshake While Eating Spicy Wings</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527143931 +0000" stop="20250527150405 +0000" channel="blastPH.Reality.TV">
-    <title lang="en">Hot Ones - Season 18 - Episode 3: Queen Latifah Sets It Off While Eating Spicy Wings</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
   <programme start="20250527150405 +0000" stop="20250527152715 +0000" channel="blastPH.Reality.TV">
     <title lang="en">Hot Ones - Season 18 - Episode 4: Kevin Bacon Needs Six Degrees of Separation From Spicy Wings</title>
@@ -30562,45 +30517,70 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-05-29</date>
   </programme>
-  <programme start="20250527093151 +0000" stop="20250527101351 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">Chicago Fire Season 6 - Episode 23: The Grand Gesture</title>
+  <programme start="20250529102330 +0000" stop="20250529104729 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show Season 2 - Episode 5: Paris Hilton Breakfast</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527101351 +0000" stop="20250527105612 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">New Amsterdam Season 5: Episode 1 - TBD</title>
+  <programme start="20250529104729 +0000" stop="20250529111047 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show Season 2 - Episode 6: Naruto Ramen</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527105612 +0000" stop="20250527113839 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">New Amsterdam Season 5: Episode 2 - Hook, Line, and Sinker</title>
+  <programme start="20250529111047 +0000" stop="20250529113445 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show Season 2 - Episode 7: The Worst Pho</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527113839 +0000" stop="20250527122107 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">New Amsterdam Season 5: Episode 3 -  Big Day</title>
+  <programme start="20250529113445 +0000" stop="20250529115819 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show Season 2 - Episode 8: Chili Jam Factory Visit</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527122107 +0000" stop="20250527130336 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">New Amsterdam Season 5: Episode 4 - Heal Thyself</title>
+  <programme start="20250529115819 +0000" stop="20250529122138 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show Season 2 - Episode 9: Decent Pho</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527130336 +0000" stop="20250527134557 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">New Amsterdam Season 5: Episode 5 - Grabby Hands</title>
+  <programme start="20250529122138 +0000" stop="20250529124531 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show Season 2 - Episode 10: Expensive House</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527134557 +0000" stop="20250527142801 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">New Amsterdam Season 5: Episode 6 - Give Me a Sign</title>
+  <programme start="20250529124531 +0000" stop="20250529130915 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show Season 2 - Episode 11: Matty Matheson Butter Chicken</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527142801 +0000" stop="20250527151015 +0000" channel="blastPH.Showcase.Drama">
-    <title lang="en">New Amsterdam Season 5: Episode 7 - Maybe Tomorrow</title>
+  <programme start="20250529130915 +0000" stop="20250529133312 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show Season 2 - Episode 12: Craziest Love Story</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529133312 +0000" stop="20250529135659 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show Season 3 - Episode 1: Gordon Ramsay Noodles</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529135659 +0000" stop="20250529142006 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show Season 3 - Episode 2: Uncle Roger Kidnapped</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529142006 +0000" stop="20250529144347 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show Season 3 - Episode 3: Favorite Chef</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529144347 +0000" stop="20250529150636 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show Season 3 - Episode 4: Worst Biryani Ever</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529150636 +0000" stop="20250529153026 +0000" channel="blastPH.Reality.TV">
+    <title lang="en">The Uncle Roger Show Season 3 - Episode 5: Uncle Roger Pho</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
   </programme>
   <programme start="20250527151015 +0000" stop="20250527155231 +0000" channel="blastPH.Showcase.Drama">
     <title lang="en">New Amsterdam Season 5: Episode 8 - All the World's a Stage...</title>
@@ -30917,20 +30897,40 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-05-29</date>
   </programme>
-  <programme start="20250527092100 +0000" stop="20250527112500 +0000" channel="blastPH.Studio.Universal">
-    <title lang="en">American Reunion</title>
+  <programme start="20250529105118 +0000" stop="20250529113316 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Chicago Med Season 6 - Episode 6: Don't Want to Face This Now</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527112500 +0000" stop="20250527130700 +0000" channel="blastPH.Studio.Universal">
-    <title lang="en">Liar Liar</title>
+  <programme start="20250529113316 +0000" stop="20250529121509 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Chicago Med Season 6 - Episode 7: Better Is the Enemy of Good</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527130700 +0000" stop="20250527151000 +0000" channel="blastPH.Studio.Universal">
-    <title lang="en">Eternal Sunshine of the Spotless Mind</title>
+  <programme start="20250529121509 +0000" stop="20250529125705 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Chicago Med Season 6 - Episode 8: Fathers and Mothers, Daughters and Sons</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529125705 +0000" stop="20250529133832 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Chicago Med Season 6 - Episode 9: For the Want of a Nail</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529133832 +0000" stop="20250529142014 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Chicago Med Season 6 - Episode 10: So Many Things We've Kept Buried</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529142014 +0000" stop="20250529150209 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Chicago Med Season 6 - Episode 11: Letting Go Only to Come Together</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529150209 +0000" stop="20250529154340 +0000" channel="blastPH.Showcase.Drama">
+    <title lang="en">Chicago Med Season 6 - Episode 12: Some Things Are Worth the Risk</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
   </programme>
   <programme start="20250527151000 +0000" stop="20250527164600 +0000" channel="blastPH.Studio.Universal">
     <title lang="en">Problem Child</title>
@@ -31047,20 +31047,15 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-05-29</date>
   </programme>
-  <programme start="20250527084500 +0000" stop="20250527105500 +0000" channel="blastPH.Tap.Action.Flix">
-    <title lang="en">The Huntsman: Winter's War</title>
+  <programme start="20250529105600 +0000" stop="20250529131100 +0000" channel="blastPH.Studio.Universal">
+    <title lang="en">21 Grams</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527105500 +0000" stop="20250527130000 +0000" channel="blastPH.Tap.Action.Flix">
-    <title lang="en">22 Jump Street</title>
+  <programme start="20250529131100 +0000" stop="20250529152500 +0000" channel="blastPH.Studio.Universal">
+    <title lang="en">Chronicles of Riddick</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527130000 +0000" stop="20250527150000 +0000" channel="blastPH.Tap.Action.Flix">
-    <title lang="en">Southern Comfort</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
   <programme start="20250527150000 +0000" stop="20250527165500 +0000" channel="blastPH.Tap.Action.Flix">
     <title lang="en">White Noise</title>
@@ -31172,35 +31167,20 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-05-29</date>
   </programme>
-  <programme start="20250527100000 +0000" stop="20250527110000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">FBI Most Wanted S1</title>
+  <programme start="20250529105500 +0000" stop="20250529130000 +0000" channel="blastPH.Tap.Action.Flix">
+    <title lang="en">Old</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527110000 +0000" stop="20250527113000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Stalked: Someone’s Watching S1</title>
+  <programme start="20250529130000 +0000" stop="20250529144500 +0000" channel="blastPH.Tap.Action.Flix">
+    <title lang="en">Prom Night</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527113000 +0000" stop="20250527120000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Forensic Files S13</title>
+  <programme start="20250529144500 +0000" stop="20250529163000 +0000" channel="blastPH.Tap.Action.Flix">
+    <title lang="en">Elephant White</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527120000 +0000" stop="20250527130000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Chicago Med S6</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527130000 +0000" stop="20250527140000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Burden of Truth S1</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527140000 +0000" stop="20250527150000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">The Mind Of A Murderer S1</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
   <programme start="20250527150000 +0000" stop="20250527160000 +0000" channel="blastPH.Tap.EDGE">
     <title lang="en">Dateline </title>
@@ -31432,20 +31412,30 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-05-29</date>
   </programme>
-  <programme start="20250527084000 +0000" stop="20250527105000 +0000" channel="blastPH.Tap.Movies">
-    <title lang="en">The High Note (2020)</title>
+  <programme start="20250529110000 +0000" stop="20250529120000 +0000" channel="blastPH.Tap.EDGE">
+    <title lang="en">The Equalizer S3 </title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527105000 +0000" stop="20250527130000 +0000" channel="blastPH.Tap.Movies">
-    <title lang="en">The Colour Room</title>
+  <programme start="20250529120000 +0000" stop="20250529130000 +0000" channel="blastPH.Tap.EDGE">
+    <title lang="en">Chicago Fire S6</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527130000 +0000" stop="20250527140000 +0000" channel="blastPH.Tap.Movies">
-    <title lang="en">Fake S1 Ep. 6</title>
+  <programme start="20250529130000 +0000" stop="20250529140000 +0000" channel="blastPH.Tap.EDGE">
+    <title lang="en">Unwanted S1</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529140000 +0000" stop="20250529150000 +0000" channel="blastPH.Tap.EDGE">
+    <title lang="en">Law &amp; Order SVU S16</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
+  </programme>
+  <programme start="20250529150000 +0000" stop="20250529153000 +0000" channel="blastPH.Tap.EDGE">
+    <title lang="en">Frenemies S2</title>
+    <desc>No description available</desc>
+    <date>2025-05-29</date>
   </programme>
   <programme start="20250527140000 +0000" stop="20250527161000 +0000" channel="blastPH.Tap.Movies">
     <title lang="en">The Lincoln Lawyer</title>
@@ -31557,15 +31547,15 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-05-29</date>
   </programme>
-  <programme start="20250527100000 +0000" stop="20250527123000 +0000" channel="blastPH.Tap.Sports">
-    <title lang="en">WWE RAW </title>
+  <programme start="20250529113000 +0000" stop="20250529135000 +0000" channel="blastPH.Tap.Movies">
+    <title lang="en">Ghostbusters: Afterlife</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527123000 +0000" stop="20250527150000 +0000" channel="blastPH.Tap.Sports">
-    <title lang="en">Euroleague 2024-25 </title>
+  <programme start="20250529135000 +0000" stop="20250529162000 +0000" channel="blastPH.Tap.Movies">
+    <title lang="en">Captain Phillips</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
   <programme start="20250527150000 +0000" stop="20250527160000 +0000" channel="blastPH.Tap.Sports">
     <title lang="en">Women of Wrestling S2</title>
@@ -31692,30 +31682,15 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-05-29</date>
   </programme>
-  <programme start="20250527100000 +0000" stop="20250527110000 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">The Tonight Show with Jimmy Fallon</title>
+  <programme start="20250529140000 +0000" stop="20250529150000 +0000" channel="blastPH.Tap.Sports">
+    <title lang="en">Giants Live 2024: World's Strongest Man </title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527110000 +0000" stop="20250527120000 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">The Kelly Clarkson Show S6</title>
+  <programme start="20250529150000 +0000" stop="20250529160000 +0000" channel="blastPH.Tap.Sports">
+    <title lang="en">Women of Wrestling S2</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527120000 +0000" stop="20250527130000 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">Love Island USA S6</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527130000 +0000" stop="20250527140000 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">Below Deck Sailing Yacht S2</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527140000 +0000" stop="20250527150000 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">The Tonight Show with Jimmy Fallon</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
   <programme start="20250527150000 +0000" stop="20250527173000 +0000" channel="blastPH.Tap.TV">
     <title lang="en">Today</title>
@@ -31942,50 +31917,35 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-05-29</date>
   </programme>
-  <programme start="20250527100000 +0000" stop="20250527103000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">USA TODAY Top Headlines</title>
+  <programme start="20250529110000 +0000" stop="20250529120000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">The Kelly Clarkson Show S6</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527103000 +0000" stop="20250527113000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">Connections: Game On</title>
+  <programme start="20250529120000 +0000" stop="20250529123000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">Hot Ones S15</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527113000 +0000" stop="20250527120000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">Alive &amp; Well with Michelle Harris</title>
+  <programme start="20250529123000 +0000" stop="20250529130000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">The Uncle Roger Show S1</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527120000 +0000" stop="20250527121500 +0000" channel="blastPH.USA.Today">
-    <title lang="en">Highlighting the best of women in sports</title>
+  <programme start="20250529130000 +0000" stop="20250529140000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">The Real Housewives Of Beverly Hills S12</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527121500 +0000" stop="20250527123000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">USA TODAY's 2025 Restaurants of the Year</title>
+  <programme start="20250529140000 +0000" stop="20250529150000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">The Tonight Show with Jimmy Fallon</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
-  <programme start="20250527123000 +0000" stop="20250527124500 +0000" channel="blastPH.USA.Today">
-    <title lang="en">USA TODAY Top Headlines</title>
+  <programme start="20250529150000 +0000" stop="20250529173000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">Today</title>
     <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527124500 +0000" stop="20250527130000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">USA TODAY Trending News</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527130000 +0000" stop="20250527143000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">News on USA TODAY</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
-  </programme>
-  <programme start="20250527143000 +0000" stop="20250527150000 +0000" channel="blastPH.USA.Today">
-    <title lang="en">B-Sides</title>
-    <desc>No description available</desc>
-    <date>2025-05-27</date>
+    <date>2025-05-29</date>
   </programme>
   <programme start="20250527150000 +0000" stop="20250527151500 +0000" channel="blastPH.USA.Today">
     <title lang="en">USA TODAY Top Headlines</title>
