@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 import requests
 
 # URL of the XML data
-url = "https://gma.ganbaruby23.xyz/mobile/?command=get_xmltv_epg"
+url = "http://192.168.100.23:9981/xmltv/channels"
 
 # Fetch the XML data from the URL
 response = requests.get(url)
