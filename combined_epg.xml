@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv generator-info-name="EPGCombiner" generator-info-date="2025-06-09T19:35:44Z">
+<tv generator-info-name="EPGCombiner" generator-info-date="2025-06-09T20:16:34Z">
   <channel id="10">
     <display-name>TV5</display-name>
     <icon src="http://202.78.65.124/epgcms/uploads/TV5.png" />
@@ -27114,16 +27114,6 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-06-02</date>
   </programme>
-  <programme start="20250609123000 +0000" stop="20250609160000 +0000" channel="blastPH.Blast.Sports">
-    <title lang="en">BKFC</title>
-    <desc>No description available</desc>
-    <date>2025-06-09</date>
-  </programme>
-  <programme start="20250609160000 +0000" stop="20250609193000 +0000" channel="blastPH.Blast.Sports">
-    <title lang="en">WTA Tour 2025</title>
-    <desc>No description available</desc>
-    <date>2025-06-09</date>
-  </programme>
   <programme start="20250609193000 +0000" stop="20250609220000 +0000" channel="blastPH.Blast.Sports">
     <title lang="en">WWE RAW</title>
     <desc>No description available</desc>
@@ -27214,35 +27204,25 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-06-11</date>
   </programme>
+  <programme start="20250611160000 +0000" stop="20250611180000 +0000" channel="blastPH.Blast.Sports">
+    <title lang="en">Isuzu A-League</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
+  </programme>
+  <programme start="20250611180000 +0000" stop="20250611200000 +0000" channel="blastPH.Blast.Sports">
+    <title lang="en">EUROLEAGUE 2024-25</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
+  </programme>
+  <programme start="20250611200000 +0000" stop="20250611220000 +0000" channel="blastPH.Blast.Sports">
+    <title lang="en">2025 Season</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
+  </programme>
   <programme start="20250608150000 +0000" stop="20250608160000 +0000" channel="blastPH.CNBC">
     <title lang="en">Ep 163: The Fake Housewife of Orange County</title>
     <desc>No description available</desc>
     <date>2025-06-08</date>
-  </programme>
-  <programme start="20250609150000 +0000" stop="20250609160000 +0000" channel="blastPH.Comic.U">
-    <title lang="en">The Oath</title>
-    <desc>No description available</desc>
-    <date>2025-06-09</date>
-  </programme>
-  <programme start="20250609160000 +0000" stop="20250609170000 +0000" channel="blastPH.Comic.U">
-    <title lang="en">Book 27</title>
-    <desc>No description available</desc>
-    <date>2025-06-09</date>
-  </programme>
-  <programme start="20250609170000 +0000" stop="20250609180000 +0000" channel="blastPH.Comic.U">
-    <title lang="en">Pilot</title>
-    <desc>No description available</desc>
-    <date>2025-06-09</date>
-  </programme>
-  <programme start="20250609180000 +0000" stop="20250609190000 +0000" channel="blastPH.Comic.U">
-    <title lang="en">The Escape Artist</title>
-    <desc>No description available</desc>
-    <date>2025-06-09</date>
-  </programme>
-  <programme start="20250609190000 +0000" stop="20250609200000 +0000" channel="blastPH.Comic.U">
-    <title lang="en">Doorway, The</title>
-    <desc>No description available</desc>
-    <date>2025-06-09</date>
   </programme>
   <programme start="20250609200000 +0000" stop="20250609210000 +0000" channel="blastPH.Comic.U">
     <title lang="en">Answers in Blood</title>
@@ -27461,6 +27441,31 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
   </programme>
   <programme start="20250611150000 +0000" stop="20250611160000 +0000" channel="blastPH.Comic.U">
     <title lang="en">Doorway, The</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
+  </programme>
+  <programme start="20250611160000 +0000" stop="20250611170000 +0000" channel="blastPH.Comic.U">
+    <title lang="en">Let This Mother Out</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
+  </programme>
+  <programme start="20250611170000 +0000" stop="20250611180000 +0000" channel="blastPH.Comic.U">
+    <title lang="en">Episode 7</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
+  </programme>
+  <programme start="20250611180000 +0000" stop="20250611190000 +0000" channel="blastPH.Comic.U">
+    <title lang="en">Unauthorised Magic</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
+  </programme>
+  <programme start="20250611190000 +0000" stop="20250611200000 +0000" channel="blastPH.Comic.U">
+    <title lang="en">Bears Will Be Bears</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
+  </programme>
+  <programme start="20250611200000 +0000" stop="20250611210000 +0000" channel="blastPH.Comic.U">
+    <title lang="en">The Escape Artist</title>
     <desc>No description available</desc>
     <date>2025-06-11</date>
   </programme>
@@ -27803,51 +27808,6 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <title lang="en">Ransom - Season 1 - Episode 05: The Enemy Within</title>
     <desc>No description available</desc>
     <date>2025-06-02</date>
-  </programme>
-  <programme start="20250609150500 +0000" stop="20250609153000 +0000" channel="blastPH.Dreamworks">
-    <title lang="en">Abominable and The Invisible City</title>
-    <desc>No description available</desc>
-    <date>2025-06-09</date>
-  </programme>
-  <programme start="20250609153000 +0000" stop="20250609164500 +0000" channel="blastPH.Dreamworks">
-    <title lang="en">DRAGONS 9 REALMS</title>
-    <desc>No description available</desc>
-    <date>2025-06-09</date>
-  </programme>
-  <programme start="20250609164500 +0000" stop="20250609171000 +0000" channel="blastPH.Dreamworks">
-    <title lang="en">Turbo F.A.S.T.</title>
-    <desc>No description available</desc>
-    <date>2025-06-09</date>
-  </programme>
-  <programme start="20250609171000 +0000" stop="20250609173500 +0000" channel="blastPH.Dreamworks">
-    <title lang="en">All Hail King Julien</title>
-    <desc>No description available</desc>
-    <date>2025-06-09</date>
-  </programme>
-  <programme start="20250609173500 +0000" stop="20250609180000 +0000" channel="blastPH.Dreamworks">
-    <title lang="en">Home: Adventures With Tip And Oh!</title>
-    <desc>No description available</desc>
-    <date>2025-06-09</date>
-  </programme>
-  <programme start="20250609180000 +0000" stop="20250609183000 +0000" channel="blastPH.Dreamworks">
-    <title lang="en">The Mr. Peabody And Sherman Show</title>
-    <desc>No description available</desc>
-    <date>2025-06-09</date>
-  </programme>
-  <programme start="20250609183000 +0000" stop="20250609190000 +0000" channel="blastPH.Dreamworks">
-    <title lang="en">Dragons: Defenders of Berk</title>
-    <desc>No description available</desc>
-    <date>2025-06-09</date>
-  </programme>
-  <programme start="20250609190000 +0000" stop="20250609193000 +0000" channel="blastPH.Dreamworks">
-    <title lang="en">DRAGONS 9 REALMS</title>
-    <desc>No description available</desc>
-    <date>2025-06-09</date>
-  </programme>
-  <programme start="20250609193000 +0000" stop="20250609200000 +0000" channel="blastPH.Dreamworks">
-    <title lang="en">Kung Fu Panda: The Paws Of Destiny</title>
-    <desc>No description available</desc>
-    <date>2025-06-09</date>
   </programme>
   <programme start="20250609200000 +0000" stop="20250609203000 +0000" channel="blastPH.Dreamworks">
     <title lang="en">Where's Wally?</title>
@@ -28209,25 +28169,50 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-06-11</date>
   </programme>
-  <programme start="20250609135056 +0000" stop="20250609152123 +0000" channel="blastPH.FEAR">
-    <title lang="en">Lies &amp; Crimes</title>
+  <programme start="20250611153000 +0000" stop="20250611164500 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">DRAGONS 9 REALMS</title>
     <desc>No description available</desc>
-    <date>2025-06-09</date>
+    <date>2025-06-11</date>
   </programme>
-  <programme start="20250609152123 +0000" stop="20250609163931 +0000" channel="blastPH.FEAR">
-    <title lang="en">Lilly's Light: The Movie</title>
+  <programme start="20250611164500 +0000" stop="20250611171000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Turbo F.A.S.T.</title>
     <desc>No description available</desc>
-    <date>2025-06-09</date>
+    <date>2025-06-11</date>
   </programme>
-  <programme start="20250609163931 +0000" stop="20250609180755 +0000" channel="blastPH.FEAR">
-    <title lang="en">Obituary</title>
+  <programme start="20250611171000 +0000" stop="20250611173500 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">All Hail King Julien</title>
     <desc>No description available</desc>
-    <date>2025-06-09</date>
+    <date>2025-06-11</date>
   </programme>
-  <programme start="20250609180755 +0000" stop="20250609194053 +0000" channel="blastPH.FEAR">
-    <title lang="en">Prom Night</title>
+  <programme start="20250611173500 +0000" stop="20250611180000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Home: Adventures With Tip And Oh!</title>
     <desc>No description available</desc>
-    <date>2025-06-09</date>
+    <date>2025-06-11</date>
+  </programme>
+  <programme start="20250611180000 +0000" stop="20250611183000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">The Mr. Peabody And Sherman Show</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
+  </programme>
+  <programme start="20250611183000 +0000" stop="20250611190000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Dragons: Defenders of Berk</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
+  </programme>
+  <programme start="20250611190000 +0000" stop="20250611193000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">DRAGONS 9 REALMS</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
+  </programme>
+  <programme start="20250611193000 +0000" stop="20250611200000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Kung Fu Panda: The Paws Of Destiny</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
+  </programme>
+  <programme start="20250611200000 +0000" stop="20250611203000 +0000" channel="blastPH.Dreamworks">
+    <title lang="en">Where's Wally?</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
   </programme>
   <programme start="20250609194053 +0000" stop="20250609210834 +0000" channel="blastPH.FEAR">
     <title lang="en">The Pumpkin Karver</title>
@@ -28441,6 +28426,26 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
   </programme>
   <programme start="20250611142126 +0000" stop="20250611155153 +0000" channel="blastPH.FEAR">
     <title lang="en">Lies &amp; Crimes</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
+  </programme>
+  <programme start="20250611155153 +0000" stop="20250611171001 +0000" channel="blastPH.FEAR">
+    <title lang="en">Lilly's Light: The Movie</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
+  </programme>
+  <programme start="20250611171001 +0000" stop="20250611183825 +0000" channel="blastPH.FEAR">
+    <title lang="en">Obituary</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
+  </programme>
+  <programme start="20250611183825 +0000" stop="20250611201123 +0000" channel="blastPH.FEAR">
+    <title lang="en">Prom Night</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
+  </programme>
+  <programme start="20250611201123 +0000" stop="20250611213904 +0000" channel="blastPH.FEAR">
+    <title lang="en">The Pumpkin Karver</title>
     <desc>No description available</desc>
     <date>2025-06-11</date>
   </programme>
@@ -29594,31 +29599,6 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-05-31</date>
   </programme>
-  <programme start="20250609150000 +0000" stop="20250609160000 +0000" channel="blastPH.Outdoor.Channel">
-    <title lang="en">Croc College</title>
-    <desc>No description available</desc>
-    <date>2025-06-09</date>
-  </programme>
-  <programme start="20250609160000 +0000" stop="20250609170000 +0000" channel="blastPH.Outdoor.Channel">
-    <title lang="en">Duck Camp Dinners</title>
-    <desc>No description available</desc>
-    <date>2025-06-09</date>
-  </programme>
-  <programme start="20250609170000 +0000" stop="20250609180000 +0000" channel="blastPH.Outdoor.Channel">
-    <title lang="en">Gold Fever </title>
-    <desc>No description available</desc>
-    <date>2025-06-09</date>
-  </programme>
-  <programme start="20250609180000 +0000" stop="20250609190000 +0000" channel="blastPH.Outdoor.Channel">
-    <title lang="en">Duck Camp Dinners</title>
-    <desc>No description available</desc>
-    <date>2025-06-09</date>
-  </programme>
-  <programme start="20250609190000 +0000" stop="20250609200000 +0000" channel="blastPH.Outdoor.Channel">
-    <title lang="en">Great Aussie Road Trips</title>
-    <desc>No description available</desc>
-    <date>2025-06-09</date>
-  </programme>
   <programme start="20250609200000 +0000" stop="20250609210000 +0000" channel="blastPH.Outdoor.Channel">
     <title lang="en">Bushwhacked!</title>
     <desc>No description available</desc>
@@ -29814,20 +29794,25 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-06-11</date>
   </programme>
-  <programme start="20250609140000 +0000" stop="20250609160000 +0000" channel="blastPH.Premier.Football">
-    <title lang="en">Central Coast Mariners vs. Adelaide United MD8</title>
+  <programme start="20250611160000 +0000" stop="20250611170000 +0000" channel="blastPH.Outdoor.Channel">
+    <title lang="en">Jet Truck</title>
     <desc>No description available</desc>
-    <date>2025-06-09</date>
+    <date>2025-06-11</date>
   </programme>
-  <programme start="20250609160000 +0000" stop="20250609180000 +0000" channel="blastPH.Premier.Football">
-    <title lang="en">Milan vs. Napoli MD10</title>
+  <programme start="20250611170000 +0000" stop="20250611190000 +0000" channel="blastPH.Outdoor.Channel">
+    <title lang="en">Save this Rhino</title>
     <desc>No description available</desc>
-    <date>2025-06-09</date>
+    <date>2025-06-11</date>
   </programme>
-  <programme start="20250609180000 +0000" stop="20250609200000 +0000" channel="blastPH.Premier.Football">
-    <title lang="en">Newcastle Jets vs. Central Coast Mariners MD5</title>
+  <programme start="20250611190000 +0000" stop="20250611200000 +0000" channel="blastPH.Outdoor.Channel">
+    <title lang="en">Tasting Tasmania</title>
     <desc>No description available</desc>
-    <date>2025-06-09</date>
+    <date>2025-06-11</date>
+  </programme>
+  <programme start="20250611200000 +0000" stop="20250611210000 +0000" channel="blastPH.Outdoor.Channel">
+    <title lang="en">Croc College</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
   </programme>
   <programme start="20250609200000 +0000" stop="20250609220000 +0000" channel="blastPH.Premier.Football">
     <title lang="en">Al Ain FC (UAE) vs. Al Rayyan SC (QAT) MD6</title>
@@ -29949,10 +29934,20 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-06-11</date>
   </programme>
-  <programme start="20250609150000 +0000" stop="20250609160000 +0000" channel="blastPH.Premier.Sports">
-    <title lang="en">Ep. 6</title>
+  <programme start="20250611160000 +0000" stop="20250611180000 +0000" channel="blastPH.Premier.Football">
+    <title lang="en">Roma vs. Torino MD10</title>
     <desc>No description available</desc>
-    <date>2025-06-09</date>
+    <date>2025-06-11</date>
+  </programme>
+  <programme start="20250611180000 +0000" stop="20250611200000 +0000" channel="blastPH.Premier.Football">
+    <title lang="en">Sydney FC vs. Western Sydney Wanderers FC MD5</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
+  </programme>
+  <programme start="20250611200000 +0000" stop="20250611220000 +0000" channel="blastPH.Premier.Football">
+    <title lang="en">Al Nassr Club (KSA) vs. Al Wasl FC (UAE) MD6</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
   </programme>
   <programme start="20250609160000 +0000" stop="20250609230000 +0000" channel="blastPH.Premier.Sports">
     <title lang="en">Day 7</title>
@@ -30044,15 +30039,15 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-06-11</date>
   </programme>
-  <programme start="20250609120000 +0000" stop="20250609160000 +0000" channel="blastPH.Premier.Sports.2">
-    <title lang="en">Day1</title>
+  <programme start="20250611153000 +0000" stop="20250611160000 +0000" channel="blastPH.Premier.Sports">
+    <title lang="en">Ep. 2</title>
     <desc>No description available</desc>
-    <date>2025-06-09</date>
+    <date>2025-06-11</date>
   </programme>
-  <programme start="20250609160000 +0000" stop="20250609180000 +0000" channel="blastPH.Premier.Sports.2">
-    <title lang="en">Lausanne</title>
+  <programme start="20250611160000 +0000" stop="20250612000000 +0000" channel="blastPH.Premier.Sports">
+    <title lang="en">Day 2</title>
     <desc>No description available</desc>
-    <date>2025-06-09</date>
+    <date>2025-06-11</date>
   </programme>
   <programme start="20250609180000 +0000" stop="20250609210000 +0000" channel="blastPH.Premier.Sports.2">
     <title lang="en">Hong Kong</title>
@@ -30126,6 +30121,11 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
   </programme>
   <programme start="20250611110000 +0000" stop="20250611190000 +0000" channel="blastPH.Premier.Sports.2">
     <title lang="en">Day 3</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
+  </programme>
+  <programme start="20250611190000 +0000" stop="20250611220000 +0000" channel="blastPH.Premier.Sports.2">
+    <title lang="en">Madrid</title>
     <desc>No description available</desc>
     <date>2025-06-11</date>
   </programme>
@@ -31104,21 +31104,6 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-05-31</date>
   </programme>
-  <programme start="20250609141500 +0000" stop="20250609160500 +0000" channel="blastPH.Tap.Action.Flix">
-    <title lang="en">29 Palms</title>
-    <desc>No description available</desc>
-    <date>2025-06-09</date>
-  </programme>
-  <programme start="20250609160500 +0000" stop="20250609174000 +0000" channel="blastPH.Tap.Action.Flix">
-    <title lang="en">Army Of Darkness</title>
-    <desc>No description available</desc>
-    <date>2025-06-09</date>
-  </programme>
-  <programme start="20250609174000 +0000" stop="20250609194000 +0000" channel="blastPH.Tap.Action.Flix">
-    <title lang="en">Hercules (2014)</title>
-    <desc>No description available</desc>
-    <date>2025-06-09</date>
-  </programme>
   <programme start="20250609194000 +0000" stop="20250609212500 +0000" channel="blastPH.Tap.Action.Flix">
     <title lang="en">The Asian Connection</title>
     <desc>No description available</desc>
@@ -31229,30 +31214,20 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-06-11</date>
   </programme>
-  <programme start="20250609150000 +0000" stop="20250609160000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Dateline</title>
+  <programme start="20250611153500 +0000" stop="20250611174500 +0000" channel="blastPH.Tap.Action.Flix">
+    <title lang="en">Uncharted</title>
     <desc>No description available</desc>
-    <date>2025-06-09</date>
+    <date>2025-06-11</date>
   </programme>
-  <programme start="20250609160000 +0000" stop="20250609170000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Law &amp; Order SVU S16</title>
+  <programme start="20250611174500 +0000" stop="20250611195000 +0000" channel="blastPH.Tap.Action.Flix">
+    <title lang="en">Terminator 3: The Rise Of The Machines</title>
     <desc>No description available</desc>
-    <date>2025-06-09</date>
+    <date>2025-06-11</date>
   </programme>
-  <programme start="20250609170000 +0000" stop="20250609180000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Chicago Fire S6</title>
+  <programme start="20250611195000 +0000" stop="20250611215500 +0000" channel="blastPH.Tap.Action.Flix">
+    <title lang="en">Body Brokers</title>
     <desc>No description available</desc>
-    <date>2025-06-09</date>
-  </programme>
-  <programme start="20250609180000 +0000" stop="20250609190000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">FBI Most Wanted S1</title>
-    <desc>No description available</desc>
-    <date>2025-06-09</date>
-  </programme>
-  <programme start="20250609190000 +0000" stop="20250609200000 +0000" channel="blastPH.Tap.EDGE">
-    <title lang="en">Magnum P.I. S3</title>
-    <desc>No description available</desc>
-    <date>2025-06-09</date>
+    <date>2025-06-11</date>
   </programme>
   <programme start="20250609200000 +0000" stop="20250609210000 +0000" channel="blastPH.Tap.EDGE">
     <title lang="en">Women Behind Bars S2</title>
@@ -31489,20 +31464,30 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-06-11</date>
   </programme>
-  <programme start="20250609140000 +0000" stop="20250609161500 +0000" channel="blastPH.Tap.Movies">
-    <title lang="en">Crouching Tiger, Hidden Dragon</title>
+  <programme start="20250611160000 +0000" stop="20250611170000 +0000" channel="blastPH.Tap.EDGE">
+    <title lang="en">Unwanted S1</title>
     <desc>No description available</desc>
-    <date>2025-06-09</date>
+    <date>2025-06-11</date>
   </programme>
-  <programme start="20250609161500 +0000" stop="20250609180500 +0000" channel="blastPH.Tap.Movies">
-    <title lang="en">Fargo</title>
+  <programme start="20250611170000 +0000" stop="20250611180000 +0000" channel="blastPH.Tap.EDGE">
+    <title lang="en">Chicago P.D. S6</title>
     <desc>No description available</desc>
-    <date>2025-06-09</date>
+    <date>2025-06-11</date>
   </programme>
-  <programme start="20250609180500 +0000" stop="20250609195000 +0000" channel="blastPH.Tap.Movies">
-    <title lang="en">Sleight</title>
+  <programme start="20250611180000 +0000" stop="20250611190000 +0000" channel="blastPH.Tap.EDGE">
+    <title lang="en">The Equalizer S3</title>
     <desc>No description available</desc>
-    <date>2025-06-09</date>
+    <date>2025-06-11</date>
+  </programme>
+  <programme start="20250611190000 +0000" stop="20250611200000 +0000" channel="blastPH.Tap.EDGE">
+    <title lang="en">Ransom S1</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
+  </programme>
+  <programme start="20250611200000 +0000" stop="20250611210000 +0000" channel="blastPH.Tap.EDGE">
+    <title lang="en">Hawaii Five O S1</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
   </programme>
   <programme start="20250609195000 +0000" stop="20250609214000 +0000" channel="blastPH.Tap.Movies">
     <title lang="en">New In Town</title>
@@ -31624,20 +31609,15 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-06-11</date>
   </programme>
-  <programme start="20250609143000 +0000" stop="20250609153000 +0000" channel="blastPH.Tap.Sports">
-    <title lang="en">Heroes of Lucha Libre </title>
+  <programme start="20250611170000 +0000" stop="20250611183500 +0000" channel="blastPH.Tap.Movies">
+    <title lang="en">1275 Days</title>
     <desc>No description available</desc>
-    <date>2025-06-09</date>
+    <date>2025-06-11</date>
   </programme>
-  <programme start="20250609153000 +0000" stop="20250609160000 +0000" channel="blastPH.Tap.Sports">
-    <title lang="en">Drive S1</title>
+  <programme start="20250611183500 +0000" stop="20250611203000 +0000" channel="blastPH.Tap.Movies">
+    <title lang="en">An American Crime</title>
     <desc>No description available</desc>
-    <date>2025-06-09</date>
-  </programme>
-  <programme start="20250609160000 +0000" stop="20250609183000 +0000" channel="blastPH.Tap.Sports">
-    <title lang="en">The Asian Tournament</title>
-    <desc>No description available</desc>
-    <date>2025-06-09</date>
+    <date>2025-06-11</date>
   </programme>
   <programme start="20250609183000 +0000" stop="20250609210000 +0000" channel="blastPH.Tap.Sports">
     <title lang="en">Racing Unleashed </title>
@@ -31769,25 +31749,30 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-06-11</date>
   </programme>
-  <programme start="20250609150000 +0000" stop="20250609173000 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">Today</title>
+  <programme start="20250611153000 +0000" stop="20250611163000 +0000" channel="blastPH.Tap.Sports">
+    <title lang="en">Giants Live 2024: World's Strongest Man </title>
     <desc>No description available</desc>
-    <date>2025-06-09</date>
+    <date>2025-06-11</date>
   </programme>
-  <programme start="20250609173000 +0000" stop="20250609180000 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">Brooklyn Nine-Nine S5</title>
+  <programme start="20250611163000 +0000" stop="20250611173000 +0000" channel="blastPH.Tap.Sports">
+    <title lang="en">Filipino Pro Wrestling</title>
     <desc>No description available</desc>
-    <date>2025-06-09</date>
+    <date>2025-06-11</date>
   </programme>
-  <programme start="20250609180000 +0000" stop="20250609190000 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">The Kelly Clarkson Show S6</title>
+  <programme start="20250611173000 +0000" stop="20250611180000 +0000" channel="blastPH.Tap.Sports">
+    <title lang="en">Monster Jam 2023</title>
     <desc>No description available</desc>
-    <date>2025-06-09</date>
+    <date>2025-06-11</date>
   </programme>
-  <programme start="20250609190000 +0000" stop="20250609200000 +0000" channel="blastPH.Tap.TV">
-    <title lang="en">Below Deck Sailing Yacht S2</title>
+  <programme start="20250611180000 +0000" stop="20250611200000 +0000" channel="blastPH.Tap.Sports">
+    <title lang="en">The Asian Tournament</title>
     <desc>No description available</desc>
-    <date>2025-06-09</date>
+    <date>2025-06-11</date>
+  </programme>
+  <programme start="20250611200000 +0000" stop="20250611220000 +0000" channel="blastPH.Tap.Sports">
+    <title lang="en">ITTF Men's World Cup 2025</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
   </programme>
   <programme start="20250609200000 +0000" stop="20250609210000 +0000" channel="blastPH.Tap.TV">
     <title lang="en">Top Chef All Stars LA S17</title>
@@ -32019,6 +32004,26 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-06-11</date>
   </programme>
+  <programme start="20250611173000 +0000" stop="20250611180000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">Worth It S10</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
+  </programme>
+  <programme start="20250611180000 +0000" stop="20250611190000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">The Kelly Clarkson Show S6</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
+  </programme>
+  <programme start="20250611190000 +0000" stop="20250611200000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">Top Chef All Stars LA S17</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
+  </programme>
+  <programme start="20250611200000 +0000" stop="20250611220000 +0000" channel="blastPH.Tap.TV">
+    <title lang="en">Love Island USA S6</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
+  </programme>
   <programme start="20250529003000 +0000" stop="20250529010000 +0000" channel="blastPH.USA.Today">
     <title lang="en">Alive &amp; Well with Michelle Harris</title>
     <desc>No description available</desc>
@@ -32063,16 +32068,6 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <title lang="en">The Excerpt</title>
     <desc>No description available</desc>
     <date>2025-05-29</date>
-  </programme>
-  <programme start="20250609141500 +0000" stop="20250609160000 +0000" channel="blastPH.tvN">
-    <title lang="en">Europe Outside Your Tent: Norway</title>
-    <desc>No description available</desc>
-    <date>2025-06-09</date>
-  </programme>
-  <programme start="20250609160000 +0000" stop="20250609180000 +0000" channel="blastPH.tvN">
-    <title lang="en">King of Karaoke: VS</title>
-    <desc>No description available</desc>
-    <date>2025-06-09</date>
   </programme>
   <programme start="20250609180000 +0000" stop="20250609205000 +0000" channel="blastPH.tvN">
     <title lang="en">World of Street Woman Fighter</title>
@@ -32224,20 +32219,25 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
     <desc>No description available</desc>
     <date>2025-06-11</date>
   </programme>
-  <programme start="20250609140000 +0000" stop="20250609160000 +0000" channel="blastPH.tvN.Movies.Pinoy">
-    <title lang="en">MONTAGE</title>
+  <programme start="20250611162000 +0000" stop="20250611174000 +0000" channel="blastPH.tvN">
+    <title lang="en">The Killer's Shopping List</title>
     <desc>No description available</desc>
-    <date>2025-06-09</date>
+    <date>2025-06-11</date>
   </programme>
-  <programme start="20250609160000 +0000" stop="20250609174000 +0000" channel="blastPH.tvN.Movies.Pinoy">
-    <title lang="en">SHOOT ME IN THE HEART</title>
+  <programme start="20250611174000 +0000" stop="20250611185500 +0000" channel="blastPH.tvN">
+    <title lang="en">BRO&amp;MARBLE in Dubai</title>
     <desc>No description available</desc>
-    <date>2025-06-09</date>
+    <date>2025-06-11</date>
   </programme>
-  <programme start="20250609174000 +0000" stop="20250609194000 +0000" channel="blastPH.tvN.Movies.Pinoy">
-    <title lang="en">TRAIN TO BUSAN</title>
+  <programme start="20250611185500 +0000" stop="20250611201000 +0000" channel="blastPH.tvN">
+    <title lang="en">Second Shot at Love</title>
     <desc>No description available</desc>
-    <date>2025-06-09</date>
+    <date>2025-06-11</date>
+  </programme>
+  <programme start="20250611201000 +0000" stop="20250611220000 +0000" channel="blastPH.tvN">
+    <title lang="en">Fresh off the Sea 2</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
   </programme>
   <programme start="20250609194000 +0000" stop="20250609213000 +0000" channel="blastPH.tvN.Movies.Pinoy">
     <title lang="en">CRAZY ROMANCE</title>
@@ -32356,6 +32356,21 @@ Stealer: The Treasure Keeper: 'Stealer: The Treasure Keeper' tells the story of 
   </programme>
   <programme start="20250611133000 +0000" stop="20250611152000 +0000" channel="blastPH.tvN.Movies.Pinoy">
     <title lang="en">THE PRIESTS</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
+  </programme>
+  <programme start="20250611152000 +0000" stop="20250611172000 +0000" channel="blastPH.tvN.Movies.Pinoy">
+    <title lang="en">THE DIVINE MOVE</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
+  </programme>
+  <programme start="20250611172000 +0000" stop="20250611194000 +0000" channel="blastPH.tvN.Movies.Pinoy">
+    <title lang="en">THE TIGER</title>
+    <desc>No description available</desc>
+    <date>2025-06-11</date>
+  </programme>
+  <programme start="20250611194000 +0000" stop="20250611212500 +0000" channel="blastPH.tvN.Movies.Pinoy">
+    <title lang="en">WHERE WOULD YOU LIKE TO GO?</title>
     <desc>No description available</desc>
     <date>2025-06-11</date>
   </programme>
