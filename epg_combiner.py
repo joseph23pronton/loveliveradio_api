@@ -10,7 +10,7 @@ EPG_URLS = [
     "https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml",
     "https://raw.githubusercontent.com/pigzillaaaaa/blast-epg/refs/heads/main/blast-epg.xml",
     "https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml",
-    "https://kaotv.ganbaruby23.xyz/epg.xml",
+    "https://tv.ganbaruby23.xyz/xmltv/channels",
 ]
 COMBINED_EPG_FILE = "combined_epg.xml"
 REQUEST_TIMEOUT = 15  # seconds
