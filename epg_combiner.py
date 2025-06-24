@@ -8,7 +8,7 @@ import copy
 EPG_URLS = [
     "https://raw.githubusercontent.com/joseph23pronton/loveliveradio_api/refs/heads/main/updated_epg.xml",
     "https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml",
-    "https://raw.githubusercontent.com/pigzillaaaaa/blast-epg/refs/heads/main/blast-epg.xml",
+    "http://5.223.45.65:9898/Asia.xml",
     "https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml",
     "https://tv.ganbaruby23.xyz/xmltv/channels",
 ]
